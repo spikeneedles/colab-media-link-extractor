@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Media Link Extractor - Extension Sample",
+  "version": "1.0.0",
+  "description": "Capture media streams and send to Media Link Extractor web app",
+  "permissions": [
+    "webRequest",
+    "tabs",
+    "storage",
+    "scripting"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Media Link Extractor"
+  },
+  "icons": {
+    "16": "images/icon-16.png",
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
+  }
+}

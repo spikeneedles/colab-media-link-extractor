@@ -1,0 +1,231 @@
+# Docker Compose for Production Scaling
+# Includes multiple scraper workers and load balancing
+
+version: '3.8'
+
+services:
+  # Nginx Load Balancer
+  nginx-lb:
+    image: nginx:alpine
+    container_name: nginx-load-balancer
+    ports:
+      - "80:80"
+      - "443:443"
+    restart: unless-stopped
+    volumes:
+      - ./nginx-lb.conf:/etc/nginx/nginx.conf:ro
+      - ./ssl:/etc/nginx/ssl:ro
+    networks:
+      - app-network
+    depends_on:
+      - scraper-backend-1
+      - scraper-backend-2
+
+  # Frontend
+  media-link-scanner:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: media-link-scanner
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+    networks:
+      - app-network
+
+  # Backend API Instances (Load Balanced)
+  scraper-backend-1:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.scraper
+    container_name: scraper-backend-1
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - PORT=3001
+      - INSTANCE_ID=backend-1
+      - REDIS_URL=redis://redis:6379
+      - PUPPETEER_HEADLESS=true
+    volumes:
+      - scraper-storage:/app/storage
+    networks:
+      - app-network
+    depends_on:
+      - redis
+
+  scraper-backend-2:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.scraper
+    container_name: scraper-backend-2
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - PORT=3001
+      - INSTANCE_ID=backend-2
+      - REDIS_URL=redis://redis:6379
+      - PUPPETEER_HEADLESS=true
+    volumes:
+      - scraper-storage:/app/storage
+    networks:
+      - app-network
+    depends_on:
+      - redis
+
+  # Scraper Worker Pool (5 workers)
+  scraper-worker-1:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.scraper
+    container_name: scraper-worker-1
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - WORKER_MODE=true
+      - WORKER_ID=1
+      - REDIS_URL=redis://redis:6379
+    volumes:
+      - scraper-storage:/app/storage
+    networks:
+      - app-network
+    depends_on:
+      - redis
+    deploy:
+      resources:
+        limits:
+          cpus: '1.5'
+          memory: 1.5G
+
+  scraper-worker-2:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.scraper
+    container_name: scraper-worker-2
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - WORKER_MODE=true
+      - WORKER_ID=2
+      - REDIS_URL=redis://redis:6379
+    volumes:
+      - scraper-storage:/app/storage
+    networks:
+      - app-network
+    depends_on:
+      - redis
+    deploy:
+      resources:
+        limits:
+          cpus: '1.5'
+          memory: 1.5G
+
+  scraper-worker-3:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.scraper
+    container_name: scraper-worker-3
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - WORKER_MODE=true
+      - WORKER_ID=3
+      - REDIS_URL=redis://redis:6379
+    volumes:
+      - scraper-storage:/app/storage
+    networks:
+      - app-network
+    depends_on:
+      - redis
+    deploy:
+      resources:
+        limits:
+          cpus: '1.5'
+          memory: 1.5G
+
+  scraper-worker-4:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.scraper
+    container_name: scraper-worker-4
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - WORKER_MODE=true
+      - WORKER_ID=4
+      - REDIS_URL=redis://redis:6379
+    volumes:
+      - scraper-storage:/app/storage
+    networks:
+      - app-network
+    depends_on:
+      - redis
+    deploy:
+      resources:
+        limits:
+          cpus: '1.5'
+          memory: 1.5G
+
+  scraper-worker-5:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.scraper
+    container_name: scraper-worker-5
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - WORKER_MODE=true
+      - WORKER_ID=5
+      - REDIS_URL=redis://redis:6379
+    volumes:
+      - scraper-storage:/app/storage
+    networks:
+      - app-network
+    depends_on:
+      - redis
+    deploy:
+      resources:
+        limits:
+          cpus: '1.5'
+          memory: 1.5G
+
+  # Redis
+  redis:
+    image: redis:7-alpine
+    container_name: scraper-redis-prod
+    restart: unless-stopped
+    command: redis-server --appendonly yes --maxmemory 1gb --maxmemory-policy allkeys-lru
+    volumes:
+      - redis-data:/data
+    networks:
+      - app-network
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 1G
+
+  # Redis Sentinel for HA (optional)
+  redis-sentinel:
+    image: redis:7-alpine
+    container_name: redis-sentinel
+    restart: unless-stopped
+    command: redis-sentinel /etc/redis/sentinel.conf
+    volumes:
+      - ./redis-sentinel.conf:/etc/redis/sentinel.conf:ro
+      - redis-sentinel-data:/data
+    networks:
+      - app-network
+    depends_on:
+      - redis
+
+volumes:
+  scraper-storage:
+    driver: local
+  redis-data:
+    driver: local
+  redis-sentinel-data:
+    driver: local
+
+networks:
+  app-network:
+    driver: bridge

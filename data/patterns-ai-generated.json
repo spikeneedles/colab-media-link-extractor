@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "metadata": {
+    "type": "ai-generated",
+    "lastUpdated": "2026-02-18",
+    "totalPatterns": 0,
+    "description": "AI-generated patterns learned from all URLs processed in the application",
+    "learningStats": {
+      "totalUrlsAnalyzed": 0,
+      "patternClusters": 0,
+      "confidenceThreshold": 0.75,
+      "autoGenerationEnabled": true
+    }
+  },
+  "patterns": []
+}

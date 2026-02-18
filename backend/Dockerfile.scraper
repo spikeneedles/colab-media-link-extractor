@@ -1,0 +1,98 @@
+# Scraper/Crawler Specialized Docker Image
+# Optimized for web scraping with Puppeteer and advanced browser automation
+
+FROM node:20-slim
+
+# Install Chromium and dependencies for Puppeteer
+RUN apt-get update && apt-get install -y \
+    wget \
+    gnupg \
+    ca-certificates \
+    fonts-liberation \
+    fonts-noto-color-emoji \
+    libasound2 \
+    libatk-bridge2.0-0 \
+    libatk1.0-0 \
+    libc6 \
+    libcairo2 \
+    libcups2 \
+    libdbus-1-3 \
+    libexpat1 \
+    libfontconfig1 \
+    libgbm1 \
+    libgcc1 \
+    libglib2.0-0 \
+    libgtk-3-0 \
+    libnspr4 \
+    libnss3 \
+    libpango-1.0-0 \
+    libpangocairo-1.0-0 \
+    libstdc++6 \
+    libx11-6 \
+    libx11-xcb1 \
+    libxcb1 \
+    libxcomposite1 \
+    libxcursor1 \
+    libxdamage1 \
+    libxext6 \
+    libxfixes3 \
+    libxi6 \
+    libxrandr2 \
+    libxrender1 \
+    libxss1 \
+    libxtst6 \
+    lsb-release \
+    xdg-utils \
+    curl \
+    unzip \
+    && rm -rf /var/lib/apt/lists/*
+
+# Create app directory
+WORKDIR /app
+
+# Copy package files
+COPY package*.json ./
+
+# Install dependencies
+RUN npm ci --only=production && \
+    npm cache clean --force
+
+# Copy source files
+COPY . .
+
+# Build TypeScript
+RUN npm run build
+
+# Create storage directories for crawler results
+RUN mkdir -p /app/storage/crawlers && \
+    mkdir -p /app/storage/scrapers && \
+    mkdir -p /app/storage/temp && \
+    chmod -R 755 /app/storage
+
+# Environment variables
+ENV NODE_ENV=production
+ENV PUPPETEER_HEADLESS=true
+ENV PUPPETEER_ARGS="--no-sandbox,--disable-setuid-sandbox,--disable-dev-shm-usage,--disable-gpu"
+ENV PORT=3001
+ENV SCRAPER_MODE=true
+ENV MAX_CONCURRENT_SCRAPERS=5
+ENV SCRAPER_TIMEOUT=300000
+ENV USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+# Expose port
+EXPOSE 3001
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=10s --start-period=60s --retries=3 \
+  CMD node -e "require('http').get('http://localhost:3001/api/health', (r) => {process.exit(r.statusCode === 200 ? 0 : 1)})"
+
+# Set labels
+LABEL maintainer="Media Link Scanner Team"
+LABEL description="Scraper/Crawler service for IPTV media link extraction"
+LABEL version="1.0.0"
+
+# Volume for persistent storage
+VOLUME ["/app/storage"]
+
+# Run the application
+CMD ["node", "dist/index.js"]

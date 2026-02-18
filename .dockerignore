@@ -1,0 +1,90 @@
+# Dependencies
+node_modules
+npm-debug.log
+yarn-error.log
+pnpm-lock.yaml
+
+# Build outputs
+dist
+build
+.vite
+.cache
+
+# Development files
+.git
+.github
+.gitignore
+.env
+.env.local
+.env.*.local
+.devcontainer
+
+# Docker files (don't copy into containers)
+Dockerfile*
+docker-compose*.yml
+.dockerignore
+docker.sh
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.editorconfig
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test files
+coverage
+.nyc_output
+test-results
+playwright-report
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+__tests__
+__mocks__
+
+# Documentation (except README)
+*.md
+!README.md
+docs
+
+# CI/CD
+.github/workflows
+netlify.toml
+vercel.json
+
+# Logs
+logs
+*.log
+pids
+
+# Temporary files
+tmp
+temp
+*.tmp
+.tmp
+
+# Browser extension (already has own build)
+browser-extension/dist
+browser-extension/build
+
+# Storage directories (use volumes instead)
+storage/crawlers
+storage/scrapers
+storage/temp
+
+# Large files
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+*.apk
+*.aab

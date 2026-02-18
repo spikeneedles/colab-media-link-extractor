@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Generate Rabbit Icon 16x16</title>
+</head>
+<body>
+  <h1>Right-click the canvas below and "Save Image As..." to get icon16.png</h1>
+  <canvas id="icon" width="16" height="16"></canvas>
+  
+  <script>
+    const canvas = document.getElementById('icon');
+    const ctx = canvas.getContext('2d');
+    const size = 16;
+    const scale = size / 128;
+    
+    ctx.imageSmoothingEnabled = true;
+    ctx.imageSmoothingQuality = 'high';
+    
+    // Background gradient
+    const gradient = ctx.createLinearGradient(0, 0, size, size);
+    gradient.addColorStop(0, '#0F172A');
+    gradient.addColorStop(1, '#1E293B');
+    ctx.fillStyle = gradient;
+    const cornerRadius = size * 0.1875;
+    ctx.beginPath();
+    ctx.roundRect(0, 0, size, size, cornerRadius);
+    ctx.fill();
+    
+    // Draw simplified rabbit for 16x16
+    const centerX = size / 2;
+    const centerY = size / 2;
+    
+    ctx.save();
+    ctx.translate(centerX, centerY);
+    ctx.scale(scale, scale);
+    
+    // Ears (simplified)
+    ctx.fillStyle = '#93C5FD';
+    ctx.beginPath();
+    ctx.ellipse(-15, -25, 5, 15, -0.2, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.beginPath();
+    ctx.ellipse(15, -25, 5, 15, 0.2, 0, Math.PI * 2);
+    ctx.fill();
+    
+    // Head
+    ctx.fillStyle = '#60A5FA';
+    ctx.beginPath();
+    ctx.arc(0, 0, 18, 0, Math.PI * 2);
+    ctx.fill();
+    
+    // Eyes
+    ctx.fillStyle = '#1E293B';
+    ctx.beginPath();
+    ctx.arc(-6, -3, 2, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.beginPath();
+    ctx.arc(6, -3, 2, 0, Math.PI * 2);
+    ctx.fill();
+    
+    // Nose
+    ctx.fillStyle = '#EC4899';
+    ctx.beginPath();
+    ctx.ellipse(0, 2, 2, 1.5, 0, 0, Math.PI * 2);
+    ctx.fill();
+    
+    // Teeth
+    ctx.fillStyle = '#F8FAFC';
+    ctx.fillRect(-1.5, 6, 1, 2);
+    ctx.fillRect(0.5, 6, 1, 2);
+    
+    ctx.restore();
+    
+    // Auto download
+    setTimeout(() => {
+      const link = document.createElement('a');
+      link.download = 'icon16.png';
+      link.href = canvas.toDataURL('image/png');
+      link.click();
+      document.body.innerHTML += '<p style="color: green;">✓ icon16.png downloaded!</p>';
+    }, 500);
+  </script>
+</body>
+</html>

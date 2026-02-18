@@ -1,0 +1,93 @@
+# Development Docker Compose Configuration
+# Use: docker-compose -f docker-compose.dev.yml up
+
+version: '3.8'
+
+services:
+  # Frontend with hot reload
+  media-link-scanner-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+      args:
+        - NODE_ENV=development
+    container_name: media-link-scanner-dev
+    ports:
+      - "5173:5173"
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=development
+      - VITE_API_URL=http://localhost:3001
+    volumes:
+      - ./src:/app/src
+      - ./public:/app/public
+      - ./index.html:/app/index.html
+      - ./package.json:/app/package.json
+      - /app/node_modules
+    networks:
+      - app-network
+    command: npm run dev -- --host 0.0.0.0
+
+  # Backend with nodemon for auto-restart
+  scraper-backend-dev:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.dev
+    container_name: scraper-backend-dev
+    ports:
+      - "3001:3001"
+      - "9229:9229"
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=development
+      - PORT=3001
+      - PUPPETEER_HEADLESS=false
+      - DEBUG=true
+      - REDIS_URL=redis://redis:6379
+    volumes:
+      - ./backend/src:/app/src
+      - ./backend/package.json:/app/package.json
+      - scraper-storage-dev:/app/storage
+      - /app/node_modules
+    networks:
+      - app-network
+    depends_on:
+      - redis
+    command: npm run dev
+
+  # Redis for development
+  redis:
+    image: redis:7-alpine
+    container_name: scraper-redis-dev
+    ports:
+      - "6379:6379"
+    restart: unless-stopped
+    command: redis-server --appendonly yes
+    volumes:
+      - redis-data-dev:/data
+    networks:
+      - app-network
+
+  # Redis Commander for debugging
+  redis-commander:
+    image: rediscommander/redis-commander:latest
+    container_name: redis-commander
+    ports:
+      - "8081:8081"
+    restart: unless-stopped
+    environment:
+      - REDIS_HOSTS=local:redis:6379
+    networks:
+      - app-network
+    depends_on:
+      - redis
+
+volumes:
+  scraper-storage-dev:
+    driver: local
+  redis-data-dev:
+    driver: local
+
+networks:
+  app-network:
+    driver: bridge

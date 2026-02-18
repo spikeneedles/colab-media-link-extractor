@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Media Link Scanner - Settings</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background: #0f172a;
+      color: #e2e8f0;
+      padding: 40px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .header {
+      margin-bottom: 32px;
+      padding-bottom: 20px;
+      border-bottom: 2px solid #334155;
+    }
+
+    .header h1 {
+      font-size: 28px;
+      font-weight: 700;
+      color: #60a5fa;
+      margin-bottom: 8px;
+    }
+
+    .header p {
+      color: #94a3b8;
+      font-size: 14px;
+    }
+
+    .section {
+      background: #1e293b;
+      border: 1px solid #334155;
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 24px;
+    }
+
+    .section h2 {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 16px;
+      color: #cbd5e1;
+    }
+
+    .form-group {
+      margin-bottom: 20px;
+    }
+
+    .form-group:last-child {
+      margin-bottom: 0;
+    }
+
+    label {
+      display: block;
+      font-size: 14px;
+      font-weight: 500;
+      margin-bottom: 8px;
+      color: #cbd5e1;
+    }
+
+    .help-text {
+      font-size: 12px;
+      color: #64748b;
+      margin-top: 6px;
+      line-height: 1.5;
+    }
+
+    input[type="text"], 
+    input[type="password"],
+    input[type="url"] {
+      width: 100%;
+      padding: 10px 14px;
+      background: #0f172a;
+      border: 1px solid #334155;
+      border-radius: 8px;
+      color: #e2e8f0;
+      font-size: 14px;
+      font-family: 'Monaco', 'Courier New', monospace;
+      transition: border-color 0.2s;
+    }
+
+    input:focus {
+      outline: none;
+      border-color: #60a5fa;
+    }
+
+    input::placeholder {
+      color: #475569;
+    }
+
+    .checkbox-group {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    input[type="checkbox"] {
+      width: 18px;
+      height: 18px;
+      cursor: pointer;
+      accent-color: #60a5fa;
+    }
+
+    .checkbox-group label {
+      margin: 0;
+      cursor: pointer;
+    }
+
+    .btn {
+      padding: 12px 24px;
+      background: linear-gradient(135deg, #60a5fa 0%, #3b82f6 100%);
+      border: none;
+      border-radius: 8px;
+      color: white;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: transform 0.1s, box-shadow 0.2s;
+    }
+
+    .btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(96, 165, 250, 0.4);
+    }
+
+    .btn:active {
+      transform: translateY(0);
+    }
+
+    .btn-secondary {
+      background: #334155;
+    }
+
+    .btn-secondary:hover {
+      background: #475569;
+      box-shadow: 0 6px 20px rgba(51, 65, 85, 0.4);
+    }
+
+    .button-group {
+      display: flex;
+      gap: 12px;
+      margin-top: 24px;
+    }
+
+    .alert {
+      padding: 12px 16px;
+      border-radius: 8px;
+      font-size: 14px;
+      margin-bottom: 24px;
+      display: none;
+    }
+
+    .alert.show {
+      display: block;
+    }
+
+    .alert-success {
+      background: #d1fae5;
+      color: #065f46;
+      border: 1px solid #6ee7b7;
+    }
+
+    .alert-error {
+      background: #fee2e2;
+      color: #991b1b;
+      border: 1px solid #fca5a5;
+    }
+
+    .info-box {
+      background: #1e3a5f;
+      border: 1px solid #3b82f6;
+      border-radius: 8px;
+      padding: 16px;
+      margin-bottom: 20px;
+    }
+
+    .info-box h3 {
+      font-size: 14px;
+      font-weight: 600;
+      color: #93c5fd;
+      margin-bottom: 8px;
+    }
+
+    .info-box p {
+      font-size: 13px;
+      color: #bfdbfe;
+      line-height: 1.6;
+    }
+
+    .info-box code {
+      background: #0f172a;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-family: 'Monaco', 'Courier New', monospace;
+      font-size: 12px;
+    }
+
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid #334155;
+      color: #64748b;
+      font-size: 13px;
+    }
+
+    .footer a {
+      color: #60a5fa;
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      color: #93c5fd;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>⚙️ Media Link Scanner Settings</h1>
+    <p>Configure your extension to connect to the Media Link Scanner API</p>
+  </div>
+
+  <div id="alert" class="alert"></div>
+
+  <div class="info-box">
+    <h3>📡 Getting Started</h3>
+    <p>
+      Make sure the Media Link Scanner API server is running on your machine. 
+      Start the server with: <code>npm run api:start</code> or <code>npx ts-node src/api/server.ts</code>
+    </p>
+  </div>
+
+  <form id="settingsForm">
+    <div class="section">
+      <h2>API Configuration</h2>
+      
+      <div class="form-group">
+        <label for="apiUrl">API Endpoint URL</label>
+        <input 
+          type="url" 
+          id="apiUrl" 
+          placeholder="http://localhost:3001/api/external-scan"
+          required
+        >
+        <div class="help-text">
+          The URL of your Media Link Scanner API server. Default is <code>http://localhost:3001/api/external-scan</code>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="apiKey">API Key (optional)</label>
+        <input 
+          type="password" 
+          id="apiKey" 
+          placeholder="Enter your API key if required"
+        >
+        <div class="help-text">
+          If your API server requires authentication, enter your API key or bearer token here.
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Extension Behavior</h2>
+      
+      <div class="form-group">
+        <div class="checkbox-group">
+          <input type="checkbox" id="autoOpen" checked>
+          <label for="autoOpen">Automatically open scanner after submitting a URL</label>
+        </div>
+        <div class="help-text">
+          When enabled, a new tab with the scanner app will open automatically when you send a URL to scan.
+        </div>
+      </div>
+
+      <div class="form-group">
+        <div class="checkbox-group">
+          <input type="checkbox" id="notifications" checked>
+          <label for="notifications">Show browser notifications</label>
+        </div>
+        <div class="help-text">
+          Receive notifications when scans start, complete, or fail.
+        </div>
+      </div>
+    </div>
+
+    <div class="button-group">
+      <button type="submit" class="btn">💾 Save Settings</button>
+      <button type="button" id="testConnection" class="btn btn-secondary">🧪 Test Connection</button>
+    </div>
+  </form>
+
+  <div class="footer">
+    <p>Media Link Scanner Browser Extension v1.0.0</p>
+    <p style="margin-top: 8px;">
+      <a href="https://github.com/yourusername/media-link-scanner" target="_blank">Documentation</a> • 
+      <a href="https://github.com/yourusername/media-link-scanner/issues" target="_blank">Report Issue</a>
+    </p>
+  </div>
+
+  <script src="options.js"></script>
+</body>
+</html>

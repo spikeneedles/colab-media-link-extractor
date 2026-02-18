@@ -1,0 +1,47 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*-dist
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+.env
+**/agent-eval-report*
+packages
+pids
+.file-manifest
+.devcontainer/
+
+.spark-workbench-id
+
+# SSL Certificates and Keys (NEVER commit these!)
+ssl/
+*.pem
+*.key
+*.crt
+*.csr
+
+# Certbot/Let's Encrypt
+certbot/conf/
+certbot/www/
+certbot/*.log
+certbot/certbot-config.env

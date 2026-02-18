@@ -1,0 +1,46 @@
+{
+  "name": "media-scanner-puppeteer-backend",
+  "version": "1.0.0",
+  "description": "Headless browser backend service using Puppeteer for Media Link Scanner",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "vitest",
+    "generate-key": "node scripts/generate-api-key.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "headless",
+    "browser",
+    "scraper",
+    "crawler"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.10.0",
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0-rc.12",
+    "compression": "^1.7.5",
+    "content-range": "^1.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.0",
+    "express": "^5.0.0",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^7.1.0",
+    "node-cache": "^5.1.2",
+    "puppeteer": "^23.0.0"
+  },
+  "devDependencies": {
+    "@types/compression": "^1.7.5",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.6",
+    "@types/node": "^22.19.7",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3",
+    "vitest": "^3.2.4"
+  }
+}

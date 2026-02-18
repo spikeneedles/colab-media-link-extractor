@@ -1,0 +1,30 @@
+# Development Dockerfile for hot reload
+FROM node:20-slim
+
+# Install Chromium dependencies
+RUN apt-get update && apt-get install -y \
+    wget \
+    gnupg \
+    ca-certificates \
+    fonts-liberation \
+    libasound2 \
+    libatk-bridge2.0-0 \
+    libatk1.0-0 \
+    libgbm1 \
+    libgtk-3-0 \
+    libnss3 \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+COPY package*.json ./
+
+RUN npm install
+
+ENV NODE_ENV=development
+ENV PUPPETEER_HEADLESS=false
+ENV DEBUG=true
+
+EXPOSE 3001 9229
+
+CMD ["npm", "run", "dev"]

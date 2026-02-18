@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Generate Rabbit Icon 48x48</title>
+</head>
+<body>
+  <h1>Right-click the canvas below and "Save Image As..." to get icon48.png</h1>
+  <canvas id="icon" width="48" height="48"></canvas>
+  
+  <script>
+    const canvas = document.getElementById('icon');
+    const ctx = canvas.getContext('2d');
+    const size = 48;
+    const scale = size / 128;
+    
+    ctx.imageSmoothingEnabled = true;
+    ctx.imageSmoothingQuality = 'high';
+    
+    // Background gradient
+    const gradient = ctx.createLinearGradient(0, 0, size, size);
+    gradient.addColorStop(0, '#0F172A');
+    gradient.addColorStop(1, '#1E293B');
+    ctx.fillStyle = gradient;
+    const cornerRadius = size * 0.1875;
+    ctx.beginPath();
+    ctx.roundRect(0, 0, size, size, cornerRadius);
+    ctx.fill();
+    
+    const centerX = size / 2;
+    const centerY = size / 2;
+    
+    ctx.save();
+    ctx.translate(centerX, centerY);
+    ctx.scale(scale, scale);
+    
+    // Left ear
+    ctx.save();
+    ctx.translate(-18, -28);
+    ctx.rotate(-15 * Math.PI / 180);
+    ctx.fillStyle = '#93C5FD';
+    ctx.beginPath();
+    ctx.ellipse(0, 0, 8, 24, 0, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.fillStyle = '#DBEAFE';
+    ctx.beginPath();
+    ctx.ellipse(0, 0, 4, 18, 0, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.restore();
+    
+    // Right ear
+    ctx.save();
+    ctx.translate(18, -28);
+    ctx.rotate(15 * Math.PI / 180);
+    ctx.fillStyle = '#93C5FD';
+    ctx.beginPath();
+    ctx.ellipse(0, 0, 8, 24, 0, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.fillStyle = '#DBEAFE';
+    ctx.beginPath();
+    ctx.ellipse(0, 0, 4, 18, 0, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.restore();
+    
+    // Head
+    ctx.fillStyle = '#60A5FA';
+    ctx.beginPath();
+    ctx.arc(0, 0, 22, 0, Math.PI * 2);
+    ctx.fill();
+    
+    // Eyes
+    ctx.fillStyle = '#1E293B';
+    ctx.beginPath();
+    ctx.arc(-8, -4, 3, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.beginPath();
+    ctx.arc(8, -4, 3, 0, Math.PI * 2);
+    ctx.fill();
+    
+    // Eye highlights
+    ctx.fillStyle = '#DBEAFE';
+    ctx.beginPath();
+    ctx.arc(-7, -5, 1.5, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.beginPath();
+    ctx.arc(9, -5, 1.5, 0, Math.PI * 2);
+    ctx.fill();
+    
+    // Nose
+    ctx.fillStyle = '#EC4899';
+    ctx.beginPath();
+    ctx.ellipse(0, 2, 3, 2, 0, 0, Math.PI * 2);
+    ctx.fill();
+    
+    // Whiskers
+    ctx.strokeStyle = '#1E293B';
+    ctx.lineWidth = 1.5;
+    ctx.lineCap = 'round';
+    
+    ctx.beginPath();
+    ctx.moveTo(-22, 0);
+    ctx.lineTo(-10, -2);
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(-22, 2);
+    ctx.lineTo(-10, 2);
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(-22, 4);
+    ctx.lineTo(-10, 6);
+    ctx.stroke();
+    
+    ctx.beginPath();
+    ctx.moveTo(22, 0);
+    ctx.lineTo(10, -2);
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(22, 2);
+    ctx.lineTo(10, 2);
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(22, 4);
+    ctx.lineTo(10, 6);
+    ctx.stroke();
+    
+    // Mouth
+    ctx.strokeStyle = '#1E293B';
+    ctx.lineWidth = 1.5;
+    ctx.beginPath();
+    ctx.moveTo(0, 4);
+    ctx.quadraticCurveTo(-3, 7, 0, 8);
+    ctx.quadraticCurveTo(3, 7, 0, 4);
+    ctx.stroke();
+    
+    // Teeth
+    ctx.fillStyle = '#F8FAFC';
+    ctx.fillRect(-2, 8, 1.5, 3);
+    ctx.fillRect(0.5, 8, 1.5, 3);
+    
+    // Scanner waves
+    ctx.globalAlpha = 0.4;
+    ctx.strokeStyle = '#60A5FA';
+    ctx.lineWidth = 2;
+    ctx.setLineDash([4, 4]);
+    ctx.beginPath();
+    ctx.arc(0, 0, 30, 0, Math.PI * 2);
+    ctx.stroke();
+    ctx.globalAlpha = 0.3;
+    ctx.strokeStyle = '#93C5FD';
+    ctx.beginPath();
+    ctx.arc(0, 0, 34, 0, Math.PI * 2);
+    ctx.stroke();
+    ctx.setLineDash([]);
+    ctx.globalAlpha = 1;
+    
+    // Media icon on chest
+    ctx.fillStyle = '#DBEAFE';
+    ctx.translate(0, 16);
+    
+    // Play icon
+    ctx.beginPath();
+    ctx.moveTo(-4, -2);
+    ctx.lineTo(-4, 2);
+    ctx.lineTo(0, 0);
+    ctx.closePath();
+    ctx.fill();
+    
+    // Link dots
+    ctx.beginPath();
+    ctx.arc(3, 0, 1.5, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.beginPath();
+    ctx.arc(6, 0, 1, 0, Math.PI * 2);
+    ctx.fill();
+    
+    ctx.restore();
+    
+    // Auto download
+    setTimeout(() => {
+      const link = document.createElement('a');
+      link.download = 'icon48.png';
+      link.href = canvas.toDataURL('image/png');
+      link.click();
+      document.body.innerHTML += '<p style="color: green;">✓ icon48.png downloaded!</p>';
+    }, 500);
+  </script>
+</body>
+</html>

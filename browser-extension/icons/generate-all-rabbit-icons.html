@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>🐰 Generate All Rabbit Icons</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+    }
+    .container {
+      background: rgba(255, 255, 255, 0.95);
+      border-radius: 20px;
+      padding: 40px;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+      color: #1E293B;
+    }
+    h1 {
+      text-align: center;
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    .subtitle {
+      text-align: center;
+      color: #64748B;
+      margin-bottom: 30px;
+    }
+    .icons-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 20px;
+      margin: 30px 0;
+    }
+    .icon-box {
+      background: white;
+      border: 2px solid #E2E8F0;
+      border-radius: 12px;
+      padding: 20px;
+      text-align: center;
+      transition: all 0.3s;
+    }
+    .icon-box:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+      border-color: #60A5FA;
+    }
+    canvas {
+      display: block;
+      margin: 0 auto 10px;
+      border-radius: 8px;
+    }
+    .icon-size {
+      font-weight: bold;
+      color: #60A5FA;
+      font-size: 1.1em;
+    }
+    button {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      border: none;
+      padding: 16px 40px;
+      border-radius: 50px;
+      font-size: 18px;
+      font-weight: bold;
+      cursor: pointer;
+      display: block;
+      margin: 30px auto;
+      box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
+      transition: all 0.3s;
+    }
+    button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 15px 40px rgba(102, 126, 234, 0.6);
+    }
+    button:active {
+      transform: translateY(0);
+    }
+    .instructions {
+      background: #EFF6FF;
+      border-left: 4px solid #60A5FA;
+      padding: 20px;
+      border-radius: 8px;
+      margin-top: 30px;
+    }
+    .instructions h3 {
+      color: #1E40AF;
+      margin-top: 0;
+    }
+    .status {
+      text-align: center;
+      font-size: 18px;
+      margin-top: 20px;
+      font-weight: bold;
+    }
+    .success {
+      color: #10B981;
+    }
+    @media (max-width: 768px) {
+      .icons-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🐰 Rabbit Media Scanner Icons</h1>
+    <p class="subtitle">Generate all browser extension icons with one click!</p>
+    
+    <div class="icons-grid">
+      <div class="icon-box">
+        <canvas id="icon16" width="16" height="16"></canvas>
+        <div class="icon-size">16×16</div>
+        <div style="font-size: 12px; color: #64748B;">Toolbar</div>
+      </div>
+      
+      <div class="icon-box">
+        <canvas id="icon32" width="32" height="32"></canvas>
+        <div class="icon-size">32×32</div>
+        <div style="font-size: 12px; color: #64748B;">Retina</div>
+      </div>
+      
+      <div class="icon-box">
+        <canvas id="icon48" width="48" height="48"></canvas>
+        <div class="icon-size">48×48</div>
+        <div style="font-size: 12px; color: #64748B;">Extension</div>
+      </div>
+      
+      <div class="icon-box">
+        <canvas id="icon128" width="128" height="128"></canvas>
+        <div class="icon-size">128×128</div>
+        <div style="font-size: 12px; color: #64748B;">Store</div>
+      </div>
+    </div>
+    
+    <button onclick="downloadAllIcons()">📥 Download All Icons</button>
+    
+    <div id="status" class="status"></div>
+    
+    <div class="instructions">
+      <h3>📋 Quick Setup Instructions</h3>
+      <ol>
+        <li>Click the "Download All Icons" button above</li>
+        <li>Four PNG files will be downloaded to your computer</li>
+        <li>Place them in the <code>browser-extension/icons/</code> folder</li>
+        <li>Your extension is ready to use!</li>
+      </ol>
+      <p><strong>🎨 About the Design:</strong> The cute rabbit mascot represents the extension's scanning capabilities - alert ears for detecting media links, scanning waves for active monitoring, and a friendly face to make the tool approachable!</p>
+    </div>
+  </div>
+  
+  <script>
+    function drawRabbitIcon(canvasId, size) {
+      const canvas = document.getElementById(canvasId);
+      const ctx = canvas.getContext('2d');
+      const scale = size / 128;
+      
+      ctx.imageSmoothingEnabled = true;
+      ctx.imageSmoothingQuality = 'high';
+      
+      // Background gradient
+      const gradient = ctx.createLinearGradient(0, 0, size, size);
+      gradient.addColorStop(0, '#0F172A');
+      gradient.addColorStop(1, '#1E293B');
+      ctx.fillStyle = gradient;
+      const cornerRadius = size * 0.1875;
+      ctx.beginPath();
+      ctx.roundRect(0, 0, size, size, cornerRadius);
+      ctx.fill();
+      
+      const centerX = size / 2;
+      const centerY = size / 2;
+      
+      ctx.save();
+      ctx.translate(centerX, centerY);
+      ctx.scale(scale, scale);
+      
+      // Left ear
+      ctx.save();
+      ctx.translate(-18, -28);
+      ctx.rotate(-15 * Math.PI / 180);
+      ctx.fillStyle = '#93C5FD';
+      ctx.beginPath();
+      ctx.ellipse(0, 0, 8, 24, 0, 0, Math.PI * 2);
+      ctx.fill();
+      if (size >= 32) {
+        ctx.fillStyle = '#DBEAFE';
+        ctx.beginPath();
+        ctx.ellipse(0, 0, 4, 18, 0, 0, Math.PI * 2);
+        ctx.fill();
+      }
+      ctx.restore();
+      
+      // Right ear
+      ctx.save();
+      ctx.translate(18, -28);
+      ctx.rotate(15 * Math.PI / 180);
+      ctx.fillStyle = '#93C5FD';
+      ctx.beginPath();
+      ctx.ellipse(0, 0, 8, 24, 0, 0, Math.PI * 2);
+      ctx.fill();
+      if (size >= 32) {
+        ctx.fillStyle = '#DBEAFE';
+        ctx.beginPath();
+        ctx.ellipse(0, 0, 4, 18, 0, 0, Math.PI * 2);
+        ctx.fill();
+      }
+      ctx.restore();
+      
+      // Head
+      ctx.fillStyle = '#60A5FA';
+      ctx.beginPath();
+      ctx.arc(0, 0, 22, 0, Math.PI * 2);
+      ctx.fill();
+      
+      // Eyes
+      ctx.fillStyle = '#1E293B';
+      ctx.beginPath();
+      ctx.arc(-8, -4, 3, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.beginPath();
+      ctx.arc(8, -4, 3, 0, Math.PI * 2);
+      ctx.fill();
+      
+      if (size >= 32) {
+        // Eye highlights
+        ctx.fillStyle = '#DBEAFE';
+        ctx.beginPath();
+        ctx.arc(-7, -5, 1.5, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.beginPath();
+        ctx.arc(9, -5, 1.5, 0, Math.PI * 2);
+        ctx.fill();
+      }
+      
+      // Nose
+      ctx.fillStyle = '#EC4899';
+      ctx.beginPath();
+      ctx.ellipse(0, 2, 3, 2, 0, 0, Math.PI * 2);
+      ctx.fill();
+      
+      // Whiskers (only on larger icons)
+      if (size >= 32) {
+        ctx.strokeStyle = '#1E293B';
+        ctx.lineWidth = 1.5;
+        ctx.lineCap = 'round';
+        
+        ctx.beginPath();
+        ctx.moveTo(-22, 0);
+        ctx.lineTo(-10, -2);
+        ctx.stroke();
+        ctx.beginPath();
+        ctx.moveTo(-22, 2);
+        ctx.lineTo(-10, 2);
+        ctx.stroke();
+        if (size >= 48) {
+          ctx.beginPath();
+          ctx.moveTo(-22, 4);
+          ctx.lineTo(-10, 6);
+          ctx.stroke();
+        }
+        
+        ctx.beginPath();
+        ctx.moveTo(22, 0);
+        ctx.lineTo(10, -2);
+        ctx.stroke();
+        ctx.beginPath();
+        ctx.moveTo(22, 2);
+        ctx.lineTo(10, 2);
+        ctx.stroke();
+        if (size >= 48) {
+          ctx.beginPath();
+          ctx.moveTo(22, 4);
+          ctx.lineTo(10, 6);
+          ctx.stroke();
+        }
+      }
+      
+      // Mouth (only on larger icons)
+      if (size >= 48) {
+        ctx.strokeStyle = '#1E293B';
+        ctx.lineWidth = 1.5;
+        ctx.beginPath();
+        ctx.moveTo(0, 4);
+        ctx.quadraticCurveTo(-3, 7, 0, 8);
+        ctx.quadraticCurveTo(3, 7, 0, 4);
+        ctx.stroke();
+      }
+      
+      // Teeth
+      ctx.fillStyle = '#F8FAFC';
+      ctx.fillRect(-2, 8, 1.5, 3);
+      ctx.fillRect(0.5, 8, 1.5, 3);
+      
+      // Scanner waves
+      if (size >= 32) {
+        ctx.globalAlpha = 0.4;
+        ctx.strokeStyle = '#60A5FA';
+        ctx.lineWidth = 2;
+        ctx.setLineDash([4, 4]);
+        ctx.beginPath();
+        ctx.arc(0, 0, 30, 0, Math.PI * 2);
+        ctx.stroke();
+        
+        if (size >= 48) {
+          ctx.globalAlpha = 0.3;
+          ctx.strokeStyle = '#93C5FD';
+          ctx.beginPath();
+          ctx.arc(0, 0, 35, 0, Math.PI * 2);
+          ctx.stroke();
+        }
+        
+        if (size >= 128) {
+          ctx.globalAlpha = 0.2;
+          ctx.strokeStyle = '#DBEAFE';
+          ctx.beginPath();
+          ctx.arc(0, 0, 40, 0, Math.PI * 2);
+          ctx.stroke();
+        }
+        
+        ctx.setLineDash([]);
+        ctx.globalAlpha = 1;
+      }
+      
+      // Media icon on chest
+      if (size >= 48) {
+        ctx.fillStyle = '#DBEAFE';
+        ctx.save();
+        ctx.translate(0, 16);
+        
+        ctx.beginPath();
+        ctx.moveTo(-4, -2);
+        ctx.lineTo(-4, 2);
+        ctx.lineTo(0, 0);
+        ctx.closePath();
+        ctx.fill();
+        
+        ctx.beginPath();
+        ctx.arc(3, 0, 1.5, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.beginPath();
+        ctx.arc(6, 0, 1, 0, Math.PI * 2);
+        ctx.fill();
+        
+        ctx.restore();
+      }
+      
+      ctx.restore();
+    }
+    
+    async function downloadAllIcons() {
+      const sizes = [16, 32, 48, 128];
+      const statusEl = document.getElementById('status');
+      statusEl.innerHTML = '⏳ Generating icons...';
+      
+      for (const size of sizes) {
+        const canvas = document.getElementById(`icon${size}`);
+        const link = document.createElement('a');
+        link.download = `icon${size}.png`;
+        link.href = canvas.toDataURL('image/png');
+        link.click();
+        await new Promise(resolve => setTimeout(resolve, 300));
+      }
+      
+      statusEl.innerHTML = '✅ All icons downloaded successfully!';
+      statusEl.className = 'status success';
+      
+      setTimeout(() => {
+        statusEl.innerHTML += '<br><small>Place the PNG files in browser-extension/icons/ folder</small>';
+      }, 1000);
+    }
+    
+    // Generate all icons on page load
+    window.onload = () => {
+      drawRabbitIcon('icon16', 16);
+      drawRabbitIcon('icon32', 32);
+      drawRabbitIcon('icon48', 48);
+      drawRabbitIcon('icon128', 128);
+    };
+  </script>
+</body>
+</html>

@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      width: 400px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      padding: 16px;
+      min-height: 100vh;
+    }
+
+    .container {
+      background: white;
+      border-radius: 12px;
+      padding: 16px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    }
+
+    .header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+
+    .header h1 {
+      font-size: 16px;
+      font-weight: 600;
+      color: #1f2937;
+    }
+
+    .status {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      padding: 8px 12px;
+      background: #f0f9ff;
+      border-radius: 6px;
+      margin-bottom: 12px;
+    }
+
+    .status .dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      animation: pulse 2s infinite;
+    }
+
+    .status.connected .dot {
+      background: #22c55e;
+    }
+
+    .status.disconnected .dot {
+      background: #ef4444;
+    }
+
+    @keyframes pulse {
+      0%,
+      100% {
+        opacity: 1;
+      }
+      50% {
+        opacity: 0.5;
+      }
+    }
+
+    .status-text {
+      font-weight: 500;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+      margin-bottom: 12px;
+    }
+
+    .stat-card {
+      background: #f9fafb;
+      padding: 12px;
+      border-radius: 8px;
+      text-align: center;
+      border: 1px solid #e5e7eb;
+    }
+
+    .stat-value {
+      font-size: 20px;
+      font-weight: bold;
+      color: #667eea;
+    }
+
+    .stat-label {
+      font-size: 11px;
+      color: #6b7280;
+      margin-top: 4px;
+    }
+
+    button {
+      width: 100%;
+      padding: 10px;
+      border: none;
+      border-radius: 8px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+      font-size: 13px;
+    }
+
+    .primary-btn {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      margin-bottom: 8px;
+    }
+
+    .primary-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+    }
+
+    .secondary-btn {
+      background: #e5e7eb;
+      color: #374151;
+    }
+
+    .secondary-btn:hover {
+      background: #d1d5db;
+    }
+
+    .info-box {
+      background: #fef3c7;
+      border: 1px solid #fcd34d;
+      border-radius: 8px;
+      padding: 8px;
+      font-size: 12px;
+      color: #92400e;
+      margin-top: 12px;
+      line-height: 1.4;
+    }
+
+    .info-box strong {
+      display: block;
+      margin-bottom: 4px;
+    }
+
+    .link-section {
+      margin-top: 12px;
+      padding-top: 12px;
+      border-top: 1px solid #e5e7eb;
+    }
+
+    .link-section a {
+      display: block;
+      padding: 8px;
+      text-align: center;
+      color: #667eea;
+      text-decoration: none;
+      font-size: 12px;
+      border-radius: 6px;
+      background: #f0f9ff;
+      margin-bottom: 6px;
+      transition: background 0.2s;
+    }
+
+    .link-section a:hover {
+      background: #e0f2fe;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>📡 Media Extractor</h1>
+    </div>
+
+    <div class="status" id="status">
+      <div class="dot"></div>
+      <span class="status-text" id="statusText">Connecting...</span>
+    </div>
+
+    <div class="stats">
+      <div class="stat-card">
+        <div class="stat-value" id="capturedCount">0</div>
+        <div class="stat-label">Captured</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="sessionCount">0</div>
+        <div class="stat-label">Sessions</div>
+      </div>
+    </div>
+
+    <button class="primary-btn" id="openDashboard">
+      📊 Open Dashboard
+    </button>
+
+    <button class="secondary-btn" id="testCapture">
+      🧪 Test Capture
+    </button>
+
+    <div class="info-box">
+      <strong>How it works:</strong>
+      This extension automatically captures media URLs from web pages and sends them to the
+      Media Link Extractor. Click the dashboard to view all captured streams.
+    </div>
+
+    <div class="link-section">
+      <a href="#" id="openOptions">⚙️ Settings</a>
+      <a href="#" id="openHelp">❓ Help</a>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
