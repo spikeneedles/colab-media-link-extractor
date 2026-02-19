@@ -5,6 +5,8 @@ import compression from 'compression'
 import rateLimit from 'express-rate-limit'
 import dotenv from 'dotenv'
 import os from 'os'
+import path from 'path'
+import { fileURLToPath } from 'url'
 import { BrowserPool } from './browserPool.js'
 import { CacheManager } from './cache.js'
 import { AuthManager } from './auth.js'
@@ -12,8 +14,12 @@ import extensionRoutes from './routes/extensionRoutes.js'
 import stremioRoutes from './routes/stremioRoutes.js'
 import apkRuntimeRoutes from './routes/apkRuntimeRoutes.js'
 import runtimeCaptureRoutes from './routes/runtimeCaptureRoutes.js'
+import aiRoutes from './routes/aiRoutes.js'
 import axios from 'axios'
 import { parse as parseContentRange } from 'content-range'
+
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
 
 dotenv.config()
 
@@ -56,6 +62,73 @@ app.use('/api/', limiter)
 
 app.use(authManager.middleware())
 
+// Serve static files from public directory
+app.use(express.static(path.join(__dirname, '..', 'public')))
+
+// API root endpoint
+app.get('/api/', (req: Request, res: Response) => {
+  const baseUrl = `${req.protocol}://${req.get('host')}`
+  res.json({
+    message: 'Media Link Scanner API',
+    version: '1.0.0',
+    status: 'operational',
+    timestamp: new Date().toISOString(),
+    endpoints: {
+      health: {
+        method: 'GET',
+        path: '/api/health',
+        description: 'Server health check and stats',
+        authentication: 'none',
+      },
+      auth: {
+        methods: {
+          'GET /api/auth/docs': 'Authentication documentation',
+          'POST /api/auth/generate-key': 'Generate new API key (admin only)',
+        },
+      },
+      headless: {
+        methods: {
+          'POST /api/headless-browse': 'Browse URL and extract content',
+          'POST /api/headless-execute': 'Execute JavaScript on page',
+          'POST /api/headless-screenshot': 'Capture page screenshot',
+        },
+        description: 'Puppeteer-powered headless browser endpoints',
+      },
+      media: {
+        methods: {
+          'GET /api/media/stream': 'Stream media content (with range support)',
+          'GET /api/media/info': 'Get media file information',
+          'POST /api/media/generate-m3u': 'Generate M3U playlist',
+        },
+        description: 'Media proxy and playlist generation',
+        authentication: authManager.isEnabled() ? 'API Key required' : 'none',
+      },
+      extension: {
+        path: '/api/extension',
+        description: 'Browser extension routes',
+      },
+      stremio: {
+        path: '/stremio',
+        description: 'Stremio addon integration',
+      },
+      apkRuntime: {
+        path: '/api/apk-runtime',
+        description: 'APK runtime capture endpoints',
+      },
+      runtimeCapture: {
+        path: '/api/runtime-capture',
+        description: 'Runtime emulator capture (SSE)',
+      },
+      ai: {
+        path: '/api/ai',
+        description: 'Gemini 2.5 Flash AI endpoints',
+        availability: 'Requires GEMINI_API_KEY environment variable',
+      },
+    },
+    documentation: `${baseUrl}/api/auth/docs`,
+  })
+})
+
 // Register extension routes
 app.use('/api/extension', extensionRoutes)
 
@@ -68,6 +141,9 @@ app.use('/api/apk-runtime', apkRuntimeRoutes)
 // Register runtime emulator capture routes (mitmproxy → SSE → UI)
 // SSE endpoint is exempt from rate-limit — it's a long-lived connection
 app.use('/api/runtime-capture', runtimeCaptureRoutes)
+
+// Register AI routes (Gemini 2.5 Flash endpoints)
+app.use('/api/ai', aiRoutes)
 
 interface BrowserOptions {
   timeout?: number

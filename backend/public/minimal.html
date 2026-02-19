@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media Link Scanner - Minimal</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+            color: #e2e8f0;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            width: 100%;
+            background: rgba(15, 23, 42, 0.8);
+            border: 1px solid rgba(148, 163, 184, 0.2);
+            border-radius: 12px;
+            padding: 40px;
+            backdrop-filter: blur(10px);
+        }
+        
+        h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+            color: #fff;
+        }
+        
+        .subtitle {
+            color: #94a3b8;
+            margin-bottom: 30px;
+            font-size: 14px;
+        }
+        
+        .status {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .status-item {
+            padding: 15px;
+            background: rgba(30, 41, 59, 0.6);
+            border-radius: 8px;
+            border: 1px solid rgba(148, 163, 184, 0.1);
+        }
+        
+        .status-label {
+            color: #94a3b8;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 5px;
+        }
+        
+        .status-value {
+            font-size: 18px;
+            font-weight: 600;
+            color: #fff;
+        }
+        
+        .status-value.ok {
+            color: #10b981;
+        }
+        
+        .endpoints {
+            margin-top: 30px;
+            padding-top: 30px;
+            border-top: 1px solid rgba(148, 163, 184, 0.1);
+        }
+        
+        .endpoints h2 {
+            font-size: 16px;
+            margin-bottom: 15px;
+            color: #cbd5e1;
+        }
+        
+        .endpoint-list {
+            display: grid;
+            gap: 10px;
+        }
+        
+        .endpoint {
+            padding: 10px;
+            background: rgba(30, 41, 59, 0.4);
+            border-radius: 6px;
+            border-left: 3px solid rgba(59, 130, 246, 0.5);
+            font-size: 13px;
+            font-family: 'Courier New', monospace;
+            color: #cbd5e1;
+        }
+        
+        .endpoint-method {
+            color: #60a5fa;
+            font-weight: 600;
+        }
+        
+        .endpoint-path {
+            color: #fbbf24;
+            margin: 0 5px;
+        }
+        
+        .links {
+            margin-top: 30px;
+            padding-top: 30px;
+            border-top: 1px solid rgba(148, 163, 184, 0.1);
+        }
+        
+        .links h2 {
+            font-size: 16px;
+            margin-bottom: 15px;
+            color: #cbd5e1;
+        }
+        
+        .link-list {
+            display: grid;
+            gap: 8px;
+        }
+        
+        a {
+            color: #3b82f6;
+            text-decoration: none;
+            padding: 8px;
+            border-radius: 4px;
+            transition: background 0.2s;
+            font-size: 14px;
+        }
+        
+        a:hover {
+            background: rgba(59, 130, 246, 0.1);
+            color: #60a5fa;
+        }
+        
+        .loading {
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 0.6; }
+            50% { opacity: 1; }
+        }
+        
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+            
+            h1 {
+                font-size: 24px;
+            }
+            
+            .status {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎬 Media Link Scanner</h1>
+        <p class="subtitle">AI-Powered IPTV & Kodi Link Scanner</p>
+        
+        <div class="status">
+            <div class="status-item">
+                <div class="status-label">Backend Status</div>
+                <div class="status-value ok" id="backend-status">Loading...</div>
+            </div>
+            <div class="status-item">
+                <div class="status-label">Frontend Status</div>
+                <div class="status-value ok" id="frontend-status">Loading...</div>
+            </div>
+        </div>
+        
+        <div class="endpoints">
+            <h2>📡 Available Endpoints</h2>
+            <div class="endpoint-list">
+                <div class="endpoint">
+                    <span class="endpoint-method">GET</span>
+                    <span class="endpoint-path">/api/</span>
+                    API overview
+                </div>
+                <div class="endpoint">
+                    <span class="endpoint-method">GET</span>
+                    <span class="endpoint-path">/api/health</span>
+                    Server health & stats
+                </div>
+                <div class="endpoint">
+                    <span class="endpoint-method">GET</span>
+                    <span class="endpoint-path">/api/auth/docs</span>
+                    Authentication docs
+                </div>
+                <div class="endpoint">
+                    <span class="endpoint-method">POST</span>
+                    <span class="endpoint-path">/api/headless-browse</span>
+                    Browse & extract content
+                </div>
+                <div class="endpoint">
+                    <span class="endpoint-method">POST</span>
+                    <span class="endpoint-path">/api/headless-execute</span>
+                    Execute JavaScript
+                </div>
+                <div class="endpoint">
+                    <span class="endpoint-method">POST</span>
+                    <span class="endpoint-path">/api/headless-screenshot</span>
+                    Capture screenshots
+                </div>
+            </div>
+        </div>
+        
+        <div class="links">
+            <h2>🔗 Quick Links</h2>
+            <div class="link-list">
+                <a href="http://localhost:3001/api/" target="_blank">→ API Overview</a>
+                <a href="http://localhost:3001/api/health" target="_blank">→ Backend Health</a>
+                <a href="http://localhost:3001/api/auth/docs" target="_blank">→ Auth Documentation</a>
+                <a href="http://localhost:5001/" target="_blank">→ Frontend UI</a>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Check backend health
+        async function checkBackend() {
+            try {
+                const response = await fetch('http://localhost:3001/api/health');
+                if (response.ok) {
+                    document.getElementById('backend-status').textContent = '✓ Up';
+                } else {
+                    document.getElementById('backend-status').textContent = '✗ Error';
+                }
+            } catch (error) {
+                document.getElementById('backend-status').textContent = '✗ Down';
+            }
+        }
+        
+        // Check frontend availability
+        async function checkFrontend() {
+            try {
+                const response = await fetch('http://localhost:5001/');
+                if (response.ok) {
+                    document.getElementById('frontend-status').textContent = '✓ Up';
+                } else {
+                    document.getElementById('frontend-status').textContent = '✗ Error';
+                }
+            } catch (error) {
+                document.getElementById('frontend-status').textContent = '✗ Down';
+            }
+        }
+        
+        // Run checks on load
+        window.addEventListener('load', () => {
+            checkBackend();
+            checkFrontend();
+        });
+    </script>
+</body>
+</html>
