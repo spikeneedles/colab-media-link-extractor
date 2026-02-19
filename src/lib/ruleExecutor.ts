@@ -34,7 +34,7 @@ export type BrowserContext = {
   getCookies: () => Promise<Array<{name: string, value: string}>>
   setCookies: (cookies: Array<{name: string, value: string, domain?: string}>) => Promise<void>
   setHeaders: (headers: Record<string, string>) => Promise<void>
-  screenshot: (options?: any) => Promise<Buffer>
+  screenshot: (options?: any) => Promise<Uint8Array>
 }
 
 class RuleExecutor {

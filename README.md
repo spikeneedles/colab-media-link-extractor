@@ -32,6 +32,7 @@ A comprehensive, AI-powered media link extraction and validation tool with suppo
 ### 🔍 **Comprehensive File Scanning**
 - **50+ File Format Support**: M3U, M3U8, PLS, XSPF, ASX, WPL, SMIL, DASH, Smooth Streaming, EPG XML, and more
 - **Kodi Integration**: Full support for `.nfo`, `.strm`, `.xsp`, `addon.xml`, `sources.xml`, Python plugins
+- **Stremio Integration**: Export links as Stremio addon with one-click installation ⭐ NEW
 - **Android Packages**: APK, AAB, XAPK, APKS, APKM, APEX, APKX with automatic config extraction
 - **Archive Support**: ZIP, RAR, 7Z, TAR, TAR.GZ, TGZ, BZ2, EXE with recursive scanning
 - **Recursive Folder Scanning**: Drop entire folder structures for complete analysis

@@ -1,18 +1,18 @@
-import { motion } from 'framer-motion'
+import { motion, type Transition } from 'framer-motion'
 
 export function HoppingRabbit() {
   // 1. Configuration for the vertical hop (The Bounce)
-  const hopTransition = {
+  const hopTransition: Transition = {
     duration: 0.8, // How long one full jump takes
     repeat: Infinity, // Hop forever
     repeatType: 'loop' as const,
     // This ease array simulates gravity: fast jump up, slower at apex, fast fall down.
-    ease: ['easeOut', 'easeIn', 'easeOut', 'easeIn'],
+    ease: ['easeOut', 'easeIn', 'easeOut', 'easeIn'] as any,
     times: [0, 0.5, 1] // Keyframe timing
   }
 
   // 2. Configuration for horizontal movement (Moving across screen)
-  const moveAcrossTransition = {
+  const moveAcrossTransition: Transition = {
     duration: 15, // Takes 15 seconds to cross the screen
     repeat: Infinity,
     ease: 'linear', // Constant forward speed

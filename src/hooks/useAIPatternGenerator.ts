@@ -36,7 +36,7 @@ export function useAIPatternGenerator() {
   }, [addUrl])
 
   /**
-   * Generate patterns from collected URLs
+   * Generate patterns from collected URLs using frontend Gemini integration
    */
   const generatePatterns = useCallback(async () => {
     if (collectedUrlsRef.current.size < 3) {
@@ -48,20 +48,31 @@ export function useAIPatternGenerator() {
     setError(null)
 
     try {
-      const response = await fetch('/api/ai/generate-patterns', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          urls: Array.from(collectedUrlsRef.current),
-        }),
-      })
+      // Use frontend pattern generation (no backend API call needed)
+      const { generatePatternWithAI } = await import('@/lib/patternGenerator')
+      const urls = Array.from(collectedUrlsRef.current)
+      const examples = urls.map(url => ({ url, shouldMatch: true }))
+      
+      const generatedPattern = await generatePatternWithAI(
+        examples,
+        'Generate a pattern to match these media streaming URLs'
+      )
 
-      if (!response.ok) {
-        throw new Error('Failed to generate patterns')
+      // Convert the single pattern to the expected format
+      const pattern: Pattern = {
+        id: `ai-gen-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`,
+        name: generatedPattern.description.split(':')[0] || 'AI Generated Pattern',
+        description: generatedPattern.description,
+        category: 'url-filter',
+        pattern: generatedPattern.regex,
+        tags: ['ai-generated', 'gemini'],
+        exampleUrls: generatedPattern.examples.matching,
+        confidence: generatedPattern.confidence,
+        createdBy: 'ai-gemini',
+        createdAt: new Date().toISOString(),
       }
 
-      const data = await response.json()
-      setGeneratedPatterns(data.patterns || [])
+      setGeneratedPatterns([pattern])
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Unknown error occurred')
     } finally {

@@ -578,7 +578,7 @@ Return your response as a JSON object with:
   const prompt = window.spark.llmPrompt([promptText] as any)
 
   try {
-    const response = await window.spark.llm(prompt, 'gpt-4o', true)
+    const response = await window.spark.llm(prompt, 'gemini-2.5-flash', true)
     const result = JSON.parse(response)
     
     const regex = new RegExp(result.regex)

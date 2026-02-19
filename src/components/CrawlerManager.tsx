@@ -78,7 +78,7 @@ export function CrawlerManager() {
   const [recurrencePattern, setRecurrencePattern] = useState<RecurrencePattern>('once')
   const [editingSchedule, setEditingSchedule] = useState<ScheduledTarget | null>(null)
   const [schedulerEnabled, setSchedulerEnabled] = useKV('crawler-scheduler-enabled', 'true')
-  const schedulerIntervalRef = useRef<NodeJS.Timeout | null>(null)
+  const schedulerIntervalRef = useRef<ReturnType<typeof setTimeout> | null>(null)
   const [notificationSound, setNotificationSound] = useKV<NotificationTone>('crawler-notification-sound', 'chime')
   const [showSoundSettings, setShowSoundSettings] = useState(false)
   

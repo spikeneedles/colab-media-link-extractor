@@ -1,43 +1,20 @@
 import express, { Router, Request, Response } from 'express'
-import AIPatternGenerator from '../aiPatternGenerator'
 import * as fs from 'fs'
 import * as path from 'path'
 
 const router = Router()
-const patternGenerator = new AIPatternGenerator()
 
 /**
  * POST /api/ai/generate-patterns
- * Generate patterns from collected URLs
+ * Pattern generation is now handled on the frontend using Gemini via Spark
+ * This endpoint remains for backward compatibility but returns a helpful message
  */
 router.post('/generate-patterns', async (req: Request, res: Response) => {
-  try {
-    const { urls } = req.body
-
-    if (!Array.isArray(urls) || urls.length < 3) {
-      return res.status(400).json({
-        error: 'Need at least 3 URLs to generate patterns',
-      })
-    }
-
-    // Add URLs to the generator
-    patternGenerator.addUrls(urls)
-
-    // Generate patterns
-    const patterns = await patternGenerator.analyzeAndGeneratePatterns()
-
-    res.json({
-      success: true,
-      patterns,
-      stats: patternGenerator.getStats(),
-    })
-  } catch (error) {
-    console.error('Pattern generation error:', error)
-    res.status(500).json({
-      error: 'Failed to generate patterns',
-      message: error instanceof Error ? error.message : 'Unknown error',
-    })
-  }
+  res.status(410).json({
+    error: 'This endpoint has been migrated to frontend',
+    message: 'Pattern generation now uses Gemini AI on the frontend. Please update your client to use the frontend pattern generator.',
+    migration: 'Frontend uses @/lib/patternGenerator with Gemini 2.5 Flash'
+  })
 })
 
 /**
@@ -90,8 +67,7 @@ router.post('/save', async (req: Request, res: Response) => {
           type === 'ai-generated'
             ? 'AI-generated patterns learned from URLs'
             : 'Community and user-created patterns',
-        learningStats:
-          type === 'ai-generated' ? patternGenerator.getStats() : undefined,
+        // Stats are now calculated on the frontend
       },
       patterns: allPatterns,
     }
@@ -116,90 +92,52 @@ router.post('/save', async (req: Request, res: Response) => {
 
 /**
  * GET /api/patterns/stats
- * Get statistics about collected URLs
+ * Get statistics (now handled on frontend, kept for compatibility)
  */
 router.get('/stats', (req: Request, res: Response) => {
-  try {
-    const stats = patternGenerator.getStats()
-    res.json({
-      success: true,
-      stats,
-      collectedUrls: patternGenerator.getCollectedUrls().length,
-    })
-  } catch (error) {
-    res.status(500).json({
-      error: 'Failed to get stats',
-      message: error instanceof Error ? error.message : 'Unknown error',
-    })
-  }
+  res.json({
+    success: true,
+    message: 'Stats are now calculated on the frontend',
+    stats: { totalUrls: 0, uniqueDomains: 0, fileExtensions: {}, protocols: {} },
+    collectedUrls: 0,
+  })
 })
 
 /**
  * GET /api/patterns/collected
- * Get all collected URLs
+ * Get all collected URLs (now handled on frontend, kept for compatibility)
  */
 router.get('/collected', (req: Request, res: Response) => {
-  try {
-    const urls = patternGenerator.getCollectedUrls()
-    res.json({
-      success: true,
-      urls,
-      count: urls.length,
-    })
-  } catch (error) {
-    res.status(500).json({
-      error: 'Failed to get collected URLs',
-      message: error instanceof Error ? error.message : 'Unknown error',
-    })
-  }
+  res.json({
+    success: true,
+    message: 'URL collection is now handled on the frontend',
+    urls: [],
+    count: 0,
+  })
 })
 
 /**
  * POST /api/patterns/add-urls
- * Add URLs to the collection
+ * Add URLs (now handled on frontend, kept for compatibility)
  */
 router.post('/add-urls', (req: Request, res: Response) => {
-  try {
-    const { urls } = req.body
-
-    if (!Array.isArray(urls)) {
-      return res.status(400).json({
-        error: 'URLs must be an array',
-      })
-    }
-
-    patternGenerator.addUrls(urls)
-
-    res.json({
-      success: true,
-      added: urls.length,
-      totalCollected: patternGenerator.getCollectedUrls().length,
-    })
-  } catch (error) {
-    res.status(500).json({
-      error: 'Failed to add URLs',
-      message: error instanceof Error ? error.message : 'Unknown error',
-    })
-  }
+  res.json({
+    success: true,
+    message: 'URL collection is now handled on the frontend',
+    added: 0,
+    totalCollected: 0,
+  })
 })
 
 /**
  * POST /api/patterns/clear
- * Clear collected URLs
+ * Clear URLs (now handled on frontend, kept for compatibility)
  */
 router.post('/clear', (req: Request, res: Response) => {
-  try {
-    patternGenerator.clearCollectedUrls()
-    res.json({
-      success: true,
-      message: 'Collected URLs cleared',
-    })
-  } catch (error) {
-    res.status(500).json({
-      error: 'Failed to clear URLs',
-      message: error instanceof Error ? error.message : 'Unknown error',
-    })
-  }
+  res.json({
+    success: true,
+    message: 'URL collection is now handled on the frontend',
+  })
 })
 
 export default router

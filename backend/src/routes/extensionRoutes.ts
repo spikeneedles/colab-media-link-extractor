@@ -1,5 +1,5 @@
 import express, { Router, Request, Response } from 'express'
-import DomainCrawler from '../domainCrawler'
+import DomainCrawler from '../domainCrawler.js'
 
 const router = Router()
 

@@ -236,7 +236,7 @@ export function HealthCheckMonitor() {
     }
   }
 
-  if (!healthData) {
+  if (!healthData || !healthData.services) {
     return (
       <Card className="bg-card border-border p-6">
         <div className="flex items-center justify-center gap-3 text-muted-foreground">
@@ -285,10 +285,10 @@ export function HealthCheckMonitor() {
           <Card className="bg-primary/30 border-border p-4">
             <div className="flex items-center justify-between mb-2">
               <span className="text-sm text-muted-foreground">Overall Status</span>
-              {getStatusIcon(healthData.status)}
+              {getStatusIcon(healthData?.status || 'unknown')}
             </div>
-            <Badge variant="outline" className={`text-sm uppercase ${getStatusColor(healthData.status)}`}>
-              {healthData.status}
+            <Badge variant="outline" className={`text-sm uppercase ${getStatusColor(healthData?.status || 'unknown')}`}>
+              {healthData?.status || 'Unknown'}
             </Badge>
           </Card>
 
@@ -298,7 +298,7 @@ export function HealthCheckMonitor() {
               <Clock size={20} className="text-accent" />
             </div>
             <div className="text-xl font-bold text-foreground">
-              {formatUptime(healthData.uptime)}
+              {formatUptime(healthData?.uptime || 0)}
             </div>
           </Card>
 
@@ -308,7 +308,7 @@ export function HealthCheckMonitor() {
               <Desktop size={20} className="text-accent" />
             </div>
             <div className="text-xl font-bold text-foreground font-mono">
-              v{healthData.version}
+              v{healthData?.version || '0.0.0'}
             </div>
           </Card>
 
@@ -318,7 +318,7 @@ export function HealthCheckMonitor() {
               <ChartLine size={20} className="text-accent" />
             </div>
             <Badge variant="outline" className="text-sm border-accent/30 text-accent uppercase">
-              {healthData.environment}
+              {healthData?.environment || 'Unknown'}
             </Badge>
           </Card>
         </div>
@@ -338,14 +338,14 @@ export function HealthCheckMonitor() {
                   <Desktop size={18} className="text-muted-foreground" />
                   <span className="text-sm font-semibold text-foreground">API</span>
                 </div>
-                {getStatusIcon(healthData.services.api.status)}
+                {getStatusIcon(healthData?.services?.api?.status || 'unknown')}
               </div>
               <div className="text-xs text-muted-foreground mb-1">
-                {healthData.services.api.message}
+                {healthData?.services?.api?.message || 'No message'}
               </div>
-              {healthData.services.api.responseTime && (
+              {healthData?.services?.api?.responseTime && (
                 <Badge variant="outline" className="text-xs">
-                  {healthData.services.api.responseTime}ms
+                  {healthData?.services?.api?.responseTime}ms
                 </Badge>
               )}
             </Card>
@@ -356,14 +356,14 @@ export function HealthCheckMonitor() {
                   <Database size={18} className="text-muted-foreground" />
                   <span className="text-sm font-semibold text-foreground">Storage</span>
                 </div>
-                {getStatusIcon(healthData.services.database.status)}
+                {getStatusIcon(healthData?.services?.database?.status || 'unknown')}
               </div>
               <div className="text-xs text-muted-foreground mb-1">
-                {healthData.services.database.message}
+                {healthData?.services?.database?.message || 'No message'}
               </div>
-              {healthData.services.database.details && (
+              {healthData?.services?.database?.details && (
                 <Badge variant="outline" className="text-xs">
-                  {healthData.services.database.details.jobsStored} jobs
+                  {healthData?.services?.database?.details?.jobsStored} jobs
                 </Badge>
               )}
             </Card>
@@ -374,14 +374,14 @@ export function HealthCheckMonitor() {
                   <ChartLine size={18} className="text-muted-foreground" />
                   <span className="text-sm font-semibold text-foreground">Crawler</span>
                 </div>
-                {getStatusIcon(healthData.services.crawler.status)}
+                {getStatusIcon(healthData?.services?.crawler?.status || 'unknown')}
               </div>
               <div className="text-xs text-muted-foreground mb-1">
-                {healthData.services.crawler.message}
+                {healthData?.services?.crawler?.message || 'No message'}
               </div>
-              {healthData.services.crawler.details && (
+              {healthData?.services?.crawler?.details && (
                 <Badge variant="outline" className="text-xs">
-                  {healthData.services.crawler.details.activeJobs} active
+                  {healthData?.services?.crawler?.details?.activeJobs} active
                 </Badge>
               )}
             </Card>
@@ -404,12 +404,12 @@ export function HealthCheckMonitor() {
                   <span className="text-sm font-semibold text-foreground">Memory Usage</span>
                 </div>
                 <Badge variant="outline" className="text-xs border-accent/30 text-accent">
-                  {healthData.system.memory.usagePercent}%
+                  {healthData?.system?.memory?.usagePercent || 0}%
                 </Badge>
               </div>
-              <Progress value={healthData.system.memory.usagePercent} className="h-2 mb-2" />
+              <Progress value={healthData?.system?.memory?.usagePercent || 0} className="h-2 mb-2" />
               <div className="text-xs text-muted-foreground">
-                {formatBytes(healthData.system.memory.used)} / {formatBytes(healthData.system.memory.total)}
+                {formatBytes(healthData?.system?.memory?.used || 0)} / {formatBytes(healthData?.system?.memory?.total || 0)}
               </div>
             </Card>
 
@@ -420,11 +420,11 @@ export function HealthCheckMonitor() {
                   <span className="text-sm font-semibold text-foreground">CPU Load</span>
                 </div>
                 <Badge variant="outline" className="text-xs border-accent/30 text-accent">
-                  {healthData.system.cpu.coresCount} cores
+                  {healthData?.system?.cpu?.coresCount || 0} cores
                 </Badge>
               </div>
               <div className="text-xs text-muted-foreground">
-                Load Average: {healthData.system.cpu.loadAverage.map(l => l.toFixed(2)).join(', ')}
+                Load Average: {healthData?.system?.cpu?.loadAverage?.map((l: number) => l.toFixed(2)).join(', ') || 'N/A'}
               </div>
             </Card>
           </div>
@@ -440,42 +440,42 @@ export function HealthCheckMonitor() {
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             <Card className="bg-primary/30 border-border p-3">
-              <div className="text-2xl font-bold text-accent">{healthData.metrics.totalJobs}</div>
+              <div className="text-2xl font-bold text-accent">{healthData?.metrics?.totalJobs || 0}</div>
               <div className="text-xs text-muted-foreground">Total Jobs</div>
             </Card>
 
             <Card className="bg-primary/30 border-border p-3">
-              <div className="text-2xl font-bold text-green-500">{healthData.metrics.completedJobs}</div>
+              <div className="text-2xl font-bold text-green-500">{healthData?.metrics?.completedJobs || 0}</div>
               <div className="text-xs text-muted-foreground">Completed</div>
             </Card>
 
             <Card className="bg-primary/30 border-border p-3">
-              <div className="text-2xl font-bold text-yellow-500">{healthData.metrics.activeJobs}</div>
+              <div className="text-2xl font-bold text-yellow-500">{healthData?.metrics?.activeJobs || 0}</div>
               <div className="text-xs text-muted-foreground">Active</div>
             </Card>
 
             <Card className="bg-primary/30 border-border p-3">
-              <div className="text-2xl font-bold text-red-500">{healthData.metrics.failedJobs}</div>
+              <div className="text-2xl font-bold text-red-500">{healthData?.metrics?.failedJobs || 0}</div>
               <div className="text-xs text-muted-foreground">Failed</div>
             </Card>
 
             <Card className="bg-primary/30 border-border p-3">
-              <div className="text-2xl font-bold text-accent">{healthData.metrics.totalLinksScanned.toLocaleString()}</div>
+              <div className="text-2xl font-bold text-accent">{(healthData?.metrics?.totalLinksScanned || 0).toLocaleString()}</div>
               <div className="text-xs text-muted-foreground">Links Scanned</div>
             </Card>
 
             <Card className="bg-primary/30 border-border p-3">
-              <div className="text-2xl font-bold text-accent">{healthData.metrics.averageJobDuration}s</div>
+              <div className="text-2xl font-bold text-accent">{healthData?.metrics?.averageJobDuration || 0}s</div>
               <div className="text-xs text-muted-foreground">Avg Duration</div>
             </Card>
 
             <Card className="bg-primary/30 border-border p-3">
-              <div className="text-2xl font-bold text-accent">{healthData.metrics.requestsPerMinute}</div>
+              <div className="text-2xl font-bold text-accent">{healthData?.metrics?.requestsPerMinute || 0}</div>
               <div className="text-xs text-muted-foreground">Requests/Min</div>
             </Card>
 
             <Card className="bg-primary/30 border-border p-3">
-              <div className="text-2xl font-bold text-accent">{healthData.system.process.pid}</div>
+              <div className="text-2xl font-bold text-accent">{healthData?.system?.process?.pid || 'N/A'}</div>
               <div className="text-xs text-muted-foreground">Process ID</div>
             </Card>
           </div>
@@ -496,7 +496,7 @@ export function HealthCheckMonitor() {
               <Lock size={24} className="text-accent" weight="fill" />
               <h3 className="text-xl font-bold text-foreground">SSL Certificate Monitoring</h3>
             </div>
-            {healthData.services.ssl && getStatusIcon(healthData.services.ssl.status)}
+            {healthData?.services?.ssl && getStatusIcon(healthData?.services?.ssl?.status || 'unknown')}
           </div>
 
           <div className="flex gap-2">
@@ -540,12 +540,12 @@ export function HealthCheckMonitor() {
             </div>
           )}
 
-          {healthData.services.ssl && (
+          {healthData?.services?.ssl && (
             <>
-              {healthData.services.ssl.certificates.length > 0 && (
+              {healthData?.services?.ssl?.certificates?.length > 0 && (
                 <ScrollArea className="h-[300px] rounded-md border border-border bg-primary/30 p-4">
                   <div className="space-y-4">
-                    {healthData.services.ssl.certificates.map((cert, index) => (
+                    {healthData?.services?.ssl?.certificates?.map((cert, index) => (
                       <motion.div
                         key={index}
                         initial={{ opacity: 0, y: 20 }}
@@ -645,13 +645,13 @@ export function HealthCheckMonitor() {
                 </ScrollArea>
               )}
 
-              {healthData.services.ssl.warnings.length > 0 && (
+              {healthData?.services?.ssl?.warnings?.length > 0 && (
                 <Alert className="border-yellow-500/30 bg-yellow-500/5">
                   <Warning size={16} className="text-yellow-500" weight="fill" />
                   <AlertDescription>
                     <div className="text-sm font-semibold text-foreground mb-2">Warnings:</div>
                     <ul className="text-xs text-muted-foreground space-y-1">
-                      {healthData.services.ssl.warnings.map((warning, i) => (
+                      {healthData?.services?.ssl?.warnings?.map((warning, i) => (
                         <li key={i}>• {warning}</li>
                       ))}
                     </ul>
@@ -659,13 +659,13 @@ export function HealthCheckMonitor() {
                 </Alert>
               )}
 
-              {healthData.services.ssl.errors.length > 0 && (
+              {healthData?.services?.ssl?.errors?.length > 0 && (
                 <Alert className="border-red-500/30 bg-red-500/5">
                   <XCircle size={16} className="text-red-500" weight="fill" />
                   <AlertDescription>
                     <div className="text-sm font-semibold text-foreground mb-2">Errors:</div>
                     <ul className="text-xs text-muted-foreground space-y-1">
-                      {healthData.services.ssl.errors.map((error, i) => (
+                      {healthData?.services?.ssl?.errors?.map((error, i) => (
                         <li key={i}>• {error}</li>
                       ))}
                     </ul>
@@ -673,8 +673,8 @@ export function HealthCheckMonitor() {
                 </Alert>
               )}
 
-              {healthData.services.ssl.certificates.length === 0 && 
-               healthData.services.ssl.errors.length === 0 && (
+              {(healthData?.services?.ssl?.certificates?.length === 0) && 
+               (healthData?.services?.ssl?.errors?.length === 0) && (
                 <Alert className="border-accent/30 bg-accent/5">
                   <AlertDescription className="text-foreground text-sm">
                     <Lock size={14} className="inline mr-1" />
@@ -685,7 +685,7 @@ export function HealthCheckMonitor() {
             </>
           )}
 
-          {!healthData.services.ssl && sslDomains.length > 0 && (
+          {!healthData?.services?.ssl && sslDomains.length > 0 && (
             <Alert className="border-accent/30 bg-accent/5">
               <AlertDescription className="text-foreground text-sm">
                 <Lock size={14} className="inline mr-1" />

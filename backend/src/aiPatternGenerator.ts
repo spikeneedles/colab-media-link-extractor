@@ -1,4 +1,12 @@
-import Anthropic from "@anthropic-ai/sdk";
+/**
+ * @deprecated This backend pattern generator has been migrated to the frontend.
+ * Pattern generation now uses Gemini AI via Spark on the frontend (src/lib/patternGenerator.ts).
+ * This file is kept for reference only and is no longer used.
+ * 
+ * Migration: All AI pattern generation now happens in the browser using
+ * the existing Spark framework integration with Gemini 2.5 Flash.
+ */
+
 import * as fs from "fs";
 import { URL } from "url";
 
@@ -24,12 +32,11 @@ interface AnalysisCluster {
 }
 
 export class AIPatternGenerator {
-  private client: Anthropic;
   private collectedUrls: string[] = [];
   private analysisCache: Map<string, PatternAnalysis> = new Map();
 
   constructor() {
-    this.client = new Anthropic();
+    console.warn('AIPatternGenerator is deprecated. Use frontend pattern generator instead.')
   }
 
   /**
@@ -91,71 +98,11 @@ export class AIPatternGenerator {
   }
 
   /**
-   * Analyze URL clusters with Claude AI to generate patterns
+   * @deprecated This method is no longer used. Pattern generation moved to frontend.
    */
   async analyzeAndGeneratePatterns(): Promise<PatternAnalysis[]> {
-    if (this.collectedUrls.length < 3) {
-      console.warn("Need at least 3 URLs to generate meaningful patterns");
-      return [];
-    }
-
-    const clusters = this.clusterUrls();
-    const generatedPatterns: PatternAnalysis[] = [];
-
-    for (const clusterGroup of clusters) {
-      try {
-        const response = await (this.client as any).messages.create({
-          model: "claude-3-5-sonnet-20241022",
-          max_tokens: 1024,
-          messages: [
-            {
-              role: "user",
-              content: `Analyze this cluster of URLs and generate a regex pattern that matches them all.
-
-Cluster commonality: ${clusterGroup.commonality}
-URLs: ${clusterGroup.cluster.map((p: any) => p.url || p.exampleUrls?.[0]).join(", ")}
-
-You MUST respond with ONLY valid JSON, no markdown, no explanation. Structure:
-{
-  "regex": "/^pattern$/",
-  "name": "Short descriptive name",
-  "description": "What this pattern matches",
-  "tags": ["tag1", "tag2"],
-  "confidence": 0.85,
-  "category": "url-filter"
-}`,
-            },
-          ],
-        });
-
-        const content = response.content[0];
-        if (content.type === "text") {
-          try {
-            const parsed = JSON.parse(content.text);
-
-            const pattern: PatternAnalysis = {
-              id: `ai-gen-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`,
-              name: parsed.name || "AI Generated Pattern",
-              description: parsed.description || "Generated from URL analysis",
-              category: parsed.category || "url-filter",
-              pattern: parsed.regex || "/^pattern$/",
-              tags: parsed.tags || ["ai-generated"],
-              exampleUrls: clusterGroup.cluster.map((p: any) => p.url || p.exampleUrls?.[0]).filter(Boolean) as string[],
-              confidence: parsed.confidence || 0.75,
-              commonTraits: [clusterGroup.commonality],
-            };
-
-            generatedPatterns.push(pattern);
-          } catch (parseError) {
-            console.warn("Failed to parse AI response:", content.text);
-          }
-        }
-      } catch (error) {
-        console.error("Error analyzing cluster:", error);
-      }
-    }
-
-    return generatedPatterns;
+    console.warn("Pattern generation has been moved to the frontend. Use src/lib/patternGenerator.ts instead.");
+    return [];
   }
 
   /**

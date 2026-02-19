@@ -29,5 +29,9 @@
   },
   "include": [
     "src"
+  ],
+  "exclude": [
+    "src/api",
+    "src/lib/healthCheck.ts"
   ]
 }

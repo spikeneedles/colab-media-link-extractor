@@ -39,6 +39,9 @@ import { PatternRepository } from '@/components/PatternRepository'
 import { CommunityPatternHub } from '@/components/CommunityPatternHub'
 import { HealthCheckMonitor } from '@/components/HealthCheckMonitor'
 import { AndroidMediaServer } from '@/components/AndroidMediaServer'
+import { StremioIntegration } from '@/components/StremioIntegration'
+import { ConfigSimulator } from '@/components/ConfigSimulator'
+import { ApkDeepScanner } from '@/components/ApkDeepScanner'
 
 type MediaFilter = 'all' | 'video' | 'audio'
 type ContentTypeFilter = 'all' | 'movie' | 'tv-series' | 'live-tv' | 'vod' | 'unknown'
@@ -3144,6 +3147,28 @@ function App() {
                 mediaType: link.mediaType
               })) : []}
             />
+
+            <Separator className="bg-border" />
+
+            <StremioIntegration
+              extractedLinks={result ? result.linksWithCounts.map(link => ({
+                url: link.url,
+                title: link.title,
+                category: link.category,
+                contentType: link.contentType
+              })) : []}
+              onLinksExported={() => {
+                toast.success('Links exported to Stremio addon!')
+              }}
+            />
+
+            <Separator className="bg-border" />
+
+            <ConfigSimulator />
+
+            <Separator className="bg-border" />
+
+            <ApkDeepScanner />
 
             {result && !isScanning && (
               <>

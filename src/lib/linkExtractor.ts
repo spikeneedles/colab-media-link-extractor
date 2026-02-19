@@ -106,7 +106,7 @@ export function extractLinks(content: string): string[] {
   const links: string[] = []
 
   const urlRegex = /(https?|rtsp|rtmps?|mms|mmsh|rtp|udp|hls|dash|rtmpe|rtmpt|rtmpte|rtmfp|rtsps?|mmst?|ftp|ftps|sftp):\/\/[^\s<>"{}|\\^`\[\]]+/gi
-  const urlMatches = content.match(urlRegex) || []
+  const urlMatches: string[] = content.match(urlRegex) || []
   
   urlMatches.forEach(url => {
     const cleanUrl = url.replace(/[,;:)}\]]+$/, '')
@@ -2426,7 +2426,7 @@ export function parseKodiFile(content: string, fileName: string): string[] {
   }
   
   else if (lowerFileName.endsWith('.xsp')) {
-    const matches = content.match(/<path>(.*?)<\/path>/gi) || []
+    const matches: string[] = content.match(/<path>(.*?)<\/path>/gi) || []
     matches.forEach(match => {
       const url = match.replace(/<\/?path>/gi, '').trim()
       if (isValidMediaUrl(url)) {
@@ -2445,7 +2445,7 @@ export function parseKodiFile(content: string, fileName: string): string[] {
   }
   
   else if (lowerFileName === 'addon.xml' || lowerFileName.includes('addon')) {
-    const urlMatches = content.match(/(https?|rtsp|rtmps?):\/\/[^\s<>"{}|\\^`\[\]]+/gi) || []
+    const urlMatches: string[] = content.match(/(https?|rtsp|rtmps?):\/\/[^\s<>"{}|\\^`\[\]]+/gi) || []
     urlMatches.forEach(url => {
       if (isValidMediaUrl(url) || url.includes('api') || url.includes('stream') || url.includes('media')) {
         links.push(url)
@@ -2454,7 +2454,7 @@ export function parseKodiFile(content: string, fileName: string): string[] {
   }
   
   else if (lowerFileName.endsWith('.py')) {
-    const stringMatches = content.match(/['"]((https?|rtsp|rtmps?|mms|mmsh|rtp|udp):\/\/[^'"]+)['"]/gi) || []
+    const stringMatches: string[] = content.match(/['"]((https?|rtsp|rtmps?|mms|mmsh|rtp|udp):\/\/[^'"]+)['"]/gi) || []
     stringMatches.forEach(match => {
       const url = match.replace(/['"]/g, '')
       if (isValidMediaUrl(url)) {
@@ -2462,7 +2462,7 @@ export function parseKodiFile(content: string, fileName: string): string[] {
       }
     })
     
-    const variableMatches = content.match(/url\s*=\s*['"]([^'"]+)['"]/gi) || []
+    const variableMatches: string[] = content.match(/url\s*=\s*['"]([^'"]+)['"]/gi) || []
     variableMatches.forEach(match => {
       const url = match.replace(/url\s*=\s*['"]|['"]/gi, '')
       if (url.startsWith('http') || url.startsWith('rtsp') || url.startsWith('rtmp')) {
@@ -2474,7 +2474,7 @@ export function parseKodiFile(content: string, fileName: string): string[] {
   }
   
   else if (lowerFileName === 'sources.xml' || lowerFileName === 'favourites.xml') {
-    const pathMatches = content.match(/<(?:path|thumb)>(.*?)<\/(?:path|thumb)>/gi) || []
+    const pathMatches: string[] = content.match(/<(?:path|thumb)>(.*?)<\/(?:path|thumb)>/gi) || []
     pathMatches.forEach(match => {
       const url = match.replace(/<\/?(?:path|thumb)>/gi, '').trim()
       if (isValidMediaUrl(url)) {
@@ -2484,7 +2484,7 @@ export function parseKodiFile(content: string, fileName: string): string[] {
   }
   
   else if (lowerFileName === 'advancedsettings.xml' || lowerFileName === 'playercorefactory.xml') {
-    const urlMatches = content.match(/(https?|rtsp|rtmps?|mms|mmsh):\/\/[^\s<>"{}|\\^`\[\]]+/gi) || []
+    const urlMatches: string[] = content.match(/(https?|rtsp|rtmps?|mms|mmsh):\/\/[^\s<>"{}|\\^`\[\]]+/gi) || []
     urlMatches.forEach(url => {
       if (isValidMediaUrl(url)) {
         links.push(url)

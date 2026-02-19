@@ -10,12 +10,15 @@ const projectRoot = process.env.PROJECT_ROOT || import.meta.dirname
 
 // https://vite.dev/config/
 export default defineConfig({
+  server: {
+    port: 5001,
+  },
   plugins: [
     react(),
     tailwindcss(),
     // DO NOT REMOVE
     createIconImportProxy() as PluginOption,
-    sparkPlugin() as PluginOption,
+    sparkPlugin({ port: 5001 }) as PluginOption,
   ],
   resolve: {
     alias: {
