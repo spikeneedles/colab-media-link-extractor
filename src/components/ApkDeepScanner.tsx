@@ -74,7 +74,7 @@ const ErrorDisplay = ({ error }: { error: ErrorData | string | null }) => {
     <Alert variant="destructive" className="border-red-300 bg-red-50">
       <div className="space-y-3">
         <div className="flex items-start gap-2">
-          <WarningCircle className="w-5 h-5 text-red-600 flex-shrink-0 mt-0.5" />
+          <WarningCircle className="w-5 h-5 text-red-600 shrink-0 mt-0.5" />
           <div className="flex-1">
             <p className="font-semibold text-red-900">{errorData.message}</p>
           </div>

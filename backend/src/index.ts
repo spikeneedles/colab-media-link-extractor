@@ -15,6 +15,7 @@ import stremioRoutes from './routes/stremioRoutes.js'
 import apkRuntimeRoutes from './routes/apkRuntimeRoutes.js'
 import runtimeCaptureRoutes from './routes/runtimeCaptureRoutes.js'
 import aiRoutes from './routes/aiRoutes.js'
+import kodiSyncRoutes from './routes/kodiSyncRoutes.js'
 import axios from 'axios'
 import { parse as parseContentRange } from 'content-range'
 
@@ -24,7 +25,7 @@ const __dirname = path.dirname(__filename)
 dotenv.config()
 
 const app = express()
-const PORT = process.env.PORT || 3001
+const PORT = parseInt(process.env.PORT || '3001', 10)
 const CORS_ORIGIN = process.env.CORS_ORIGIN?.split(',').map(o => o.trim()) || ['http://localhost:5173']
 const MAX_CONCURRENT_BROWSERS = parseInt(process.env.MAX_CONCURRENT_BROWSERS || '5', 10)
 const CACHE_ENABLED = process.env.CACHE_ENABLED === 'true'
@@ -56,6 +57,11 @@ const limiter = rateLimit({
   standardHeaders: true,
   legacyHeaders: false,
   message: 'Too many requests from this IP, please try again later.',
+  skip: (req: Request) => {
+    // Skip rate limiting for localhost (development)
+    const isLocalhost = req.ip === '::1' || req.ip === '127.0.0.1'
+    return isLocalhost
+  }
 })
 
 app.use('/api/', limiter)
@@ -124,6 +130,16 @@ app.get('/api/', (req: Request, res: Response) => {
         description: 'Gemini 2.5 Flash AI endpoints',
         availability: 'Requires GEMINI_API_KEY environment variable',
       },
+      kodiSync: {
+        path: '/api/kodi-sync',
+        description: 'Kodi sync endpoint for Repository Auto-Scraper',
+        methods: {
+          'POST /api/kodi-sync/receive': 'Queue auto-scrape job from Kodi extension',
+          'GET /api/kodi-sync/status/:jobId': 'Get job status and progress',
+          'GET /api/kodi-sync/results/:jobId': 'Get job results (JSON/M3U/CSV)',
+          'POST /api/kodi-sync/batch': 'Queue multiple URLs',
+        },
+      },
     },
     documentation: `${baseUrl}/api/auth/docs`,
   })
@@ -144,6 +160,9 @@ app.use('/api/runtime-capture', runtimeCaptureRoutes)
 
 // Register AI routes (Gemini 2.5 Flash endpoints)
 app.use('/api/ai', aiRoutes)
+
+// Register Kodi Sync routes (Receiver endpoint for Repository Auto-Scraper)
+app.use('/api/kodi-sync', kodiSyncRoutes)
 
 interface BrowserOptions {
   timeout?: number
@@ -822,7 +841,7 @@ app.use((err: Error, req: Request, res: Response, next: NextFunction) => {
   res.status(500).json({ error: 'Internal server error' })
 })
 
-const server = app.listen(PORT, () => {
+const server = app.listen(PORT, '0.0.0.0', () => {
   console.log(`🚀 Puppeteer backend running on http://localhost:${PORT}`)
   console.log(`📊 Max concurrent browsers: ${MAX_CONCURRENT_BROWSERS}`)
   console.log(`🗄️  Cache ${CACHE_ENABLED ? 'enabled' : 'disabled'}`)
@@ -839,6 +858,10 @@ const server = app.listen(PORT, () => {
     }
   }
   console.log(`📖 API documentation: http://localhost:${PORT}/api/auth/docs`)
+}).on('error', (err) => {
+  console.error('❌ FATAL: Failed to start server:', err)
+  console.error('Port', PORT, 'may be in use or inaccessible')
+  process.exit(1)
 })
 
 const shutdown = async () => {

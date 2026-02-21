@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings version="2">
+
+  <!-- ═══════════════════════════════════════════════════ -->
+  <!--  General                                            -->
+  <!-- ═══════════════════════════════════════════════════ -->
+  <category label="32000">
+
+    <setting id="enabled" type="boolean" label="32001" help="32002">
+      <default>true</default>
+    </setting>
+
+    <setting id="api_url" type="string" label="32003" help="32004">
+      <default>http://localhost:3001</default>
+    </setting>
+
+    <setting id="api_key" type="string" label="32005" help="32006" option="hidden">
+      <default></default>
+    </setting>
+
+    <setting id="heartbeat_interval" type="integer" label="32007" help="32008">
+      <default>30</default>
+      <constraints>
+        <minimum>10</minimum>
+        <maximum>300</maximum>
+        <step>5</step>
+      </constraints>
+    </setting>
+
+  </category>
+
+  <!-- ═══════════════════════════════════════════════════ -->
+  <!--  Metadata                                           -->
+  <!-- ═══════════════════════════════════════════════════ -->
+  <category label="32010">
+
+    <setting id="send_repo_meta" type="boolean" label="32011" help="32012">
+      <default>true</default>
+    </setting>
+
+  </category>
+
+  <!-- ═══════════════════════════════════════════════════ -->
+  <!--  Advanced                                           -->
+  <!-- ═══════════════════════════════════════════════════ -->
+  <category label="32020">
+
+    <setting id="debug_log" type="boolean" label="32021" help="32022">
+      <default>false</default>
+    </setting>
+
+    <!-- Read-only display of the generated session UUID -->
+    <setting id="session_id" type="string" label="32023" help="32024" option="readonly">
+      <default></default>
+    </setting>
+
+  </category>
+
+  <!-- ═══════════════════════════════════════════════════ -->
+  <!--  Manual Scan                                        -->
+  <!-- ═══════════════════════════════════════════════════ -->
+  <category label="32030">
+
+    <setting id="deep_scan" type="boolean" label="32037" help="32038">
+      <default>true</default>
+    </setting>
+
+    <setting id="scan_archives" type="boolean" label="32039" help="32040">
+      <default>true</default>
+    </setting>
+
+    <setting id="scan_sqlite" type="boolean" label="32041" help="32042">
+      <default>true</default>
+    </setting>
+
+    <setting id="max_file_mb" type="integer" label="32043" help="32044">
+      <default>20</default>
+      <constraints>
+        <minimum>1</minimum>
+        <maximum>100</maximum>
+        <step>1</step>
+      </constraints>
+    </setting>
+
+    <setting id="scan_local_configs" type="action" label="32031" help="32032"
+             action="RunScript($INFO[System.AddonPath(plugin.service.medialinkscanner)]/scan.py,mode=local)" />
+
+    <setting id="scan_all_addons" type="action" label="32047" help="32048"
+         action="RunScript($INFO[System.AddonPath(plugin.service.medialinkscanner)]/scan.py,mode=all)" />
+
+    <setting id="scan_extension_sources" type="action" label="32033" help="32034"
+             action="RunScript($INFO[System.AddonPath(plugin.service.medialinkscanner)]/scan.py,mode=extension)" />
+
+    <setting id="scan_backend_repos" type="action" label="32035" help="32036"
+             action="RunScript($INFO[System.AddonPath(plugin.service.medialinkscanner)]/scan.py,mode=backend)" />
+
+    <setting id="scan_install_guide" type="action" label="32045" help="32046"
+         action="RunScript($INFO[System.AddonPath(plugin.service.medialinkscanner)]/scan.py,mode=help)" />
+
+  </category>
+
+</settings>

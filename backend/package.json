@@ -22,6 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
+    "@octokit/rest": "^22.0.1",
     "@types/multer": "^2.0.0",
     "axios": "^1.7.0",
     "cheerio": "^1.0.0-rc.12",

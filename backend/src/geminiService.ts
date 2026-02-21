@@ -95,13 +95,16 @@ export class GeminiService {
       : request.prompt
 
     try {
-      const result = await this.model.generateContent(
-        [{ text: systemPrompt }, { text: fullPrompt }],
-        {
+      const result = await this.model.generateContent({
+        contents: [
+          { role: 'user', parts: [{ text: systemPrompt }] },
+          { role: 'user', parts: [{ text: fullPrompt }] }
+        ],
+        generationConfig: {
           temperature: request.temperature ?? 0.7,
           maxOutputTokens: request.maxTokens ?? 1024,
         }
-      )
+      })
 
       const response = result.response.text()
 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.service.medialinkscanner"
+       name="Media Link Scanner"
+       version="1.0.0"
+       provider-name="MediaLinkScanner">
+
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+
+  <!-- Background service: starts at Kodi login, runs until shutdown -->
+  <extension point="xbmc.service" library="service.py" start="login"/>
+
+  <!-- Program addon: Shows up in Programs menu -->
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>executable</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Media Link Scanner Bridge Service</summary>
+    <description lang="en_GB">
+      Monitors Kodi playback events and sends stream metadata — including source URL,
+      HTTP headers (Referer, User-Agent), addon repository info, and content identifiers —
+      to the Media Link Scanner backend for automated source repository detection and crawling.
+    </description>
+    <disclaimer lang="en_GB">
+      Requires the Media Link Scanner backend to be running locally or on your network.
+    </disclaimer>
+    <platform>all</platform>
+    <license>MIT</license>
+    <source>https://github.com/your-org/media-link-scanner</source>
+    <news>
+      v1.0.0 - Initial release. Full metadata extraction across 5 layers.
+    </news>
+  </extension>
+
+</addon>

@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+
+# ── Categories ──────────────────────────────────────────
+msgctxt "#32000"
+msgid "General"
+msgstr ""
+
+msgctxt "#32010"
+msgid "Metadata"
+msgstr ""
+
+msgctxt "#32020"
+msgid "Advanced"
+msgstr ""
+
+# ── General settings ────────────────────────────────────
+msgctxt "#32001"
+msgid "Enable Media Link Scanner"
+msgstr ""
+
+msgctxt "#32002"
+msgid "When enabled, playback events are monitored and sent to the backend."
+msgstr ""
+
+msgctxt "#32003"
+msgid "Backend URL"
+msgstr ""
+
+msgctxt "#32004"
+msgid "Base URL of the Media Link Scanner backend (e.g. http://localhost:3001)"
+msgstr ""
+
+msgctxt "#32005"
+msgid "API Key"
+msgstr ""
+
+msgctxt "#32006"
+msgid "Optional API key for authenticated backends. Leave blank if auth is disabled."
+msgstr ""
+
+msgctxt "#32007"
+msgid "Heartbeat Interval (seconds)"
+msgstr ""
+
+msgctxt "#32008"
+msgid "How often to send a keep-alive signal to the backend (10–300 seconds)."
+msgstr ""
+
+# ── Metadata settings ───────────────────────────────────
+msgctxt "#32011"
+msgid "Send Addon & Repository Metadata"
+msgstr ""
+
+msgctxt "#32012"
+msgid "Include Kodi addon ID, author, source repository URL, and HTTP headers in the payload. Recommended for best source detection."
+msgstr ""
+
+# ── Advanced settings ───────────────────────────────────
+msgctxt "#32021"
+msgid "Enable Debug Logging"
+msgstr ""
+
+msgctxt "#32022"
+msgid "Write detailed logs to the Kodi log file. Disable in production."
+msgstr ""
+
+msgctxt "#32023"
+msgid "Session ID"
+msgstr ""
+
+msgctxt "#32024"
+msgid "Unique identifier for this Kodi instance. Auto-generated on first run."
+msgstr ""
+
+# ── Manual Scan ───────────────────────────────────────
+msgctxt "#32030"
+msgid "Manual Scan"
+msgstr ""
+
+msgctxt "#32031"
+msgid "Scan Local Kodi Configs"
+msgstr ""
+
+msgctxt "#32032"
+msgid "Scan Kodi addon/config files for media URLs without playback."
+msgstr ""
+
+msgctxt "#32033"
+msgid "Scan Extension Sources"
+msgstr ""
+
+msgctxt "#32034"
+msgid "Scan addon_data configs for media URLs without playback."
+msgstr ""
+
+msgctxt "#32035"
+msgid "Scan Backend Repos"
+msgstr ""
+
+msgctxt "#32036"
+msgid "Scan addon.xml source/website URLs to queue backend repository crawls."
+msgstr ""
+
+msgctxt "#32037"
+msgid "Enable Deep Scan"
+msgstr ""
+
+msgctxt "#32038"
+msgid "Scan additional Kodi folders (slower but more thorough)."
+msgstr ""
+
+msgctxt "#32039"
+msgid "Scan Archives (ZIP/RAR/7z)"
+msgstr ""
+
+msgctxt "#32040"
+msgid "Extract URLs from archives when supported by Kodi Python."
+msgstr ""
+
+msgctxt "#32041"
+msgid "Scan SQLite Databases"
+msgstr ""
+
+msgctxt "#32042"
+msgid "Search text columns in .db/.sqlite files for URLs."
+msgstr ""
+
+msgctxt "#32043"
+msgid "Max File Size (MB)"
+msgstr ""
+
+msgctxt "#32044"
+msgid "Skip files larger than this size during scans."
+msgstr ""
+
+msgctxt "#32045"
+msgid "Archive Scan Install Guide"
+msgstr ""
+
+msgctxt "#32046"
+msgid "Show install steps for RAR/7z scanning dependencies."
+msgstr ""
+
+msgctxt "#32047"
+msgid "Scan All Addons & Configs"
+msgstr ""
+
+msgctxt "#32048"
+msgid "Scan installed addons, addon_data, and current configs in one pass."
+msgstr ""

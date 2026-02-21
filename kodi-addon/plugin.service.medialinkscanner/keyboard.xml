@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap>
+  <global>
+    <keyboard>
+      <!-- Press M key to open Media Link Scanner -->
+      <m>RunAddon(plugin.service.medialinkscanner)</m>
+      <!-- Alternative: Ctrl+M for Media Link Scanner -->
+      <c mod="ctrl">RunAddon(plugin.service.medialinkscanner)</c>
+    </keyboard>
+  </global>
+</keymap>

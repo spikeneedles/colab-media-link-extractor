@@ -42,9 +42,14 @@ import { AndroidMediaServer } from '@/components/AndroidMediaServer'
 import { StremioIntegration } from '@/components/StremioIntegration'
 import { ConfigSimulator } from '@/components/ConfigSimulator'
 import { ApkDeepScanner } from '@/components/ApkDeepScanner'
+import { KodiSyncDashboard } from '@/components/KodiSyncDashboard'
+import { APIContentExtractor } from '@/components/APIContentExtractor'
+
+import { FeatureModal } from '@/components/FeatureModal'
 
 type MediaFilter = 'all' | 'video' | 'audio'
 type ContentTypeFilter = 'all' | 'movie' | 'tv-series' | 'live-tv' | 'vod' | 'unknown'
+type FeatureModalType = 'file-scanner' | 'crawler' | 'scraping-rules' | 'pagination' | 'archive' | 'repo-scraper' | 'provider-presets' | 'pattern-generator' | 'pattern-library' | 'pattern-repo' | 'community-patterns' | 'addon-comparison' | 'health-monitor' | 'android-server' | 'stremio' | 'config-simulator' | 'apk-scanner' | 'api-extractor' | null
 type ChannelViewMode = 'list' | 'grid'
 type ChannelUrlFilter = 'all' | 'with-urls' | 'without-urls'
 type SortOption = 'count-desc' | 'count-asc' | 'alpha-asc' | 'alpha-desc' | 'category-asc' | 'category-desc'
@@ -153,6 +158,8 @@ function App() {
   const [customM3UAllDesc, setCustomM3UAllDesc] = useState('')
   const [customM3USortBy, setCustomM3USortBy] = useState<'title' | 'category' | 'url' | 'none'>('none')
   const [customM3UGroupByCategory, setCustomM3UGroupByCategory] = useState(false)
+
+  const [openFeatureModal, setOpenFeatureModal] = useState<FeatureModalType>(null)
 
   useEffect(() => {
     if (isDarkMode) {
@@ -2529,6 +2536,170 @@ function App() {
           </motion.div>
         )}
 
+        <KodiSyncDashboard />
+
+        <Card className="bg-card border-border p-6 mt-6">
+          <div className="space-y-4">
+            <div>
+              <h2 className="text-xl font-bold text-foreground mb-2">Quick Access Tools</h2>
+              <p className="text-sm text-muted-foreground">Click any button below to access additional features</p>
+            </div>
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
+              <Button
+                onClick={() => setOpenFeatureModal('file-scanner')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <UploadSimple size={24} className="text-accent" />
+                <span className="text-xs font-medium">File Scanner</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('crawler')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <Globe size={24} className="text-accent" />
+                <span className="text-xs font-medium">Crawler Manager</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('scraping-rules')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <FunnelSimple size={24} className="text-accent" />
+                <span className="text-xs font-medium">Scraping Rules</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('pagination')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <List size={24} className="text-accent" />
+                <span className="text-xs font-medium">Pagination</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('archive')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <Package size={24} className="text-accent" />
+                <span className="text-xs font-medium">Archive Manager</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('repo-scraper')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <Database size={24} className="text-accent" />
+                <span className="text-xs font-medium">Repository Scraper</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('provider-presets')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <Sparkle size={24} className="text-accent" />
+                <span className="text-xs font-medium">Provider Presets</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('pattern-generator')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <MagnifyingGlass size={24} className="text-accent" />
+                <span className="text-xs font-medium">Pattern Generator</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('pattern-library')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <FileText size={24} className="text-accent" />
+                <span className="text-xs font-medium">Pattern Library</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('pattern-repo')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <Globe size={24} className="text-accent" />
+                <span className="text-xs font-medium">Pattern Repository</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('community-patterns')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <SquaresFour size={24} className="text-accent" />
+                <span className="text-xs font-medium">Community Patterns</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('addon-comparison')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <CheckCircle size={24} className="text-accent" />
+                <span className="text-xs font-medium">Addon Comparison</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('health-monitor')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <Pulse size={24} className="text-accent" />
+                <span className="text-xs font-medium">Health Monitor</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('android-server')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <Play size={24} className="text-accent" />
+                <span className="text-xs font-medium">Android Server</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('stremio')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <Television size={24} className="text-accent" />
+                <span className="text-xs font-medium">Stremio Integration</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('config-simulator')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <FileText size={24} className="text-accent" />
+                <span className="text-xs font-medium">Config Simulator</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('apk-scanner')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <Package size={24} className="text-accent" />
+                <span className="text-xs font-medium">APK Scanner</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('api-extractor')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <Globe size={24} className="text-accent" />
+                <span className="text-xs font-medium">API Extractor</span>
+              </Button>
+            </div>
+          </div>
+        </Card>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'file-scanner'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="File Scanner"
+          description="Scan files, folders, and archives for media links"
+          icon={<UploadSimple size={24} />}
+        >
         <Card className="bg-card border-border p-6 md:p-8">
           <div className="space-y-6">
             <div
@@ -3080,106 +3251,215 @@ function App() {
                 </motion.div>
               )}
             </div>
+          </div>
+          </Card>
+        </FeatureModal>
 
+        <FeatureModal
+          isOpen={openFeatureModal === 'crawler'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Crawler Manager"
+          description="Configure and manage web crawlers"
+          icon={<Globe size={24} />}
+        >
+          <CrawlerManager />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'scraping-rules'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Scraping Rules Manager"
+          description="Define custom scraping rules and patterns"
+          icon={<FunnelSimple size={24} />}
+        >
+          <ScrapingRulesManager />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'pagination'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Pagination Manager"
+          description="Configure pagination settings for web scraping"
+          icon={<List size={24} />}
+        >
+          <PaginationManager />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'archive'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Archive Manager"
+          description="Browse and manage archived scans"
+          icon={<Package size={24} />}
+        >
+          <ArchiveManager />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'repo-scraper'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Repository Auto Scraper"
+          description="Automatically scrape Git repositories"
+          icon={<Database size={24} />}
+        >
+          <RepositoryAutoScraper />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'provider-presets'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Provider Presets"
+          description="Quick access to popular streaming providers"
+          icon={<Sparkle size={24} />}
+        >
+          <ProviderPresets onScanComplete={(results) => {
+            console.log('Bulk scan results:', results)
+          }} />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'pattern-generator'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Pattern Generator"
+          description="Generate custom extraction patterns with AI"
+          icon={<MagnifyingGlass size={24} />}
+        >
+          <PatternGenerator />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'pattern-library'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Pattern Library"
+          description="Browse and manage your saved patterns"
+          icon={<FileText size={24} />}
+        >
+          <PatternLibrary />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'pattern-repo'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Pattern Repository"
+          description="Access community-shared extraction patterns"
+          icon={<Globe size={24} />}
+        >
+          <PatternRepository onImportPattern={(pattern) => {
+            toast.success(`Pattern "${pattern.name}" ready to use!`)
+            console.log('Imported pattern:', pattern)
+          }} />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'community-patterns'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Community Pattern Hub"
+          description="Share and discover community extraction patterns"
+          icon={<SquaresFour size={24} />}
+        >
+          <CommunityPatternHub onImportPattern={(pattern) => {
+            toast.success(`Imported pattern "${pattern.name}" from community hub!`)
+            console.log('Imported community pattern:', pattern)
+          }} />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'addon-comparison'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Addon Comparison"
+          description="Compare and analyze Kodi addons"
+          icon={<CheckCircle size={24} />}
+        >
+          <AddonComparison />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'health-monitor'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Health Check Monitor"
+          description="Monitor system health and performance"
+          icon={<Pulse size={24} />}
+        >
+          <HealthCheckMonitor />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'android-server'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Android Media Server"
+          description="Stream media to Android devices"
+          icon={<Play size={24} />}
+        >
+          <AndroidMediaServer 
+            linksWithCounts={result ? result.linksWithCounts.map(link => ({
+              url: link.url,
+              title: link.title,
+              category: link.category,
+              mediaType: link.mediaType
+            })) : []}
+          />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'stremio'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Stremio Integration"
+          description="Export and sync with Stremio"
+          icon={<Television size={24} />}
+        >
+          <StremioIntegration
+            extractedLinks={result ? result.linksWithCounts.map(link => ({
+              url: link.url,
+              title: link.title,
+              category: link.category,
+              contentType: link.contentType
+            })) : []}
+            onLinksExported={() => {
+              toast.success('Links exported to Stremio addon!')
+            }}
+          />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'config-simulator'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Config Simulator"
+          description="Test and simulate configuration files"
+          icon={<FileText size={24} />}
+        >
+          <ConfigSimulator />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'apk-scanner'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="APK Deep Scanner"
+          description="Deep scan Android packages for media links"
+          icon={<Package size={24} />}
+        >
+          <ApkDeepScanner />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'api-extractor'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="API Content Extractor"
+          description="Extract stream URLs from content APIs like Roku, Stremio, M3U playlists"
+          icon={<Globe size={24} />}
+        >
+          <APIContentExtractor />
+        </FeatureModal>
+
+        {result && !isScanning && (
+          <>
             <Separator className="bg-border" />
-
-            <CrawlerManager />
-
-            <Separator className="bg-border" />
-
-            <ScrapingRulesManager />
-
-            <Separator className="bg-border" />
-
-            <PaginationManager />
-
-            <Separator className="bg-border" />
-
-            <ArchiveManager />
-
-            <Separator className="bg-border" />
-
-            <RepositoryAutoScraper />
-
-            <Separator className="bg-border" />
-
-            <ProviderPresets onScanComplete={(results) => {
-              console.log('Bulk scan results:', results)
-            }} />
-
-            <Separator className="bg-border" />
-
-            <PatternGenerator />
-
-            <Separator className="bg-border" />
-
-            <PatternLibrary />
-
-            <Separator className="bg-border" />
-
-            <PatternRepository onImportPattern={(pattern) => {
-              toast.success(`Pattern "${pattern.name}" ready to use!`)
-              console.log('Imported pattern:', pattern)
-            }} />
-
-            <Separator className="bg-border" />
-
-            <CommunityPatternHub onImportPattern={(pattern) => {
-              toast.success(`Imported pattern "${pattern.name}" from community hub!`)
-              console.log('Imported community pattern:', pattern)
-            }} />
-
-            <Separator className="bg-border" />
-
-            <AddonComparison />
-
-            <Separator className="bg-border" />
-
-            <HealthCheckMonitor />
-
-            <Separator className="bg-border" />
-
-            <AndroidMediaServer 
-              linksWithCounts={result ? result.linksWithCounts.map(link => ({
-                url: link.url,
-                title: link.title,
-                category: link.category,
-                mediaType: link.mediaType
-              })) : []}
-            />
-
-            <Separator className="bg-border" />
-
-            <StremioIntegration
-              extractedLinks={result ? result.linksWithCounts.map(link => ({
-                url: link.url,
-                title: link.title,
-                category: link.category,
-                contentType: link.contentType
-              })) : []}
-              onLinksExported={() => {
-                toast.success('Links exported to Stremio addon!')
-              }}
-            />
-
-            <Separator className="bg-border" />
-
-            <ConfigSimulator />
-
-            <Separator className="bg-border" />
-
-            <ApkDeepScanner />
-
-            {result && !isScanning && (
-              <>
-                <Separator className="bg-border" />
-                
-                <motion.div
-                  initial={{ opacity: 0, y: 20 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.3 }}
-                  className="space-y-6"
-                >
+            
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.3 }}
+              className="space-y-6"
+            >
                   <div className="flex flex-wrap gap-3">
                     <Badge variant="outline" className="px-4 py-2 text-sm font-mono border-accent/30 text-accent">
                       <CheckCircle size={16} className="mr-2" />
@@ -4769,8 +5049,6 @@ function App() {
                 </motion.div>
               </>
             )}
-          </div>
-        </Card>
 
         <motion.footer
           initial={{ opacity: 0 }}
