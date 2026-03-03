@@ -1824,6 +1824,230 @@ export const SEARCH_SOURCE_PRESETS: TaggedPreset[] = [
       thumbnailSelector: 'div.item-image img',
     },
   },
+
+  // ════════════════════════════════════════════════════════════════
+  // FREE MOVIE STREAMING SITES
+  // ════════════════════════════════════════════════════════════════
+
+  {
+    id: '123moviesfree',
+    name: '123MoviesFree',
+    group: 'streaming',
+    description: 'Free movie streaming — 123moviesfree.net, 123moviesfree.uno, trtmovie.com',
+    baseUrl: 'https://123moviesfree.net/',
+    searchMethod: 'url',
+    urlTemplate: 'https://123moviesfree.net/search/{query}',
+    resultSelectors: {
+      containerSelector: 'div.item, div.movie-item',
+      linkSelector: 'a.movie-link, a[href*="/watch/"]',
+      titleSelector: 'h3.title, .movie-title',
+      thumbnailSelector: 'img.poster, img.movie-poster',
+      metadataSelectors: {
+        year: '.year, span.year',
+        rating: '.rating, span.rating',
+      },
+    },
+    pagination: { maxPages: 5 },
+    browserOptions: { blockImages: false, blockStyles: false, blockFonts: true, timeout: 30000 },
+  },
+
+  {
+    id: 'fmovies',
+    name: 'FMovies',
+    group: 'streaming',
+    description: 'Free movie streaming — fmovies.to, fmovies.com, fmovies.co, fmovies.tv',
+    baseUrl: 'https://fmovies.to/',
+    searchMethod: 'url',
+    urlTemplate: 'https://fmovies.to/search/{query}',
+    resultSelectors: {
+      containerSelector: 'div.item, div.movie-box',
+      linkSelector: 'a.ml-item, a[href*="/movie/"]',
+      titleSelector: 'h3.title, .movie-title',
+      thumbnailSelector: 'img.poster, img.movie-cover',
+      metadataSelectors: {
+        year: '.year, span.year',
+        imdb: '.imdb, span.imdb',
+      },
+    },
+    pagination: { maxPages: 5 },
+    browserOptions: { blockImages: false, blockStyles: false, blockFonts: true, timeout: 30000 },
+  },
+
+  {
+    id: 'popcornmovies',
+    name: 'PopcornMovies',
+    group: 'streaming',
+    description: 'Free movie streaming — popcornmovies.to, popcornmovies.org',
+    baseUrl: 'https://popcornmovies.to/',
+    searchMethod: 'url',
+    urlTemplate: 'https://popcornmovies.to/search/{query}',
+    resultSelectors: {
+      containerSelector: 'div.item, div.movie-item',
+      linkSelector: 'a.movie-link, a[href*="/movie/"]',
+      titleSelector: 'h3, .title',
+      thumbnailSelector: 'img.poster',
+      metadataSelectors: {
+        year: '.year',
+        rating: '.rating',
+      },
+    },
+    pagination: { maxPages: 5 },
+    browserOptions: { blockImages: false, blockStyles: false, blockFonts: true, timeout: 30000 },
+  },
+
+  {
+    id: 'dorawatch',
+    name: 'DoraWatch',
+    group: 'streaming',
+    description: 'Free movie & anime streaming — dorawatch.org, dorawatch.net',
+    baseUrl: 'https://dorawatch.org/',
+    searchMethod: 'url',
+    urlTemplate: 'https://dorawatch.org/search?query={query}',
+    resultSelectors: {
+      containerSelector: 'div.flw-item, div.movie-item',
+      linkSelector: 'a[href*="/watch/"], a.film-poster-ahref',
+      titleSelector: 'h3.film-name, .title',
+      thumbnailSelector: 'img.film-poster-img, img.poster',
+      metadataSelectors: {
+        year: '.year',
+        category: '.category',
+      },
+    },
+    pagination: { maxPages: 5 },
+    browserOptions: { blockImages: false, blockStyles: false, blockFonts: true, timeout: 30000 },
+  },
+
+  {
+    id: 'goojara',
+    name: 'Goojara',
+    group: 'streaming',
+    description: 'Free movie & TV streaming — goojara.to, goojara.ch',
+    baseUrl: 'https://goojara.to/',
+    searchMethod: 'url',
+    urlTemplate: 'https://goojara.to/search?q={query}',
+    resultSelectors: {
+      containerSelector: 'div.item, li.item',
+      linkSelector: 'a.movie-link, a[href*="/movie/"]',
+      titleSelector: 'h3, .title',
+      thumbnailSelector: 'img.poster',
+      metadataSelectors: {
+        year: '.year',
+        rating: '.rating',
+      },
+    },
+    pagination: { maxPages: 5 },
+    browserOptions: { blockImages: false, blockStyles: false, blockFonts: true, timeout: 30000 },
+  },
+
+  {
+    id: 'solarmovie',
+    name: 'SolarMovie',
+    group: 'streaming',
+    description: 'Free movie & TV streaming — solarmovie.pe, solarmovie.so, solarmovie.life',
+    baseUrl: 'https://solarmovie.pe/',
+    searchMethod: 'url',
+    urlTemplate: 'https://solarmovie.pe/search/{query}',
+    resultSelectors: {
+      containerSelector: 'div.item, div.movie-box',
+      linkSelector: 'a.movie-link, a[href*="/movie/"]',
+      titleSelector: 'h3, .title',
+      thumbnailSelector: 'img.poster, img.cover',
+      metadataSelectors: {
+        year: '.year',
+        rating: '.rating',
+      },
+    },
+    pagination: { maxPages: 5 },
+    browserOptions: { blockImages: false, blockStyles: false, blockFonts: true, timeout: 30000 },
+  },
+
+  {
+    id: 'flixtor',
+    name: 'FlixTor',
+    group: 'streaming',
+    description: 'Free movie & series streaming — flixtor.to, flixtor.vg, flixtor.fm, flixtor.bz, flixtor.li, flixtor.fi, flixtor.gd, flixtor.si, flixtor.tk, flixtor.sx, flixtor.nu, flixtor.vc, flixtor.ch, flixtormovie.com',
+    baseUrl: 'https://flixtor.to/',
+    searchMethod: 'url',
+    urlTemplate: 'https://flixtor.to/search?q={query}',
+    resultSelectors: {
+      containerSelector: 'div.item, div.movie-item',
+      linkSelector: 'a.movie-link, a[href*="/movie/"], a[href*="/series/"]',
+      titleSelector: 'h3, .title, .film-name',
+      thumbnailSelector: 'img.poster, img.cover',
+      metadataSelectors: {
+        year: '.year',
+        rating: '.rating',
+      },
+    },
+    pagination: { maxPages: 5 },
+    browserOptions: { blockImages: false, blockStyles: false, blockFonts: true, timeout: 30000 },
+  },
+
+  {
+    id: '1hd',
+    name: '1HD',
+    group: 'streaming',
+    description: 'Free streaming HD movies & TV — 1hd.to, 1hd.biz',
+    baseUrl: 'https://1hd.to/',
+    searchMethod: 'url',
+    urlTemplate: 'https://1hd.to/search?q={query}',
+    resultSelectors: {
+      containerSelector: 'div.item, div.movie-item',
+      linkSelector: 'a.movie-link, a[href*="/movie/"]',
+      titleSelector: 'h3, .title',
+      thumbnailSelector: 'img.poster, img.cover',
+      metadataSelectors: {
+        year: '.year',
+        rating: '.rating',
+      },
+    },
+    pagination: { maxPages: 5 },
+    browserOptions: { blockImages: false, blockStyles: false, blockFonts: true, timeout: 30000 },
+  },
+
+  {
+    id: 'projectfreetv',
+    name: 'Project Free TV',
+    group: 'streaming',
+    description: 'Free TV series streaming — projectfreetv.us, projectfreetv.lol, projectfreetv.ms, projectfreetv.network',
+    baseUrl: 'https://projectfreetv.us/',
+    searchMethod: 'url',
+    urlTemplate: 'https://projectfreetv.us/search/?q={query}',
+    resultSelectors: {
+      containerSelector: 'div.item, li.show-item',
+      linkSelector: 'a.show-link, a[href*="/show/"]',
+      titleSelector: 'h3, .title',
+      thumbnailSelector: 'img.poster, img.cover',
+      metadataSelectors: {
+        year: '.year',
+        season: '.season',
+      },
+    },
+    pagination: { maxPages: 5 },
+    browserOptions: { blockImages: false, blockStyles: false, blockFonts: true, timeout: 30000 },
+  },
+
+  {
+    id: 'ridomovies',
+    name: 'RidoMovies',
+    group: 'streaming',
+    description: 'Free movie & series streaming — ridomovies.tv, ridomovies.com, ridomovies.xyz, ridomovies.online',
+    baseUrl: 'https://ridomovies.tv/',
+    searchMethod: 'url',
+    urlTemplate: 'https://ridomovies.tv/search/{query}',
+    resultSelectors: {
+      containerSelector: 'div.item, div.movie-item',
+      linkSelector: 'a.movie-link, a[href*="/movie/"], a[href*="/series/"]',
+      titleSelector: 'h3, .title',
+      thumbnailSelector: 'img.poster, img.cover',
+      metadataSelectors: {
+        year: '.year',
+        rating: '.rating',
+      },
+    },
+    pagination: { maxPages: 5 },
+    browserOptions: { blockImages: false, blockStyles: false, blockFonts: true, timeout: 30000 },
+  },
 ]
 
 // ── Lookup helpers ────────────────────────────────────────────────────────────

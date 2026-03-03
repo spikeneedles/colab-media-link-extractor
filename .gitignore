@@ -45,3 +45,4 @@ certbot/conf/
 certbot/www/
 certbot/*.log
 certbot/certbot-config.env
+backend/data/drive_tokens.json
