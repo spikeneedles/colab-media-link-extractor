@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="France3.fr_HD" tvg-name="France 3 HD (720p) [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:13.703Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" indexer="playlist-harvester",France 3 HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd

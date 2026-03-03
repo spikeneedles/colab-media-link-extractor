@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://network10.livebox.co.in/network10hls/live.m3u8",
+  "title": "Network 10",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Network10.in@SD",
+  "tvgLogo": "https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:35.579Z"
+}

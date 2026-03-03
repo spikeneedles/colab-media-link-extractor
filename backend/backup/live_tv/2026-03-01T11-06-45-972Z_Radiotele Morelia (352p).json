@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://linkrt.ddns.net:8080/hls/rtmorelia_MID.m3u8",
+  "title": "Radiotele Morelia (352p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Radiotele.mx@SD",
+  "tvgLogo": "https://i.imgur.com/XpcCZvu.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:45.972Z"
+}

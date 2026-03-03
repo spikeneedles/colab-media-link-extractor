@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTLZwei.de_HD" tvg-name="RTL Zwei HD (1080p) [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:50.906Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" indexer="playlist-harvester",RTL Zwei HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8

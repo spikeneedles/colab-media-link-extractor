@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ITV4.uk_SD" tvg-name="ITV4 (1080p) [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:20.906Z" tvg-logo="https://i.imgur.com/DYI4IA2.png" indexer="playlist-harvester",ITV4 (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ConcordTV.us_SD" tvg-name="Concord TV (Concord CA) (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:05.340Z" tvg-logo="https://i.imgur.com/1vh2a3H.png" indexer="playlist-harvester",Concord TV (Concord CA) (720p)
+https://concordca.cablecast.tv/live/stream-2/live.m3u8

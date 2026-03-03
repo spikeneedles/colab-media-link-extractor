@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CIVMDT.ca_SD" tvg-name="Télé-Québec (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:00.841Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" indexer="playlist-harvester",Télé-Québec (720p)
+https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8

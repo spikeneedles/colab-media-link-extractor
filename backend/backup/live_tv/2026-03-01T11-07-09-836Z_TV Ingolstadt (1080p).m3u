@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVIngolstadt.de_SD" tvg-name="TV Ingolstadt (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:09.836Z" tvg-logo="https://i.imgur.com/Ymh11VV.png" indexer="playlist-harvester",TV Ingolstadt (1080p)
+https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8

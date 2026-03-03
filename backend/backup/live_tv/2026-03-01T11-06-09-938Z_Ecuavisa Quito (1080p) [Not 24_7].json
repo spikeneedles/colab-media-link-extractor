@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8",
+  "title": "Ecuavisa Quito (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Ecuavisa.ec@Quito",
+  "tvgLogo": "https://i.imgur.com/Hl5wowk.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:09.938Z"
+}

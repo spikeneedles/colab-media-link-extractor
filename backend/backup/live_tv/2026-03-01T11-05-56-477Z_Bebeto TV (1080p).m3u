@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BebetoTV.do_SD" tvg-name="Bebeto TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:56.477Z" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bebeto-tv-do.png" indexer="playlist-harvester",Bebeto TV (1080p)
+https://mlb.essastream.com:8081/bebetotelevision/index.m3u8

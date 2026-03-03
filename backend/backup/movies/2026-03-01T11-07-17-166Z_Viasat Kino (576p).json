@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://89.254.128.5:22280/viasat_kino/index.m3u8",
+  "title": "Viasat Kino (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "ViasatKino.ua@SD",
+  "tvgLogo": "https://i.imgur.com/io0WAkA.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:07:17.166Z"
+}

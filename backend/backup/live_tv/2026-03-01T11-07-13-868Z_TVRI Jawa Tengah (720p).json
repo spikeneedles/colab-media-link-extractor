@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
+  "title": "TVRI Jawa Tengah (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TVRI.id@CentralJava",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:13.868Z"
+}

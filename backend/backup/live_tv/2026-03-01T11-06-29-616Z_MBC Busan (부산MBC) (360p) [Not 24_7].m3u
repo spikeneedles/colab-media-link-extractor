@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HLKUDTV.kr_SD" tvg-name="MBC Busan (부산MBC) (360p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.616Z" tvg-logo="https://i.imgur.com/jiFOYi5.png" indexer="playlist-harvester",MBC Busan (부산MBC) (360p) [Not 24/7]
+https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8

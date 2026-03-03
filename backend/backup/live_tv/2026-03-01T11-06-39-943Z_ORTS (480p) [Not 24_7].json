@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8",
+  "title": "ORTS (480p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "ORTSTV.nl@SD",
+  "tvgLogo": "https://i.imgur.com/RZM4Myo.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:39.943Z"
+}

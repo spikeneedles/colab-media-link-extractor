@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTVMaastricht.nl_SD" tvg-name="RTV Maastricht (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:51.503Z" tvg-logo="https://i.imgur.com/nYl8H2e.png" indexer="playlist-harvester",RTV Maastricht (720p) [Not 24/7]
+http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8

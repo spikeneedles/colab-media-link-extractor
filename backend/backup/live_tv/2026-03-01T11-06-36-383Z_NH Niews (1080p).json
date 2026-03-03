@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live",
+  "title": "NH Niews (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General;News",
+  "tvgId": "NH.nl@SD",
+  "tvgLogo": "https://i.imgur.com/SPkK4md.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:36.383Z"
+}

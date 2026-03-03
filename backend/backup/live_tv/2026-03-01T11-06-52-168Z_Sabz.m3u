@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SabzTV.ir_SD" tvg-name="Sabz" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:52.168Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Golestan.png/240px-Logo_Golestan.png" indexer="playlist-harvester",Sabz
+https://ncdn.telewebion.com/sabz/live/playlist.m3u8

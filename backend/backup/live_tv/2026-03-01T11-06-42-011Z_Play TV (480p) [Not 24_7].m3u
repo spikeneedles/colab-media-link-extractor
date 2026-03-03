@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PlayTV.gr_SD" tvg-name="Play TV (480p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:42.011Z" tvg-logo="https://i.imgur.com/JWFOYuD.png" indexer="playlist-harvester",Play TV (480p) [Not 24/7]
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8

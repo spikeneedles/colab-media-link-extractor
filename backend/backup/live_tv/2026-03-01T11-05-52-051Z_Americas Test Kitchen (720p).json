@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://aegis-cloudfront-1.tubi.video/0094c1fc-7c41-45d0-af7a-6bbb62d6cd6e/playlist.m3u8",
+  "title": "Americas Test Kitchen (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Cooking",
+  "tvgId": "AmericasTestKitchen.us@SD",
+  "tvgLogo": "https://i.imgur.com/prMkTsZ.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:52.051Z"
+}

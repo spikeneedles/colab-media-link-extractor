@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SterkTV.be_SD" tvg-name="Stêrk TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:57.411Z" tvg-logo="https://i.imgur.com/bIheNAI.png" indexer="playlist-harvester",Stêrk TV (1080p)
+https://muzkurd.com/sterktv/sterk/playlist.m3u8

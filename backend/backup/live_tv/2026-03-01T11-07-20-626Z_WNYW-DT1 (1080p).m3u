@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WNYWDT1.us_SD" tvg-name="WNYW-DT1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:20.626Z" tvg-logo="https://i.imgur.com/zZd9Tkt.png" indexer="playlist-harvester",WNYW-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8

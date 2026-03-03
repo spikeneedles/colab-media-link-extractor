@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ShraddhaTV.lk_SD" tvg-name="Shraddha TV (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:54.571Z" tvg-logo="https://i.imgur.com/sZ3fEMi.png" indexer="playlist-harvester",Shraddha TV (480p)
+https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8

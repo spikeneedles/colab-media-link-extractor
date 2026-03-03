@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://rumble.com/live-hls-dvr/4c14o3/playlist.m3u8",
+  "title": "Mereja TV (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "MerejaTV.et@SD",
+  "tvgLogo": "https://i.imgur.com/PaAacxF.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:30.665Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canale8.it_SD" tvg-name="Canale 8 (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.409Z" tvg-logo="https://i.imgur.com/xwYmFgj.png" indexer="playlist-harvester",Canale 8 (480p)
+http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8

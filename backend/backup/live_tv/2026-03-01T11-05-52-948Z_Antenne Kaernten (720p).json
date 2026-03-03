@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8",
+  "title": "Antenne Kaernten (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "AntenneKaernten.at@SD",
+  "tvgLogo": "https://i.imgur.com/nUKFDsb.jpeg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:52.948Z"
+}

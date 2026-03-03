@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live.salttelevision.com/app/stream/abr.m3u8",
+  "title": "Salt TV (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "SaltTV.ug@SD",
+  "tvgLogo": "https://i.imgur.com/AK9nE6Y.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:52.425Z"
+}

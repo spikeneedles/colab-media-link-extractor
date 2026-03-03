@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8",
+  "title": "Óčko Gold (540p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "OckoGold.cz@SD",
+  "tvgLogo": "https://i.imgur.com/nrWNyLc.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:38.397Z"
+}

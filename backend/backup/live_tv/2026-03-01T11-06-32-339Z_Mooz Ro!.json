@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8",
+  "title": "Mooz Ro!",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "MoozRo.ro@SD",
+  "tvgLogo": "https://i.imgur.com/Ft24x5T.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:32.339Z"
+}

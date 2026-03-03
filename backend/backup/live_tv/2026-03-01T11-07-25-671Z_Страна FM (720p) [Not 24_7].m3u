@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StranaFM.ru_SD" tvg-name="Страна FM (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:25.671Z" tvg-logo="https://i.imgur.com/WsPlKJJ.png" indexer="playlist-harvester",Страна FM (720p) [Not 24/7]
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8

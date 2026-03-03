@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SMGFootballChannel.cn_SD" tvg-name="SMG Football Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:55.582Z" tvg-logo="https://i.imgur.com/BaBr5fM.png" indexer="playlist-harvester",SMG Football Channel
+http://49.113.179.174:4022/udp/238.125.2.142:5140

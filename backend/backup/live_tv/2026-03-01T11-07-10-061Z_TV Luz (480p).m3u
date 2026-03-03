@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVLuz.do_SD" tvg-name="TV Luz (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:10.061Z" tvg-logo="https://i.imgur.com/FZUQ2WP.png" indexer="playlist-harvester",TV Luz (480p)
+https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8

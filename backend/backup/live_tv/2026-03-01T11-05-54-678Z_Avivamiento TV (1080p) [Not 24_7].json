@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
+  "title": "Avivamiento TV (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "AvivamientoTV.co@SD",
+  "tvgLogo": "https://i.imgur.com/ydoBp3b.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:54.678Z"
+}

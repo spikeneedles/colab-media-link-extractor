@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8",
+  "title": "Lolwe TV (576p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "LolweTV.ke@SD",
+  "tvgLogo": "https://i.imgur.com/tjZ1cOP.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:27.366Z"
+}

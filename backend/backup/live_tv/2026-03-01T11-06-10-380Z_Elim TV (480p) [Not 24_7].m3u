@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ElimTV.sv_SD" tvg-name="Elim TV (480p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.380Z" tvg-logo="https://i.imgur.com/payIg0N.png" indexer="playlist-harvester",Elim TV (480p) [Not 24/7]
+https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://ncdn.telewebion.com/ilam/live/playlist.m3u8",
+  "title": "Ilam",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "IlamTV.ir@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/240px-Ilam_TV.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:19.469Z"
+}

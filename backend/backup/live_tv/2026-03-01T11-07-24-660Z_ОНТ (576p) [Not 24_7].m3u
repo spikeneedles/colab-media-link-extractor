@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ONT.by_SD" tvg-name="ОНТ (576p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:24.660Z" tvg-logo="https://i.imgur.com/LbHdHEk.png" indexer="playlist-harvester",ОНТ (576p) [Not 24/7]
+https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8

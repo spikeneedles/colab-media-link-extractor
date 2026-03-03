@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Italia2TV.it_SD" tvg-name="Italia 2 TV (480p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:20.815Z" tvg-logo="https://i.imgur.com/TDSgG28.png" indexer="playlist-harvester",Italia 2 TV (480p) [Geo-blocked]
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8

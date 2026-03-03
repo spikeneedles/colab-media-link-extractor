@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BadaKhabar.in_SD" tvg-name="Bada Khabar (432p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:55.080Z" tvg-logo="https://i.imgur.com/XiwygDJ.png" indexer="playlist-harvester",Bada Khabar (432p)
+https://stream.ashokadigital.net/badakhabar/badakhabar/index.m3u8

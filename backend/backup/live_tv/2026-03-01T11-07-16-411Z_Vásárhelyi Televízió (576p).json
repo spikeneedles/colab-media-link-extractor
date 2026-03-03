@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8",
+  "title": "Vásárhelyi Televízió (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "VasarhelyiTelevizio.hu@SD",
+  "tvgLogo": "https://i.imgur.com/WOEqdmx.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:16.411Z"
+}

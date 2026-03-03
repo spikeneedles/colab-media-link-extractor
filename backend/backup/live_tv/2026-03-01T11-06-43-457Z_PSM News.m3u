@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PSMNews.mv_SD" tvg-name="PSM News" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:43.457Z" tvg-logo="https://i.imgur.com/mGuBbPv.png" indexer="playlist-harvester",PSM News
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8

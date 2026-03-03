@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://uiptv.do.am/1ufc/602079679/playlist.m3u8",
+  "title": "Шансон ТВ (576p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "ShansonTV.ru@SD",
+  "tvgLogo": "https://i.imgur.com/Fk4sd8t.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:26.332Z"
+}

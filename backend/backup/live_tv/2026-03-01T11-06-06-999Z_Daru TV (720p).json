@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8",
+  "title": "Daru TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "DaruTV.hu@SD",
+  "tvgLogo": "https://i.imgur.com/0P7QHde.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:06.999Z"
+}

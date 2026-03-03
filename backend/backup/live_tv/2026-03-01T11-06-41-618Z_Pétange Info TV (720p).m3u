@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PetangeInfoTV.lu_SD" tvg-name="Pétange Info TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:41.618Z" tvg-logo="https://i.imgur.com/qeaD5Az.png" indexer="playlist-harvester",Pétange Info TV (720p)
+https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8

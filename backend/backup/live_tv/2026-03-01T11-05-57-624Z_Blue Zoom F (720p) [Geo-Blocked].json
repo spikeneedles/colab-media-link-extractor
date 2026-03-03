@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8",
+  "title": "Blue Zoom F (720p) [Geo-Blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "BlueZoomF.ch@SD",
+  "tvgLogo": "https://i.imgur.com/A5iwahB.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:57.624Z"
+}

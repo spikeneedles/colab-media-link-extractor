@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4E.gr_SD" tvg-name="4E (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:47.390Z" tvg-logo="https://i.imgur.com/Na0UCV7.png" indexer="playlist-harvester",4E (1080p)
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8

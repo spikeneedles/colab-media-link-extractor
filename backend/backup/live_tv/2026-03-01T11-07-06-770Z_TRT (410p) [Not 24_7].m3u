@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT.ve_SD" tvg-name="TRT (410p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:06.770Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG" indexer="playlist-harvester",TRT (410p) [Not 24/7]
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8

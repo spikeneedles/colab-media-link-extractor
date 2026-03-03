@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR",
+  "title": "Mosaique FM (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "MosaiqueFM.tn@SD",
+  "tvgLogo": "https://i.imgur.com/GDUykah.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:32.421Z"
+}

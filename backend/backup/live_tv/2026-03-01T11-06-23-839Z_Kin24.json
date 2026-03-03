@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://51.254.199.122:8080/kin24/index.m3u8",
+  "title": "Kin24",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "Kin24.cd@SD",
+  "tvgLogo": "https://i.imgur.com/Lak10Wo.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:23.839Z"
+}

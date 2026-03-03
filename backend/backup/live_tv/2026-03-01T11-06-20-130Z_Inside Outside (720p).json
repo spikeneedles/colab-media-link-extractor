@@ -1,0 +1,12 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://all3media-international-insideoutside-1-au.samsung.wurl.tv/playlist.m3u8",
+  "title": "Inside Outside (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:20.130Z"
+}

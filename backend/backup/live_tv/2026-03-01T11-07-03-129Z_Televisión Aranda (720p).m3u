@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TelevisionAranda.es_SD" tvg-name="Televisión Aranda (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:03.129Z" tvg-logo="https://i.imgur.com/FwIIdKG.png" indexer="playlist-harvester",Televisión Aranda (720p)
+https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8

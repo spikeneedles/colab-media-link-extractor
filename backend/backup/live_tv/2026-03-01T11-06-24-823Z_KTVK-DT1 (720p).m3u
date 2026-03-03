@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KTVKDT1.us_SD" tvg-name="KTVK-DT1 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.823Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/512px-KTVK_logo.svg.png" indexer="playlist-harvester",KTVK-DT1 (720p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8

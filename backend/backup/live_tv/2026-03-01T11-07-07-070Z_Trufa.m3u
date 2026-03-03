@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Trufa" tvg-name="Trufa" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:07.070Z" indexer="playlist-harvester",Trufa
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/728c02aa-8bf4-4711-a911-30c6d1ad8570/manifest.m3u8

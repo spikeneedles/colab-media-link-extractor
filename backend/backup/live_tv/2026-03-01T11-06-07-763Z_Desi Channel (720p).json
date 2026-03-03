@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8",
+  "title": "Desi Channel (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "DesiChannel.in@SD",
+  "tvgLogo": "https://desichannel.in/wp-content/uploads/2025/01/desi-channel.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:07.763Z"
+}

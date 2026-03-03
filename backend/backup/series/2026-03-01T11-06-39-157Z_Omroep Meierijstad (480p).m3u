@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OmroepMeierijstad.nl_SD" tvg-name="Omroep Meierijstad (480p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.157Z" tvg-logo="https://i.imgur.com/sYzh01C.png" indexer="playlist-harvester",Omroep Meierijstad (480p)
+https://ms2.mx-cd.net/dtv-09/186-793530/Omroep_Meierij_TV.smil/playlist.m3u8

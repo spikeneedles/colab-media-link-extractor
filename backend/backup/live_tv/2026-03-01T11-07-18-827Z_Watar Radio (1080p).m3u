@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WatarRadio.ae_SD" tvg-name="Watar Radio (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:18.827Z" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/d2/ad/fullhd_48adf2291d08266c05ed1b0c24f326c86b1095b7.png" indexer="playlist-harvester",Watar Radio (1080p)
+https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChivacoaTVInternacional.ve_SD" tvg-name="Chivacoa TV Internacional (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.892Z" tvg-logo="https://i.imgur.com/9rbwZFY.png" indexer="playlist-harvester",Chivacoa TV Internacional (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8

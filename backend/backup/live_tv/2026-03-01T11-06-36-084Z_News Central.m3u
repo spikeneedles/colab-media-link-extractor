@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NewsCentral.ng_SD" tvg-name="News Central" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:36.084Z" tvg-logo="https://i.imgur.com/qvCgI8N.png" indexer="playlist-harvester",News Central
+https://wf.newscentral.ng:8443/hls/stream.m3u8

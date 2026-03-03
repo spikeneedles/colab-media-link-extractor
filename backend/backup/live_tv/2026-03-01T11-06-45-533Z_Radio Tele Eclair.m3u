@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioTeleEclair.ht_SD" tvg-name="Radio Tele Eclair" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:45.533Z" tvg-logo="https://i.imgur.com/jV30pSq.png" indexer="playlist-harvester",Radio Tele Eclair
+https://play.streamhaiti.com:3585/live/radioteleeclairlive.m3u8

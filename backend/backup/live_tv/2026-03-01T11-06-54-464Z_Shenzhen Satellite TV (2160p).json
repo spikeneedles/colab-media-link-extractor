@@ -1,0 +1,13 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8",
+  "title": "Shenzhen Satellite TV (2160p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "ShenzhenSatelliteTV.cn@SD",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:54.464Z"
+}

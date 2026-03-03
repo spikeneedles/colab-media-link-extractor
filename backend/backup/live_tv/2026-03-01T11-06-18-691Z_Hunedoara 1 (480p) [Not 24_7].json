@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://netstreaming.eu/hd1.m3u8",
+  "title": "Hunedoara 1 (480p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Hunedoara1.ro@SD",
+  "tvgLogo": "https://i.imgur.com/9bz15ad.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:18.691Z"
+}

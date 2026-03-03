@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8",
+  "title": "Unife TV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "UnifeTV.pe@SD",
+  "tvgLogo": "https://i.imgur.com/lVpDLVU.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:15.491Z"
+}

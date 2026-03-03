@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel5.sg_SD" tvg-name="Channel 5 [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.250Z" tvg-logo="https://i.imgur.com/9NKp5aV.png" indexer="playlist-harvester",Channel 5 [Geo-blocked]
+https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8

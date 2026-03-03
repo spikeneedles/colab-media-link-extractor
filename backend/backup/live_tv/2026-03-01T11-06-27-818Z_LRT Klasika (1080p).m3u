@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LRTKlasika.lt_SD" tvg-name="LRT Klasika (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:27.818Z" tvg-logo="https://i.imgur.com/Fa8Vhu0.png" indexer="playlist-harvester",LRT Klasika (1080p)
+https://stream-live.lrt.lt/klasika/master.m3u8

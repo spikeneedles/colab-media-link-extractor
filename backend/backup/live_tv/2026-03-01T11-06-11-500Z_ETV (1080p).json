@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd",
+  "title": "ETV (1080p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "ETV.mn@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/512px-ETV_Mongolia_logo.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:11.500Z"
+}

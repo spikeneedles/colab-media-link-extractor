@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GSTV.in_SD" tvg-name="GS TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:16.294Z" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/GS_TV.png" indexer="playlist-harvester",GS TV (576p)
+https://mumt05.tangotv.in/GSTV/index.m3u8

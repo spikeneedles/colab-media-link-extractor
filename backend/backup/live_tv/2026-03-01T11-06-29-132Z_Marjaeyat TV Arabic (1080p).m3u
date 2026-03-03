@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MarjaeyatTVArabic.iq_SD" tvg-name="Marjaeyat TV Arabic (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.132Z" tvg-logo="https://i.imgur.com/LsYYkUI.png" indexer="playlist-harvester",Marjaeyat TV Arabic (1080p)
+https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8

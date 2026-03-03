@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TBSNewsCS.jp_SD" tvg-name="TBS News (544p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.943Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TBS_News_2020_logo.png/512px-TBS_News_2020_logo.png" indexer="playlist-harvester",TBS News (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11

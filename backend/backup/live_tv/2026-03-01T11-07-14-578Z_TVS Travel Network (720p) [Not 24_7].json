@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8",
+  "title": "TVS Travel Network (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Travel",
+  "tvgId": "TVSTravelNetwork.us@SD",
+  "tvgLogo": "https://i.imgur.com/vSFf5Ce.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:14.578Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DTVDenBosch.nl_SD" tvg-name="DTV Den Bosch (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:09.261Z" tvg-logo="https://i.imgur.com/aFBNbsy.png" indexer="playlist-harvester",DTV Den Bosch (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&protocol=https&service=wowza&type=live

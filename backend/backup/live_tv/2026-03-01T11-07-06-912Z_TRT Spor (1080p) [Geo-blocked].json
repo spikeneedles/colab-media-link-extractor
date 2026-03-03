@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+  "title": "TRT Spor (1080p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "TRTSpor.tr@SD",
+  "tvgLogo": "https://i.imgur.com/6tv0zxh.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:06.912Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Armenia1.am_SD" tvg-name="Armenia 1" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:53.605Z" tvg-logo="https://i.imgur.com/HIwJ4lc.png" indexer="playlist-harvester",Armenia 1
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8

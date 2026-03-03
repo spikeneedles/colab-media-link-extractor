@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8",
+  "title": "Sangaji TV (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "SangajiTV.id@SD",
+  "tvgLogo": "https://i.imgur.com/4rTNT8F.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:52.747Z"
+}

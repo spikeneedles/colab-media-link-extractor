@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8",
+  "title": "A12 TV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "A12TV.ci@SD",
+  "tvgLogo": "https://i.imgur.com/JgnjgvF.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:48.449Z"
+}

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streamer2.nexgen.bz/10-TNC/index.m3u8",
+  "title": "The National Channel 10 (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "TheNationalChannel10.bz@SD",
+  "tvgLogo": "https://i.imgur.com/j2SJ9tA.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:04.361Z"
+}

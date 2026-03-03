@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PrimaTV.it_SD" tvg-name="Prima TV Sicilia (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:43.095Z" tvg-logo="https://i.imgur.com/HE9c8Sk.png" indexer="playlist-harvester",Prima TV Sicilia (720p)
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8

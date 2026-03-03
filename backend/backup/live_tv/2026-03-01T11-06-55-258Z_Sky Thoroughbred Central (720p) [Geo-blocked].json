@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8",
+  "title": "Sky Thoroughbred Central (720p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "SkyThoroughbredCentral.au@SD",
+  "tvgLogo": "https://i.imgur.com/1SxIsnw.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:55.258Z"
+}

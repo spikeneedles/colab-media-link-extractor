@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
+  "title": "ColimdoT TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "ColimdoTV.do@SD",
+  "tvgLogo": "https://i.imgur.com/ZeUgLCa.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:04.993Z"
+}

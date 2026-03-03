@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ETV.mn_SD" tvg-name="ETV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:11.500Z" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/512px-ETV_Mongolia_logo.png" indexer="playlist-harvester",ETV (1080p)
+https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd

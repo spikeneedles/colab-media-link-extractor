@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://190.2.212.209:8050/play/a0q4",
+  "title": "Universal Comedy (480p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Comedy;Movies;Series",
+  "tvgId": "UniversalComedy.us@SD",
+  "tvgLogo": "https://i.imgur.com/avBL8pQ.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:07:15.666Z"
+}

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+  "title": "Newsmax 2 (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "Newsmax2.us@SD",
+  "tvgLogo": "https://www.lyngsat.com/logo/tv/nn/newsmax-2-us-ug.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:36.207Z"
+}

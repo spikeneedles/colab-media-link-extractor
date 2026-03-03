@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8",
+  "title": "Abzy Dhakad (504p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "AbzyDhakad.in@SD",
+  "tvgLogo": "https://i.imgur.com/5ORC4tn.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:05:49.374Z"
+}

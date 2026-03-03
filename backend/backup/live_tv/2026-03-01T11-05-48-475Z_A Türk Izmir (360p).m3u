@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ATurk.tr_SD" tvg-name="A Türk Izmir (360p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.475Z" tvg-logo="https://i.imgur.com/je5wQ3G.png" indexer="playlist-harvester",A Türk Izmir (360p)
+https://vdo.digitalbox.xyz:3807/stream/play.m3u8

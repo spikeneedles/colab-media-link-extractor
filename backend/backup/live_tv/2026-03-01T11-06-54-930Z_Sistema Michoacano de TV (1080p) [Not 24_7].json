@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8",
+  "title": "Sistema Michoacano de TV (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "SistemaMichoacanodeTV.mx@SD",
+  "tvgLogo": "https://i.imgur.com/7MXF4Fd.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:54.930Z"
+}

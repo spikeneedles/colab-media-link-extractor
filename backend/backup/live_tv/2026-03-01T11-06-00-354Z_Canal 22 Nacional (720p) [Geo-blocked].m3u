@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal22Nacional.mx_SD" tvg-name="Canal 22 Nacional (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:00.354Z" tvg-logo="https://i.imgur.com/6qiYvhe.png" indexer="playlist-harvester",Canal 22 Nacional (720p) [Geo-blocked]
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8

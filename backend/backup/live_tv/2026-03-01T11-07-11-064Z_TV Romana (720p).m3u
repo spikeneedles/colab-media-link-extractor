@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVRomana.sk_SD" tvg-name="TV Romana (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:11.064Z" tvg-logo="https://i.imgur.com/r7avFBX.png" indexer="playlist-harvester",TV Romana (720p)
+http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8

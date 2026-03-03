@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Spas.ru_SD" tvg-name="Спас" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:25.628Z" tvg-logo="https://i.imgur.com/yY39nMg.png" indexer="playlist-harvester",Спас
+https://streaming.televizor-24-tochka.ru/live/15.m3u8

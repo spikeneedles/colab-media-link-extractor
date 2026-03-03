@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8",
+  "title": "Trentino TV (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TrentinoTV.it@SD",
+  "tvgLogo": "https://i.imgur.com/Xcw3TRB.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:06.526Z"
+}

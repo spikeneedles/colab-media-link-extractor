@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8",
+  "title": "TV Nové Zámky (486p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "NZTV.sk@SD",
+  "tvgLogo": "https://i.imgur.com/jGZlnzT.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:10.465Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="YasTV.ae_HD" tvg-name="Yas TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:21.679Z" tvg-logo="https://i.imgur.com/CSHQhP4.png" indexer="playlist-harvester",Yas TV (1080p)
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/yas_1/yas_1_hls_nd/index.m3u8

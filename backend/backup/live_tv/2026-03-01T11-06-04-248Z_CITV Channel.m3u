@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CITVChannel.kh_SD" tvg-name="CITV Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:04.248Z" tvg-logo="https://i.imgur.com/BxVXPag.png" indexer="playlist-harvester",CITV Channel
+http://43.252.18.195:5080/live/streams/CITVChannel.playlist.m3u8

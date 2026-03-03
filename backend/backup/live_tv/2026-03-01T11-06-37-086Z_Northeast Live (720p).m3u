@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NortheastLive.in_HD" tvg-name="Northeast Live (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.086Z" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NORTH_EAST_LIVE/images/LOGO_HD/image.png" indexer="playlist-harvester",Northeast Live (720p)
+https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8

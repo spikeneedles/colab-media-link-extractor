@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Mireasa.ro_SD" tvg-name="Mireasa (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:31.420Z" tvg-logo="https://i.imgur.com/k0VO0LH.png" indexer="playlist-harvester",Mireasa (720p)
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8

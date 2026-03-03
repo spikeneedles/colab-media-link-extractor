@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel8.th_SD" tvg-name="Channel 8 (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.339Z" tvg-logo="https://i.imgur.com/P3c5jAu.png" indexer="playlist-harvester",Channel 8 (1080p) [Not 24/7]
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8

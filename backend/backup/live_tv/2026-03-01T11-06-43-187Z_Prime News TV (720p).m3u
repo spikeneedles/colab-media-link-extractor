@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PrimeNewsTV.gr_SD" tvg-name="Prime News TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:43.187Z" tvg-logo="https://i.ibb.co/YtJdmNk/IMG-20230706-152637.jpg" indexer="playlist-harvester",Prime News TV (720p)
+https://vdo.alphaserver.gr:3411/stream/play.m3u8

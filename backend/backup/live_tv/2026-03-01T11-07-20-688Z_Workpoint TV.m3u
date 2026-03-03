@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WorkpointTV.th_SD" tvg-name="Workpoint TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:20.688Z" tvg-logo="https://i.imgur.com/zq6Xshf.png" indexer="playlist-harvester",Workpoint TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8

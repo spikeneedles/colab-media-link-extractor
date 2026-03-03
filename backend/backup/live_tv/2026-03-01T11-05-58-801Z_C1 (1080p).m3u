@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="C1.mn_SD" tvg-name="C1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:05:58.801Z" tvg-logo="https://i.imgur.com/v1mHG5x.png" indexer="playlist-harvester",C1 (1080p)
+https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd

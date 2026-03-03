@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VoATV.us_SD" tvg-name="VOA TV Africa (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.770Z" tvg-logo="https://i.imgur.com/rtRnlqN.png" indexer="playlist-harvester",VOA TV Africa (1080p)
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8

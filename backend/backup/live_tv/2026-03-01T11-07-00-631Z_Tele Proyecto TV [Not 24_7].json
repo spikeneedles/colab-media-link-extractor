@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8",
+  "title": "Tele Proyecto TV [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TeleProyectoTV.do@HD",
+  "tvgLogo": "https://imgur.com/LmBxN5x.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:00.631Z"
+}

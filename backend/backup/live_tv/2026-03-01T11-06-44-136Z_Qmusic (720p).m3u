@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Qmusic.nl_SD" tvg-name="Qmusic (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:44.136Z" tvg-logo="https://i.imgur.com/fMTuqDu.png" indexer="playlist-harvester",Qmusic (720p)
+https://stream.qmusic.nl/qmusic/videohls.m3u8

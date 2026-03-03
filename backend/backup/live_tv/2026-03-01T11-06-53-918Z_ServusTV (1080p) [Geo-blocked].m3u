@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ServusTV.at_SD" tvg-name="ServusTV (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.918Z" tvg-logo="https://i.imgur.com/6W637Gn.png" indexer="playlist-harvester",ServusTV (1080p) [Geo-blocked]
+https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8

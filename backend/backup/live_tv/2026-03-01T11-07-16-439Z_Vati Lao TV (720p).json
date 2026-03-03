@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8",
+  "title": "Vati Lao TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "VatiLao.la@SD",
+  "tvgLogo": "https://i.imgur.com/NwxXABV.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:16.439Z"
+}

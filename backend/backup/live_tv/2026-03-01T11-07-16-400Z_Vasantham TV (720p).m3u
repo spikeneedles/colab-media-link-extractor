@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VasanthamTV.lk_SD" tvg-name="Vasantham TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:16.400Z" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/Vasanthamtv_channel.jpg" indexer="playlist-harvester",Vasantham TV (720p)
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8

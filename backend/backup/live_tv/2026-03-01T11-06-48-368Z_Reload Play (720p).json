@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://web.onair-radio.eu:1935/video/video/playlist.m3u8",
+  "title": "Reload Play (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "ReloadPlay.gr@SD",
+  "tvgLogo": "https://i.imgur.com/TZUsA2W.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:48.368Z"
+}

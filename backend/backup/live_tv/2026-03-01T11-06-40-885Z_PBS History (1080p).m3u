@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PBS_History__1080p_" tvg-name="PBS History (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.885Z" indexer="playlist-harvester",PBS History (1080p)
+https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungnz/playlist.m3u8

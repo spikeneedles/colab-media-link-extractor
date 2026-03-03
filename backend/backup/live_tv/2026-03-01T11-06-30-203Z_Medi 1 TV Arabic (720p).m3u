@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Medi1TVArabic.ma_SD" tvg-name="Medi 1 TV Arabic (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:30.203Z" tvg-logo="https://i.imgur.com/3YsZPY6.jpeg" indexer="playlist-harvester",Medi 1 TV Arabic (720p)
+https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8

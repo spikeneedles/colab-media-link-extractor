@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UniverTV.ru_SD" tvg-name="Univer TV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:15.624Z" tvg-logo="https://i.imgur.com/r3u0mxr.png" indexer="playlist-harvester",Univer TV (1080p) [Not 24/7]
+https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8

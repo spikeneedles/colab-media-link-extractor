@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TheBuddhist.lk_SD" tvg-name="The Buddhist (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:04.055Z" tvg-logo="https://i.imgur.com/DUzOKWM.png" indexer="playlist-harvester",The Buddhist (480p)
+https://edge3-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/index.m3u8

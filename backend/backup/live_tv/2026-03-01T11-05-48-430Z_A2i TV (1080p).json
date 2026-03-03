@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8",
+  "title": "A2i TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "A2iTV.it@SD",
+  "tvgLogo": "https://i.imgur.com/YlDFir7.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:48.430Z"
+}

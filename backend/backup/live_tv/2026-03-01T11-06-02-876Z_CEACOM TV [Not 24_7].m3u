@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CEACOMTV.bo_SD" tvg-name="CEACOM TV [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:02.876Z" tvg-logo="https://i.imgur.com/hutdRfk.png" indexer="playlist-harvester",CEACOM TV [Not 24/7]
+https://eu1.servers10.com:8081/ceacom/index.m3u8

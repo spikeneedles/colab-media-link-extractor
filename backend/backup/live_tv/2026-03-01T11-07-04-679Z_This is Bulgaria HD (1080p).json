@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streamer103.neterra.tv/thisisbulgaria/live.m3u8",
+  "title": "This is Bulgaria HD (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "ThisisBulgariaHD.bg@SD",
+  "tvgLogo": "https://i.imgur.com/062jkXw.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:04.679Z"
+}

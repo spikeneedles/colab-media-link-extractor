@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8",
+  "title": "Eclipse TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "EclipseTV.mx@SD",
+  "tvgLogo": "https://i.imgur.com/GiDD8xG.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:09.854Z"
+}

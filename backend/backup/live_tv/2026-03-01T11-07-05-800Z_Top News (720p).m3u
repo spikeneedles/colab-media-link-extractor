@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TopNews.th_SD" tvg-name="Top News (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:05.800Z" tvg-logo="https://i.imgur.com/tRFnV9M.png" indexer="playlist-harvester",Top News (720p)
+https://live.topnews.co.th/hls/topnews_a_720.m3u8

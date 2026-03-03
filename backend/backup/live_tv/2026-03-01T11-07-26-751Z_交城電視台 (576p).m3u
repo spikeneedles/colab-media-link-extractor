@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="_______576p_" tvg-name="交城電視台 (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:26.751Z" indexer="playlist-harvester",交城電視台 (576p)
+http://sxjc.chinashadt.com:2036/live/stream:jctv.stream/playlist.m3u8

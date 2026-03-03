@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LenzFilm.ir_SD" tvg-name="Lenz Film" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:26.334Z" indexer="playlist-harvester",Lenz Film
+https://lenz.splus.ir/PLTV/88888888/224/3221227021/index.m3u8

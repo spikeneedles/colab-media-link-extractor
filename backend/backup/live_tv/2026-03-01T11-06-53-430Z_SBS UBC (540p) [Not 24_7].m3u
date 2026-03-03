@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HLDPDTV.kr_SD" tvg-name="SBS UBC (540p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.430Z" tvg-logo="https://i.imgur.com/BBCoqIf.png" indexer="playlist-harvester",SBS UBC (540p) [Not 24/7]
+https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8

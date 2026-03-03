@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8",
+  "title": "Zoom (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Education",
+  "tvgId": "Zoom.co@SD",
+  "tvgLogo": "https://i.imgur.com/euy5zp6.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:22.862Z"
+}

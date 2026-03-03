@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LogosTV.us_SD" tvg-name="Logos TV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:27.281Z" tvg-logo="https://i.imgur.com/h8DioXU.png" indexer="playlist-harvester",Logos TV (1080p) [Not 24/7]
+https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8

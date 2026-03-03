@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RBW.de_SD" tvg-name="RBW (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:47.485Z" tvg-logo="https://i.imgur.com/A0UKdix.png" indexer="playlist-harvester",RBW (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8

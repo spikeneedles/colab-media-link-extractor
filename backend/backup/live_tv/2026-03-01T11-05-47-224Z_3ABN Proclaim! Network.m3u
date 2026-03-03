@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3ABNProclaimNetwork.us_SD" tvg-name="3ABN Proclaim! Network" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:47.224Z" tvg-logo="https://i.imgur.com/zUMUNhe.png" indexer="playlist-harvester",3ABN Proclaim! Network
+https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WNJTDT1.us_SD" tvg-name="PBS New Jersey NJ (WNJT) (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:41.062Z" indexer="playlist-harvester",PBS New Jersey NJ (WNJT) (1080p) [Not 24/7]
+https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8

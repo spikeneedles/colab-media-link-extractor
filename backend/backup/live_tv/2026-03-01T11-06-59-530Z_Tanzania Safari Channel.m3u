@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TanzaniaSafariChannel.tz_SD" tvg-name="Tanzania Safari Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.530Z" tvg-logo="https://i.imgur.com/fcLFYhn.png" indexer="playlist-harvester",Tanzania Safari Channel
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8

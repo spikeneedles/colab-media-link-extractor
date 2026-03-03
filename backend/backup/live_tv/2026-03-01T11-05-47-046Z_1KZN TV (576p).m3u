@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1KZNTV.za_SD" tvg-name="1KZN TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:47.046Z" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" indexer="playlist-harvester",1KZN TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8

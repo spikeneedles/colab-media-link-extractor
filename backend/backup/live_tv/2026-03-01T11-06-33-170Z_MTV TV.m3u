@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MTV_TV" tvg-name="MTV TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:33.170Z" indexer="playlist-harvester",MTV TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8

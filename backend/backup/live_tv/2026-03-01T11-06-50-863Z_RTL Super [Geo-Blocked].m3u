@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTLSuper.de_SD" tvg-name="RTL Super [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:50.863Z" tvg-logo="https://i.imgur.com/KbdK8t9.png" indexer="playlist-harvester",RTL Super [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd

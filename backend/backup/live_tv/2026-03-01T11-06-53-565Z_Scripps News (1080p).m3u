@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ScrippsNews.us_SD" tvg-name="Scripps News (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.565Z" tvg-logo="https://i.imgur.com/W0Jvi5o.png" indexer="playlist-harvester",Scripps News (1080p)
+https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8

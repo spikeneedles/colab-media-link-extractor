@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+  "title": "El 33 (1080p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Culture;Public",
+  "tvgId": "El33.es@SD",
+  "tvgLogo": "https://i.imgur.com/frKCBTN.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:10.126Z"
+}

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8",
+  "title": "TNO Radio (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TNORadio.ve@SD",
+  "tvgLogo": "https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:05.258Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVRuzinov.sk_SD" tvg-name="TV Ružinov (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:11.077Z" tvg-logo="https://i.imgur.com/bUGuntH.png" indexer="playlist-harvester",TV Ružinov (1080p) [Not 24/7]
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8

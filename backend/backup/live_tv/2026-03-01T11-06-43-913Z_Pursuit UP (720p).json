@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8",
+  "title": "Pursuit UP (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Outdoor",
+  "tvgId": "PursuitUP.us@SD",
+  "tvgLogo": "https://i.imgur.com/5Vzwqts.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:43.913Z"
+}

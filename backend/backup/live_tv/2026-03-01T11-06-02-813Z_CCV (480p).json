@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
+  "title": "CCV (480p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "CCV.in@SD",
+  "tvgLogo": "https://i.imgur.com/4ss0KfA.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:02.813Z"
+}

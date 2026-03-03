@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CsurgoTV.hu_SD" tvg-name="Csurgó TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.232Z" tvg-logo="https://i.imgur.com/vVOEYuj.png" indexer="playlist-harvester",Csurgó TV (720p)
+http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8

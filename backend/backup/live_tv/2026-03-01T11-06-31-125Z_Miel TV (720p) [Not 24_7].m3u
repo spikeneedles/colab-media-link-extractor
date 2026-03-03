@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MielTV.pe_SD" tvg-name="Miel TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:31.125Z" tvg-logo="https://i.imgur.com/dPSFrCs.png" indexer="playlist-harvester",Miel TV (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8

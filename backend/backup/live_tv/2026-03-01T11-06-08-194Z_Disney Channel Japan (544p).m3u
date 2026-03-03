@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DisneyChannel.jp_SD" tvg-name="Disney Channel Japan (544p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:08.194Z" tvg-logo="https://i.imgur.com/VSq7b5E.jpg" indexer="playlist-harvester",Disney Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telecanal.cl_SD" tvg-name="Telecanal (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:01.356Z" tvg-logo="https://i.imgur.com/3g6SbSt.png" indexer="playlist-harvester",Telecanal (720p)
+http://45.232.210.1:8029/play/a00s/index.m3u8

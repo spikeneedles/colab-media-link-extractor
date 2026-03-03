@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rai4K.it_SD" tvg-name="RAI 4K [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:46.074Z" tvg-logo="https://i.imgur.com/O1K1fv4.png" indexer="playlist-harvester",RAI 4K [Geo-blocked]
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8

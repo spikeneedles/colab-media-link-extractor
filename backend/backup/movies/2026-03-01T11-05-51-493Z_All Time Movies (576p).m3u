@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AllTimeMovies.in_SD" tvg-name="All Time Movies (576p)" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:51.493Z" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" indexer="playlist-harvester",All Time Movies (576p)
+http://103.78.149.54:8000/play/a00i/index.m3u8

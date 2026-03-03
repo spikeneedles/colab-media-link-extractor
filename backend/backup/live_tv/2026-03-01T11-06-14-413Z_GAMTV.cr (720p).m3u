@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GAMTVcr.cr_SD" tvg-name="GAMTV.cr (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:14.413Z" tvg-logo="https://i.ibb.co/xFCS7wM/GAMTVCR.png" indexer="playlist-harvester",GAMTV.cr (720p)
+https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8

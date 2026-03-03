@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal2000.es_SD" tvg-name="Canal 2000 La Solana (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:00.653Z" tvg-logo="https://i.imgur.com/9RoBASf.png" indexer="playlist-harvester",Canal 2000 La Solana (720p) [Not 24/7]
+http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8

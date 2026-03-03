@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BMCHDTV.us_SD" tvg-name="BMC-HD TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:57.644Z" tvg-logo="https://i.imgur.com/c9LiTz0.png" indexer="playlist-harvester",BMC-HD TV
+https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8

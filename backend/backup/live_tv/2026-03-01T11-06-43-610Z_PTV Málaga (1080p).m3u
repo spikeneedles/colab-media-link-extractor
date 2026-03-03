@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PTVMalaga.es_SD" tvg-name="PTV Málaga (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:43.610Z" tvg-logo="https://i.imgur.com/4eZYIX1.png" indexer="playlist-harvester",PTV Málaga (1080p)
+https://streamer.zapitv.com/PTV-malaga/index.m3u8

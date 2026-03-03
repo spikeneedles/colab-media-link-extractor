@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Kanade.cl_SD" tvg-name="Kanade (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:22.746Z" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" indexer="playlist-harvester",Kanade (1080p)
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH

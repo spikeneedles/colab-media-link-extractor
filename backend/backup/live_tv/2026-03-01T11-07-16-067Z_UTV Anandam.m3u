@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UTV_Anandam" tvg-name="UTV Anandam" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:16.067Z" indexer="playlist-harvester",UTV Anandam
+https://mumt02.tangotv.in/UTVANANDAM/index.m3u8

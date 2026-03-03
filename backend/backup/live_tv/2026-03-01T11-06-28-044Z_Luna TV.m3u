@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LunaTV.it_SD" tvg-name="Luna TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:28.044Z" tvg-logo="https://www.lyngsat.com/logo/tv/ll/luna-tv-it.png" indexer="playlist-harvester",Luna TV
+https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8

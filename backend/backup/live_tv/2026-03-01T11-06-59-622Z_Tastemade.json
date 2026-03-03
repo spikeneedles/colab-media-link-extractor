@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://tastemade-aus-tmina-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-intl-aus-rakuten-eu/CDN/master.m3u8",
+  "title": "Tastemade",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Cooking",
+  "tvgId": "Tastemade.us@Poland",
+  "tvgLogo": "https://i.imgur.com/xP7Ehn8.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:59.622Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVU.cl_SD" tvg-name="TVU Concepción (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:14.757Z" tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" indexer="playlist-harvester",TVU Concepción (1080p)
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8

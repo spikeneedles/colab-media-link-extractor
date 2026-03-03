@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8",
+  "title": "TVRS (576p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TVRS.it@SD",
+  "tvgLogo": "https://i.imgur.com/6bxtL6D.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:14.231Z"
+}

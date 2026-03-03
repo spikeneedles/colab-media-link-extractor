@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SferaTV.pl_SD" tvg-name="Sfera TV (480p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:54.053Z" tvg-logo="https://i.imgur.com/aK7xfKi.png" indexer="playlist-harvester",Sfera TV (480p) [Not 24/7]
+https://stream.sferatv.pl/sferatvlive/live.m3u8

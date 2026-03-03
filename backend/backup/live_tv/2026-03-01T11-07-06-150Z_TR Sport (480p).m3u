@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRSport.it_SD" tvg-name="TR Sport (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:06.150Z" tvg-logo="https://i.imgur.com/ELXmaqg.png" indexer="playlist-harvester",TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8

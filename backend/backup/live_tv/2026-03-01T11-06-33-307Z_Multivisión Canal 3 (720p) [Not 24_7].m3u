@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MultivisionCanal3.gt_SD" tvg-name="Multivisión Canal 3 (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:33.307Z" tvg-logo="https://i.imgur.com/6bdj2BV.jpg" indexer="playlist-harvester",Multivisión Canal 3 (720p) [Not 24/7]
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8

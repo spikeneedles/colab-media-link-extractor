@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://vdo.alphaserver.gr:3411/stream/play.m3u8",
+  "title": "Prime News TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "PrimeNewsTV.gr@SD",
+  "tvgLogo": "https://i.ibb.co/YtJdmNk/IMG-20230706-152637.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:43.187Z"
+}

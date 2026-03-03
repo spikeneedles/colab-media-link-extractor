@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ERiTV1.er_SD" tvg-name="ERi-TV 1 (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.864Z" tvg-logo="https://i.imgur.com/bTR0Huw.png" indexer="playlist-harvester",ERi-TV 1 (576p)
+https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8

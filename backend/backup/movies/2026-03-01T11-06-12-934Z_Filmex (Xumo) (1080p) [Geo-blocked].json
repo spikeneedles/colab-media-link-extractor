@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8",
+  "title": "Filmex (Xumo) (1080p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "Filmex.mx@SD",
+  "tvgLogo": "https://i.imgur.com/Hiz2OyC.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:06:12.934Z"
+}

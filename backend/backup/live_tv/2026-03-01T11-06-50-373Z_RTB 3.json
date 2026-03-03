@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8",
+  "title": "RTB 3",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Culture",
+  "tvgId": "RTB3.bf@SD",
+  "tvgLogo": "https://i.imgur.com/OFZm8ic.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:50.373Z"
+}

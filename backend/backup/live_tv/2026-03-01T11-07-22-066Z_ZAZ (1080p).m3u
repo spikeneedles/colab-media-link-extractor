@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ZAZ.mx_SD" tvg-name="ZAZ (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:22.066Z" indexer="playlist-harvester",ZAZ (1080p)
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8

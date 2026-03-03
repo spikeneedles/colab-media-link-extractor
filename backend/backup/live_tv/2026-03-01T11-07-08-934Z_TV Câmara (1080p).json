@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+  "title": "TV Câmara (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Legislative",
+  "tvgId": "TVCamara.br@SD",
+  "tvgLogo": "https://i.imgur.com/Sdou1Ab.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:08.934Z"
+}

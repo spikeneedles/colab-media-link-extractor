@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RennsteigTV.de_SD" tvg-name="Rennsteig TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:48.395Z" tvg-logo="https://www.rennsteig.tv/wp-content/uploads/rennsteig-tv-claim-300.png" indexer="playlist-harvester",Rennsteig TV (720p)
+http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8

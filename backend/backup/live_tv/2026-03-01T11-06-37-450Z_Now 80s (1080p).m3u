@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Now80s.uk_SD" tvg-name="Now 80s (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.450Z" tvg-logo="https://i.imgur.com/YyPnMeB.png" indexer="playlist-harvester",Now 80s (1080p)
+https://lightningnow80-samsungau.amagi.tv/playlist.m3u8

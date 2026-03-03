@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MBC3USA.us_SD" tvg-name="MBC 3 USA (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.546Z" tvg-logo="https://i.imgur.com/PVt8OPN.png" indexer="playlist-harvester",MBC 3 USA (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8

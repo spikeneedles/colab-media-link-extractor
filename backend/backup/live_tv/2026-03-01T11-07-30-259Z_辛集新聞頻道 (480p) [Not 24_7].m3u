@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="________480p___Not_24_7_" tvg-name="辛集新聞頻道 (480p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:30.259Z" indexer="playlist-harvester",辛集新聞頻道 (480p) [Not 24/7]
+http://zsxj.chinashadt.com:1935/live/xjxw.stream_360p/playlist.m3u8

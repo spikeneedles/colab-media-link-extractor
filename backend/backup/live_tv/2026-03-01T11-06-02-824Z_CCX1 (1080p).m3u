@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCX1.us_SD" tvg-name="CCX1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:02.824Z" tvg-logo="https://i.imgur.com/1hHW3IK.png" indexer="playlist-harvester",CCX1 (1080p)
+http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8

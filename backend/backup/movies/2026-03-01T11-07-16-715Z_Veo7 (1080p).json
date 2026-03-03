@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://176.65.146.237:8401/play/a09k/index.m3u8",
+  "title": "Veo7 (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies;Series",
+  "tvgId": "Veo7.es@SD",
+  "tvgLogo": "https://i.imgur.com/kklTIMm.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:07:16.715Z"
+}

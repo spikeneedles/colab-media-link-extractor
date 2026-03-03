@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Blaze.uk_SD" tvg-name="Blaze (576p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:57.418Z" tvg-logo="https://i.imgur.com/6UcPWP9.png" indexer="playlist-harvester",Blaze (576p) [Geo-blocked]
+https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8

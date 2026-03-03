@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="noa4Hamburg.de_SD" tvg-name="Noa 4 Hamburg (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:36.900Z" tvg-logo="https://i.imgur.com/7A2LRKI.png" indexer="playlist-harvester",Noa 4 Hamburg (1080p)
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8

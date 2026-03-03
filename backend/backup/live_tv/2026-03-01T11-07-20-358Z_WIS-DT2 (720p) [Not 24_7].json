@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://tvpass.org/live/cw-wdcw-district-of-columbia/hd",
+  "title": "WIS-DT2 (720p) [Not 24/7]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "WISDT2.us@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:20.358Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Hamburg1.de_SD" tvg-name="Hamburg 1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:16.930Z" tvg-logo="https://i.imgur.com/df3yY8W.png" indexer="playlist-harvester",Hamburg 1 (1080p)
+https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8

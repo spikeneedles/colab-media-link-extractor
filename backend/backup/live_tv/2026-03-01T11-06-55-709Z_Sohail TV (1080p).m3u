@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SohailTV.ca_SD" tvg-name="Sohail TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:55.709Z" tvg-logo="https://i.ibb.co/dtzjKfT/Sohail-TV.png" indexer="playlist-harvester",Sohail TV (1080p)
+https://iptv.sohailtv.com/sohail/playlist/index.m3u8

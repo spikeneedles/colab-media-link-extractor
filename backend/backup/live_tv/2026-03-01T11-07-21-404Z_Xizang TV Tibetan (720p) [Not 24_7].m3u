@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="XizangTVTibetan.cn_SD" tvg-name="Xizang TV Tibetan (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:07:21.404Z" tvg-logo="https://i.imgur.com/NtvfnVV.png" indexer="playlist-harvester",Xizang TV Tibetan (720p) [Not 24/7]
+http://php.jdshipin.com:8880/xztv.php?id=zy

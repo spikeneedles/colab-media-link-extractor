@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Tilemousiki.gr_SD" tvg-name="Tilemousiki (480p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:04.812Z" tvg-logo="https://i.imgur.com/wb4pLkW.jpg" indexer="playlist-harvester",Tilemousiki (480p) [Not 24/7]
+http://wpso.com:1936/hls/music1.m3u8

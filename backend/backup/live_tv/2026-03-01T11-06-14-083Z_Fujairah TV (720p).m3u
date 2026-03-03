@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FujairahTV.ae_SD" tvg-name="Fujairah TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:14.083Z" tvg-logo="https://i.imgur.com/D2tOhbE.png" indexer="playlist-harvester",Fujairah TV (720p)
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8

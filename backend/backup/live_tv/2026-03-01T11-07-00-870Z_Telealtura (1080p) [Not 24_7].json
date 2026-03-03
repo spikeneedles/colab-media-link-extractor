@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live20.bozztv.com/akamaissh101/ssh101/codificador7/playlist.m3u8",
+  "title": "Telealtura (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Telealtura.do@SD",
+  "tvgLogo": "https://i.imgur.com/Ql2eaP0.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:00.870Z"
+}

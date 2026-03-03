@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://play-qukan.cztv.com/live/1758879019692345.m3u8",
+  "title": "Zhejiang Satellite TV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "ZhejiangSatelliteTV.cn@SD",
+  "tvgLogo": "https://i.imgur.com/NFFQNhq.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:22.693Z"
+}

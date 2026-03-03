@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Mechplus__720p_" tvg-name="Mechplus (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:30.173Z" indexer="playlist-harvester",Mechplus (720p)
+https://mechtvltd-mechplus-1-no.samsung.wurl.tv/playlist.m3u8

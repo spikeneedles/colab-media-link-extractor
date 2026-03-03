@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Odeon24.it_SD" tvg-name="Odeon 24 (288p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:38.435Z" tvg-logo="https://i.imgur.com/Ho7SdXY.png" indexer="playlist-harvester",Odeon 24 (288p)
+https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8

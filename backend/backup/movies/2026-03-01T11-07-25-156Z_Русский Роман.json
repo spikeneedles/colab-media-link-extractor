@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://31.148.48.15/Russkiy_Roman_HD/index.m3u8",
+  "title": "Русский Роман",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "Russkiyroman.ru@SD",
+  "tvgLogo": "https://i.imgur.com/cQN0P2B.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:07:25.156Z"
+}

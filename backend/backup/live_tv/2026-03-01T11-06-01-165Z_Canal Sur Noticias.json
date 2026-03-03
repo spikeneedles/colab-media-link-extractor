@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8",
+  "title": "Canal Sur Noticias",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News;Public",
+  "tvgId": "CanalSurNoticias.es@SD",
+  "tvgLogo": "https://i.imgur.com/A3JscwS.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:01.165Z"
+}

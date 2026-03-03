@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CBC_News_BC__1080p___Geo-blocked_" tvg-name="CBC News BC (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:02.056Z" indexer="playlist-harvester",CBC News BC (1080p) [Geo-blocked]
+https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8

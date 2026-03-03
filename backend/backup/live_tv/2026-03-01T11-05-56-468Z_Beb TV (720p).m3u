@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BebTV.cg_SD" tvg-name="Beb TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:56.468Z" tvg-logo="https://i.imgur.com/3XOk1lP.jpeg" indexer="playlist-harvester",Beb TV (720p)
+https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
+  "title": "Harvest USA (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "HarvestUSA.in@SD",
+  "tvgLogo": "https://www.lyngsat.com/logo/tv/hh/harvest_tv_in_usa.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:17.160Z"
+}

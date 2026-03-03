@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VTVCanal17.bo_SD" tvg-name="VTV Canal 17 (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:18.370Z" tvg-logo="https://i.imgur.com/TUhFzql.png" indexer="playlist-harvester",VTV Canal 17 (720p) [Not 24/7]
+https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8

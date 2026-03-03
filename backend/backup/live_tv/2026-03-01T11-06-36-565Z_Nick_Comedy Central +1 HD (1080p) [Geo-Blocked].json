@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8",
+  "title": "Nick/Comedy Central +1 HD (1080p) [Geo-Blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Comedy;Kids",
+  "tvgId": "NickComedyCentralPlus1.de@HD",
+  "tvgLogo": "https://i.imgur.com/08ZUI9k.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:36.565Z"
+}

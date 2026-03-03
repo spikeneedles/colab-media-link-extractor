@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ClickTVChile.cl_SD" tvg-name="Click TV (Coronel) (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:04.548Z" tvg-logo="https://i.imgur.com/H0XNbMS.png" indexer="playlist-harvester",Click TV (Coronel) (720p)
+https://v2.tustreaming.cl/clicktv/playlist.m3u8

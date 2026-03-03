@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8",
+  "title": "Story Television",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "WCIUDT5.us@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:57.806Z"
+}

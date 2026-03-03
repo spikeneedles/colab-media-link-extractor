@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+  "title": "VM Latino (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "VMLatino.cr@SD",
+  "tvgLogo": "https://i.imgur.com/Dvo1b82.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:17.726Z"
+}

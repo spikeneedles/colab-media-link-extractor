@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8",
+  "title": "Thraki Net TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "ThrakiNetTV.gr@SD",
+  "tvgLogo": "https://i.imgur.com/3ITSnqT.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:04.706Z"
+}

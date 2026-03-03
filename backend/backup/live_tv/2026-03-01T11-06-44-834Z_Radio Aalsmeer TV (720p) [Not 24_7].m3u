@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioAalsmeerTV.nl_SD" tvg-name="Radio Aalsmeer TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:44.834Z" tvg-logo="https://i.imgur.com/SYzjLlI.png" indexer="playlist-harvester",Radio Aalsmeer TV (720p) [Not 24/7]
+https://radioaalsmeer.nl:4443/live/tv.m3u8

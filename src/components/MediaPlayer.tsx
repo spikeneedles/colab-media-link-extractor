@@ -1,4 +1,5 @@
 import { useState, useRef, useEffect, useCallback } from 'react'
+import Hls from 'hls.js'
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from '@/components/ui/dialog'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
@@ -41,6 +42,7 @@ export function MediaPlayer({ url, title, mediaType, onClose, queue = [], curren
   const videoRef = useRef<HTMLVideoElement>(null)
   const audioRef = useRef<HTMLAudioElement>(null)
   const containerRef = useRef<HTMLDivElement>(null)
+  const hlsRef = useRef<Hls | null>(null)
 
   const currentItem = localQueue[localCurrentIndex] || { url, title, mediaType }
   const mediaRef = currentItem.mediaType === 'video' ? videoRef : audioRef
@@ -162,6 +164,56 @@ export function MediaPlayer({ url, title, mediaType, onClose, queue = [], curren
       media.removeEventListener('canplay', handleCanPlay)
     }
   }, [mediaRef, volume, handleMediaEnded])
+
+  // ── HLS.js + Archive.org source management ─────────────────────────────────
+  // Handles .m3u8 streams (HLS.js) and direct archive.org / mp4 URLs natively
+  useEffect(() => {
+    const video = videoRef.current
+    if (!video || currentItem.mediaType !== 'video') return
+
+    const videoUrl = currentItem.url
+    setIsLoading(true); setError(null)
+
+    // Destroy any existing HLS instance before loading new source
+    if (hlsRef.current) { hlsRef.current.destroy(); hlsRef.current = null }
+
+    const isHLS = /\.m3u8(\?|$)/i.test(videoUrl) || /\/hls\//i.test(videoUrl)
+
+    if (isHLS && Hls.isSupported()) {
+      const hls = new Hls({
+        enableWorker:     true,
+        lowLatencyMode:   false,
+        backBufferLength: 90,
+        maxBufferLength:  30,
+        xhrSetup: (xhr) => {
+          // Allow archive.org CORS
+          xhr.withCredentials = false
+        },
+      })
+      hls.loadSource(videoUrl)
+      hls.attachMedia(video)
+      hls.on(Hls.Events.MANIFEST_PARSED, () => { setIsLoading(false) })
+      hls.on(Hls.Events.ERROR, (_, data) => {
+        if (data.fatal) {
+          setError(`Stream error: ${data.details}`)
+          setIsLoading(false)
+          toast.error('HLS stream failed — trying next source')
+        }
+      })
+      hlsRef.current = hls
+    } else if (isHLS && video.canPlayType('application/vnd.apple.mpegurl')) {
+      // Safari native HLS
+      video.src = videoUrl
+    } else {
+      // Direct URL: MP4, WebM, archive.org download links, etc.
+      // archive.org links: https://archive.org/download/{id}/{file} → serve with CORS headers
+      video.src = videoUrl
+    }
+
+    return () => {
+      if (hlsRef.current) { hlsRef.current.destroy(); hlsRef.current = null }
+    }
+  }, [currentItem.url, currentItem.mediaType])
 
   useEffect(() => {
     const handleFullscreenChange = () => {
@@ -372,17 +424,16 @@ export function MediaPlayer({ url, title, mediaType, onClose, queue = [], curren
               </div>
             </DialogHeader>
 
-            <div className={`relative ${isFullscreen ? 'flex-1 flex items-center justify-center' : 'aspect-video'} bg-black flex-shrink-0`}>
+            <div className={`relative ${isFullscreen ? 'flex-1 flex items-center justify-center' : 'aspect-video'} bg-black shrink-0`}>
               {currentItem.mediaType === 'video' ? (
                 <video
                   ref={videoRef}
-                  src={currentItem.url}
                   className="w-full h-full"
                   crossOrigin="anonymous"
                   preload="metadata"
                 />
               ) : (
-                <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-secondary via-primary to-secondary">
+                <div className="w-full h-full flex items-center justify-center bg-linear-to-br from-secondary via-primary to-secondary">
                   <audio ref={audioRef} src={currentItem.url} crossOrigin="anonymous" preload="metadata" />
                   <div className="text-center">
                     <MusicNote size={120} className="text-accent/30 mx-auto mb-4" weight="thin" />

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Now80s.uk_Poland" tvg-name="NOW 80s" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.439Z" tvg-logo="https://i.imgur.com/YyPnMeB.png" indexer="playlist-harvester",NOW 80s
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8

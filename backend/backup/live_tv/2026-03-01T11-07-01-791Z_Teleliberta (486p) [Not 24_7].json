@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://api.new.livestream.com/accounts/17114188/events/4902226/live.m3u8",
+  "title": "Teleliberta (486p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "Teleliberta.it@SD",
+  "tvgLogo": "https://i.imgur.com/424KS6J.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:01.791Z"
+}

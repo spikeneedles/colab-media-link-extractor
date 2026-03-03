@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="________360p_" tvg-name="亳州新聞頻道 (360p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:26.811Z" indexer="playlist-harvester",亳州新聞頻道 (360p)
+http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://brightonco.cablecast.tv/live-4/live/live.m3u8",
+  "title": "KBRI Brighton Channel 8 (Brighton CO) (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Legislative",
+  "tvgId": "KBRI8.us@SD",
+  "tvgLogo": "https://i.imgur.com/r8lLsyh.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:23.384Z"
+}

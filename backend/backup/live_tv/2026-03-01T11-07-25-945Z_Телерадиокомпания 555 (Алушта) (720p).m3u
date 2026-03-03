@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="555.ru_SD" tvg-name="Телерадиокомпания 555 (Алушта) (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:07:25.945Z" tvg-logo="https://i.imgur.com/JQZkxeA.png" indexer="playlist-harvester",Телерадиокомпания 555 (Алушта) (720p)
+http://trk555.tv:8888/live

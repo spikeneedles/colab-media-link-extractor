@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVRIasi.ro_SD" tvg-name="TVR Iasi (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:13.621Z" tvg-logo="https://i.imgur.com/Kxkihds.png" indexer="playlist-harvester",TVR Iasi (1080p) [Geo-blocked]
+https://tvr-tvriasi.cdn.zitec.com/live/tvriasi/main.m3u8

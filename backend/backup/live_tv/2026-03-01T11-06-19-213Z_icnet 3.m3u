@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="icnet3.ca_SD" tvg-name="icnet 3" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:19.213Z" indexer="playlist-harvester",icnet 3
+https://ic3hls.wns.live/hls/stream.m3u8

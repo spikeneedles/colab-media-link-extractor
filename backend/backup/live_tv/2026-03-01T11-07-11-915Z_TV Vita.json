@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://dash3.antik.sk/live/test_vita/playlist.m3u8",
+  "title": "TV Vita",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Culture",
+  "tvgId": "TVVita.sk@SD",
+  "tvgLogo": "https://i.imgur.com/Cx1GLbo.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:11.915Z"
+}

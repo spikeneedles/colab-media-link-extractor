@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BerenteTV.hu_SD" tvg-name="Berente TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:56.642Z" tvg-logo="https://i.imgur.com/3H3Ct9f.png" indexer="playlist-harvester",Berente TV (1080p)
+https://stream.streaming4u.hu/BerenteTV/index.m3u8

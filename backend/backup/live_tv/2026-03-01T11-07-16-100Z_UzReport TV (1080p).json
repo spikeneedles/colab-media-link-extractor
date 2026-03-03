@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8",
+  "title": "UzReport TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "UzReportTV.uz@SD",
+  "tvgLogo": "https://i.imgur.com/Bch2RHc.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:16.100Z"
+}

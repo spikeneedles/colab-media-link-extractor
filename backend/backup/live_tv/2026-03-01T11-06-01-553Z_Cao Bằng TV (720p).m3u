@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CaoBangTV.vn_SD" tvg-name="Cao Bằng TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.553Z" tvg-logo="https://i.imgur.com/dGonewm.png" indexer="playlist-harvester",Cao Bằng TV (720p)
+https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8

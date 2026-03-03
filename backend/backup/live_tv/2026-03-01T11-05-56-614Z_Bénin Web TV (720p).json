@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.beninwebtv.bj/2/live/stream.m3u8",
+  "title": "Bénin Web TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "BeninWebTV.bj@SD",
+  "tvgLogo": "https://i.imgur.com/CYy4n0N.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:56.614Z"
+}

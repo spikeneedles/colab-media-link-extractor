@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:36.448Z" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" indexer="playlist-harvester",NHK World [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8

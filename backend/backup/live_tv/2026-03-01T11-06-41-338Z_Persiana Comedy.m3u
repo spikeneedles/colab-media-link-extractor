@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PersianaComedy.fr_SD" tvg-name="Persiana Comedy" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:41.338Z" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" indexer="playlist-harvester",Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8

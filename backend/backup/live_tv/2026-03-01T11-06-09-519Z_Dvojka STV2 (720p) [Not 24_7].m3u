@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dvojka.sk_SD" tvg-name="Dvojka STV2 (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:09.519Z" tvg-logo="https://i.imgur.com/ft10wQn.png" indexer="playlist-harvester",Dvojka STV2 (720p) [Not 24/7]
+https://n5.stv.livebox.sk/stv-tv/addfd31846e34200883cc2b4e9e6c855/stv2.smil/playlist.m3u8

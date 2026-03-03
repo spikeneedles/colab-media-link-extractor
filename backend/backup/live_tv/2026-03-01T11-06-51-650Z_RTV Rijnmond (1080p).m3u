@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTVRijnmond.nl_SD" tvg-name="RTV Rijnmond (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:51.650Z" tvg-logo="https://i.imgur.com/fJTs9xH.png" indexer="playlist-harvester",RTV Rijnmond (1080p)
+https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dangal2.in_SD" tvg-name="Dangal 2 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.937Z" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dangal-2-in.png" indexer="playlist-harvester",Dangal 2 (720p)
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8

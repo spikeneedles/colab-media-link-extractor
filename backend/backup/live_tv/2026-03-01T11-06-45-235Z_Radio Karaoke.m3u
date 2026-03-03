@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioKaraoke.fr_SD" tvg-name="Radio Karaoke" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:45.235Z" tvg-logo="https://i.imgur.com/9uRggjD.png" indexer="playlist-harvester",Radio Karaoke
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke-2.m3u8

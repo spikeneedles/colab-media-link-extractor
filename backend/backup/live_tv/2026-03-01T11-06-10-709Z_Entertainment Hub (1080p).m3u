@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Entertainment_Hub__1080p_" tvg-name="Entertainment Hub (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.709Z" indexer="playlist-harvester",Entertainment Hub (1080p)
+https://amg01447-samsungau-enthub-samsungau-ugr5u.amagi.tv/playlist/amg01447-samsungau-enthub-samsungau/playlist.m3u8

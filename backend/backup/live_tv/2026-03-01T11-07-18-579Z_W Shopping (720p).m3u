@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WShopping.kr_SD" tvg-name="W Shopping (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:18.579Z" tvg-logo="https://i.imgur.com/hfXjVJd.png" indexer="playlist-harvester",W Shopping (720p)
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8

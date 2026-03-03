@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8",
+  "title": "Al Jazeera Arabic [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "AlJazeera.qa@Arabic",
+  "tvgLogo": "https://i.imgur.com/7bRVpnu.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:50.563Z"
+}

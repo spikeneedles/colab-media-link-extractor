@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://cdn-s-lb2.pluscdn.pl/lv/1517831/350/dash/e32e6046/live.mpd",
+  "title": "Cafe Futbol (1080p) [Geo-blocked]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "CafeFutbol.pl@SD",
+  "tvgLogo": "https://ipla-e2-31.pluscdn.pl/p/cms_thumbnails/fk/fk9t77ceyv4osskf5jqw9w818apm2esw.jpeg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:58.961Z"
+}

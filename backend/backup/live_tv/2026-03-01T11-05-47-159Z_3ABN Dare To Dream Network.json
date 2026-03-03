@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8",
+  "title": "3ABN Dare To Dream Network",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "DareToDreamNetwork.us@SD",
+  "tvgLogo": "https://i.imgur.com/oNUpXA9.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:47.159Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="STZTV.br_SD" tvg-name="STZ TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:58.038Z" tvg-logo="https://i.imgur.com/SeF2I7q.png" indexer="playlist-harvester",STZ TV (1080p)
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8

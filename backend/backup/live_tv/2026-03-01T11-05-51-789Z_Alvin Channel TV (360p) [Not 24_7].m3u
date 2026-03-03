@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlvinChannelTV.az_SD" tvg-name="Alvin Channel TV (360p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:51.789Z" tvg-logo="https://i.imgur.com/m6CM7VU.png" indexer="playlist-harvester",Alvin Channel TV (360p) [Not 24/7]
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8

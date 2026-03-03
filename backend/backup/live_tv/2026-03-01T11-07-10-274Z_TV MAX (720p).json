@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8",
+  "title": "TV MAX (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TVMAX.br@SD",
+  "tvgLogo": "https://i.imgur.com/2Pg0baJ.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:10.274Z"
+}

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://micanal.ovh/livestreams/544.EP3QGO4KPL66.m3u8",
+  "title": "La Sultana del Este TV (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "LaSultanadelEsteTV.do@SD",
+  "tvgLogo": "https://i.imgur.com/UNiyOvd.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:25.472Z"
+}

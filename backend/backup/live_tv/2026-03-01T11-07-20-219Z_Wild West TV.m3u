@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Wild_West_TV" tvg-name="Wild West TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:20.219Z" indexer="playlist-harvester",Wild West TV
+https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8

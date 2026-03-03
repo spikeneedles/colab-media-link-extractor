@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telegranda.it_SD" tvg-name="Telegranda (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:01.709Z" tvg-logo="https://i.imgur.com/j3r0URO.png" indexer="playlist-harvester",Telegranda (720p) [Not 24/7]
+http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8

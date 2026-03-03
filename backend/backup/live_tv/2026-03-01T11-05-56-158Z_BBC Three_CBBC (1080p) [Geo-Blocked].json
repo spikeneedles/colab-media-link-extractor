@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8",
+  "title": "BBC Three/CBBC (1080p) [Geo-Blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Animation;Family;Kids",
+  "tvgId": "BBCThreeCBBC.uk@HD",
+  "tvgLogo": "https://i.imgur.com/CGXC5fp.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:56.158Z"
+}

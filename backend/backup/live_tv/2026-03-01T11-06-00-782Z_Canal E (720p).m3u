@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalE.ar_SD" tvg-name="Canal E (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:00.782Z" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" indexer="playlist-harvester",Canal E (720p)
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8

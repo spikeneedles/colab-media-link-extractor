@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MesogeiosTV.gr_SD" tvg-name="Mesogeios TV (404p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:30.717Z" tvg-logo="https://i.imgur.com/KX5olay.png" indexer="playlist-harvester",Mesogeios TV (404p)
+https://til.pp.ua:3872/live/mesogeiostvlive.m3u8

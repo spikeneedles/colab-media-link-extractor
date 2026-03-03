@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ENTChannel.uk_HD" tvg-name="ENT Channel (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.637Z" tvg-logo="https://static.elektamedia.com/ch/entch.png" indexer="playlist-harvester",ENT Channel (720p)
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8

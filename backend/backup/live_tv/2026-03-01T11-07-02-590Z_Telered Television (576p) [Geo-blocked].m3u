@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeleredTelevision.cr_SD" tvg-name="Telered Television (576p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:02.590Z" tvg-logo="https://i.imgur.com/cIvfnsa.jpg" indexer="playlist-harvester",Telered Television (576p) [Geo-blocked]
+https://k20.usastreams.com:8081/telered/index.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CTDecko.cz_SD" tvg-name="ČT:D/ČT art (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.314Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/512px-%C4%8CT-D_logo.svg.png" indexer="playlist-harvester",ČT:D/ČT art (1080p)
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8

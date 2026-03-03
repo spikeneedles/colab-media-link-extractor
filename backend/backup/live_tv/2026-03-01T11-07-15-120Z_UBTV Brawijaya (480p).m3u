@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UBTVBrawijaya.id_SD" tvg-name="UBTV Brawijaya (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:15.120Z" tvg-logo="https://i.imgur.com/BQIi7ko.png" indexer="playlist-harvester",UBTV Brawijaya (480p)
+https://ubmedcom.siar.us/live/ubmedcom.m3u8

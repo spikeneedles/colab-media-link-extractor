@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8",
+  "title": "Quince UCR (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "QuinceUCR.cr@SD",
+  "tvgLogo": "https://i.imgur.com/U7DUlem.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:44.356Z"
+}

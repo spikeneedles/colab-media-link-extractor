@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GospelMovieTV.br_SD" tvg-name="Gospel Movie TV (360p)" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:16.019Z" tvg-logo="https://i.imgur.com/cQN3nWt.png" indexer="playlist-harvester",Gospel Movie TV (360p)
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8

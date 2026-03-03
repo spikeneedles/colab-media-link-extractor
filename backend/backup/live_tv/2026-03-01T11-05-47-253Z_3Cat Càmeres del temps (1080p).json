@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
+  "title": "3Cat Càmeres del temps (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Public;Weather",
+  "tvgId": "3CatCameresdeltemps.es@SD",
+  "tvgLogo": "https://i.imgur.com/zXy2kbe.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:47.253Z"
+}

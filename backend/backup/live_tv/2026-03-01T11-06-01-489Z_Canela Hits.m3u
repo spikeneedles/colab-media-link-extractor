@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canela_Hits" tvg-name="Canela Hits" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.489Z" indexer="playlist-harvester",Canela Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058

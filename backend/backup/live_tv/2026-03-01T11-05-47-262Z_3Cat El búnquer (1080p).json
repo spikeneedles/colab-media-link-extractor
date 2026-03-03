@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8",
+  "title": "3Cat El búnquer (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Comedy;Public",
+  "tvgId": "3CatElbunquer.es@SD",
+  "tvgLogo": "https://i.imgur.com/wiqdIjd.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:47.262Z"
+}

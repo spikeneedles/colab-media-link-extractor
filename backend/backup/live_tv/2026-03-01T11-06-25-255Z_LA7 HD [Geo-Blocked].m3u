@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LA7.it_HD" tvg-name="LA7 HD [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:25.255Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png" indexer="playlist-harvester",LA7 HD [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd

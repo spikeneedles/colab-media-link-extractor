@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LN247.ng_SD" tvg-name="LN247 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:27.214Z" tvg-logo="https://i.imgur.com/s6PUehQ.jpg" indexer="playlist-harvester",LN247 (1080p)
+https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8",
+  "title": "Now Rock (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "NOWRock.uk@SD",
+  "tvgLogo": "https://i.imgur.com/GuM4GnX.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:37.483Z"
+}

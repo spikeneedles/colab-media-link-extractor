@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MataroTelevisio.es_SD" tvg-name="Mataró Televisió (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.296Z" tvg-logo="https://i.imgur.com/FTGbu8A.png" indexer="playlist-harvester",Mataró Televisió (1080p)
+https://liveingesta318.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8?DVR=

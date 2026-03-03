@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CityTVLawndale.us_SD" tvg-name="Lawndale City TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:26.018Z" tvg-logo="https://i.imgur.com/vFWUTyj.png" indexer="playlist-harvester",Lawndale City TV (720p)
+https://reflect-live-lawndale.cablecast.tv/live-4/live/live.m3u8

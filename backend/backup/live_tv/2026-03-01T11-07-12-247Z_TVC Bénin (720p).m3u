@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVCBenin.bj_SD" tvg-name="TVC Bénin (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:12.247Z" tvg-logo="https://i.imgur.com/oUnEYl5.png" indexer="playlist-harvester",TVC Bénin (720p)
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8

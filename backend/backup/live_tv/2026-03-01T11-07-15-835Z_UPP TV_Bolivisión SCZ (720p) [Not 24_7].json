@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8",
+  "title": "UPP TV/Bolivisión SCZ (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "UPPTV.bo@SD",
+  "tvgLogo": "https://i.ibb.co/Kwvbyr0/unnamed.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:15.835Z"
+}

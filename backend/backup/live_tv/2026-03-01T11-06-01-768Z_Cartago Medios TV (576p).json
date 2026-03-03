@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8",
+  "title": "Cartago Medios TV (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "CartagoMediosTV.cr@SD",
+  "tvgLogo": "https://i.imgur.com/Vcd40AL.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:01.768Z"
+}

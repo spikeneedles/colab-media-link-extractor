@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TSC.ca_SD" tvg-name="Today's Shopping Choice (TSC) (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:05.341Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/512px-TSC_logo.svg.png" indexer="playlist-harvester",Today's Shopping Choice (TSC) (720p)
+https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8

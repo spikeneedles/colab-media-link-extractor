@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DBMTV.fr_SD" tvg-name="DBM TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:07.123Z" tvg-logo="https://i.imgur.com/ab6p2SW.png" indexer="playlist-harvester",DBM TV (1080p)
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8

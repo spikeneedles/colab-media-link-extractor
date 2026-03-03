@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1",
+  "title": "STV News and General",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General;News",
+  "tvgId": "STVNewsandGeneral.cn@SD",
+  "tvgLogo": "https://skin.kankanews.com/logo/logo180x80.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:58.020Z"
+}

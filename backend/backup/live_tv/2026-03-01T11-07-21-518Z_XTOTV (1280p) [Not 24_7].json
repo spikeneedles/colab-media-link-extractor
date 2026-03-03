@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://190.104.15.135/0.ts",
+  "title": "XTOTV (1280p) [Not 24/7]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "XTOTV.bo@SD",
+  "tvgLogo": "https://i.imgur.com/MLwLlWl.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:21.518Z"
+}

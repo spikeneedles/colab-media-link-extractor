@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8",
+  "title": "Den Haag TV (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "DenHaagTV.nl@SD",
+  "tvgLogo": "https://i.imgur.com/gkzlRED.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:07.656Z"
+}

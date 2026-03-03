@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TelePaks.hu_SD" tvg-name="TelePaks (396p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:02.465Z" tvg-logo="https://i.imgur.com/T8ueztB.png" indexer="playlist-harvester",TelePaks (396p)
+https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8

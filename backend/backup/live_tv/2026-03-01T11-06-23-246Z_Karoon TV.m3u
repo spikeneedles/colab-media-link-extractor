@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KaroonTV.ir_SD" tvg-name="Karoon TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:23.246Z" tvg-logo="https://static.telewebion.com/channelsLogo/448a8dca-ab58-4533-8d71-ad74b8812c79/default" indexer="playlist-harvester",Karoon TV
+https://ncdn.telewebion.com/karoon/live/playlist.m3u8

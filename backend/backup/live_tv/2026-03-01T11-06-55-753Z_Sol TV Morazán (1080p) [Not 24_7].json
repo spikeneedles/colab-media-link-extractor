@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://rtmp.info:1935/soltv/envivo/playlist.m3u8",
+  "title": "Sol TV Morazán (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "SolTV.sv@SD",
+  "tvgLogo": "https://i.imgur.com/jaBxxpt.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:55.753Z"
+}

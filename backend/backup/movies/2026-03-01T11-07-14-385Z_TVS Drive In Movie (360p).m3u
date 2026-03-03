@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVSDriveInMovie.us_SD" tvg-name="TVS Drive In Movie (360p)" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:14.385Z" tvg-logo="https://i.imgur.com/OR9APjb.png" indexer="playlist-harvester",TVS Drive In Movie (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8

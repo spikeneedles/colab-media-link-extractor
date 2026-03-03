@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
+  "title": "Alert (576p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "AlertTV.gr@SD",
+  "tvgLogo": "https://i.imgur.com/xqa87lG.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:51.156Z"
+}

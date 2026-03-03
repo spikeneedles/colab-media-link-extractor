@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284",
+  "title": "Rotana FM KSA (720p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "RotanaFMKSA.sa@SD",
+  "tvgLogo": "https://rotanaradios.com/wp-content/uploads/2024/10/Asset-4.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:49.749Z"
+}

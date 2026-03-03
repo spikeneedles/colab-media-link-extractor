@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AmarUjala.in_SD" tvg-name="AmarUjala (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:51.844Z" tvg-logo="https://i.imgur.com/ndQ8LZp.png" indexer="playlist-harvester",AmarUjala (1080p)
+https://amarujala.ottlive.co.in/amarujala/index.m3u8

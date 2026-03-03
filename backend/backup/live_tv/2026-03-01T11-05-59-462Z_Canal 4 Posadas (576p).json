@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8",
+  "title": "Canal 4 Posadas (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "Canal4Posadas.ar@SD",
+  "tvgLogo": "https://i.imgur.com/tElJr3e.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:59.462Z"
+}

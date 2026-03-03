@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.shams.tv/hls/stream.m3u8",
+  "title": "Shams TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "ShamsTV.iq@SD",
+  "tvgLogo": "https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:54.278Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="QVC.de_SD" tvg-name="QVC Germany (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:44.437Z" tvg-logo="https://i.imgur.com/EybRtsI.png" indexer="playlist-harvester",QVC Germany (720p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8

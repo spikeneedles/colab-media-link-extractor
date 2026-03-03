@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd",
+  "title": "Italia 1 HD [Geo-Blocked]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Italia1.it@HD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:20.792Z"
+}

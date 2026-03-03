@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SVT1.se_HD" tvg-name="SVT1 (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:58.863Z" tvg-logo="https://i.imgur.com/j6KusQX.png" indexer="playlist-harvester",SVT1 (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&format=hls

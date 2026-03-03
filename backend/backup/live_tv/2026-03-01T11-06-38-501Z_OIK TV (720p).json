@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streamer05.low-latency.cz/oiktv/index.m3u8",
+  "title": "OIK TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "OIKTV.cz@SD",
+  "tvgLogo": "https://i.imgur.com/1mXxQ02.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:38.501Z"
+}

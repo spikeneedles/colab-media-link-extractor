@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PayamJavanTV.us_SD" tvg-name="Payam Javan TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.775Z" tvg-logo="https://i.imgur.com/GYfsHh9.png" indexer="playlist-harvester",Payam Javan TV (720p) [Not 24/7]
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8

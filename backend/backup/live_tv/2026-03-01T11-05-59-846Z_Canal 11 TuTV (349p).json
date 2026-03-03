@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.giostreaming.app/canal11/canal11.m3u8",
+  "title": "Canal 11 TuTV (349p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Canal11TuTV.sv@SD",
+  "tvgLogo": "https://i.imgur.com/itqQEux.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:59.846Z"
+}

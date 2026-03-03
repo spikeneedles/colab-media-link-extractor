@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8",
+  "title": "Universal Crime",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Series",
+  "tvgId": "UniversalCrime.us@East",
+  "tvgLogo": "https://i.imgur.com/OwSlGMu.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:15.674Z"
+}

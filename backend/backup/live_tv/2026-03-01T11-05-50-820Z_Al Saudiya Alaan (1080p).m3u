@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlSaudiyaAlaan.sa_SD" tvg-name="Al Saudiya Alaan (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:50.820Z" tvg-logo="https://i.imgur.com/sEOjApe.png" indexer="playlist-harvester",Al Saudiya Alaan (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8

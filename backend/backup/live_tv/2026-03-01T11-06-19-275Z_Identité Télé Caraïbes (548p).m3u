@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IdentiteTeleCaraibes.mq_SD" tvg-name="Identité Télé Caraïbes (548p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:19.275Z" tvg-logo="https://i.imgur.com/Atsf6Cd.png" indexer="playlist-harvester",Identité Télé Caraïbes (548p)
+https://vdo2.pro-fhi.net:3769/stream/play.m3u8

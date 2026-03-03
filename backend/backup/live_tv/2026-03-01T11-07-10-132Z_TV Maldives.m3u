@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVMaldives.mv_SD" tvg-name="TV Maldives" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:10.132Z" tvg-logo="https://i.imgur.com/1c7rFKC.png" indexer="playlist-harvester",TV Maldives
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8

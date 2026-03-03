@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CoolChannel.th_SD" tvg-name="Cool Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:05.622Z" tvg-logo="https://i.imgur.com/MU4E0A7.png" indexer="playlist-harvester",Cool Channel
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8

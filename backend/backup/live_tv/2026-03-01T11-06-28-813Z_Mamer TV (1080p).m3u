@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MamerTV.lu_SD" tvg-name="Mamer TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:28.813Z" tvg-logo="https://i.imgur.com/THnWggV.jpg" indexer="playlist-harvester",Mamer TV (1080p)
+https://streamer20.multimedia.blue/Eltrona/MamerTV/playlist.m3u8

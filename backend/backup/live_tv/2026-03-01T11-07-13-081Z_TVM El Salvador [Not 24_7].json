@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://201.247.102.189/tmp_hls/stream/index.m3u8",
+  "title": "TVM El Salvador [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "TVMElSalvador.sv@SD",
+  "tvgLogo": "https://i.imgur.com/fyCC8R6.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:13.081Z"
+}

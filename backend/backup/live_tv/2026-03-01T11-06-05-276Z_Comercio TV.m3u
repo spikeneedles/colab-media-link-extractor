@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Comercio_TV" tvg-name="Comercio TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:05.276Z" indexer="playlist-harvester",Comercio TV
+https://amg00082-amg00082c1-distrotv-us-7248.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-distrotvus/playlist.m3u8?ads.vf=weGAxLN91kS

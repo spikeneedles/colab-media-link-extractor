@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KSHBDT1.us_SD" tvg-name="KSHB-DT1 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.608Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" indexer="playlist-harvester",KSHB-DT1 (720p)
+https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8

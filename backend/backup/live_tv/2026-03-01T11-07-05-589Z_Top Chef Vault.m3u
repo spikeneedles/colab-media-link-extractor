@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Top_Chef_Vault" tvg-name="Top Chef Vault" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:05.589Z" indexer="playlist-harvester",Top Chef Vault
+https://xumo-xumoent-vc-116-hrcw0.fast.nbcuni.com/live/master.m3u8

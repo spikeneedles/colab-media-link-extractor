@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MetropolaTV.ro_SD" tvg-name="Metropola TV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:30.813Z" tvg-logo="https://i.imgur.com/Gzq05v8.png" indexer="playlist-harvester",Metropola TV (1080p) [Not 24/7]
+https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8

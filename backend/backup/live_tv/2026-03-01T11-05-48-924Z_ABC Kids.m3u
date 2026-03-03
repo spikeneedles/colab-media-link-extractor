@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABCKids.au_Sydney" tvg-name="ABC Kids" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.924Z" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" indexer="playlist-harvester",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8

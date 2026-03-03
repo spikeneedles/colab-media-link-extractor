@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GodStandsTV.pk_Main" tvg-name="God Stands TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:15.330Z" tvg-logo="https://i.imgur.com/EO6cYUI.png" indexer="playlist-harvester",God Stands TV
+https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8

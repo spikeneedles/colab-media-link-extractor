@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IciRDI.ca_SD" tvg-name="ICI RDI (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:19.178Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png" indexer="playlist-harvester",ICI RDI (720p)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8

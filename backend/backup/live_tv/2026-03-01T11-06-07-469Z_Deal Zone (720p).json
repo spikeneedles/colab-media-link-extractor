@@ -1,0 +1,12 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live-manifest.production-public.tubi.io/live/01ef20d5-307d-4c6a-9d16-a6f3df1addd3/playlist.m3u8",
+  "title": "Deal Zone (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:07.469Z"
+}

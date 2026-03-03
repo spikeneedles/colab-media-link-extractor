@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StingrayCMusic.ca_SD" tvg-name="Stingray CMusic (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:57.457Z" tvg-logo="https://i.imgur.com/3UppN5P.png" indexer="playlist-harvester",Stingray CMusic (1080p)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8

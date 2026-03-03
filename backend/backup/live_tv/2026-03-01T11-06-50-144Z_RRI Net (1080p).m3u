@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RRINet.id_SD" tvg-name="RRI Net (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:50.144Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/2560px-RRI_NET_2023.svg.png" indexer="playlist-harvester",RRI Net (1080p)
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8

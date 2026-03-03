@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8",
+  "title": "Digital809 TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Digital809TV.do@SD",
+  "tvgLogo": "https://i.imgur.com/NKdV8b1.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:08.010Z"
+}

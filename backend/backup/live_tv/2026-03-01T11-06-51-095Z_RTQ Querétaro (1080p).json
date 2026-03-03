@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8",
+  "title": "RTQ Querétaro (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "RTQQueretaro.mx@SD",
+  "tvgLogo": "https://i.imgur.com/RRckCvf.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:51.095Z"
+}

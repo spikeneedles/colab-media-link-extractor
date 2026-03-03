@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KQSLDT1.us_SD" tvg-name="KQSL Channel 8 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.464Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/512px-TLN_2015.png" indexer="playlist-harvester",KQSL Channel 8 (720p)
+https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8

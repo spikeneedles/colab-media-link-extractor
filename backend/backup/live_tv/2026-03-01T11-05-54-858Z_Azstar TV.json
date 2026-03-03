@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8",
+  "title": "Azstar TV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "AzStarTV.ca",
+  "tvgLogo": "https://i.imgur.com/di3XX5L.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:54.858Z"
+}

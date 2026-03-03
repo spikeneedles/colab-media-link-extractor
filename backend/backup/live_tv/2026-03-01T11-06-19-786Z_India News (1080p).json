@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://newsxott.in/hls/indianewsnational.m3u8",
+  "title": "India News (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "IndiaNews.in@SD",
+  "tvgLogo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_news.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:19.786Z"
+}

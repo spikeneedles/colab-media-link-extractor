@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TelePoderTV.do_HD" tvg-name="Tele Poder TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:00.613Z" tvg-logo="https://www.telepoder.online/wp-content/uploads/2024/02/cropped-cropped-Logo-PoderTV2.png" indexer="playlist-harvester",Tele Poder TV (720p) [Not 24/7]
+https://cdn.telepoder.online:3229/dash/stream.m3u8

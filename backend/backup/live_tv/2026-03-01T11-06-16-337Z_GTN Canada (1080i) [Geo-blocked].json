@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8",
+  "title": "GTN Canada (1080i) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "GTNCanada.ca@SD",
+  "tvgLogo": "https://i.imgur.com/7bQPJOd.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:16.337Z"
+}

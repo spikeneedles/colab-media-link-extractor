@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OFTVOffenbach.de_SD" tvg-name="OF-TV Offenbach (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:38.467Z" tvg-logo="https://i.imgur.com/WAcxCJr.png" indexer="playlist-harvester",OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8

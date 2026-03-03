@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8",
+  "title": "Agenda 56 TV [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Agenda56TV.do@SD",
+  "tvgLogo": "https://i.imgur.com/G7zIVB7.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:50.120Z"
+}

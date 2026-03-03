@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CameraSmileTV.us_SD" tvg-name="Camera Smile (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:59.085Z" tvg-logo="https://i.imgur.com/V5h4R83.png" indexer="playlist-harvester",Camera Smile (480p)
+https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8

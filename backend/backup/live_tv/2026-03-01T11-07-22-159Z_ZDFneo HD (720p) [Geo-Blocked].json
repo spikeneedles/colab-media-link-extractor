@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd",
+  "title": "ZDFneo HD (720p) [Geo-Blocked]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "ZDFneo.de@HD",
+  "tvgLogo": "https://i.imgur.com/1JIIGgL.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:22.159Z"
+}

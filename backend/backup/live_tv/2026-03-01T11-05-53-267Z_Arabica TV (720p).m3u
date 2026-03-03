@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ArabicaTV.lb_SD" tvg-name="Arabica TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:53.267Z" tvg-logo="https://i.imgur.com/sTOoDy1.png" indexer="playlist-harvester",Arabica TV (720p)
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8

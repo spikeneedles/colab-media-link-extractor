@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CNAInternational.sg_SD" tvg-name="CNA International (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:04.659Z" tvg-logo="https://i.imgur.com/xWglicB.png" indexer="playlist-harvester",CNA International (1080p)
+https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8

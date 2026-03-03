@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PCTChannel26.us_SD" tvg-name="Pacific Coast TV MWSD Channel 26 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.261Z" tvg-logo="https://i.imgur.com/xJSya25.png" indexer="playlist-harvester",Pacific Coast TV MWSD Channel 26 (720p)
+https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8

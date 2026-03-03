@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PersianaCinema.fr_SD" tvg-name="Persiana Cinema" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:41.330Z" tvg-logo="https://i.imgur.com/hgIro9r.png" indexer="playlist-harvester",Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca_SD" tvg-name="Stingray Easy Listening (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:57.483Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" indexer="playlist-harvester",Stingray Easy Listening (1080p)
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8

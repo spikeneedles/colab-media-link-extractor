@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel200.nz_SD" tvg-name="Channel 200 (540p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.473Z" tvg-logo="https://i.imgur.com/gAebu4q.png" indexer="playlist-harvester",Channel 200 (540p)
+https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8

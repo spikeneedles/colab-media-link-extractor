@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SangeetBangla.in_SD" tvg-name="Sangeet Bangla (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:52.759Z" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Bangla.png" indexer="playlist-harvester",Sangeet Bangla (720p)
+https://cdn-4.pishow.tv/live/1143/master.m3u8

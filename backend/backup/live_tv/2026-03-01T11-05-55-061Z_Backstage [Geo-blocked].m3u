@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Backstage.us_SD" tvg-name="Backstage [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:55.061Z" tvg-logo="https://i.imgur.com/qcTNvNU.png" indexer="playlist-harvester",Backstage [Geo-blocked]
+https://fuse-backstage-xumo.amagi.tv/playlist.m3u8

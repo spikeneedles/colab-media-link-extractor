@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://webtvstream.bhtelecom.ba/rts2.m3u8",
+  "title": "RTS 2 (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "RTS2.rs@SD",
+  "tvgLogo": "https://i.imgur.com/jltAf5h.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:51.188Z"
+}

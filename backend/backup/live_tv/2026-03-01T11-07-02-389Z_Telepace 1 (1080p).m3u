@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telepace1.it_SD" tvg-name="Telepace 1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:02.389Z" tvg-logo="https://i.imgur.com/TpdsPWG.png" indexer="playlist-harvester",Telepace 1 (1080p)
+https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8

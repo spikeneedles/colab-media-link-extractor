@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVEllef.nl_SD" tvg-name="TV Ellef (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:09.559Z" tvg-logo="https://i.imgur.com/FaCd2QY.png" indexer="playlist-harvester",TV Ellef (1080p)
+http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8",
+  "title": "Seraphim TV [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "SeraphimTV.za@SD",
+  "tvgLogo": "https://i.imgur.com/MfeKk07.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:53.871Z"
+}

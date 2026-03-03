@@ -1,0 +1,13 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a",
+  "title": "Planeta-RTR",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "RTRPlaneta.ru@USA",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:41.908Z"
+}

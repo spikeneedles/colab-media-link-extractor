@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CMAPChannel19.us_SD" tvg-name="Gilroy CMAP TV Channel 19 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:14.975Z" tvg-logo="https://i.imgur.com/wlYUEYc.png" indexer="playlist-harvester",Gilroy CMAP TV Channel 19 (720p)
+https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8

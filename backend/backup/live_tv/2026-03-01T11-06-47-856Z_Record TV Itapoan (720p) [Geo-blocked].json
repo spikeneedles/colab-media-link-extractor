@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8",
+  "title": "Record TV Itapoan (720p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "RecordTVItapoan.br@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Logotipo_da_RecordTV_Itapoan.png/512px-Logotipo_da_RecordTV_Itapoan.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:47.856Z"
+}

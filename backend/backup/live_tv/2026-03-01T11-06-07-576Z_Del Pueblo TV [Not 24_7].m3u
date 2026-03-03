@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DelPuebloTV.do_HD" tvg-name="Del Pueblo TV [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:07.576Z" tvg-logo="https://imgur.com/Pw7ZUT1.jpg" indexer="playlist-harvester",Del Pueblo TV [Not 24/7]
+https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8

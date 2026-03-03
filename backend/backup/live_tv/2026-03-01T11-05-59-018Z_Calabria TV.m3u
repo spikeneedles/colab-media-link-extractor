@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CalabriaTV.it_SD" tvg-name="Calabria TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:59.018Z" tvg-logo="https://i.imgur.com/noTgJJp.png" indexer="playlist-harvester",Calabria TV
+https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8

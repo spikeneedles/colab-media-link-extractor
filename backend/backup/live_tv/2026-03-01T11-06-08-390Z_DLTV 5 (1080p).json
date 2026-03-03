@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn-live.dltv.ac.th/dltv05.m3u8",
+  "title": "DLTV 5 (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Education",
+  "tvgId": "DLTV5.th@SD",
+  "tvgLogo": "https://i.imgur.com/J1E89jX.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:08.390Z"
+}

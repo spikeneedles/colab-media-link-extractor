@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel7.th_SD" tvg-name="Channel 7 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.311Z" tvg-logo="https://i.imgur.com/SBCIwek.png" indexer="playlist-harvester",Channel 7 (1080p)
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8

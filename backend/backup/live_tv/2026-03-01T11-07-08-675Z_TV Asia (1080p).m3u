@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVAsia.us_SD" tvg-name="TV Asia (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:08.675Z" tvg-logo="https://i.imgur.com/a0BRhvr.png" indexer="playlist-harvester",TV Asia (1080p)
+https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/24-25-6886.m3u8

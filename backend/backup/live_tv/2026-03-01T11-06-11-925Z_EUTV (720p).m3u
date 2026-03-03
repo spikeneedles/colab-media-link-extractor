@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EUTV.br_SD" tvg-name="EUTV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:11.925Z" tvg-logo="https://i.imgur.com/8PxpamC.png" indexer="playlist-harvester",EUTV (720p)
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8

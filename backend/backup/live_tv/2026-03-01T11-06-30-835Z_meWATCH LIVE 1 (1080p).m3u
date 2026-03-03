@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg_SD" tvg-name="meWATCH LIVE 1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:30.835Z" tvg-logo="https://i.imgur.com/ppxUDxB.png" indexer="playlist-harvester",meWATCH LIVE 1 (1080p)
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd

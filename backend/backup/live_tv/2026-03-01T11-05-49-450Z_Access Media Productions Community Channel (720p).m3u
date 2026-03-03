@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AMP2.us_SD" tvg-name="Access Media Productions Community Channel (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:49.450Z" tvg-logo="https://i.imgur.com/nfur3FR.png" indexer="playlist-harvester",Access Media Productions Community Channel (720p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8

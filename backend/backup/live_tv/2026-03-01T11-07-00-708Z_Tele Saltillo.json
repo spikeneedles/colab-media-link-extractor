@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://servilive.com:3879/live/telesaltillolive.m3u8",
+  "title": "Tele Saltillo",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TeleSaltillo.mx@SD",
+  "tvgLogo": "https://i.imgur.com/PgBtvgO.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:00.708Z"
+}

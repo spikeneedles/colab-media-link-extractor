@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CromTV.do_SD" tvg-name="CromTV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.192Z" tvg-logo="https://i.imgur.com/jk1lkOV.png" indexer="playlist-harvester",CromTV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8

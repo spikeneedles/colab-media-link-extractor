@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us_South" tvg-name="National Geographic Latin America South (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:34.392Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" indexer="playlist-harvester",National Geographic Latin America South (1080p)
+http://38.183.182.166:8000/play/a0vd/index.m3u8

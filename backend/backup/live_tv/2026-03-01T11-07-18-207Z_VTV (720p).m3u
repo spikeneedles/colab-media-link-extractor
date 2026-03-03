@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VTV.id_SD" tvg-name="VTV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:18.207Z" tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" indexer="playlist-harvester",VTV (720p)
+https://flv.intechmedia.net/live/ch107.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="______1080p_" tvg-name="晋中综合 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:28.652Z" indexer="playlist-harvester",晋中综合 (1080p)
+http://jzlive.jztvnews.com:90/live/jzzh.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVCanalSur.do_SD" tvg-name="TV Canal Sur (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:08.995Z" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-canal-sur-do.png" indexer="playlist-harvester",TV Canal Sur (1080p)
+https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8

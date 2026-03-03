@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NiederbayernTV.de_SD" tvg-name="Niederbayern TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:36.686Z" tvg-logo="https://i.imgur.com/9uaMgTk.png" indexer="playlist-harvester",Niederbayern TV (720p)
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8

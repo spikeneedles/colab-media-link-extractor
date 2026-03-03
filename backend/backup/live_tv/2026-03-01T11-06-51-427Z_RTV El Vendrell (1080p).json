@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://liveingesta318.cdnmedia.tv/tvvendrelllive/smil:live.smil/playlist.m3u8",
+  "title": "RTV El Vendrell (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "RTVElVendrell.es@SD",
+  "tvgLogo": "https://i.imgur.com/x9CgczD.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:51.427Z"
+}

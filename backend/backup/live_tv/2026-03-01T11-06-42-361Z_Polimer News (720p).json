@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live-cf-polimernews.dailyhunt.in/master.m3u8",
+  "title": "Polimer News (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "PolimerNews.in@SD",
+  "tvgLogo": "https://i.imgur.com/CxcuvXX.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:42.361Z"
+}

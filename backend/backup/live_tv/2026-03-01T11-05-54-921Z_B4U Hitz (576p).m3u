@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="B4UHitz.in_SD" tvg-name="B4U Hitz (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:05:54.921Z" indexer="playlist-harvester",B4U Hitz (576p)
+http://115.42.65.142:9981/stream/channelid/1099703605

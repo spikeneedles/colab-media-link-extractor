@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVPlusSuceava.ro_SD" tvg-name="TVPlus Suceava (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:13.546Z" tvg-logo="https://i.imgur.com/f4fzoLe.png" indexer="playlist-harvester",TVPlus Suceava (576p)
+http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8

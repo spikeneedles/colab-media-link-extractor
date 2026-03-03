@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AragonTVInternacional.es_SD" tvg-name="Aragon TV Internacional (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:53.313Z" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512" indexer="playlist-harvester",Aragon TV Internacional (720p) [Not 24/7]
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8

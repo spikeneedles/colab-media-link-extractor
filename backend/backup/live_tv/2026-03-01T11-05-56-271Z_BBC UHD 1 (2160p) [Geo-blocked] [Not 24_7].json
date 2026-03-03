@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd",
+  "title": "BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "BBCUHD1.uk@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:56.271Z"
+}

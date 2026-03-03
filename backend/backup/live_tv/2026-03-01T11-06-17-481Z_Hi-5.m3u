@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Hi-5" tvg-name="Hi-5" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:17.481Z" indexer="playlist-harvester",Hi-5
+https://streams2.sofast.tv/WiseM3U8_31/sofast/cleanhls/master.m3u8

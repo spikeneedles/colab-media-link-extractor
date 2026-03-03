@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8",
+  "title": "Filmex Clásico (1080p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "FilmexClasico.mx@SD",
+  "tvgLogo": "https://i.imgur.com/D3dj4mv.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:06:12.942Z"
+}

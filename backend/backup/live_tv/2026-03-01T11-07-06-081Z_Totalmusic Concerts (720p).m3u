@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TotalmusicConcerts.uk_HD" tvg-name="Totalmusic Concerts (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:06.081Z" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" indexer="playlist-harvester",Totalmusic Concerts (720p)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlertTV.gr_SD" tvg-name="Alert (576p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:51.156Z" tvg-logo="https://i.imgur.com/xqa87lG.png" indexer="playlist-harvester",Alert (576p) [Not 24/7]
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8

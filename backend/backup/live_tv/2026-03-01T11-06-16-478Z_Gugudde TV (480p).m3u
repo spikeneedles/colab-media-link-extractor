@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GuguddeTV.ug_SD" tvg-name="Gugudde TV (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:16.478Z" tvg-logo="https://i.imgur.com/XEakc6Q.png" indexer="playlist-harvester",Gugudde TV (480p)
+https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8

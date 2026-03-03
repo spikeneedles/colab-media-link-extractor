@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AVASeries.ir_SD" tvg-name="AVA Series" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:54.624Z" tvg-logo="https://i.imgur.com/8AfAfZE.png" indexer="playlist-harvester",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8

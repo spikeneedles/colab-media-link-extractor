@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://30a-tv.com/feeds/vidaa/golf.m3u8",
+  "title": "30A Golf Kingdom",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "30AGolfKingdom.us@SD",
+  "tvgLogo": "https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:47.967Z"
+}

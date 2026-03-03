@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JOEXDTV.jp_SD" tvg-name="TV Asahi (544p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:08.662Z" tvg-logo="https://i.imgur.com/YCqB5Kj.png" indexer="playlist-harvester",TV Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06

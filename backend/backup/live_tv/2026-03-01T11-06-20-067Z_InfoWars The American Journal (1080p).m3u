@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="InfoWars_The_American_Journal__1080p_" tvg-name="InfoWars The American Journal (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:20.067Z" indexer="playlist-harvester",InfoWars The American Journal (1080p)
+https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8

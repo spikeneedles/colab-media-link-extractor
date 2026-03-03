@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DisneyJr.tr_SD" tvg-name="Disney Jr. (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:08.220Z" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" indexer="playlist-harvester",Disney Jr. (1080p) [Geo-blocked]
+https://saran-live.ercdn.net/disneyjunior/index.m3u8

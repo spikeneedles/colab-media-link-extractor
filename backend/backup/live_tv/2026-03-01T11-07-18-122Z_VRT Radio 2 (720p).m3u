@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Radio2.be_SD" tvg-name="VRT Radio 2 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:18.122Z" tvg-logo="https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png" indexer="playlist-harvester",VRT Radio 2 (720p)
+https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8

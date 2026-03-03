@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="France5.fr_HD" tvg-name="France 5 HD (720p) [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:13.730Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" indexer="playlist-harvester",France 5 HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd

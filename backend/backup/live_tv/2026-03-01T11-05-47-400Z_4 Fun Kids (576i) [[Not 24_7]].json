@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8",
+  "title": "4 Fun Kids (576i) [[Not 24/7]]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Kids",
+  "tvgId": "4FunKids.pl@SD",
+  "tvgLogo": "https://i.imgur.com/2JO5Y8c.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:47.400Z"
+}

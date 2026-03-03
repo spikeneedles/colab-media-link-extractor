@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RiC.de_SD" tvg-name="RiC [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:48.945Z" tvg-logo="https://i.imgur.com/4wMZ8Em.png" indexer="playlist-harvester",RiC [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8

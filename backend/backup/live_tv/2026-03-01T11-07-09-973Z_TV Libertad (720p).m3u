@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVLibertad.mx_SD" tvg-name="TV Libertad (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:09.973Z" tvg-logo="https://i.imgur.com/yvbhH8c.png" indexer="playlist-harvester",TV Libertad (720p)
+https://stream.oursnetworktv.com/latin/tvlibertad/playlist.m3u8

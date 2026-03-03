@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CBCTDT.ca_SD" tvg-name="CBC Prince Edward Island (CBCT-DT) (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:02.197Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CBCT-DT_2017.svg/512px-CBCT-DT_2017.svg.png" indexer="playlist-harvester",CBC Prince Edward Island (CBCT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8

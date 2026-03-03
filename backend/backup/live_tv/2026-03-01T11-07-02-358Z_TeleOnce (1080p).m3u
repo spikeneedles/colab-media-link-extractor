@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeleOnce.pr_SD" tvg-name="TeleOnce (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:02.358Z" tvg-logo="https://i.imgur.com/Crt3P4N.png" indexer="playlist-harvester",TeleOnce (1080p)
+https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8

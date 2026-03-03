@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="XtraTv.do_HD" tvg-name="Xtra Tv (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:21.534Z" tvg-logo="https://xtratvrd.com/logo512.png" indexer="playlist-harvester",Xtra Tv (720p) [Not 24/7]
+https://mlb.essastream.com:8081/xtratv/index.m3u8

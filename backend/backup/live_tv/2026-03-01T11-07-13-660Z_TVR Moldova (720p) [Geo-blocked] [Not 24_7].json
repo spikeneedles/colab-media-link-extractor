@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8",
+  "title": "TVR Moldova (720p) [Geo-blocked] [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TVRMoldova.md@SD",
+  "tvgLogo": "https://i.imgur.com/wDe9gL2.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:13.660Z"
+}

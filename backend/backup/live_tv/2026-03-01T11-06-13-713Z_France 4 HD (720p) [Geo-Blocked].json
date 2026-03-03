@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd",
+  "title": "France 4 HD (720p) [Geo-Blocked]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Kids",
+  "tvgId": "France4.fr@HD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:13.713Z"
+}

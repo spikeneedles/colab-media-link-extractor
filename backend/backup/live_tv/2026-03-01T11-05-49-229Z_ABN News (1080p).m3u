@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABNNews.pk_SD" tvg-name="ABN News (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:49.229Z" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abn-news-pk.png" indexer="playlist-harvester",ABN News (1080p)
+http://116.90.120.149:8000/play/a01r/index.m3u8

@@ -235,7 +235,13 @@ export function APIContentExtractor() {
               >
                 <div className="flex items-start justify-between gap-2">
                   <a
-                    href={stream.url}
+                    href={stream.url.startsWith('magnet:') ? '#' : stream.url}
+                    onClick={(e) => {
+                      if (stream.url.startsWith('magnet:')) {
+                        e.preventDefault()
+                        toast.error('Click the Play button to open this magnet link in the media player')
+                      }
+                    }}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-accent hover:underline font-mono text-xs break-all flex-1"

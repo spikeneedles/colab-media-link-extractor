@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8",
+  "title": "Omroep Hoeksche Waard (480p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "OmroepHoekscheWaard.nl@SD",
+  "tvgLogo": "https://i.imgur.com/pgMwNGV.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "series",
+  "archivedAt": "2026-03-01T11:06:39.127Z"
+}

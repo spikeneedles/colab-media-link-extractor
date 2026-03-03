@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JiangxiCityChannel.cn_SD" tvg-name="Jiangxi City Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:21.676Z" tvg-logo="https://www.tvchinese.net/uploads/tv/jxds.jpg" indexer="playlist-harvester",Jiangxi City Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8

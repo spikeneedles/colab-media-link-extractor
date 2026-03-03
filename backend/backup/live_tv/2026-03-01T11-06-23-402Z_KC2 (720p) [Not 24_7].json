@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8",
+  "title": "KC2 (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "KC2.rw@SD",
+  "tvgLogo": "https://i.imgur.com/PsYPzNc.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:23.402Z"
+}

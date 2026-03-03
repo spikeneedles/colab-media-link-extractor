@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8",
+  "title": "Malabar News (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "MalabarNews.in@SD",
+  "tvgLogo": "https://i.imgur.com/Un2gxt4.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:28.734Z"
+}

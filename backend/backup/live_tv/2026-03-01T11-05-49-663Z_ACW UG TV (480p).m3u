@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ACWUGTV.ug_SD" tvg-name="ACW UG TV (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:49.663Z" tvg-logo="https://i.imgur.com/8pzEmcJ.jpeg" indexer="playlist-harvester",ACW UG TV (480p)
+https://live.acwugtv.com/hls/stream.m3u8

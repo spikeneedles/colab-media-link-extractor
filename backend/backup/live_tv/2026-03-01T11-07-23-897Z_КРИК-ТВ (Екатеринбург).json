@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8",
+  "title": "КРИК-ТВ (Екатеринбург)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "KrikTV.ru@SD",
+  "tvgLogo": "https://i.imgur.com/rtuChZR.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:23.897Z"
+}

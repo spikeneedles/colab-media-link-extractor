@@ -1,0 +1,13 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://115.42.65.142:9981/stream/channelid/1099703605",
+  "title": "B4U Hitz (576p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "B4UHitz.in@SD",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:54.921Z"
+}

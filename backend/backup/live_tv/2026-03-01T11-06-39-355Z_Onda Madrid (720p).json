@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://tvradio-1-23-secure2.akamaized.net/master.m3u8",
+  "title": "Onda Madrid (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "OndaMadrid.es@SD",
+  "tvgLogo": "https://i.imgur.com/Q1YwYsR.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:39.355Z"
+}

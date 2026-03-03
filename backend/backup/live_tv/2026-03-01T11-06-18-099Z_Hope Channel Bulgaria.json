@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8",
+  "title": "Hope Channel Bulgaria",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "HopeChannelBulgaria.bg@SD",
+  "tvgLogo": "https://i.imgur.com/bxzeEML.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:18.099Z"
+}

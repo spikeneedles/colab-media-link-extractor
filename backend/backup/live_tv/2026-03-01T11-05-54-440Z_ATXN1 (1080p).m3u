@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ATXN1.us_SD" tvg-name="ATXN1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:54.440Z" tvg-logo="https://i.imgur.com/tSMtDlz.png" indexer="playlist-harvester",ATXN1 (1080p)
+https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8

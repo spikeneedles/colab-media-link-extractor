@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8",
+  "title": "Alacantí TV (576p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "AlacantiTV.es@SD",
+  "tvgLogo": "https://i.imgur.com/pcWU6e1.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:51.009Z"
+}

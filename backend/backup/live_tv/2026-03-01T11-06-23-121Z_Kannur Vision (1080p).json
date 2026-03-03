@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.logichost.in/kannurvision/live/playlist.m3u8",
+  "title": "Kannur Vision (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "KannurVision.in@SD",
+  "tvgLogo": "https://i.imgur.com/FCXqPer.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:23.121Z"
+}

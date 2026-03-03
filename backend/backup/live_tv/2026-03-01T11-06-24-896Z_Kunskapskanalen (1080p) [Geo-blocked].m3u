@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Kunskapskanalen.se_HD" tvg-name="Kunskapskanalen (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.896Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kunskapskanalen_2017.svg/512px-Kunskapskanalen_2017.svg.png" indexer="playlist-harvester",Kunskapskanalen (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SyriaOne.sy_HD" tvg-name="Syria One (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.070Z" tvg-logo="https://tv.syriaone.tv/SyriaONETVB.png" indexer="playlist-harvester",Syria One (1080p)
+https://live.syriaone.tv/live/syriaone.m3u8

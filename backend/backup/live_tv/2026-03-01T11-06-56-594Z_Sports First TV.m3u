@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sports_First_TV" tvg-name="Sports First TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:56.594Z" indexer="playlist-harvester",Sports First TV
+https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8?ads.vf=bLQYW3cWtEm

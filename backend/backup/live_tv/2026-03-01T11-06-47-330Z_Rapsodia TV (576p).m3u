@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RapsodiaTV.ro_SD" tvg-name="Rapsodia TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:47.330Z" tvg-logo="https://i.imgur.com/mwMG7BB.png" indexer="playlist-harvester",Rapsodia TV (576p)
+http://92.86.248.141:8080/ram/playlist.m3u8

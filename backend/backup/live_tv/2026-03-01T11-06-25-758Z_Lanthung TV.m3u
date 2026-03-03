@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LanthungTV.th_SD" tvg-name="Lanthung TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:25.758Z" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lanthung-tv-th.png" indexer="playlist-harvester",Lanthung TV
+https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8

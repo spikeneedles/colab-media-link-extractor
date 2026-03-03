@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HtMusicChannel.hu_SD" tvg-name="H!T Music Channel (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:16.640Z" tvg-logo="https://i.imgur.com/sqC2hqV.png" indexer="playlist-harvester",H!T Music Channel (480p)
+http://hitmusic.hu/hitmusic.m3u8

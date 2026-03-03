@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EspaceTV.gn_SD" tvg-name="Espace TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:11.061Z" tvg-logo="https://i.imgur.com/R5tbzFI.png" indexer="playlist-harvester",Espace TV (1080p)
+https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8

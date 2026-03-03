@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CityTVWhittier.us_SD" tvg-name="Whittier CityTV (Whittier CA) (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:20.117Z" tvg-logo="https://i.imgur.com/68n7ifH.png" indexer="playlist-harvester",Whittier CityTV (Whittier CA) (720p)
+https://whittier.cablecast.tv/live/stream-1/live.m3u8

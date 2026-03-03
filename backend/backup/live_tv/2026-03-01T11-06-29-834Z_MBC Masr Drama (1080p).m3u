@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MBCMasrDrama.sa_SD" tvg-name="MBC Masr Drama (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.834Z" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" indexer="playlist-harvester",MBC Masr Drama (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8

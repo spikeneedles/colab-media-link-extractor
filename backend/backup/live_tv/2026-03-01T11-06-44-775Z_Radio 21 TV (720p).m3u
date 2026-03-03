@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Radio21TV.de_SD" tvg-name="Radio 21 TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:44.775Z" tvg-logo="https://i.imgur.com/u8OhwI1.png" indexer="playlist-harvester",Radio 21 TV (720p)
+https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8

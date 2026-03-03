@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TheBobRossChannel.us_SD" tvg-name="The Bob Ross Channel (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:04.037Z" tvg-logo="https://i.imgur.com/gFHKCbZ.png" indexer="playlist-harvester",The Bob Ross Channel (720p)
+https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8

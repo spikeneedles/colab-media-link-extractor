@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
+  "title": "Pluto TV MTV Classic",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "PlutoTVMTVClassic.us@SD",
+  "tvgLogo": "https://i.imgur.com/NPavpts.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:42.170Z"
+}

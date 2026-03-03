@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BHRT.ba_SD" tvg-name="BHRT (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:57.120Z" tvg-logo="https://i.imgur.com/01bZ5rw.png" indexer="playlist-harvester",BHRT (720p) [Geo-blocked]
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8

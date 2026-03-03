@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telemax.ar_SD" tvg-name="Telemax" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:01.925Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/512px-Telemax_Argentina_%282018%29.png" indexer="playlist-harvester",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8

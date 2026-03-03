@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel_Fight__1080p_" tvg-name="Channel Fight (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.513Z" indexer="playlist-harvester",Channel Fight (1080p)
+https://d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8

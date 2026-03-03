@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TAPTVChannel24.us_SD" tvg-name="Lompoc TAP TV Channel 24 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:27.387Z" tvg-logo="https://i.imgur.com/5mhYHtD.png" indexer="playlist-harvester",Lompoc TAP TV Channel 24 (720p)
+https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8

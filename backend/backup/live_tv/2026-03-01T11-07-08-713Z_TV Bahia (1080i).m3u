@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVBahia.br_HD" tvg-name="TV Bahia (1080i)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:08.713Z" tvg-logo="https://i.imgur.com/sJOrvHg.png" indexer="playlist-harvester",TV Bahia (1080i)
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8

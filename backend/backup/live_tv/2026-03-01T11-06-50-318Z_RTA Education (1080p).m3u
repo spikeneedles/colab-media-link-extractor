@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTAEducation.af_SD" tvg-name="RTA Education (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:50.318Z" tvg-logo="https://rta.af/artmedia/2022/12/rta-logo-final-300x185.png" indexer="playlist-harvester",RTA Education (1080p)
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8

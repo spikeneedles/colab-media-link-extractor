@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVBrno1.cz_SD" tvg-name="TV Brno 1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:08.867Z" tvg-logo="https://i.imgur.com/8Xm3WSn.png" indexer="playlist-harvester",TV Brno 1 (1080p)
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv_SD" tvg-name="Megavisión Canal 19 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:30.421Z" tvg-logo="https://i.imgur.com/voyVP6X.png" indexer="playlist-harvester",Megavisión Canal 19 (720p)
+https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8

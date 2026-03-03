@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnNinhTV.vn_HD" tvg-name="ANTV (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:53.035Z" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" indexer="playlist-harvester",ANTV (1080p) [Geo-blocked]
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8

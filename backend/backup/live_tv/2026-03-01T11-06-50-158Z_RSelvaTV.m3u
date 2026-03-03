@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RSelvaTV.pe_SD" tvg-name="RSelvaTV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:50.158Z" tvg-logo="https://i.imgur.com/DAK5ZnD.png" indexer="playlist-harvester",RSelvaTV
+https://live.obslivestream.com/selvatv/index.m3u8

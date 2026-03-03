@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DaruTV.hu_SD" tvg-name="Daru TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.999Z" tvg-logo="https://i.imgur.com/0P7QHde.png" indexer="playlist-harvester",Daru TV (720p)
+https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8

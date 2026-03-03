@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EcotelTV.ec_SD" tvg-name="Ecotel TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:09.887Z" tvg-logo="https://i.imgur.com/pVlZUSV.png" indexer="playlist-harvester",Ecotel TV (720p)
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BukeddeTV1.ug_SD" tvg-name="Bukedde TV 1 (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:58.556Z" tvg-logo="https://i.imgur.com/HFq5QlJ.png" indexer="playlist-harvester",Bukedde TV 1 (576p)
+https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8

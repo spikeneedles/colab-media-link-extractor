@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="360RFTV.cr_SD" tvg-name="360 RFTV (576p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.243Z" tvg-logo="https://i.imgur.com/EBtgnxR.png" indexer="playlist-harvester",360 RFTV (576p) [Geo-blocked]
+https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8

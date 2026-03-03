@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVitape.br_SD" tvg-name="TVitapé (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:12.946Z" tvg-logo="https://i.imgur.com/XeqcwKe.png" indexer="playlist-harvester",TVitapé (720p)
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8

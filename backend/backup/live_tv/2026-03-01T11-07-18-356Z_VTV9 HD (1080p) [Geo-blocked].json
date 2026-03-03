@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8",
+  "title": "VTV9 HD (1080p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "VTV9.vn@HD",
+  "tvgLogo": "https://i.imgur.com/QiY55sy.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:18.356Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeletrakTV.cl_SD" tvg-name="Teletrak (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:02.921Z" tvg-logo="https://i.imgur.com/NoJvlig.png" indexer="playlist-harvester",Teletrak (720p)
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8

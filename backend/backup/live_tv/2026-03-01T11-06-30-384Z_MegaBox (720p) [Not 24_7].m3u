@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MegaBox.ni_SD" tvg-name="MegaBox (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:30.384Z" tvg-logo="https://i.imgur.com/JqaW7Ei.png" indexer="playlist-harvester",MegaBox (720p) [Not 24/7]
+https://hdbox.chunklistv.com/live?stream=megabox

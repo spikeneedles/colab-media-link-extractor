@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="France4.fr_HD" tvg-name="France 4 HD (720p) [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:13.713Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" indexer="playlist-harvester",France 4 HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd

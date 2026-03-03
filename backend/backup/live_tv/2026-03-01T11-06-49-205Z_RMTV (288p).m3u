@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RMTV.bg_SD" tvg-name="RMTV (288p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:49.205Z" tvg-logo="https://rmtv.bg/img/logo.png" indexer="playlist-harvester",RMTV (288p)
+https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VivaTVYurimaguas.pe_SD" tvg-name="Viva TV Yurimaguas (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.627Z" tvg-logo="https://i.imgur.com/GkSoxhx.png" indexer="playlist-harvester",Viva TV Yurimaguas (720p)
+https://live.obslivestream.com/vivatv/index.m3u8

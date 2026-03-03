@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SukeTV.my_SD" tvg-name="Suke TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:58.138Z" tvg-logo="https://i.imgur.com/hCwH3s0.png" indexer="playlist-harvester",Suke TV (720p)
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272

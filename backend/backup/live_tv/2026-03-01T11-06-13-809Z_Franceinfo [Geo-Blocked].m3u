@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Franceinfo.fr_SD" tvg-name="Franceinfo [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:13.809Z" tvg-logo="https://i.imgur.com/eITXz6A.png" indexer="playlist-harvester",Franceinfo [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8

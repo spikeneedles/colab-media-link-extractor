@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NTDTVEnglish.us_UK" tvg-name="NTD TV English UK" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.824Z" tvg-logo="https://i.imgur.com/26uv1ww.png" indexer="playlist-harvester",NTD TV English UK
+https://ntd02.akamaized.net/NTD-UK/index.m3u8

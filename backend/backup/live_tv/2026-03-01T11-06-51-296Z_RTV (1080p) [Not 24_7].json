@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://iptv.rtv-ooe.at/stream.m3u8",
+  "title": "RTV (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "RTV.at@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:51.296Z"
+}

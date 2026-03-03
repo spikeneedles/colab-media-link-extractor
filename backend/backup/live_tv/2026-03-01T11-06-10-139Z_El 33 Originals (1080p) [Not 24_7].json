@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+  "title": "El 33 Originals (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Culture;Public",
+  "tvgId": "El33.es@Originals",
+  "tvgLogo": "https://i.imgur.com/frKCBTN.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:10.139Z"
+}

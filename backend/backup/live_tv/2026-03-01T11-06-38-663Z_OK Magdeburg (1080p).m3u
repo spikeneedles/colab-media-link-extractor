@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OKMagdeburg.de_SD" tvg-name="OK Magdeburg (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:38.663Z" tvg-logo="https://i.imgur.com/zftoymR.png" indexer="playlist-harvester",OK Magdeburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8

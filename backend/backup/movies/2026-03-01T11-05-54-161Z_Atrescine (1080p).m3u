@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Atrescine.es_SD" tvg-name="Atrescine (1080p)" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:54.161Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" indexer="playlist-harvester",Atrescine (1080p)
+http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8

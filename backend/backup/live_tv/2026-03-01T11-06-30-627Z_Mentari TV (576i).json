@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://175.158.57.130:8888/stream/channelid/641828885",
+  "title": "Mentari TV (576i)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Family",
+  "tvgId": "MentariTV.id@SD",
+  "tvgLogo": "https://i.imgur.com/QkTgy1M.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:30.627Z"
+}

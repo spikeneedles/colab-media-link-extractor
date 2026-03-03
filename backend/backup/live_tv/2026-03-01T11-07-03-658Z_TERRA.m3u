@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TERRA.ru_SD" tvg-name="TERRA" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:03.658Z" tvg-logo="https://i.imgur.com/ZxUjCpF.png" indexer="playlist-harvester",TERRA
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8

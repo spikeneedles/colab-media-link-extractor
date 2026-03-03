@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="_____480p_" tvg-name="亚太台 (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:26.737Z" indexer="playlist-harvester",亚太台 (480p)
+http://174.127.67.246/live330/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="_REAL_" tvg-name="[REAL]" group-title="Live TV" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-01T11:44:28.860Z" indexer="Torlock",[REAL]
+https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/229a25c1-7d5f-4da3-aeb0-4034bf3c7fdf/default.jobtemplate.hls.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TheCyclingChannel.at" tvg-name="The Cycling Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:04.142Z" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbjHW_j4DfsuAn4278ebtzhibMvY7KSOyow&s" indexer="playlist-harvester",The Cycling Channel
+https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8

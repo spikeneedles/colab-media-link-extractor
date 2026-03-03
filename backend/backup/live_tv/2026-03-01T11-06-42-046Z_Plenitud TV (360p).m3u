@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PlenitudTV.gt_SD" tvg-name="Plenitud TV (360p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:42.046Z" tvg-logo="https://i.imgur.com/BFJ7EGj.png" indexer="playlist-harvester",Plenitud TV (360p)
+https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8

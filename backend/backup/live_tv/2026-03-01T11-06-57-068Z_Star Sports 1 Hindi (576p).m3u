@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StarSports1Hindi.in_SD" tvg-name="Star Sports 1 Hindi (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:57.068Z" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" indexer="playlist-harvester",Star Sports 1 Hindi (576p)
+http://161.248.38.40:8000/play/a071/index.m3u8

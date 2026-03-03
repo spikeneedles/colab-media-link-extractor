@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it_SD" tvg-name="UniNettuno University TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:15.512Z" tvg-logo="https://i.imgur.com/c9So8nf.png" indexer="playlist-harvester",UniNettuno University TV (720p)
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8

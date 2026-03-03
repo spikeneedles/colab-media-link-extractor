@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Energy.ir_SD" tvg-name="Energy" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.577Z" tvg-logo="https://static.telewebion.com/channelsLogo/9c150d8a-c4ab-4f72-9fb6-4e3fb65fc5ee/default" indexer="playlist-harvester",Energy
+https://ncdn.telewebion.com/baenergy/live/playlist.m3u8

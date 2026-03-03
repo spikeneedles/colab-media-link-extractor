@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://31.148.48.15/Illusion_plus/index.m3u8",
+  "title": "Иллюзион+",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "IllusionPlus.ru@SD",
+  "tvgLogo": "https://i.imgur.com/9GvuHQ5.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:07:23.782Z"
+}

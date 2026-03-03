@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live.obslivestream.com/vivatv/index.m3u8",
+  "title": "Viva TV Yurimaguas (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "VivaTVYurimaguas.pe@SD",
+  "tvgLogo": "https://i.imgur.com/GkSoxhx.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:17.627Z"
+}

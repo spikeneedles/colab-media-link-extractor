@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ecuavisa.ec_Quito" tvg-name="Ecuavisa Quito (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:09.938Z" tvg-logo="https://i.imgur.com/Hl5wowk.png" indexer="playlist-harvester",Ecuavisa Quito (1080p) [Not 24/7]
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8

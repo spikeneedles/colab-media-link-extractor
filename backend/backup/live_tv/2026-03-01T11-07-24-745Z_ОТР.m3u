@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OTR.ru_SD" tvg-name="ОТР" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:24.745Z" tvg-logo="https://i.imgur.com/VaWlnjZ.png" indexer="playlist-harvester",ОТР
+https://streaming.televizor-24-tochka.ru/live/12.m3u8

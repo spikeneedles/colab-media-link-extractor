@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es_HD" tvg-name="TVE Internacional Europe-Asia HD (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:12.781Z" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" indexer="playlist-harvester",TVE Internacional Europe-Asia HD (1080p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8

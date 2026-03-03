@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd",
+  "title": "Өлзий ТВ (1080p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "UlziiTV.mn@SD",
+  "tvgLogo": "https://i.imgur.com/p7tsUTI.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:24.772Z"
+}

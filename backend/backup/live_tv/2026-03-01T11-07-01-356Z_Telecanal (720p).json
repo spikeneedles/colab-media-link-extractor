@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://45.232.210.1:8029/play/a00s/index.m3u8",
+  "title": "Telecanal (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "Telecanal.cl@SD",
+  "tvgLogo": "https://i.imgur.com/3g6SbSt.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:01.356Z"
+}

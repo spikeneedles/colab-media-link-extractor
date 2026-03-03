@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBCPersian.uk_SD" tvg-name="BBC Persian (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:05:55.890Z" tvg-logo="https://i.imgur.com/4uTMnPb.png" indexer="playlist-harvester",BBC Persian (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd

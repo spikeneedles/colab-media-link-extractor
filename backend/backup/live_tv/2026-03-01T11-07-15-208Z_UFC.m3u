@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UFC" tvg-name="UFC" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:15.208Z" indexer="playlist-harvester",UFC
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8

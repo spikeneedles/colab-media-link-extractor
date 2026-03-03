@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8",
+  "title": "NRK Tegnspråk (1080i) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "NRKTegnsprak.no",
+  "tvgLogo": "https://i.imgur.com/VCpWG3h.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:37.612Z"
+}

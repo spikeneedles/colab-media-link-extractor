@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://sirius.greenhosting.ru/Kino24Ru/video.m3u8",
+  "title": "Kino 24",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "Kino24.ru@SD",
+  "tvgLogo": "https://i.imgur.com/QAdDARF.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:06:23.868Z"
+}

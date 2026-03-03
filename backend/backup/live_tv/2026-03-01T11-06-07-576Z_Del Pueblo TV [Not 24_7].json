@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8",
+  "title": "Del Pueblo TV [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "DelPuebloTV.do@HD",
+  "tvgLogo": "https://imgur.com/Pw7ZUT1.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:07.576Z"
+}

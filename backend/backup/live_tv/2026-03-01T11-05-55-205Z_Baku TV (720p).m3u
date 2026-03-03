@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BakuTV.az_SD" tvg-name="Baku TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:55.205Z" tvg-logo="https://i.imgur.com/r4FzxSg.png" indexer="playlist-harvester",Baku TV (720p)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8

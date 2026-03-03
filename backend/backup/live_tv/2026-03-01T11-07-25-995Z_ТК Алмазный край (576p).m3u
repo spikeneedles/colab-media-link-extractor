@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Almaznyykray.ru_SD" tvg-name="ТК Алмазный край (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:25.995Z" tvg-logo="https://i.imgur.com/zErXTdF.png" indexer="playlist-harvester",ТК Алмазный край (576p)
+https://stream.almaz-media.tv:8080/hls/576.m3u8

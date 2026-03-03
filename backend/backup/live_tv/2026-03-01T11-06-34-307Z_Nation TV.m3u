@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NationTV.th_SD" tvg-name="Nation TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:34.307Z" tvg-logo="https://i.imgur.com/h3TY38F.png" indexer="playlist-harvester",Nation TV
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8

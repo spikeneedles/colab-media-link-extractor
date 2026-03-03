@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CT1.cz_SD" tvg-name="ČT 1" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.242Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/512px-%C4%8CT1_logo_2012.svg.png" indexer="playlist-harvester",ČT 1
+http://88.212.15.19/live/test_ct1_25p/playlist.m3u8

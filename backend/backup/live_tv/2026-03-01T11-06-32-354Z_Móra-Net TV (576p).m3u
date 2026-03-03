@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MoraNetTV.hu_SD" tvg-name="Móra-Net TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:32.354Z" tvg-logo="https://i.imgur.com/yT0RmKi.png" indexer="playlist-harvester",Móra-Net TV (576p)
+https://stream.moranettv.hu/live/index.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WHBQDT1.us_SD" tvg-name="WHBQ-DT1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:20.066Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/WHBQ_%282015%29.svg" indexer="playlist-harvester",WHBQ-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8

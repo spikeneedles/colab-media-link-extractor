@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PilisTV.hu_SD" tvg-name="PilisTV (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:41.708Z" tvg-logo="https://i.imgur.com/5L01wRi.png" indexer="playlist-harvester",PilisTV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/PilisTV/index.m3u8

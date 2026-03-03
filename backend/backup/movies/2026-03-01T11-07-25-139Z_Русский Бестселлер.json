@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://31.148.48.15/Russkiy_Bestseller/index.m3u8",
+  "title": "Русский Бестселлер",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "RusskiyBestseller.ru@SD",
+  "tvgLogo": "https://i.imgur.com/w0ZE9QJ.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:07:25.139Z"
+}

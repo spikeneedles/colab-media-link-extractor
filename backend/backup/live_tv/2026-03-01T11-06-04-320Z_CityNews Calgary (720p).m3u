@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CityNewsCalgary.ca_SD" tvg-name="CityNews Calgary (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:04.320Z" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" indexer="playlist-harvester",CityNews Calgary (720p)
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8

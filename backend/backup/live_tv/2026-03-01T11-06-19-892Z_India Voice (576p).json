@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://mumt04.tangotv.in/INDIAVOICE/index.m3u8",
+  "title": "India Voice (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "IndiaVoice.in@SD",
+  "tvgLogo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_Voice.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:19.892Z"
+}

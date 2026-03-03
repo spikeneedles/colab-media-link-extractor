@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BNNBloomberg.ca_SD" tvg-name="BNN Bloomberg" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:05:57.662Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/512px-BNN_Bloomberg.svg.png" indexer="playlist-harvester",BNN Bloomberg
+https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd

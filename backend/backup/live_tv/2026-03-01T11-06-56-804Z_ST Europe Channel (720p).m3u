@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="STEuropeChannel.it_SD" tvg-name="ST Europe Channel (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:56.804Z" tvg-logo="https://i.imgur.com/M5j7y2N.png" indexer="playlist-harvester",ST Europe Channel (720p)
+https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8

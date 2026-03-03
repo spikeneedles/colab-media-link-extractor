@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8",
+  "title": "NETV Toronto (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "NETVToronto.ca@SD",
+  "tvgLogo": "https://i.imgur.com/WXRBuOW.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:06:35.561Z"
+}

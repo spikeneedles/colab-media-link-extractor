@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8",
+  "title": "Weatherspy",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Weather",
+  "tvgId": "WeatherSpy.in@SD",
+  "tvgLogo": "https://i.imgur.com/KIEKOt1.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:19.721Z"
+}

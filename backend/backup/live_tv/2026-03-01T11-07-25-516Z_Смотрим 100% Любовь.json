@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248",
+  "title": "Смотрим 100% Любовь",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Series",
+  "tvgId": "Smotrim100Lyubov.ru@SD",
+  "tvgLogo": "https://i.imgur.com/4EFh0nu.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:25.516Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTVWesterwolde.nl_SD" tvg-name="RTV Westerwolde (432p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:51.762Z" tvg-logo="https://i.imgur.com/002YXP6.png" indexer="playlist-harvester",RTV Westerwolde (432p)
+https://media.rtvwesterwolde.nl/hls/live/index.m3u8

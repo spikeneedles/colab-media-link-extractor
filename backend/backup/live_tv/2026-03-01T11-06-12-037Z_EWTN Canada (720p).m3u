@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EWTN.us_Canada" tvg-name="EWTN Canada (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:12.037Z" tvg-logo="https://i.imgur.com/sua70RO.png" indexer="playlist-harvester",EWTN Canada (720p)
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8

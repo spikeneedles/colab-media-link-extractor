@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8",
+  "title": "Canal 4 (720p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Canal4.cr@SD",
+  "tvgLogo": "https://i.imgur.com/5arZEgO.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:59.404Z"
+}

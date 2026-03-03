@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal27.gt_SD" tvg-name="Canal 27 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:00.425Z" tvg-logo="https://i.imgur.com/eA4vt8A.png" indexer="playlist-harvester",Canal 27 (1080p)
+https://live.canal27.tv:3633/live/canal27live.m3u8

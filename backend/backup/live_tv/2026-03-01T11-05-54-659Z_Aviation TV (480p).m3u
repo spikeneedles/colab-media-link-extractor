@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AviationTV.ke_SD" tvg-name="Aviation TV (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:54.659Z" tvg-logo="https://i.imgur.com/WOU9z5G.png" indexer="playlist-harvester",Aviation TV (480p)
+http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8

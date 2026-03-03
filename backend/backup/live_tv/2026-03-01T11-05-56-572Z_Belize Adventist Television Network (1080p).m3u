@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BelizeAdventistTelevisionNetwork.bz_SD" tvg-name="Belize Adventist Television Network (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:56.572Z" tvg-logo="https://i.imgur.com/JV2BYDw.png" indexer="playlist-harvester",Belize Adventist Television Network (1080p)
+https://streamer1.nexgen.bz/ATN/index.m3u8

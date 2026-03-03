@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Les_Z_Amours" tvg-name="Les Z'Amours" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:26.407Z" indexer="playlist-harvester",Les Z'Amours
+https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8

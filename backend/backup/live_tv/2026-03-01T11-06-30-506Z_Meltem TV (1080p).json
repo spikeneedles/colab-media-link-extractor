@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8",
+  "title": "Meltem TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "MeltemTV.tr@SD",
+  "tvgLogo": "https://i.imgur.com/C3m6w5S.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:30.506Z"
+}

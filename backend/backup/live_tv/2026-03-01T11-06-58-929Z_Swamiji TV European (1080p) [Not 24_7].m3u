@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SwamijiTVEuropean.at_SD" tvg-name="Swamiji TV European (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:58.929Z" tvg-logo="https://i.imgur.com/nrLcuzs.png" indexer="playlist-harvester",Swamiji TV European (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RUV.is_SD" tvg-name="RÚV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:51.903Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/R%C3%9AV_ohf_2019_logo.svg/512px-R%C3%9AV_ohf_2019_logo.svg.png" indexer="playlist-harvester",RÚV (720p)
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8",
+  "title": "El Pituco TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "ElPitucoTV.do@HD",
+  "tvgLogo": "https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:10.185Z"
+}

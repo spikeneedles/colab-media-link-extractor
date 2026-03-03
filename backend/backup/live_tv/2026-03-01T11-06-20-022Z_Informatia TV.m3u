@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="InformatiaTV.ro_SD" tvg-name="Informatia TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:20.022Z" tvg-logo="https://i.imgur.com/P1ZbVRg.png" indexer="playlist-harvester",Informatia TV
+https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8

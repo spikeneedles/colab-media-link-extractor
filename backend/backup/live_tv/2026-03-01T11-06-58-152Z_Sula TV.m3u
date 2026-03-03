@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SulaTV.hn_SD" tvg-name="Sula TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:58.152Z" tvg-logo="https://i.imgur.com/v90r5jS.png" indexer="playlist-harvester",Sula TV
+https://tv.webmedialive.com/sulatv/live/playlist.m3u8

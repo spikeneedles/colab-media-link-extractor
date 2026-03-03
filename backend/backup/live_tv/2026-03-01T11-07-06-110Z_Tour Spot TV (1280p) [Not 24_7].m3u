@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TourSpotTV.do_HD" tvg-name="Tour Spot TV (1280p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:06.110Z" tvg-logo="https://imgur.com/khj869k.png" indexer="playlist-harvester",Tour Spot TV (1280p) [Not 24/7]
+https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RojavaTV.sy_SD" tvg-name="Rojava TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:49.524Z" tvg-logo="https://i.imgur.com/42noysO.png" indexer="playlist-harvester",Rojava TV (1080p)
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8

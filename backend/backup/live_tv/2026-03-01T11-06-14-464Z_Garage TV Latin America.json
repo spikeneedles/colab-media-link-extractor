@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream1.sersat.com/hls/garagetv.m3u8",
+  "title": "Garage TV Latin America",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Auto",
+  "tvgId": "GarageTVLatinAmerica.ar@SD",
+  "tvgLogo": "https://i.imgur.com/FqFxog1.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:14.464Z"
+}

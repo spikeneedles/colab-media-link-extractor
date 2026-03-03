@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WJAXDT1.us_SD" tvg-name="WJAX-DT1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:20.406Z" tvg-logo="https://i.imgur.com/TBjVU9L.png" indexer="playlist-harvester",WJAX-DT1 (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8

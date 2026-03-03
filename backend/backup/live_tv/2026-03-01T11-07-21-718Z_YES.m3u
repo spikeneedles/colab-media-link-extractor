@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="YES.mv_SD" tvg-name="YES" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:21.718Z" tvg-logo="https://i.imgur.com/HARIGQl.png" indexer="playlist-harvester",YES
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8

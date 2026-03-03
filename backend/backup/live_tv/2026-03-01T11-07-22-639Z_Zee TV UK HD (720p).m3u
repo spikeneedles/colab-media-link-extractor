@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ZeeTVUK.uk_HD" tvg-name="Zee TV UK HD (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:22.639Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/512px-Zee_TV_Logo_2025.svg.png" indexer="playlist-harvester",Zee TV UK HD (720p)
+http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/ZEE/index.m3u8

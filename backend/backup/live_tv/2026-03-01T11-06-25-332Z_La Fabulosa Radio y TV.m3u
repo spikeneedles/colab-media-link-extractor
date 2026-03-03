@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LaFabulosaTV.pe_SD" tvg-name="La Fabulosa Radio y TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:25.332Z" tvg-logo="https://i.imgur.com/GjME5H0.png" indexer="playlist-harvester",La Fabulosa Radio y TV
+https://eu1.servers10.com:8081/8004/index.m3u8

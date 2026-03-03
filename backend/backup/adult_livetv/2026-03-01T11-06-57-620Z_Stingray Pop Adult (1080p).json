@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
+  "title": "Stingray Pop Adult (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "StingrayPopAdult.ca@SD",
+  "tvgLogo": "https://i.imgur.com/H2ugC9L.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "adult_livetv",
+  "archivedAt": "2026-03-01T11:06:57.620Z"
+}

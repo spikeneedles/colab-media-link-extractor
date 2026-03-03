@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rai1.it_HD" tvg-name="Rai 1 HD (720p) [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:46.023Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" indexer="playlist-harvester",Rai 1 HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd

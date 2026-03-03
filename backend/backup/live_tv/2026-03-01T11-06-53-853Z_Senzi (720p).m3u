@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Senzi.sk_SD" tvg-name="Senzi (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.853Z" tvg-logo="https://i.imgur.com/1qJMmBu.png" indexer="playlist-harvester",Senzi (720p)
+http://lb.streaming.sk/senzi/stream/playlist.m3u8

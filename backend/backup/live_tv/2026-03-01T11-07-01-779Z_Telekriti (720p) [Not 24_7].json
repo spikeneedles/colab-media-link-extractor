@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://neon.streams.gr:8081/telekriti/index.m3u8",
+  "title": "Telekriti (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Telekriti.gr@SD",
+  "tvgLogo": "https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-7c-300x50.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:01.779Z"
+}

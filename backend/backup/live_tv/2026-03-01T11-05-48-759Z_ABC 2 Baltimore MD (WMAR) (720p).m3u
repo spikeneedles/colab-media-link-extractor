@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WMARDT1.us_SD" tvg-name="ABC 2 Baltimore MD (WMAR) (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.759Z" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/2_ABC_WMAR_Baltimore.png" indexer="playlist-harvester",ABC 2 Baltimore MD (WMAR) (720p)
+https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8

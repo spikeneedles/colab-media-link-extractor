@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://31.47.0.130:8082",
+  "title": "TV Slon Extra (1080p) [Not 24/7]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TVSlonExtra.ba@SD",
+  "tvgLogo": "https://i.imgur.com/AohYgH1.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:11.374Z"
+}

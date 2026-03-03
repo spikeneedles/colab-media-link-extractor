@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8",
+  "title": "Országgyűlés (Törvényalkotási bizottság) (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Legislative",
+  "tvgId": "OrszaggyulesOGYTAB.hu@SD",
+  "tvgLogo": "https://i.imgur.com/hbblRpZ.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:39.878Z"
+}

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8",
+  "title": "TV Câmara Salvador (288p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Legislative",
+  "tvgId": "TVCamaraSalvador.br@SD",
+  "tvgLogo": "https://i.imgur.com/VEXEzSx.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:08.962Z"
+}

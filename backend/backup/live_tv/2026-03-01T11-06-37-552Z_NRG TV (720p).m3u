@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NRGTV.gr_SD" tvg-name="NRG TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.552Z" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" indexer="playlist-harvester",NRG TV (720p)
+https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8

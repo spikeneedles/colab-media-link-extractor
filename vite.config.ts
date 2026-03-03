@@ -38,5 +38,8 @@ export default defineConfig({
         global: 'globalThis'
       }
     }
+  },
+  build: {
+    chunkSizeWarningLimit: 3000,
   }
 });

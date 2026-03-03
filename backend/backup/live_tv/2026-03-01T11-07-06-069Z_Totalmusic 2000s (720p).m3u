@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Totalmusic2000s.uk_HD" tvg-name="Totalmusic 2000s (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:06.069Z" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" indexer="playlist-harvester",Totalmusic 2000s (720p)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8

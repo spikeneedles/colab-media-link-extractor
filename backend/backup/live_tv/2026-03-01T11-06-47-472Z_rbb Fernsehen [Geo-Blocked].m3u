@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="rbbFernsehen.de_SD" tvg-name="rbb Fernsehen [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:47.472Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/512px-Rbb_Fernsehen_Logo_2017.08.svg.png" indexer="playlist-harvester",rbb Fernsehen [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rbb/browser-HLS8/rbb.m3u8

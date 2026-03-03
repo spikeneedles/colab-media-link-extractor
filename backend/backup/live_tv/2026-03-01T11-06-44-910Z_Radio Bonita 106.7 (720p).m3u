@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioBonita1067.ec_SD" tvg-name="Radio Bonita 106.7 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:44.910Z" tvg-logo="https://i.imgur.com/IvZtqyz.png" indexer="playlist-harvester",Radio Bonita 106.7 (720p)
+https://cloudvideo.servers10.com:8081/8154/index.m3u8

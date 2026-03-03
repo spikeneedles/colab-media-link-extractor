@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="247BoxTV.ir_SD" tvg-name="247 Box TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.204Z" tvg-logo="https://i.imgur.com/t5AUthL.png" indexer="playlist-harvester",247 Box TV
+https://hls.247box.live/hls/stream.m3u8

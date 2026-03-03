@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVA.de_SD" tvg-name="TVA (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:12.100Z" tvg-logo="https://i.imgur.com/Gg6d4Jb.png" indexer="playlist-harvester",TVA (1080p) [Not 24/7]
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8

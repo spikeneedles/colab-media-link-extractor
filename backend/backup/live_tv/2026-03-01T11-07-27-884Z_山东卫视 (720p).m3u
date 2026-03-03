@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ShandongSatelliteTV.cn_SD" tvg-name="山东卫视 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:27.884Z" tvg-logo="https://www.tvchinese.net/uploads/tv/shandongtv.jpg" indexer="playlist-harvester",山东卫视 (720p)
+http://125.210.152.18:9090/live/SDWSHD_H265.m3u8

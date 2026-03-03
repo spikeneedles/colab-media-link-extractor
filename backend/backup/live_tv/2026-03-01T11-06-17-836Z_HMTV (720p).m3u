@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HMTV.in_SD" tvg-name="HMTV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:17.836Z" tvg-logo="https://i.imgur.com/GJ52eFs.png" indexer="playlist-harvester",HMTV (720p)
+https://cdn-1.pishow.tv/live/280/master.m3u8

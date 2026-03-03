@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8",
+  "title": "Rudaw TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "RudawTV.iq@SD",
+  "tvgLogo": "https://i.imgur.com/Zo3IWOn.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:51.819Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVN24.do_SD" tvg-name="TVN24 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:13.268Z" tvg-logo="https://i.imgur.com/bu6bQMa.png" indexer="playlist-harvester",TVN24 (720p)
+https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/playlist.m3u8

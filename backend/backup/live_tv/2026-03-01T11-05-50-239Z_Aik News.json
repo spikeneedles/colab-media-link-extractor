@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://video.primexsports.com/pnn/live/playlist.m3u8",
+  "title": "Aik News",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "AikNews.pk@SD",
+  "tvgLogo": "https://i.imgur.com/svPXoAP.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:50.239Z"
+}

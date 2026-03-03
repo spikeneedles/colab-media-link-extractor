@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8",
+  "title": "VOTV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "VOTV.es@SD",
+  "tvgLogo": "https://i.imgur.com/1g2Z64L.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:17.983Z"
+}

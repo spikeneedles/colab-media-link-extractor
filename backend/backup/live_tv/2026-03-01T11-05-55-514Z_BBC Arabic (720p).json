@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
+  "title": "BBC Arabic (720p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "BBCArabic.uk@SD",
+  "tvgLogo": "https://i.imgur.com/ScyTG6P.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:55.514Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CBSNewsSacramento.us_SD" tvg-name="CBS News Sacramento (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:02.551Z" tvg-logo="https://i.imgur.com/0e1kSGX.png" indexer="playlist-harvester",CBS News Sacramento (720p)
+https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8

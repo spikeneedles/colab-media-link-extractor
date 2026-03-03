@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeleMas.cr_SD" tvg-name="TeleMas (480p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:01.896Z" tvg-logo="https://i.imgur.com/5Rc8mA5.png" indexer="playlist-harvester",TeleMas (480p) [Geo-blocked]
+https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8

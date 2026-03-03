@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BailenTV.es_SD" tvg-name="Bailén TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:55.179Z" tvg-logo="https://i.imgur.com/a64hwzq.png" indexer="playlist-harvester",Bailén TV (720p) [Not 24/7]
+http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8

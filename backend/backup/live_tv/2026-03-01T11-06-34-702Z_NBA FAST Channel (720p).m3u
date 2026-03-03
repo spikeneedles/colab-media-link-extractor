@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NBA_FAST_Channel__720p_" tvg-name="NBA FAST Channel (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:34.702Z" indexer="playlist-harvester",NBA FAST Channel (720p)
+https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8

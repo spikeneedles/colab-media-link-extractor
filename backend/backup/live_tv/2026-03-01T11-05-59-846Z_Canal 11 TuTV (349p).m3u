@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal11TuTV.sv_SD" tvg-name="Canal 11 TuTV (349p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:59.846Z" tvg-logo="https://i.imgur.com/itqQEux.png" indexer="playlist-harvester",Canal 11 TuTV (349p)
+https://stream.giostreaming.app/canal11/canal11.m3u8

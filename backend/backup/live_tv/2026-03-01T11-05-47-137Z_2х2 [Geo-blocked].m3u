@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2x2.ru_SD" tvg-name="2х2 [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:47.137Z" tvg-logo="https://i.imgur.com/fhQFLEl.png" indexer="playlist-harvester",2х2 [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8

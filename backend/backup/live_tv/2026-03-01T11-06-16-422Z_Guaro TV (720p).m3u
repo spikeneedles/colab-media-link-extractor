@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GuaroTV.ve_SD" tvg-name="Guaro TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:16.422Z" tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" indexer="playlist-harvester",Guaro TV (720p)
+https://streamtv.intervenhosting.net:3592/stream/play.m3u8

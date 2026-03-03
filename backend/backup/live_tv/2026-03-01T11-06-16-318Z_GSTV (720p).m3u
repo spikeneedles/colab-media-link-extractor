@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GSTV.jp_SD" tvg-name="GSTV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:16.318Z" tvg-logo="https://i.imgur.com/ECnVG5I.png" indexer="playlist-harvester",GSTV (720p)
+https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd",
+  "title": "TVR International [Geo-Blocked]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TVRInternational.ro@SD",
+  "tvgLogo": "https://i.imgur.com/w28wcHs.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:13.645Z"
+}

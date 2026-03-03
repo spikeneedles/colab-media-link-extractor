@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://168.205.87.198:8555/live/1368/123456/150.m3u8",
+  "title": "Rede CNT Salvador (576i)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "RedeCNTSalvador.br@SD",
+  "tvgLogo": "https://i.imgur.com/jcasAmw.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:48.083Z"
+}

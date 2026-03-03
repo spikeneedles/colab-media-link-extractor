@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="M2.hu_SD" tvg-name="M2 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:28.119Z" tvg-logo="https://i.imgur.com/B0nYT0l.png" indexer="playlist-harvester",M2 (1080p)
+http://88.212.15.19/live/m2_hun/index.m3u8

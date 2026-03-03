@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NRKTegnsprak.no" tvg-name="NRK Tegnspråk (1080i) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.612Z" tvg-logo="https://i.imgur.com/VCpWG3h.png" indexer="playlist-harvester",NRK Tegnspråk (1080i) [Geo-blocked]
+https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8

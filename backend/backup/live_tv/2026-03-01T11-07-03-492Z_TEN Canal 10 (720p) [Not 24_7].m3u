@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TENCanal10.hn_SD" tvg-name="TEN Canal 10 (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:03.492Z" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" indexer="playlist-harvester",TEN Canal 10 (720p) [Not 24/7]
+https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/hn/tentv.m3u8

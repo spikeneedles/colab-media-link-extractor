@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8",
+  "title": "TV Oasis Monay",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TVOasisMonay.ve@SD",
+  "tvgLogo": "https://i.imgur.com/hwd7osJ.jpeg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:10.500Z"
+}

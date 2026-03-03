@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca_SD" tvg-name="Ontario Parliamentary Network (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.637Z" tvg-logo="https://i.imgur.com/xKXs6ER.png" indexer="playlist-harvester",Ontario Parliamentary Network (720p)
+https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8

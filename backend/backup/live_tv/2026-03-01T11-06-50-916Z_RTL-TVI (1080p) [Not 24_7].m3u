@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTLTVI.be_SD" tvg-name="RTL-TVI (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:50.916Z" tvg-logo="https://i.imgur.com/2CimAAN.png" indexer="playlist-harvester",RTL-TVI (1080p) [Not 24/7]
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8

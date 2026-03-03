@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8",
+  "title": "Fox News Radio (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "FoxNewsRadio.us@SD",
+  "tvgLogo": "https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:13.610Z"
+}

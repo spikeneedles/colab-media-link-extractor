@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PROTV.ro_SD" tvg-name="PRO TV (1280p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:43.256Z" tvg-logo="https://i.imgur.com/zVk3WlT.png" indexer="playlist-harvester",PRO TV (1280p)
+https://hls.rundletv.eu.org/LIVE$ProTV/Level/300720051?end=END&start=LIVE

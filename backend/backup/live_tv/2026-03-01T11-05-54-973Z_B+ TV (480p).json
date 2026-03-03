@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://tv.btnrwanda.com:3432/live/bpluslive.m3u8",
+  "title": "B+ TV (480p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "BPlusTV.rw@SD",
+  "tvgLogo": "https://i.ibb.co/WzLwj3X/IMG-20230703-155036.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:54.973Z"
+}

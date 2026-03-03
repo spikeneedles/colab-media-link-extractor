@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JambiTV.id_SD" tvg-name="Jambi TV (480p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:21.267Z" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Jambi_TV.png" indexer="playlist-harvester",Jambi TV (480p) [Not 24/7]
+https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://seb.sason.top/sc/dsxw_fhd.m3u8",
+  "title": "EBC News (東森新聞台) (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "EBCNews.tw@SD",
+  "tvgLogo": "https://i.imgur.com/QFZs80p.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:09.670Z"
+}

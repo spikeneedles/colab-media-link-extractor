@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
+  "title": "Beautiful Life TV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "BeautifulLifeTV.tw@SD",
+  "tvgLogo": "https://i.imgur.com/hkwcBM9.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:56.459Z"
+}

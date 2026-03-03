@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn.amelbasoluciones.co:8081/riotv/index.fmp4.m3u8",
+  "title": "Río Televisión [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "RioTelevision.co@SD",
+  "tvgLogo": "https://i.imgur.com/SYa9giW.jpeg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:49.022Z"
+}

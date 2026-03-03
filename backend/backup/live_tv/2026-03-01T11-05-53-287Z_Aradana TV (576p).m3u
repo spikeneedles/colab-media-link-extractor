@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AradanaTV.in_SD" tvg-name="Aradana TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:53.287Z" tvg-logo="https://i.imgur.com/w48yzLu.png" indexer="playlist-harvester",Aradana TV (576p)
+https://cdn-1.pishow.tv/live/961/master.m3u8

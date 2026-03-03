@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BFMLyon.fr_SD" tvg-name="BFM Lyon (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:56.950Z" tvg-logo="https://i.imgur.com/0uiiZRo.png" indexer="playlist-harvester",BFM Lyon (576p)
+https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8

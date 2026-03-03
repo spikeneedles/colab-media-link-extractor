@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KuriakosCine.pt_SD" tvg-name="Kuriakos Cine (1080p)" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.986Z" tvg-logo="https://i.imgur.com/CZViCwB.jpg" indexer="playlist-harvester",Kuriakos Cine (1080p)
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8

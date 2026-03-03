@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8",
+  "title": "RiC [Geo-Blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Family;Kids",
+  "tvgId": "RiC.de@SD",
+  "tvgLogo": "https://i.imgur.com/4wMZ8Em.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:48.945Z"
+}

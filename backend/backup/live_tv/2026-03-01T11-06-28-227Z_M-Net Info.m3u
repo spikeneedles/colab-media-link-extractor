@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MNetInfo.mk_SD" tvg-name="M-Net Info" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:28.227Z" tvg-logo="https://i.ibb.co/0fnY2cj/IMG-20230419-161527.jpg" indexer="playlist-harvester",M-Net Info
+https://live.mnet.mk/hls/mnet-info.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://kino-1.catcast.tv/content/37745/index.m3u8",
+  "title": "Музыка 1 International [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "Muzyka1.ru@International",
+  "tvgLogo": "https://i.imgur.com/DIKe5vA.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:24.279Z"
+}

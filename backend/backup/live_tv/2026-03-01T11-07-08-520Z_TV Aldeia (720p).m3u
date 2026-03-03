@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVAldeia.br_SD" tvg-name="TV Aldeia (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:08.520Z" tvg-logo="https://i.imgur.com/rsfnv4Z.png" indexer="playlist-harvester",TV Aldeia (720p)
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8

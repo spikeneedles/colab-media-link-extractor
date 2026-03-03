@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SaltoADE.nl_SD" tvg-name="Salto ADE (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:52.461Z" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" indexer="playlist-harvester",Salto ADE (720p)
+https://live.salto.nl/hls/at5.m3u8

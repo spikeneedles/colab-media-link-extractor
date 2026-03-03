@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8",
+  "title": "Nativa TV Satipo (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "NativaTVSatipo.pe@SD",
+  "tvgLogo": "https://i.imgur.com/ScCAgGB.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:34.483Z"
+}

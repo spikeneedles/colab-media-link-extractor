@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OireachtasTVDailEireann.ie_SD" tvg-name="Oireachtas TV Dáil Éireann (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:38.567Z" tvg-logo="https://i.imgur.com/mexKiS0.jpg" indexer="playlist-harvester",Oireachtas TV Dáil Éireann (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8

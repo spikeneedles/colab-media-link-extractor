@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioAlbaladTV.ps_SD" tvg-name="Radio Albalad TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:44.845Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" indexer="playlist-harvester",Radio Albalad TV (720p)
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8

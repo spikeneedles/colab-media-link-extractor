@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8",
+  "title": "Indigenous Television (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "IndigenousTelevision.np@SD",
+  "tvgLogo": "https://i.ibb.co/2MByL1X/indigenous-television.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:19.917Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HyundaiHomeShopping.kr_SD" tvg-name="Hyundai Home Shopping (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.743Z" tvg-logo="https://i.imgur.com/NJpECmq.png" indexer="playlist-harvester",Hyundai Home Shopping (720p)
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8

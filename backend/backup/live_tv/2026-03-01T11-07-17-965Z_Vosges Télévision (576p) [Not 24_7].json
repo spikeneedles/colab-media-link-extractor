@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8",
+  "title": "Vosges Télévision (576p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "VosgesTV.fr@SD",
+  "tvgLogo": "https://i.imgur.com/7y7ancc.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:17.965Z"
+}

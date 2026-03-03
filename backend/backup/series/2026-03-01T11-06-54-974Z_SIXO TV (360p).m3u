@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SIXOTV.hu_SD" tvg-name="SIXO TV (360p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:54.974Z" tvg-logo="https://i.ibb.co/GTPs9Xy/9068.png" indexer="playlist-harvester",SIXO TV (360p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8

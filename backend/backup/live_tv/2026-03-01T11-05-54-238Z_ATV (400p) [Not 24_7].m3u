@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ATV.gn_SD" tvg-name="ATV (400p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:54.238Z" tvg-logo="https://i.imgur.com/YkJPCfR.jpeg" indexer="playlist-harvester",ATV (400p) [Not 24/7]
+https://guineetvdirect.online:3320/live/atvguineelive.m3u8

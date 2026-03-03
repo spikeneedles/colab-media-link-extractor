@@ -5,7 +5,7 @@
       <!-- Press M key to open Media Link Scanner -->
       <m>RunAddon(plugin.service.medialinkscanner)</m>
       <!-- Alternative: Ctrl+M for Media Link Scanner -->
-      <c mod="ctrl">RunAddon(plugin.service.medialinkscanner)</c>
+      <m mod="ctrl">RunAddon(plugin.service.medialinkscanner)</m>
     </keyboard>
   </global>
 </keymap>

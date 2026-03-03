@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Balapan.kz_SD" tvg-name="Balapan TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:55.215Z" tvg-logo="https://i.imgur.com/2o5T0gi.png" indexer="playlist-harvester",Balapan TV
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8

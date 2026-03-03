@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8",
+  "title": "LIFE! End Times TV (360p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "KSCEDT3.us@SD",
+  "tvgLogo": "https://i.imgur.com/P0vZXU0.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:26.614Z"
+}

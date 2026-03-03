@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8",
+  "title": "Omroep Dommelland (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "OmroepDommelland.nl@SD",
+  "tvgLogo": "https://i.imgur.com/6Tkd9Pv.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "series",
+  "archivedAt": "2026-03-01T11:06:39.087Z"
+}

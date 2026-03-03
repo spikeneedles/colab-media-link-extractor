@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WBTV_Crime_scenes__Geo-blocked_" tvg-name="WBTV Crime scenes [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:19.107Z" indexer="playlist-harvester",WBTV Crime scenes [Geo-blocked]
+https://live-manifest.production-public.tubi.io/live/f825d887-cd89-4520-9960-699bb3ef076d/playlist.m3u8

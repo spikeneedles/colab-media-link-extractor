@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+  "title": "MMA-TV.com",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "MMATVcom.ru@SD",
+  "tvgLogo": "https://i.imgur.com/QhdxNsB.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:31.615Z"
+}

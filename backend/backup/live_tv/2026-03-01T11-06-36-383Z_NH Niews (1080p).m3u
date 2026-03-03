@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NH.nl_SD" tvg-name="NH Niews (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:36.383Z" tvg-logo="https://i.imgur.com/SPkK4md.png" indexer="playlist-harvester",NH Niews (1080p)
+https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live

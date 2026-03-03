@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8",
+  "title": "TVMÁS (XHGV-TDT) (360p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "XHGVTDT.mx@SD",
+  "tvgLogo": "https://i.imgur.com/15kcNRb.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:13.160Z"
+}

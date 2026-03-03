@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd",
+  "title": "Rai Gulp HD [Geo-Blocked]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "RaiGulp.it@HD",
+  "tvgLogo": "https://i.imgur.com/irAhPJM.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:46.099Z"
+}

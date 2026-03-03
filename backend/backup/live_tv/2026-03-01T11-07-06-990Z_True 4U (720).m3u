@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="True4U.th_SD" tvg-name="True 4U (720)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:06.990Z" tvg-logo="https://i.imgur.com/O6Xre1O.png" indexer="playlist-harvester",True 4U (720)
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8

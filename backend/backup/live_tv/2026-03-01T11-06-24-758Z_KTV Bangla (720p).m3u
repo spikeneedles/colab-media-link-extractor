@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KTVBangla.in_SD" tvg-name="KTV Bangla (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.758Z" tvg-logo="https://i.imgur.com/zG2P1WZ.png" indexer="playlist-harvester",KTV Bangla (720p)
+https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8

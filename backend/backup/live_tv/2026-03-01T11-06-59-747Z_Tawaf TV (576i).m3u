@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TawafTV.id_SD" tvg-name="Tawaf TV (576i)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.747Z" tvg-logo="https://i.postimg.cc/VvVgb6dN/logo-tawaf.png" indexer="playlist-harvester",Tawaf TV (576i)
+https://tvstreamcast.com/tawaftv.m3u8

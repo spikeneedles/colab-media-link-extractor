@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PayvandTV.ir_SD" tvg-name="Payvand TV [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.818Z" tvg-logo="https://i.imgur.com/o2Ww77N.png" indexer="playlist-harvester",Payvand TV [Not 24/7]
+https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8

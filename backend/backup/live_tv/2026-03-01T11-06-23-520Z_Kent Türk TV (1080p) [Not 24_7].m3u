@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KentTurk.tr_SD" tvg-name="Kent Türk TV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:23.520Z" tvg-logo="https://i.imgur.com/FQKPjsm.png" indexer="playlist-harvester",Kent Türk TV (1080p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8

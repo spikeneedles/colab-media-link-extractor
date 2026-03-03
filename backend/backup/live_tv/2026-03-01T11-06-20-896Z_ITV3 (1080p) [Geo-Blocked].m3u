@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ITV3.uk_SD" tvg-name="ITV3 (1080p) [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:20.896Z" tvg-logo="https://i.imgur.com/JuyM2z5.png" indexer="playlist-harvester",ITV3 (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8

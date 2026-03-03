@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PRIDEtvLATAM.cl_HD" tvg-name="PRIDEtv LATAM (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:43.059Z" tvg-logo="https://neotv.cl/img/pridetv-512.png" indexer="playlist-harvester",PRIDEtv LATAM (1080p)
+https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH

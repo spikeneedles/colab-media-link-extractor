@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8",
+  "title": "TeleM Botosani (540p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TeleMBotosani.ro@SD",
+  "tvgLogo": "https://i.imgur.com/3EZ8CmJ.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:01.805Z"
+}

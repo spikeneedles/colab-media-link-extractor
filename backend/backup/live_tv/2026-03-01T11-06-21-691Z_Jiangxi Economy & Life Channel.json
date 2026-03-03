@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8",
+  "title": "Jiangxi Economy & Life Channel",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Business",
+  "tvgId": "JiangxiEconomyLifeChannel.cn@SD",
+  "tvgLogo": "https://www.tvchinese.net/uploads/tv/jxtv3.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:21.691Z"
+}

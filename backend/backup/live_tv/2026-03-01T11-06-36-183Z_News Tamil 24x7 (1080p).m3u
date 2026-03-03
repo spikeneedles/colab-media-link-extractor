@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NewsTamil24x7.in_SD" tvg-name="News Tamil 24x7 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:36.183Z" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TAMIL_24X7/images/LOGO_HD/image.png" indexer="playlist-harvester",News Tamil 24x7 (1080p)
+https://d18a8tqmogafg2.cloudfront.net/newstamil/index.m3u8

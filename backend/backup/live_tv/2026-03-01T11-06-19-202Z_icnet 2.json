@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://icnet2hls.wns.live/hls/stream.m3u8",
+  "title": "icnet 2",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "ICnet2.ca@SD",
+  "tvgLogo": "https://i.imgur.com/Ke5xn4E.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:19.202Z"
+}

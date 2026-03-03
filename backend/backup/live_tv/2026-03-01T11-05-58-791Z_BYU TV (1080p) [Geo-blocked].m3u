@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BYUTV.us_SD" tvg-name="BYU TV (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:58.791Z" tvg-logo="https://i.imgur.com/mruGyuu.png" indexer="playlist-harvester",BYU TV (1080p) [Geo-blocked]
+https://amg02604-byutv-amg02604c2-firetv-us-4981.playouts.now.amagi.tv/playlist.m3u8

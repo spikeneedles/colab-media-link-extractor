@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DunyaNewsUK.uk_SD" tvg-name="Dunya News (UK Feed) (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:09.426Z" tvg-logo="https://i.imgur.com/dtrTfZC.png" indexer="playlist-harvester",Dunya News (UK Feed) (720p) [Not 24/7]
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8

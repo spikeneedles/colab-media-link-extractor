@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8",
+  "title": "RTV Canal 57 (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "RTVCanal57.sv@SD",
+  "tvgLogo": "https://i.imgur.com/tnOGWqL.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:51.390Z"
+}

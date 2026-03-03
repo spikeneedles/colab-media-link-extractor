@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-name="Bloomberg TV Mongolia (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:57.547Z" tvg-logo="https://i.imgur.com/OuogLHx.png" indexer="playlist-harvester",Bloomberg TV Mongolia (720p)
+https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8

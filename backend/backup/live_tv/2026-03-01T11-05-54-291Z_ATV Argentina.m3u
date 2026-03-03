@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ATVArgentina.ar_SD" tvg-name="ATV Argentina" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:54.291Z" tvg-logo="https://i.ibb.co/rMBVDmZ/atvargentina-x1.png" indexer="playlist-harvester",ATV Argentina
+https://tv.streaming.com.bo/atvargentina/index.m3u8

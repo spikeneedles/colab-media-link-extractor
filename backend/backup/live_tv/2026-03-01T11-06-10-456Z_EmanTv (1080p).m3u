@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EmanTv.iq_HD" tvg-name="EmanTv (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.456Z" tvg-logo="https://i.imgur.com/QmgaPSi.png" indexer="playlist-harvester",EmanTv (1080p)
+https://avr.host247.net/live/emantv/playlist.m3u8

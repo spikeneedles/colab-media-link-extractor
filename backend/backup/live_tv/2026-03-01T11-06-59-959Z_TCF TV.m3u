@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TCFTV.ca_SD" tvg-name="TCF TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.959Z" tvg-logo="https://i.imgur.com/lHsS6Lj.png" indexer="playlist-harvester",TCF TV
+http://66.11.33.44:8081/live/TCF/playlist.m3u8

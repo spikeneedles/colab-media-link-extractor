@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Foro.mx_SD" tvg-name="Foro TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:13.428Z" tvg-logo="https://i.imgur.com/dDFrONz.png" indexer="playlist-harvester",Foro TV (1080p)
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8

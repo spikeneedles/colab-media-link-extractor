@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8",
+  "title": "DR2 (1080p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Culture",
+  "tvgId": "DR2.dk@SD",
+  "tvgLogo": "https://i.imgur.com/7bYtukP.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:08.882Z"
+}

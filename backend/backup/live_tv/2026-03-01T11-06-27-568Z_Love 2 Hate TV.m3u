@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Love_2_Hate_TV" tvg-name="Love 2 Hate TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:27.568Z" indexer="playlist-harvester",Love 2 Hate TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f3f3fb6-cec9-4a29-bc6c-90685947766e/manifest.m3u8

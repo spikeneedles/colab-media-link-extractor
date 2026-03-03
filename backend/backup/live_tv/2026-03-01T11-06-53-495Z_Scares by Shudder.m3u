@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Scares_by_Shudder" tvg-name="Scares by Shudder" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.495Z" indexer="playlist-harvester",Scares by Shudder
+https://amc-scaresbyshudder-1-us.xumo.wurl.tv/playlist.m3u8

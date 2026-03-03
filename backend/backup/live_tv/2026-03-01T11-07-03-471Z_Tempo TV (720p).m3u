@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TempoTV.tr_SD" tvg-name="Tempo TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:03.471Z" tvg-logo="https://i.imgur.com/tZpx32y.png" indexer="playlist-harvester",Tempo TV (720p)
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8

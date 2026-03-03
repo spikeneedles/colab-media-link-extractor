@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SarbedaranTV.ir_SD" tvg-name="Sarbedaran" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.039Z" tvg-logo="https://static.telewebion.com/channelsLogo/ad6e035d-4215-4d88-a25e-da6ff8e0526f/default" indexer="playlist-harvester",Sarbedaran
+https://ncdn.telewebion.com/sarbedaran/live/playlist.m3u8

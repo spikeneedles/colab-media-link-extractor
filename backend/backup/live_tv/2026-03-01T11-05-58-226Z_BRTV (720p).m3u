@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BRTV.id_SD" tvg-name="BRTV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:58.226Z" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png" indexer="playlist-harvester",BRTV (720p)
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8

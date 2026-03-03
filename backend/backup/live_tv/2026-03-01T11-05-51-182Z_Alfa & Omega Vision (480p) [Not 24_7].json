@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://srv.panelcast.net/dorian/dorian/playlist.m3u8",
+  "title": "Alfa & Omega Vision (480p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "AlfaOmegaVision.hn@SD",
+  "tvgLogo": "https://i.imgur.com/4BSKCQT.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:51.182Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DRTV.dk_SD" tvg-name="DRTV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:09.067Z" tvg-logo="https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png" indexer="playlist-harvester",DRTV (1080p)
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8

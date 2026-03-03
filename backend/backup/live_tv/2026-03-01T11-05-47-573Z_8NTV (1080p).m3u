@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="8NTV.mx_SD" tvg-name="8NTV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:47.573Z" tvg-logo="https://i.imgur.com/7ecgGIG.png" indexer="playlist-harvester",8NTV (1080p)
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8

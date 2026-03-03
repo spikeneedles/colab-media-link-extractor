@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://tvpass.org/live/CSPAN2/hd",
+  "title": "C-SPAN 2 (720p) [Not 24/7]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Legislative",
+  "tvgId": "CSPAN2.us@SD",
+  "tvgLogo": "https://i.imgur.com/9B6XIQC.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:58.846Z"
+}

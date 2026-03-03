@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Teleunion.do_SD" tvg-name="Teleunion (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:02.964Z" tvg-logo="https://i.imgur.com/vTfxkjW.png" indexer="playlist-harvester",Teleunion (1080p)
+http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8

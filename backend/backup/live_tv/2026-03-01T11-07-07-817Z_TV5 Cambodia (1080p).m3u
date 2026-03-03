@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV5Cambodia.kh_SD" tvg-name="TV5 Cambodia (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:07.817Z" tvg-logo="https://i.imgur.com/iMZLyoX.png" indexer="playlist-harvester",TV5 Cambodia (1080p)
+https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8

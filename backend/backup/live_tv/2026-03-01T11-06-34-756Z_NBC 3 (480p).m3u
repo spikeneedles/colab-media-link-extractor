@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NBC3.na_SD" tvg-name="NBC 3 (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:34.756Z" tvg-logo="https://i.imgur.com/7j8Km6e.png" indexer="playlist-harvester",NBC 3 (480p)
+https://hls2.nbcplus.na/hls/high_nbc3.m3u8

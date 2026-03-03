@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GuberniaSamara.ru_SD" tvg-name="Губерния (Самара) (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:23.549Z" tvg-logo="https://i.imgur.com/IlL57Rm.png" indexer="playlist-harvester",Губерния (Самара) (576p)
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8

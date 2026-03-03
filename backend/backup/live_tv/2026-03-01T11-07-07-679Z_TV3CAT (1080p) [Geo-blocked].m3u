@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV3CAT.es_SD" tvg-name="TV3CAT (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:07.679Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" indexer="playlist-harvester",TV3CAT (1080p) [Geo-blocked]
+https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8

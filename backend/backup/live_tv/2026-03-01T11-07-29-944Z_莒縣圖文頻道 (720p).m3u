@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="________720p_" tvg-name="莒縣圖文頻道 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:29.944Z" indexer="playlist-harvester",莒縣圖文頻道 (720p)
+http://61.162.225.122:8181/live/test3.m3u8

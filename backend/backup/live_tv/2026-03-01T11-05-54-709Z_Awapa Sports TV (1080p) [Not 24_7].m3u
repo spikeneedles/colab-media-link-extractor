@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AwapaSportsTV.sv_SD" tvg-name="Awapa Sports TV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:54.709Z" tvg-logo="https://i.imgur.com/MNw5cJH.jpg" indexer="playlist-harvester",Awapa Sports TV (1080p) [Not 24/7]
+https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8

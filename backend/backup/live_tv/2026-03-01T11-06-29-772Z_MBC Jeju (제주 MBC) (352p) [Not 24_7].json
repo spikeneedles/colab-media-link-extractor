@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8",
+  "title": "MBC Jeju (제주 MBC) (352p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "HLAJDTV.kr@SD",
+  "tvgLogo": "https://i.imgur.com/JM4rxGU.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:29.772Z"
+}

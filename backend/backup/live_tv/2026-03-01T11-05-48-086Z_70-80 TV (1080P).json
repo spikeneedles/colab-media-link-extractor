@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8",
+  "title": "70-80 TV (1080P)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "7080TV.it@SD",
+  "tvgLogo": "https://i.imgur.com/y4kNV3Q.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:48.086Z"
+}

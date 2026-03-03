@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8",
+  "title": "Collier Television CTV (Naples FL) (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Legislative",
+  "tvgId": "CollierTV.us@SD",
+  "tvgLogo": "https://i.imgur.com/dkpTHI9.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:05.004Z"
+}

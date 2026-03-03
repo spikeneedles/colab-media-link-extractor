@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UStad.nl_SD" tvg-name="UStad (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:16.009Z" tvg-logo="https://i.imgur.com/9F8ieEz.png" indexer="playlist-harvester",UStad (1080p)
+http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8

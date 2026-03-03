@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CVATV.hn_SD" tvg-name="CVA TV (480p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.587Z" tvg-logo="https://i.imgur.com/R8P5enu.jpg" indexer="playlist-harvester",CVA TV (480p) [Not 24/7]
+http://190.124.161.21:8086/cvatv/live.m3u8

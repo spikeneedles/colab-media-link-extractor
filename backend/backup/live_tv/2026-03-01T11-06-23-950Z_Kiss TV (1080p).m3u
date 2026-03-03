@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KissTV.ro_SD" tvg-name="Kiss TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:23.950Z" tvg-logo="https://i.imgur.com/NKfVymH.png" indexer="playlist-harvester",Kiss TV (1080p)
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8

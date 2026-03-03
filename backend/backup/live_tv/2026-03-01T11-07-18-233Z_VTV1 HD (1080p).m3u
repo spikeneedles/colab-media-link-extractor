@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VTV1.vn_HD" tvg-name="VTV1 HD (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:18.233Z" tvg-logo="https://i.imgur.com/vZYlGIW.png" indexer="playlist-harvester",VTV1 HD (1080p)
+https://liveh12.vtvprime.vn/hls/VTV1_HD/index.m3u8

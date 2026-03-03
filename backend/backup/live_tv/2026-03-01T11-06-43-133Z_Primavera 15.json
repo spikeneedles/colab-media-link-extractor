@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://servilive.com:3538/live/v6qe84b6flive.m3u8",
+  "title": "Primavera 15",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Primavera15.pe@SD",
+  "tvgLogo": "https://i.imgur.com/wsJ8Ag2.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:43.133Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FanDuelTV.us_SD" tvg-name="FanDuel TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:12.442Z" tvg-logo="https://i.imgur.com/YPHrFU0.png" indexer="playlist-harvester",FanDuel TV (720p)
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8

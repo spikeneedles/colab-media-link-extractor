@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AuroraMediaFilms.gt_SD" tvg-name="Aurora Media Films (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:54.522Z" tvg-logo="https://i.imgur.com/DVC5w6H.png" indexer="playlist-harvester",Aurora Media Films (720p)
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8

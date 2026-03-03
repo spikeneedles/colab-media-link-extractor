@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OneFM.lb_SD" tvg-name="OneFM (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.602Z" tvg-logo="https://i.ibb.co/Vp2G9wTz/onefmlb.png" indexer="playlist-harvester",OneFM (720p) [Not 24/7]
+https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8

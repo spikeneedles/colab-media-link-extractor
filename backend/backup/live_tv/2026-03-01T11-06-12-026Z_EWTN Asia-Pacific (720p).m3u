@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EWTN.us_AsiaPacific" tvg-name="EWTN Asia-Pacific (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:12.026Z" tvg-logo="https://i.imgur.com/sua70RO.png" indexer="playlist-harvester",EWTN Asia-Pacific (720p)
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8

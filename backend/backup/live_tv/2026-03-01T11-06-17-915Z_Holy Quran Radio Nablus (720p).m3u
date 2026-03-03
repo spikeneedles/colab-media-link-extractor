@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps_SD" tvg-name="Holy Quran Radio Nablus (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:17.915Z" tvg-logo="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" indexer="playlist-harvester",Holy Quran Radio Nablus (720p)
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8

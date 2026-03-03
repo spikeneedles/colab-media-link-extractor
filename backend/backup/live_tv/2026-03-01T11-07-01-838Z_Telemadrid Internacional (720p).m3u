@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TelemadridINT.es_SD" tvg-name="Telemadrid Internacional (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:01.838Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TeleMadrid_INT_Logo.jpg/400px-TeleMadrid_INT_Logo.jpg" indexer="playlist-harvester",Telemadrid Internacional (720p)
+https://new-international-23-secure2.akamaized.net/index.m3u8

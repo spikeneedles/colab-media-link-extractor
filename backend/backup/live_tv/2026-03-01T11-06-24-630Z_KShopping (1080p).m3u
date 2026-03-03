@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KShopping.kr_SD" tvg-name="KShopping (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.630Z" tvg-logo="https://i.imgur.com/Tmb3xK8.png" indexer="playlist-harvester",KShopping (1080p)
+https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8",
+  "title": "Mtavari Arkhi",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "MtavariArkhi.ge@SD",
+  "tvgLogo": "https://i.imgur.com/tLtGnJW.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:32.969Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MDRFernsehen.de_Thuringen" tvg-name="MDR Fernsehen Thuringen [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:30.114Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/512px-MDR_Logo_2017.svg.png" indexer="playlist-harvester",MDR Fernsehen Thuringen [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/mdr/browser-HLS8/mdr.m3u8

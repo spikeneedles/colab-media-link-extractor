@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JahanbinTV.ir_SD" tvg-name="Jahanbin" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:21.157Z" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/4/4a/Shahrekord_Jahanbin.svg/320px-Shahrekord_Jahanbin.svg.png" indexer="playlist-harvester",Jahanbin
+https://ncdn.telewebion.com/jahanbin/live/playlist.m3u8

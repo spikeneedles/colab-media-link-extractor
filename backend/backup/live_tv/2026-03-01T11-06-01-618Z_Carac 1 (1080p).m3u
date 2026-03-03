@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Carac1.ch_SD" tvg-name="Carac 1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.618Z" tvg-logo="https://i.imgur.com/TSc35U6.png" indexer="playlist-harvester",Carac 1 (1080p)
+https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8",
+  "title": "Al Wilayah (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "AlWilayah.ir@SD",
+  "tvgLogo": "https://i.imgur.com/OI1HQv5.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:50.868Z"
+}

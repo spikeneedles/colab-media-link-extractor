@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AmericaTeVe.pr_SD" tvg-name="América TeVé (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:51.969Z" tvg-logo="https://i.imgur.com/K9o3mLP.png" indexer="playlist-harvester",América TeVé (1080p)
+https://live.gideo.video/americateve2/master.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8",
+  "title": "PBS Kids",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Education;Kids",
+  "tvgId": "PBSKids.us@SD",
+  "tvgLogo": "https://i.imgur.com/q4cUQKW.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:40.955Z"
+}

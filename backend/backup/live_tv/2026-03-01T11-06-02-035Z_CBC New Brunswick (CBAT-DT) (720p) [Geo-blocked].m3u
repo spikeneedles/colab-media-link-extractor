@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CBATDT.ca_SD" tvg-name="CBC New Brunswick (CBAT-DT) (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:02.035Z" tvg-logo="https://i.imgur.com/xflShTG.png" indexer="playlist-harvester",CBC New Brunswick (CBAT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CGEntertainment.it_SD" tvg-name="CG Entertainment" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.030Z" tvg-logo="https://i.imgur.com/XeWzy7e.png" indexer="playlist-harvester",CG Entertainment
+https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8

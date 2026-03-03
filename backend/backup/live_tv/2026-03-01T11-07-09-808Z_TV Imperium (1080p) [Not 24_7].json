@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8",
+  "title": "TV Imperium (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TelewizjaImperium.pl@SD",
+  "tvgLogo": "https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:09.808Z"
+}

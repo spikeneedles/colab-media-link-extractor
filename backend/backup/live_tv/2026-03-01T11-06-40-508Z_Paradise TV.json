@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://dvrfl06.bozztv.com/astv-ptvgambia/index.m3u8",
+  "title": "Paradise TV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "ParadiseTV.gm@SD",
+  "tvgLogo": "https://i.imgur.com/0aT45vk.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:40.508Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BFMGrandLille.fr_SD" tvg-name="BFM Grand Lille (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:56.921Z" tvg-logo="https://i.imgur.com/HE5xP0r.png" indexer="playlist-harvester",BFM Grand Lille (1080p)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE

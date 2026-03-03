@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8",
+  "title": "Shalom World Prayer (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "ShalomWorldPrayer.us@SD",
+  "tvgLogo": "https://i.imgur.com/uUrTto3.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:54.256Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TurismoHD.do_HD" tvg-name="Turismo HD (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:07.371Z" tvg-logo="https://gia.tv/streams/pptv/208343.jpg" indexer="playlist-harvester",Turismo HD (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8

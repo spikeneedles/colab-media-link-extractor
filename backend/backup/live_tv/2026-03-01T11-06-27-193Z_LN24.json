@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live-ln24.digiteka.com/1911668011/index.m3u8",
+  "title": "LN24",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "LN24.be@SD",
+  "tvgLogo": "https://i.imgur.com/1EkZRwn.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:27.193Z"
+}

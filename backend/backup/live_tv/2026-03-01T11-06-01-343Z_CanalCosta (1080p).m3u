@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalCosta.es_SD" tvg-name="CanalCosta (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.343Z" tvg-logo="https://i.imgur.com/ap4FmYb.png" indexer="playlist-harvester",CanalCosta (1080p)
+https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8

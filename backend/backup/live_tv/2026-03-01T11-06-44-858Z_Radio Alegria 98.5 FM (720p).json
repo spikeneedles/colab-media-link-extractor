@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://video.compuwebecuador.com:3880/stream/play.m3u8",
+  "title": "Radio Alegria 98.5 FM (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "RadioAlegria985FM.ec@SD",
+  "tvgLogo": "https://i.imgur.com/N00aS3x.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:44.858Z"
+}

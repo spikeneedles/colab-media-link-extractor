@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KhavaranTV.ir_SD" tvg-name="Khavaran" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:23.657Z" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/86/KHAVARAN_tv.png" indexer="playlist-harvester",Khavaran
+https://ncdn.telewebion.com/khavaran/live/playlist.m3u8

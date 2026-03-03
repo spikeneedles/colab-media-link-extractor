@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Cartoon_Classics" tvg-name="Cartoon Classics" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.777Z" indexer="playlist-harvester",Cartoon Classics
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8

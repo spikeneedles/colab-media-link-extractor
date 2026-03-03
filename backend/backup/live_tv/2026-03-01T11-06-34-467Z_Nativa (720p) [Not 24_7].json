@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8",
+  "title": "Nativa (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Nativa.pe@SD",
+  "tvgLogo": "https://i.imgur.com/Y9k9XSO.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:34.467Z"
+}

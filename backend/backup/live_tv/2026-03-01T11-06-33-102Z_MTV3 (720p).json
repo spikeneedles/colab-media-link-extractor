@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live-fi.tvkaista.net/mtv3/live.m3u8",
+  "title": "MTV3 (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "MTV3.fi@SD",
+  "tvgLogo": "https://i.imgur.com/C5rQbBM.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:33.102Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VevoCountry.us_SD" tvg-name="Vevo Country (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:16.859Z" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" indexer="playlist-harvester",Vevo Country (1080p)
+https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8

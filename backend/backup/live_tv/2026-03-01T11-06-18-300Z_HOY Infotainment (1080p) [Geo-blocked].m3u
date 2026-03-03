@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HOYInfotainment.hk_HD" tvg-name="HOY Infotainment (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.300Z" tvg-logo="https://i.imgur.com/LNokYLQ.png" indexer="playlist-harvester",HOY Infotainment (1080p) [Geo-blocked]
+https://hoytv-live-stream.hoy.tv/ch78/index.m3u8

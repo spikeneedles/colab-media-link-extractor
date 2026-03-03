@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LightChannel.bg_SD" tvg-name="Light Channel (480p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:26.691Z" tvg-logo="https://i.imgur.com/S3Fbf8T.png" indexer="playlist-harvester",Light Channel (480p) [Not 24/7]
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8

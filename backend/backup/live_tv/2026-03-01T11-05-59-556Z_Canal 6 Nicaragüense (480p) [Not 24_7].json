@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8",
+  "title": "Canal 6 Nicaragüense (480p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Canal6.ni@SD",
+  "tvgLogo": "https://i.imgur.com/6BWAZdq.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:59.556Z"
+}

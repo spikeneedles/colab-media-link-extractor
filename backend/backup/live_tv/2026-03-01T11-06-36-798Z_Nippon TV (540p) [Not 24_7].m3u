@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JOAXDTV.jp_SD" tvg-name="Nippon TV (540p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:36.798Z" tvg-logo="https://i.imgur.com/IxD8V5X.png" indexer="playlist-harvester",Nippon TV (540p) [Not 24/7]
+https://ntv4.mov3.co/hls/ntv.m3u8

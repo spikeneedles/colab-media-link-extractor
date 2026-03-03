@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OmroepFlevoland.nl_SD" tvg-name="Omroep Flevoland (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.108Z" tvg-logo="https://i.imgur.com/rF4MTYD.png" indexer="playlist-harvester",Omroep Flevoland (720p) [Not 24/7]
+https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8

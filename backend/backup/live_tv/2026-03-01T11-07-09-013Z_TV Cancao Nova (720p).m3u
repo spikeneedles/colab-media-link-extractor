@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVCancaoNova.br_SD" tvg-name="TV Cancao Nova (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:09.013Z" tvg-logo="https://i.imgur.com/OaM9hkH.png" indexer="playlist-harvester",TV Cancao Nova (720p)
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8

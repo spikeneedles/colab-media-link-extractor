@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04",
+  "title": "YTV (544p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "JOIXDTV.jp@SD",
+  "tvgLogo": "https://i.imgur.com/ONbuWvo.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:21.858Z"
+}

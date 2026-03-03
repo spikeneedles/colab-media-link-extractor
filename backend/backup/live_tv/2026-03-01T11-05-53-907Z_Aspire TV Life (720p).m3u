@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Aspire_TV_Life__720p_" tvg-name="Aspire TV Life (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:53.907Z" indexer="playlist-harvester",Aspire TV Life (720p)
+https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8

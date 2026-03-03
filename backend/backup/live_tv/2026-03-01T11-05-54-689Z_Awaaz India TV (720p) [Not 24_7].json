@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+  "title": "Awaaz India TV (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "AwaazIndiaTV.in@SD",
+  "tvgLogo": "https://i.imgur.com/eKQs51V.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:54.689Z"
+}

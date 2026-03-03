@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8",
+  "title": "Adnkronos (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "Adnkronos.it@SD",
+  "tvgLogo": "https://i.imgur.com/mEoDAf1.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:49.733Z"
+}

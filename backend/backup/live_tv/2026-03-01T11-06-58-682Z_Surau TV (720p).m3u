@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SurauTV.id_SD" tvg-name="Surau TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:58.682Z" tvg-logo="https://i.imgur.com/CKoxcWL.png" indexer="playlist-harvester",Surau TV (720p)
+https://surautv.siar.us/live/surautv.m3u8

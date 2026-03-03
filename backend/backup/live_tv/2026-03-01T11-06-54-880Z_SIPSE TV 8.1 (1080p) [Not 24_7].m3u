@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SIPSETV81.mx_SD" tvg-name="SIPSE TV 8.1 (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:54.880Z" tvg-logo="https://i.imgur.com/123P7dV.png" indexer="playlist-harvester",SIPSE TV 8.1 (1080p) [Not 24/7]
+https://webprod.sipse.com.mx:8080/show/merida.m3u8

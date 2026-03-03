@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CHCOTV.ca_SD" tvg-name="CHCO-TV (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.740Z" tvg-logo="https://i.imgur.com/EpMawIy.png" indexer="playlist-harvester",CHCO-TV (720p) [Geo-blocked]
+https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8

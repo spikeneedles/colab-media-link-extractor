@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SzolnokTV.hu_SD" tvg-name="Szolnok TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.114Z" tvg-logo="https://i.imgur.com/Eiab9MP.png" indexer="playlist-harvester",Szolnok TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://videostream.jpbgdigital.com/NOWTV.m3u8",
+  "title": "Now TV 102.3FM Edmonton (CKNO-FM)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "CKNOFM.ca@SD",
+  "tvgLogo": "https://i.imgur.com/sF2g7KE.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:37.508Z"
+}

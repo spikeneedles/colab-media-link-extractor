@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DatisTV.ir_SD" tvg-name="Datis TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:07.053Z" indexer="playlist-harvester",Datis TV
+https://dathls.wns.live/hls/stream.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WCVBDT1.us_SD" tvg-name="ABC 5 Boston MA (WCVB) (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.774Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/WCVB-TV_alternate_2021.svg" indexer="playlist-harvester",ABC 5 Boston MA (WCVB) (720p)
+https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8

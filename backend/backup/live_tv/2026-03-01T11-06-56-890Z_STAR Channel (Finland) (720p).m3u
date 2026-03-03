@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="STARChannel.fi_SD" tvg-name="STAR Channel (Finland) (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:56.890Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" indexer="playlist-harvester",STAR Channel (Finland) (720p)
+https://live-fi.tvkaista.net/star-channel/live.m3u8

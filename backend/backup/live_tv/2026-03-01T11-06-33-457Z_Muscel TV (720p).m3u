@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MuscelTV.ro_SD" tvg-name="Muscel TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:33.457Z" tvg-logo="https://i.ibb.co/Bq9CHyn/Musceltv1.png" indexer="playlist-harvester",Muscel TV (720p)
+https://cdn.streamnet.pro/musceltv/live/playlist.m3u8

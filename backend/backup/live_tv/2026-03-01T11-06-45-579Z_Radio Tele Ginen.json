@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8",
+  "title": "Radio Tele Ginen",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "RadioTeleGinen.ht@SD",
+  "tvgLogo": "https://i.imgur.com/ESlt16G.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:45.579Z"
+}

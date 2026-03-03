@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="______576p_" tvg-name="厦门卫视 (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:27.372Z" indexer="playlist-harvester",厦门卫视 (576p)
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8

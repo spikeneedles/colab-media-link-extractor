@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OlamMetroTV.ni_SD" tvg-name="Olam Metro TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:38.854Z" tvg-logo="https://i.imgur.com/dDZnyUA.jpeg" indexer="playlist-harvester",Olam Metro TV (720p)
+https://netzerstreaming.com:4433/hls/olammetro/index.m3u8

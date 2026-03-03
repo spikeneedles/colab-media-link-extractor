@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv_SD" tvg-name="Megavisión Canal 21 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:30.437Z" tvg-logo="https://i.imgur.com/HbdYU9k.png" indexer="playlist-harvester",Megavisión Canal 21 (720p)
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8

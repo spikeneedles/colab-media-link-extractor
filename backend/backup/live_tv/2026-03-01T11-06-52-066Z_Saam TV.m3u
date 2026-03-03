@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SaamTV.in_SD" tvg-name="Saam TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:52.066Z" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAAM_TV/images/LOGO_HD/image.png" indexer="playlist-harvester",Saam TV
+https://cdn-3.pishow.tv/live/437/master.m3u8

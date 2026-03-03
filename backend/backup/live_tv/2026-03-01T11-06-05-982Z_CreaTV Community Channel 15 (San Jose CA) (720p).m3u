@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CreaTVChannel15.us_SD" tvg-name="CreaTV Community Channel 15 (San Jose CA) (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:05.982Z" tvg-logo="https://i.imgur.com/Lwzio0H.png" indexer="playlist-harvester",CreaTV Community Channel 15 (San Jose CA) (720p)
+https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GSShop.kr_SD" tvg-name="GS Shop (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:16.283Z" tvg-logo="https://i.imgur.com/F7QDbEy.png" indexer="playlist-harvester",GS Shop (1080p)
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8

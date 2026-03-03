@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8",
+  "title": "CarinaTV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "CarinaTV.it@SD",
+  "tvgLogo": "https://i.imgur.com/ANGD7gv.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:01.709Z"
+}

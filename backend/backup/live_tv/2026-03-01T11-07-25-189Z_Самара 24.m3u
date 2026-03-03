@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Samara24.ru_SD" tvg-name="Самара 24" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:25.189Z" tvg-logo="https://i.imgur.com/YUe3Dwd.png" indexer="playlist-harvester",Самара 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8

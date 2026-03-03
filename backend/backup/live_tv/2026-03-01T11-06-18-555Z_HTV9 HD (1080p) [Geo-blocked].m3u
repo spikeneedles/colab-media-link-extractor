@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HTV9.vn_HD" tvg-name="HTV9 HD (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.555Z" indexer="playlist-harvester",HTV9 HD (1080p) [Geo-blocked]
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8

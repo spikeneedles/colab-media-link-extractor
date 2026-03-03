@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVCisne.ec_SD" tvg-name="TV Cisne (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:09.161Z" tvg-logo="https://i.imgur.com/xIuFSnx.png" indexer="playlist-harvester",TV Cisne (1080p)
+https://video2.lhdserver.es/tvcisne/live.m3u8

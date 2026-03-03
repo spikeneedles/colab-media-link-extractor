@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8",
+  "title": "D3 TV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "D3TV.ml@SD",
+  "tvgLogo": "https://i.imgur.com/uFEIBtB.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:06.691Z"
+}

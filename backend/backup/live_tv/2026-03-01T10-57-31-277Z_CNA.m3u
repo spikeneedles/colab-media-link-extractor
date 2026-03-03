@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" group-title="Live TV" source-url="https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8" content-type="application/x-mpegurl" archived-at="2026-03-01T10:57:31.277Z" tvg-logo="https://i.imgur.com/X3ukD5t.png" indexer="playlist-harvester",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Meteonews.ch_SD" tvg-name="Meteonews (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:30.753Z" tvg-logo="https://i.imgur.com/YtYhbJD.png" indexer="playlist-harvester",Meteonews (1080p)
+https://streaming.meteonews.net/hls/stream.m3u8

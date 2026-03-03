@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ParlamentodeNavarra.es_SD" tvg-name="Parlamento de Navarra (368p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.592Z" tvg-logo="https://i.imgur.com/JnhWxKv.png" indexer="playlist-harvester",Parlamento de Navarra (368p) [Not 24/7]
+https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NationalAssemblyTV.kr_SD" tvg-name="National Assembly TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:34.320Z" tvg-logo="https://i.imgur.com/UKdB8vD.png" indexer="playlist-harvester",National Assembly TV (720p)
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8

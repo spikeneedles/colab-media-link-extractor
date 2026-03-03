@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8",
+  "title": "TV Aldeia (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TVAldeia.br@SD",
+  "tvgLogo": "https://i.imgur.com/rsfnv4Z.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:08.520Z"
+}

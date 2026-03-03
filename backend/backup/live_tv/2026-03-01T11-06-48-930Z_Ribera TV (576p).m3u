@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RiberaTV.es_SD" tvg-name="Ribera TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:48.930Z" tvg-logo="https://i.imgur.com/mPvSubP.png" indexer="playlist-harvester",Ribera TV (576p)
+https://common01.todostreaming.es/live/ribera-livestream.m3u8

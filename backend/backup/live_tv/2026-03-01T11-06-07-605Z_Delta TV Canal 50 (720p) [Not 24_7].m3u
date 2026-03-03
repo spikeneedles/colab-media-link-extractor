@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DeltaTVCanal50.do_SD" tvg-name="Delta TV Canal 50 (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:07.605Z" tvg-logo="https://imgur.com/Z1K1tyl.jpg" indexer="playlist-harvester",Delta TV Canal 50 (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8",
+  "title": "El Sol Network TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "ElSolNetworkTV.ec@SD",
+  "tvgLogo": "https://i.imgur.com/TIH3zlP.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:10.235Z"
+}

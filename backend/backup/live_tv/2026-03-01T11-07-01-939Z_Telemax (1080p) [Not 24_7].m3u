@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telemax.do_SD" tvg-name="Telemax (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:01.939Z" tvg-logo="https://i.imgur.com/QvKmjvV.png" indexer="playlist-harvester",Telemax (1080p) [Not 24/7]
+https://mlb.essastream.com:8081/telemax/tracks-v1a1/mono.m3u8

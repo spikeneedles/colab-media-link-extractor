@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Primocanale.it_SD" tvg-name="Primocanale (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:43.211Z" tvg-logo="https://i.imgur.com/eunZ2Sa.png" indexer="playlist-harvester",Primocanale (1080p) [Not 24/7]
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8

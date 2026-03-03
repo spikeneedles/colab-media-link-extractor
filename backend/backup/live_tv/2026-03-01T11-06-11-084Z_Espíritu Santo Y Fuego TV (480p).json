@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://inliveserver.com:1936/8392/8392/playlist.m3u8",
+  "title": "Espíritu Santo Y Fuego TV (480p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "EspirituSantoYFuegoTV.gt@SD",
+  "tvgLogo": "https://i.imgur.com/8mdSWO4.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:11.084Z"
+}

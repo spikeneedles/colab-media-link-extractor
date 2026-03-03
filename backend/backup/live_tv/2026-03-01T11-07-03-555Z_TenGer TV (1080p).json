@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd",
+  "title": "TenGer TV (1080p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TenGerTV.mn@SD",
+  "tvgLogo": "https://i.imgur.com/MmPvkcO.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:03.555Z"
+}

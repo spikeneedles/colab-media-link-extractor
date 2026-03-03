@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://s.emisoras.tv:8081/stocanal32hn/playlist.m3u8",
+  "title": "Canal 32 STO (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Canal32STO.hn@SD",
+  "tvgLogo": "https://i.imgur.com/dS4Gb0Q.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:00.469Z"
+}

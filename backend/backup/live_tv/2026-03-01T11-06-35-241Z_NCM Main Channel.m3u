@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NCMMainChannel.us_SD" tvg-name="NCM Main Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:35.241Z" tvg-logo="https://i.imgur.com/3YPvfPn.png" indexer="playlist-harvester",NCM Main Channel
+https://reflect-npa.cablecast.tv/live-6/live/live.m3u8

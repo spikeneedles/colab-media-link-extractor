@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OMTV.in_SD" tvg-name="OM TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:38.972Z" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" indexer="playlist-harvester",OM TV (576p)
+https://mumt01.tangotv.in/OMTV/index.m3u8

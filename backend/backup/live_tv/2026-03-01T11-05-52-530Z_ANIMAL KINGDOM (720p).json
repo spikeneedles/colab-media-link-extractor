@@ -1,0 +1,13 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8",
+  "title": "ANIMAL KINGDOM (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Outdoor",
+  "tvgId": "ANIMALKINGDOM.de@SD",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:52.530Z"
+}

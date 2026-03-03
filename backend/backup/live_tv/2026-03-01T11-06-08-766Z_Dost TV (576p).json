@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://dost.stream.emsal.im/tv/live.m3u8",
+  "title": "Dost TV (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "DostTV.tr@SD",
+  "tvgLogo": "https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:08.766Z"
+}

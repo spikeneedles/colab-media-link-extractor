@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8",
+  "title": "Univers TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "UniversTV.es@SD",
+  "tvgLogo": "https://i.imgur.com/EW2bfix.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:15.637Z"
+}

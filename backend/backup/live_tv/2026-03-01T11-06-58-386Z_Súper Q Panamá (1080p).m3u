@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SuperQPanama.pa_SD" tvg-name="Súper Q Panamá (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:58.386Z" tvg-logo="https://i.imgur.com/ocTnqi7.png" indexer="playlist-harvester",Súper Q Panamá (1080p)
+https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8

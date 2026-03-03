@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeleRibera.es_SD" tvg-name="TeleRibera (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:02.614Z" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg" indexer="playlist-harvester",TeleRibera (720p) [Not 24/7]
+https://video1.lhdserver.es/teleribera/live.m3u8

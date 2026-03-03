@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WeShort" tvg-name="WeShort" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:19.857Z" indexer="playlist-harvester",WeShort
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8

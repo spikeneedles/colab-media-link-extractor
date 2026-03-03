@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GeopolisTV.cd_SD" tvg-name="Géopolis TV (240p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:14.855Z" tvg-logo="https://i.imgur.com/WzGAIYe.jpg" indexer="playlist-harvester",Géopolis TV (240p)
+https://tnt-television.com/Geopolis_tv/index.m3u8

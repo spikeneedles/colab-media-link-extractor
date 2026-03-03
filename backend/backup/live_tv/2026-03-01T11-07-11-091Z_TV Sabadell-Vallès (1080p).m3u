@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVSabadellValles.es_SD" tvg-name="TV Sabadell-Vallès (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:11.091Z" tvg-logo="https://i.imgur.com/fSTsGbG.png" indexer="playlist-harvester",TV Sabadell-Vallès (1080p)
+https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8

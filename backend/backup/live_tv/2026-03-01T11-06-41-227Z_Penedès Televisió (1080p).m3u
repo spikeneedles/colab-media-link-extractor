@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PenedesTelevisio.es_SD" tvg-name="Penedès Televisió (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:41.227Z" tvg-logo="https://i.imgur.com/mNuv3OL.png" indexer="playlist-harvester",Penedès Televisió (1080p)
+https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR=

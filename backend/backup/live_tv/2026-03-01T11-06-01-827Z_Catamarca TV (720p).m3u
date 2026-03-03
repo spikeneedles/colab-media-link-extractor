@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CatamarcaTV.ar_SD" tvg-name="Catamarca TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.827Z" tvg-logo="https://i.imgur.com/CEuPoqG.png" indexer="playlist-harvester",Catamarca TV (720p)
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=

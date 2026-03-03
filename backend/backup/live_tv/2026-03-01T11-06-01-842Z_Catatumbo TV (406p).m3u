@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CatatumboTV.ve_SD" tvg-name="Catatumbo TV (406p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.842Z" tvg-logo="https://i.imgur.com/LBI2la0.png" indexer="playlist-harvester",Catatumbo TV (406p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8

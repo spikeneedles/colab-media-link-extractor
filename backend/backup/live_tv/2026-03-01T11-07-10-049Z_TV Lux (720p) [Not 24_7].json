@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8",
+  "title": "TV Lux (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TVLux.sk@SD",
+  "tvgLogo": "https://i.imgur.com/mAMyTkq.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:10.049Z"
+}

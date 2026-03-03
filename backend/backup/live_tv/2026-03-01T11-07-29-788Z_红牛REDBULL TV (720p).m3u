@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="__REDBULL_TV__720p_" tvg-name="红牛REDBULL TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:29.788Z" indexer="playlist-harvester",红牛REDBULL TV (720p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8

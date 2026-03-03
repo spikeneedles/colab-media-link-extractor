@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FilAmTVNetwork.us_HD" tvg-name="FilAmTV Network" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:12.896Z" tvg-logo="https://i.imgur.com/nRiApdI.png" indexer="playlist-harvester",FilAmTV Network
+https://streams.comclark.com/pknsd/filamtv/playlist.m3u8

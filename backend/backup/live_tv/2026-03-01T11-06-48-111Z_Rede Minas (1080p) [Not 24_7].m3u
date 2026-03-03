@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RedeMinas.br_SD" tvg-name="Rede Minas (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:48.111Z" tvg-logo="https://i.imgur.com/MtQWAHv.png" indexer="playlist-harvester",Rede Minas (1080p) [Not 24/7]
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PowerTurkAkustik.tr_SD" tvg-name="Power Türk Akustik (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:42.792Z" tvg-logo="https://i.imgur.com/driabBO.png" indexer="playlist-harvester",Power Türk Akustik (1080p)
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8

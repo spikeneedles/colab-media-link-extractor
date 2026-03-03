@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ViaATV.mq_SD" tvg-name="ViàATV (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.065Z" tvg-logo="https://i.imgur.com/Ua6rOXo.png" indexer="playlist-harvester",ViàATV (1080p) [Geo-blocked]
+https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8

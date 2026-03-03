@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChinolaTV.do_SD" tvg-name="Chinola TV (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.871Z" tvg-logo="https://i.imgur.com/ybud4dI.png" indexer="playlist-harvester",Chinola TV (480p)
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8

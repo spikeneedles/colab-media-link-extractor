@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Asomavision.ec_SD" tvg-name="Asomavisión (614p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:53.899Z" tvg-logo="https://i.imgur.com/a5avk5R.png" indexer="playlist-harvester",Asomavisión (614p)
+https://asomatv.cloud-ip.cc/livestream/stream.m3u8

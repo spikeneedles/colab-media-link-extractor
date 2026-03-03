@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SharqRadioTV.af_SD" tvg-name="Sharq Radio TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:54.385Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sharq_TV_Logo_2020.jpg/440px-Sharq_TV_Logo_2020.jpg" indexer="playlist-harvester",Sharq Radio TV (1080p)
+https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8

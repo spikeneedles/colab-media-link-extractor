@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TrinityChannel.us_SD" tvg-name="Trinity Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:06.585Z" tvg-logo="https://i.imgur.com/pUVL3d5.png" indexer="playlist-harvester",Trinity Channel
+https://edge66.magictvbox.com/liveApple/trinity/tracks-v1a1/mono.m3u8

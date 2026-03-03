@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ecovision.do_SD" tvg-name="Ecovisión (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:09.897Z" tvg-logo="https://imgur.com/Y4ahiYu.png" indexer="playlist-harvester",Ecovisión (720p)
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8

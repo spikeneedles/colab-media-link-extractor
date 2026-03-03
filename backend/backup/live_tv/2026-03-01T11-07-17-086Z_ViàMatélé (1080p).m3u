@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ViaMatele.fr_SD" tvg-name="ViàMatélé (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.086Z" tvg-logo="https://i.imgur.com/XVCV9rj.png" indexer="playlist-harvester",ViàMatélé (1080p)
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8

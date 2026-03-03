@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GuneydoguTV.tr_SD" tvg-name="Guneydogu TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:16.545Z" tvg-logo="https://i.imgur.com/JT5pp3Y.png" indexer="playlist-harvester",Guneydogu TV (720p)
+https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8

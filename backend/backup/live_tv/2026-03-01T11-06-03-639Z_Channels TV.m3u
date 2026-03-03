@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChannelsTV.ng_SD" tvg-name="Channels TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.639Z" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg" indexer="playlist-harvester",Channels TV
+https://cs2.push2stream.com/CHANNELSTV-DVR/playlist.m3u8

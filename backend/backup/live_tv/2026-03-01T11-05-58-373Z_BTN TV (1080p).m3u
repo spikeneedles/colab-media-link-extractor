@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BTNTV.kr_SD" tvg-name="BTN TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:58.373Z" tvg-logo="https://i.imgur.com/sOoS7RQ.png" indexer="playlist-harvester",BTN TV (1080p)
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8

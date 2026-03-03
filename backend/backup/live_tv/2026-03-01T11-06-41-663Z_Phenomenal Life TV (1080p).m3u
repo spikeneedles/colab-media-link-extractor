@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PhenomenalLifeTV.ng_SD" tvg-name="Phenomenal Life TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:41.663Z" tvg-logo="https://i.imgur.com/JHbhLuK.jpg" indexer="playlist-harvester",Phenomenal Life TV (1080p)
+https://5be80bd118c27.streamlock.net:433/phenomenaltv/phenomenal/playlist.m3u8

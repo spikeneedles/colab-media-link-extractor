@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8",
+  "title": "ZDF (720p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "ZDF.de@SD",
+  "tvgLogo": "https://i.imgur.com/rtLb6m9.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:22.104Z"
+}

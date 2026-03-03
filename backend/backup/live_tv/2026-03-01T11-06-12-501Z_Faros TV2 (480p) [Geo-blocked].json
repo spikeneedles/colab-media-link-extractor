@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://s1.cystream.net/live/faros2/playlist.m3u8",
+  "title": "Faros TV2 (480p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "FarosTV2.gr@SD",
+  "tvgLogo": "https://i.imgur.com/7xtz1Jo.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:12.501Z"
+}

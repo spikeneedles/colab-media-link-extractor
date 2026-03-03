@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8",
+  "title": "RTV Oost (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "RTVOost.nl@SD",
+  "tvgLogo": "https://i.imgur.com/nTR6q9H.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:51.616Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BTB.pl" tvg-name="BTB HD (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:58.339Z" tvg-logo="https://btb.j00r.us/images/logo_BTB.webp" indexer="playlist-harvester",BTB HD (1080p)
+https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8

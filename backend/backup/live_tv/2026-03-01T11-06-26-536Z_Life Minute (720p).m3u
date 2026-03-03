@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Life_Minute__720p_" tvg-name="Life Minute (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:26.536Z" indexer="playlist-harvester",Life Minute (720p)
+https://amg01468-lifeminutetv-lifeminute-klowdtv-r4hhz.amagi.tv/playlist/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8

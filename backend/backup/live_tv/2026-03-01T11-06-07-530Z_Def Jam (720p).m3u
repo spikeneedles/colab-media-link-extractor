@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Def_Jam__720p_" tvg-name="Def Jam (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:07.530Z" indexer="playlist-harvester",Def Jam (720p)
+https://aegis-cloudfront-1.tubi.video/ff2a53ec-9887-4aa3-a9e4-38746eba97de/index.m3u8

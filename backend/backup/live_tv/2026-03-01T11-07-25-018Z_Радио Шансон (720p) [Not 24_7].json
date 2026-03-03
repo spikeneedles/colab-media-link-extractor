@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8",
+  "title": "Радио Шансон (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "RadioShanson.ru@SD",
+  "tvgLogo": "https://i.imgur.com/lbqM3K2.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:25.018Z"
+}

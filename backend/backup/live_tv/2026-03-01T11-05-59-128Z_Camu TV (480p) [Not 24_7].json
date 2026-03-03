@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8",
+  "title": "Camu TV (480p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "CamuTV.do@SD",
+  "tvgLogo": "https://i.imgur.com/3d8cLm9.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:59.128Z"
+}

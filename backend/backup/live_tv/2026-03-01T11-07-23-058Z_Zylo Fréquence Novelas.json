@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8",
+  "title": "Zylo Fréquence Novelas",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Series",
+  "tvgId": "FrequenceNovelas.fr@SD",
+  "tvgLogo": "https://i.imgur.com/fEjNAps.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:23.058Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CTBPerth.au_SD" tvg-name="CTB Perth (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.324Z" tvg-logo="https://i.imgur.com/VB8gtCy.jpeg" indexer="playlist-harvester",CTB Perth (720p)
+https://live.ctbperth.net.au/hls/0/stream.m3u8

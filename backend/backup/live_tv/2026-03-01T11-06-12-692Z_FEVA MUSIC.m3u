@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FEVA_MUSIC" tvg-name="FEVA MUSIC" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:12.692Z" indexer="playlist-harvester",FEVA MUSIC
+https://dmecgxuzr2ywk.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVAMusic/417.m3u8?ads.vf=iLI3jDmKr10

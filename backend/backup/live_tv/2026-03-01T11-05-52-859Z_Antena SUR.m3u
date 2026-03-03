@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AntenaSUR.pe_SD" tvg-name="Antena SUR" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:52.859Z" tvg-logo="https://i.imgur.com/4aHrD2l.jpeg" indexer="playlist-harvester",Antena SUR
+https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8

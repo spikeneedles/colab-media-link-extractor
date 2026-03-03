@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DopaChannel.th_SD" tvg-name="Dopa Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:08.757Z" tvg-logo="https://i.imgur.com/Z9vxti4.png" indexer="playlist-harvester",Dopa Channel
+http://dopachannel.truegse.com/live/dopatv03.m3u8

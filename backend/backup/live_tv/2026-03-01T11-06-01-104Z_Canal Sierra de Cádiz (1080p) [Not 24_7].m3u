@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalSierradeCadiz.es_SD" tvg-name="Canal Sierra de Cádiz (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.104Z" tvg-logo="https://i.imgur.com/94rn7pb.png" indexer="playlist-harvester",Canal Sierra de Cádiz (1080p) [Not 24/7]
+https://s.emisoras.tv:8081/sierradecadiz/index.m3u8

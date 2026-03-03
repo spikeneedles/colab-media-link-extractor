@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.hrbtv.net/yspd/playlist.m3u8",
+  "title": "Harbin Movie Channel",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "HarbinMovieChannel.cn@SD",
+  "tvgLogo": "https://www.tvchinese.net/uploads/tv/haerbin.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:17.072Z"
+}

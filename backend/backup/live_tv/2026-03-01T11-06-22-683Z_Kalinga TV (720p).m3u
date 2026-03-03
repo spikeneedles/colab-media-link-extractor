@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KalingaTV.in_SD" tvg-name="Kalinga TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:22.683Z" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KALINGA_TV/images/LOGO_HD/image.png" indexer="playlist-harvester",Kalinga TV (720p)
+https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8

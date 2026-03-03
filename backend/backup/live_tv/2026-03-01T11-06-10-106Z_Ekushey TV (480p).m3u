@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EkusheyTV.bd_SD" tvg-name="Ekushey TV (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.106Z" tvg-logo="https://i.imgur.com/lRpkGHj.png" indexer="playlist-harvester",Ekushey TV (480p)
+https://ekusheyserver.com/etvlivesn.m3u8

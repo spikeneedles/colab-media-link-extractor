@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SleutelstadTV.nl_SD" tvg-name="Sleutelstad TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:55.346Z" tvg-logo="https://i.imgur.com/ljVGMWV.png" indexer="playlist-harvester",Sleutelstad TV (720p)
+https://samson.streamerr.co:8081/sleutelstad/index.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8",
+  "title": "Diyar TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "DiyarTV.tr@SD",
+  "tvgLogo": "https://i.imgur.com/qWkHjRA.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:08.313Z"
+}

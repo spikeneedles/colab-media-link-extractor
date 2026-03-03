@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DRRamasjang.dk_SD" tvg-name="DR Ramasjang (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:08.901Z" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/DR_Ramasjang_2020.svg/512px-DR_Ramasjang_2020.svg.png" indexer="playlist-harvester",DR Ramasjang (720p) [Geo-blocked]
+https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8

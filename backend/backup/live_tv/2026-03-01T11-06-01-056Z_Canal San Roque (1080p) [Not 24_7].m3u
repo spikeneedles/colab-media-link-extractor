@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalSanRoque.es_SD" tvg-name="Canal San Roque (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.056Z" tvg-logo="https://i.imgur.com/SN9kFKh.png" indexer="playlist-harvester",Canal San Roque (1080p) [Not 24/7]
+https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8

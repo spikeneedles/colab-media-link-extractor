@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8",
+  "title": "QVC 2 Germany (540p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Shop",
+  "tvgId": "QVCZwei.de@SD",
+  "tvgLogo": "https://i.imgur.com/f94kPed.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:44.413Z"
+}

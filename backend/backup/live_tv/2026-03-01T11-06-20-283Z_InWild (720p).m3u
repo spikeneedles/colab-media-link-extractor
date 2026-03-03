@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="InWild.it_SD" tvg-name="InWild (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:20.283Z" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Inwild.png" indexer="playlist-harvester",InWild (720p)
+https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8

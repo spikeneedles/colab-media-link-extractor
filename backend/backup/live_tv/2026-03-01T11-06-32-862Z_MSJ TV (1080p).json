@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8",
+  "title": "MSJ TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "MSJTV.kh@SD",
+  "tvgLogo": "https://i.imgur.com/TilslGU.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:32.862Z"
+}

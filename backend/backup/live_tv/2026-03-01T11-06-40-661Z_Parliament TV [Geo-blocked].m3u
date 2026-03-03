@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ParliamentofMalta.mt_SD" tvg-name="Parliament TV [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:40.661Z" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Logo_of_the_Parliament_of_Malta.png" indexer="playlist-harvester",Parliament TV [Geo-blocked]
+http://80.79.6.221:25461/smash/public/23

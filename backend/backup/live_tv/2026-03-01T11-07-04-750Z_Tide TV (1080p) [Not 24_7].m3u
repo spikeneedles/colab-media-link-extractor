@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TideTV.de_SD" tvg-name="Tide TV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:04.750Z" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png" indexer="playlist-harvester",Tide TV (1080p) [Not 24/7]
+https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8

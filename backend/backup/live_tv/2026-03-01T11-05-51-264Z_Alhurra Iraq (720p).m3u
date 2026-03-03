@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlhurraIraq.us_SD" tvg-name="Alhurra Iraq (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:51.264Z" tvg-logo="https://i.imgur.com/fsgQDcN.png" indexer="playlist-harvester",Alhurra Iraq (720p)
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8

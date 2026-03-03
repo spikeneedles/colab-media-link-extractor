@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TGRTHaber.tr_SD" tvg-name="TGRT Haber (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:03.864Z" tvg-logo="https://i.imgur.com/PrxwKDw.png" indexer="playlist-harvester",TGRT Haber (720p)
+https://canli.tgrthaber.com/tgrt.m3u8

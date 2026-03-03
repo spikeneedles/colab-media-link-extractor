@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KMIZDT1.us_SD" tvg-name="KMIZ-DT1 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.073Z" tvg-logo="https://lh3.googleusercontent.com/dQe4NZjNphITtOJYib9UNnV8EaYqs8W39ZayXgYaaV19TThXqw92-V5wzW2LuBoCe1wsKs-2d3s=v1-rw-s400" indexer="playlist-harvester",KMIZ-DT1 (720p)
+https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8

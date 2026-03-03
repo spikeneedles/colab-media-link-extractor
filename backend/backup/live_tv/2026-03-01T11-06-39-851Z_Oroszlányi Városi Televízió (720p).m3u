@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OroszlanyiVarosiTelevizio.hu_SD" tvg-name="Oroszlányi Városi Televízió (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.851Z" tvg-logo="https://i.imgur.com/P0fxUH5.png" indexer="playlist-harvester",Oroszlányi Városi Televízió (720p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://jmp2.uk/stvp-GBBC4300005AL",
+  "title": "Lego Channel (1080p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Kids",
+  "tvgId": "LegoChannel.us@SD",
+  "tvgLogo": "https://i.imgur.com/xePwW13.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:26.274Z"
+}

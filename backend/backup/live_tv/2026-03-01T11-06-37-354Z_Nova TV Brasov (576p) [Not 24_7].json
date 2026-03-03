@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://novapress.ro:2022/live/nova/playlist.m3u8",
+  "title": "Nova TV Brasov (576p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "NovaTVBrasov.ro@SD",
+  "tvgLogo": "https://i.imgur.com/33Vn0Ij.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:37.354Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Iraneman.ir_SD" tvg-name="Iraneman" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:20.461Z" tvg-logo="https://static.telewebion.com/channelsLogo/9ee212fa-ad8b-45eb-a5fa-d737b4b6ef05/default" indexer="playlist-harvester",Iraneman
+https://ncdn.telewebion.com/iraneman/live/playlist.m3u8

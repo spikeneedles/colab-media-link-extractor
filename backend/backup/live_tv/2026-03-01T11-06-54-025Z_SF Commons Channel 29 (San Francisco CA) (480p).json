@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://reflect-bayarea.cablecast.tv/live-5/live/live.m3u8",
+  "title": "SF Commons Channel 29 (San Francisco CA) (480p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "SFCommons29.us@SD",
+  "tvgLogo": "https://i.imgur.com/aVkJkgm.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:54.025Z"
+}

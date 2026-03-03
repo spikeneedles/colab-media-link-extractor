@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRTSpor.tr_SD" tvg-name="TRT Spor (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:06.912Z" tvg-logo="https://i.imgur.com/6tv0zxh.png" indexer="playlist-harvester",TRT Spor (1080p) [Geo-blocked]
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8

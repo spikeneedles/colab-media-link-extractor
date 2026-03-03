@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GugakTV.kr_SD" tvg-name="GugakTV 국악방송 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:16.455Z" tvg-logo="https://i.imgur.com/Ey7Htm8.png" indexer="playlist-harvester",GugakTV 국악방송 (1080p)
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8

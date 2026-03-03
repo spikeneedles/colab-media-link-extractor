@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel247.gh_SD" tvg-name="Channel247 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.486Z" tvg-logo="https://i.imgur.com/8qNPgBa.png" indexer="playlist-harvester",Channel247 (1080p)
+https://tv.localstreamgh.com/Channel247/index.m3u8

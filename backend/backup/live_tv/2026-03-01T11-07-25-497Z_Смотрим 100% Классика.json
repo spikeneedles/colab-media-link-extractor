@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338",
+  "title": "Смотрим 100% Классика",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Classic;Movies",
+  "tvgId": "Smotrim100Klassika.ru@SD",
+  "tvgLogo": "https://i.imgur.com/aASNpKq.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:25.497Z"
+}

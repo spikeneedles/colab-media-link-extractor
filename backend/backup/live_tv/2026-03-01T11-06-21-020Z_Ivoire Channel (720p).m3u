@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IvoireChannel.ci_SD" tvg-name="Ivoire Channel (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:21.020Z" tvg-logo="https://i.imgur.com/gKbNqQv.png" indexer="playlist-harvester",Ivoire Channel (720p)
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8

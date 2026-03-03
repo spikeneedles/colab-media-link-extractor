@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EBSCinema.us_SD" tvg-name="EBS Cinema (720p)" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:09.751Z" tvg-logo="https://i.imgur.com/fewPTFE.png" indexer="playlist-harvester",EBS Cinema (720p)
+https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="InfoWars.us_SD" tvg-name="InfoWars Network (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:20.045Z" tvg-logo="https://i.imgur.com/a7h9epj.png" indexer="playlist-harvester",InfoWars Network (1080p)
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8

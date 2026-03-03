@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BalkanRadioSalzburg.at_SD" tvg-name="Balkan Radio Salzburg (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:55.245Z" tvg-logo="https://i.imgur.com/UDyxgXf.png" indexer="playlist-harvester",Balkan Radio Salzburg (480p)
+https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8

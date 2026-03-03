@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PalenqueTV.bo_SD" tvg-name="Palenque TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.306Z" tvg-logo="https://i.imgur.com/wAIBvaO.png" indexer="playlist-harvester",Palenque TV
+https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlmagdTVNorthAmerica.us_SD" tvg-name="Almagd TV North America (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:51.551Z" tvg-logo="https://i.imgur.com/3pUik3b.png" indexer="playlist-harvester",Almagd TV North America (1080p)
+https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8

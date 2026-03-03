@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="True_History_Channel" tvg-name="True History Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:07.041Z" indexer="playlist-harvester",True History Channel
+https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8

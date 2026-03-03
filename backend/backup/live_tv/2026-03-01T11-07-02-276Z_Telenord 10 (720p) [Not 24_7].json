@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://fox.hostlagarto.com:8081/telenord10/playlist.m3u8",
+  "title": "Telenord 10 (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Telenord10.do@SD",
+  "tvgLogo": "https://i.imgur.com/1Ei0kB8.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:02.276Z"
+}

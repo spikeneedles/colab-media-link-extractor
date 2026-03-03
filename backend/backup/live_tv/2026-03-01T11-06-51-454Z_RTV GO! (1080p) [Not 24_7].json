@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8",
+  "title": "RTV GO! (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "RTVGO.nl@SD",
+  "tvgLogo": "https://i.imgur.com/WUClFUJ.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:51.454Z"
+}

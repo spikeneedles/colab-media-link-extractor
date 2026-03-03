@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Motus_La_Cha_ne" tvg-name="Motus La Chaîne" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:32.531Z" indexer="playlist-harvester",Motus La Chaîne
+https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8

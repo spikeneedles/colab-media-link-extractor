@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ViaTelevision.pe_SD" tvg-name="Vía Televisión (720P) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.052Z" tvg-logo="https://i.imgur.com/FiptbGQ.png" indexer="playlist-harvester",Vía Televisión (720P) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8

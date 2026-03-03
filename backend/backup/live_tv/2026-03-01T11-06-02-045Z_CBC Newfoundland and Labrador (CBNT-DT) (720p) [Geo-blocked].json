@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8",
+  "title": "CBC Newfoundland and Labrador (CBNT-DT) (720p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "CBNTDT.ca@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CBNT-DT_2017.svg/512px-CBNT-DT_2017.svg.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:02.045Z"
+}

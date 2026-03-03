@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ServusTV.at_HD" tvg-name="ServusTV HD [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.930Z" tvg-logo="https://i.imgur.com/6W637Gn.png" indexer="playlist-harvester",ServusTV HD [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Stormcast_Novelas_TV" tvg-name="Stormcast Novelas TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:57.795Z" indexer="playlist-harvester",Stormcast Novelas TV
+https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DaliTV.tw_SD" tvg-name="Dali TV (大立電視台) (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.839Z" tvg-logo="https://i.imgur.com/pFIMLsA.png" indexer="playlist-harvester",Dali TV (大立電視台) (720p)
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8

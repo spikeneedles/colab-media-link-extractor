@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CompanyTV.it_SD" tvg-name="Company TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:05.318Z" tvg-logo="https://i.imgur.com/ccdwsWj.png" indexer="playlist-harvester",Company TV (720p)
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8

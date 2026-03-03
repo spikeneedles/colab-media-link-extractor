@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://dumatv.iptv2022.com/playlist.m3u8",
+  "title": "Дума ТВ [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Legislative",
+  "tvgId": "DumaTV.ru@SD",
+  "tvgLogo": "https://i.imgur.com/JvlO3PU.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:23.671Z"
+}

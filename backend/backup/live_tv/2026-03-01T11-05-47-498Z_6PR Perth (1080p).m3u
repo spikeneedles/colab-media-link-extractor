@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="6PR.au_SD" tvg-name="6PR Perth (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:47.498Z" tvg-logo="https://i.imgur.com/Q9iCxg1.png" indexer="playlist-harvester",6PR Perth (1080p)
+https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8

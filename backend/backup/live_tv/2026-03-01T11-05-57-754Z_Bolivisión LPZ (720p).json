@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8",
+  "title": "Bolivisión LPZ (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Bolivision.bo@SD",
+  "tvgLogo": "https://i.imgur.com/U98Z5zn.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:57.754Z"
+}

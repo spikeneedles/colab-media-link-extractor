@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MouvTV.fr_SD" tvg-name="Mouv' TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:32.549Z" tvg-logo="https://i.imgur.com/64nzKEu.jpg" indexer="playlist-harvester",Mouv' TV
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mouv.m3u8

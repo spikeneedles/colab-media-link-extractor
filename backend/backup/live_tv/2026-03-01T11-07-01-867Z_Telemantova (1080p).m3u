@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telemantova.it_SD" tvg-name="Telemantova (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:01.867Z" tvg-logo="https://i.imgur.com/WYXiov6.png" indexer="playlist-harvester",Telemantova (1080p)
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8

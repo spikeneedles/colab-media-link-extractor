@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://rpn3.bozztv.com/ssh101/ssh101/canal30mx/playlist.m3u8",
+  "title": "Canal 30 Cintalapa (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Canal30Cintalapa.mx@SD",
+  "tvgLogo": "https://i.imgur.com/xv13N7q.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:00.444Z"
+}

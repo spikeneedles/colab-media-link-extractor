@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8",
+  "title": "Colome TV [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "ColomeTV.do@HD",
+  "tvgLogo": "https://colometv.com/assets/images/logo.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:05.013Z"
+}

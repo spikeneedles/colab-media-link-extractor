@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GM24.it_SD" tvg-name="GM24 (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:15.192Z" tvg-logo="https://i.imgur.com/PoXd0su.png" indexer="playlist-harvester",GM24 (480p)
+https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8

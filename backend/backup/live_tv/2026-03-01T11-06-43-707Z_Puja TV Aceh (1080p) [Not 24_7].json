@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://v6.siar.us/pujatv/live/chunks.m3u8",
+  "title": "Puja TV Aceh (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "PujaTVAceh.id@SD",
+  "tvgLogo": "https://i.imgur.com/0TqABCL.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:43.707Z"
+}

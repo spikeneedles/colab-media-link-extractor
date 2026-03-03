@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TDVTV.hn_SD" tvg-name="TDV TV (240p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:00.110Z" tvg-logo="https://i.ibb.co/C2mr74y/Ee0f72e3708fb045177dd894cc93ae99.png" indexer="playlist-harvester",TDV TV (240p)
+https://stream.oursnetworktv.com/latin/TierraDeValientes/playlist.m3u8

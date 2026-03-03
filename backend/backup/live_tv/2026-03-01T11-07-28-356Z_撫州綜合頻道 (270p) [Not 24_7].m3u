@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="________270p___Not_24_7_" tvg-name="撫州綜合頻道 (270p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:28.356Z" indexer="playlist-harvester",撫州綜合頻道 (270p) [Not 24/7]
+http://111.75.179.195:30767/video/live_vide.m3u8

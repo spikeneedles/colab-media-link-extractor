@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://seb.sason.top/sc/dscjxw_fhd.m3u8",
+  "title": "EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "EBCFinancialNews.tw@SD",
+  "tvgLogo": "https://i.imgur.com/uFDkOhV.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:09.651Z"
+}

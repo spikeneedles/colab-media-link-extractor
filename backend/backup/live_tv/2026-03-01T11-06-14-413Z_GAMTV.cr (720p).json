@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8",
+  "title": "GAMTV.cr (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "GAMTVcr.cr@SD",
+  "tvgLogo": "https://i.ibb.co/xFCS7wM/GAMTVCR.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:14.413Z"
+}

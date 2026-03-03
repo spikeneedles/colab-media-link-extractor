@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Digital809TV.do_SD" tvg-name="Digital809 TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:08.010Z" tvg-logo="https://i.imgur.com/NKdV8b1.png" indexer="playlist-harvester",Digital809 TV (720p)
+https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8

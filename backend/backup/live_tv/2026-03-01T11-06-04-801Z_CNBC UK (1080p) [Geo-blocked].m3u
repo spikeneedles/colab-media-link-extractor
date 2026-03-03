@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CNBCUK.uk_SD" tvg-name="CNBC UK (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:04.801Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/512px-CNBC_2025.svg.png" indexer="playlist-harvester",CNBC UK (1080p) [Geo-blocked]
+https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8

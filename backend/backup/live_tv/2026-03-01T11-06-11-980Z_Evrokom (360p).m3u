@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Eurocom.bg_SD" tvg-name="Evrokom (360p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:11.980Z" indexer="playlist-harvester",Evrokom (360p)
+https://live.ecomservice.bg/hls/stream.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OK4.de_SD" tvg-name="OK4 (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:38.589Z" tvg-logo="https://i.imgur.com/cUlMOlt.png" indexer="playlist-harvester",OK4 (720p) [Geo-blocked]
+https://s.ok54.de/abr_ok4/live/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CiftciTV.tr_SD" tvg-name="Çiftçi TV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:04.034Z" tvg-logo="https://i.imgur.com/CLzP4vL.png" indexer="playlist-harvester",Çiftçi TV (1080p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8

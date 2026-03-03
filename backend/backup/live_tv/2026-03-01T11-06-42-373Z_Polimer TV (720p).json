@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn-2.pishow.tv/live/1241/master.m3u8",
+  "title": "Polimer TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "PolimerTV.in@SD",
+  "tvgLogo": "https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_TV.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:42.373Z"
+}

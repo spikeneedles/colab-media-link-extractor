@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OSN.ru_SD" tvg-name="ОСН" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:24.694Z" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" indexer="playlist-harvester",ОСН
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8

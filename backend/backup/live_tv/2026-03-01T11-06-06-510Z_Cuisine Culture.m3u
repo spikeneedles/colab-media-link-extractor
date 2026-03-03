@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Cuisine_Culture" tvg-name="Cuisine Culture" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.510Z" indexer="playlist-harvester",Cuisine Culture
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/34839a9b-a901-4f31-b593-07555f7937d4/manifest.m3u8

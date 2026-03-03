@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AssenTV.nl_SD" tvg-name="Assen TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:53.929Z" tvg-logo="https://i.imgur.com/upik15D.png" indexer="playlist-harvester",Assen TV (720p)
+https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live

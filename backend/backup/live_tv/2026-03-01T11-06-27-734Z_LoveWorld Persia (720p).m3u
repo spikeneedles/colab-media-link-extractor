@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LoveWorldPersia.ng_SD" tvg-name="LoveWorld Persia (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:27.734Z" tvg-logo="https://i.imgur.com/Vd2xPxh.png" indexer="playlist-harvester",LoveWorld Persia (720p)
+https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8

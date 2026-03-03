@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY",
+  "title": "江苏体育 (576p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "JiangsuSportsLeisureChannel.cn@SD",
+  "tvgLogo": "https://www.tvchinese.net/uploads/tv/jsty.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:28.825Z"
+}

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8",
+  "title": "Hesper TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "HesperTV.lu@SD",
+  "tvgLogo": "https://i.imgur.com/91CJCPs.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:17.436Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HSN2.us_SD" tvg-name="HSN2" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.476Z" tvg-logo="https://i.imgur.com/R6oC2A3.png" indexer="playlist-harvester",HSN2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8

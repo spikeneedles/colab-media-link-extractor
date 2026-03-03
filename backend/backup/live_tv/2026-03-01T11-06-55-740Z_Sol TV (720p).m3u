@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SolTV.gt_SD" tvg-name="Sol TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:55.740Z" tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" indexer="playlist-harvester",Sol TV (720p)
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8",
+  "title": "Nour El Shabeb",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "NourElShabeb.lb@SD",
+  "tvgLogo": "https://i.imgur.com/cNr0vl1.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:37.283Z"
+}

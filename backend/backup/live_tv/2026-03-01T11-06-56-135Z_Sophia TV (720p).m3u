@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SophiaTV.de_SD" tvg-name="Sophia TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:56.135Z" tvg-logo="https://i.imgur.com/1hNgHbB.png" indexer="playlist-harvester",Sophia TV (720p)
+https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8

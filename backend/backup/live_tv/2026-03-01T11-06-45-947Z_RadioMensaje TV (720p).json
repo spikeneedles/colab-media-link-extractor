@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://eu1.servers10.com:8081/8230/index.m3u8",
+  "title": "RadioMensaje TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "RadioMensajeTV.us@SD",
+  "tvgLogo": "https://i.imgur.com/TJNXjS2.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:45.947Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABCNews.au_Sydney" tvg-name="ABC News" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.936Z" tvg-logo="https://i.imgur.com/BrW7gk8.png" indexer="playlist-harvester",ABC News
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8

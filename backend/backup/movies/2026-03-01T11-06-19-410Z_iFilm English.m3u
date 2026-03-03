@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="iFilmEnglish.ir_SD" tvg-name="iFilm English" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:19.410Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" indexer="playlist-harvester",iFilm English
+https://live.presstv.ir/hls/ifilmen.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
+  "title": "TVM Internacional (480p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TVMInternacional.mz@SD",
+  "tvgLogo": "https://i.imgur.com/fRV6p50.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:13.095Z"
+}

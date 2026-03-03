@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8",
+  "title": "Radio Czwórka (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "RadiowaCzworka.pl@SD",
+  "tvgLogo": "https://i.imgur.com/VAtxF7k.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:44.996Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MegaTV.py_SD" tvg-name="Mega TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:30.349Z" tvg-logo="https://i.imgur.com/CaA7l86.png" indexer="playlist-harvester",Mega TV (720p) [Not 24/7]
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8

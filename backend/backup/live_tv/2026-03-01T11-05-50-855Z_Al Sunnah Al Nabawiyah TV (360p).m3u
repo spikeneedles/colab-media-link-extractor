@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa_SD" tvg-name="Al Sunnah Al Nabawiyah TV (360p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:50.855Z" tvg-logo="https://i.imgur.com/S6LcTJv.png" indexer="playlist-harvester",Al Sunnah Al Nabawiyah TV (360p)
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8

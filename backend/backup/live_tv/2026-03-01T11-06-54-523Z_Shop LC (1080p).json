@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd",
+  "title": "Shop LC (1080p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Shop",
+  "tvgId": "ShopLC.us@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Shop_LC_Logo.svg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:54.523Z"
+}

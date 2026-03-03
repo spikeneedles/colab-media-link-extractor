@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FarosTV2.gr_SD" tvg-name="Faros TV2 (480p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:12.501Z" tvg-logo="https://i.imgur.com/7xtz1Jo.png" indexer="playlist-harvester",Faros TV2 (480p) [Geo-blocked]
+https://s1.cystream.net/live/faros2/playlist.m3u8

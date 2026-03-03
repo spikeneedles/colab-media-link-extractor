@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Bolivision.bo_SD" tvg-name="Bolivisión LPZ (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:57.754Z" tvg-logo="https://i.imgur.com/U98Z5zn.png" indexer="playlist-harvester",Bolivisión LPZ (720p)
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8

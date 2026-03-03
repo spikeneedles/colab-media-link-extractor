@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DrochiaTV.md_SD" tvg-name="Drochia TV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:09.033Z" tvg-logo="https://i.imgur.com/O6YZ0D5.png" indexer="playlist-harvester",Drochia TV (1080p) [Not 24/7]
+https://hls.drochia.tv/tv/web.m3u8

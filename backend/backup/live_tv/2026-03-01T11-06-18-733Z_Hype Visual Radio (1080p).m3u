@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HypeVisualRadio.nl_SD" tvg-name="Hype Visual Radio (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.733Z" tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png" indexer="playlist-harvester",Hype Visual Radio (1080p)
+https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8

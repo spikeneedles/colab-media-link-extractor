@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MediterraniaTV.it_SD" tvg-name="MediterraniaTV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:30.293Z" tvg-logo="https://i.imgur.com/PJbXCoe.png" indexer="playlist-harvester",MediterraniaTV (1080p)
+https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8

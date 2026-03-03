@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KGTVDT1.us_SD" tvg-name="ABC 10 San Diego CA (KGTV) (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.835Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" indexer="playlist-harvester",ABC 10 San Diego CA (KGTV) (720p)
+https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8

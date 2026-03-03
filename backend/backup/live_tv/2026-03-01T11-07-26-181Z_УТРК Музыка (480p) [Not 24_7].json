@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8",
+  "title": "УТРК Музыка (480p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "Music.kg@SD",
+  "tvgLogo": "https://www.utrk.kg/img/stream/45.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:26.181Z"
+}

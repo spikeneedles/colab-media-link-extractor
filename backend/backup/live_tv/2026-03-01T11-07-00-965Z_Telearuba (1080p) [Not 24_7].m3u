@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telearuba.aw_SD" tvg-name="Telearuba (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:00.965Z" tvg-logo="https://i.imgur.com/PY3P0aM.png" indexer="playlist-harvester",Telearuba (1080p) [Not 24/7]
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8

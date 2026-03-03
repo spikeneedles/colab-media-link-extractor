@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVT.sk_SD" tvg-name="TVT (486p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:14.705Z" tvg-logo="https://i.imgur.com/QG0iZlG.png" indexer="playlist-harvester",TVT (486p)
+https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8

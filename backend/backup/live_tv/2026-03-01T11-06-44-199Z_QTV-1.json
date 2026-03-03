@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8",
+  "title": "QTV-1",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "QTV1.cn@SD",
+  "tvgLogo": "https://www.tvchinese.net/uploads/tv/qdtv1.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:44.199Z"
+}

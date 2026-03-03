@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal79SantaClaradelMar.ar_SD" tvg-name="Canal 79 Santa Clara del Mar (240p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:00.630Z" tvg-logo="https://i.imgur.com/I93ypGY.png" indexer="playlist-harvester",Canal 79 Santa Clara del Mar (240p)
+https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8

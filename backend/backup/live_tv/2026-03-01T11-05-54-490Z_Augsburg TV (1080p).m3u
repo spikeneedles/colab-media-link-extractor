@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AugsburgTV.de_SD" tvg-name="Augsburg TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:54.490Z" tvg-logo="https://i.imgur.com/27AKMUL.png" indexer="playlist-harvester",Augsburg TV (1080p)
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8

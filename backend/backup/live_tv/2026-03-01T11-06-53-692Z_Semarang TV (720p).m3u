@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SemarangTV.id_SD" tvg-name="Semarang TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.692Z" tvg-logo="https://i.imgur.com/KFC2WSB.png" indexer="playlist-harvester",Semarang TV (720p)
+http://116.254.112.74/hls/cakralive.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live.syriaone.tv/live/syriaone.m3u8",
+  "title": "Syria One (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "SyriaOne.sy@HD",
+  "tvgLogo": "https://tv.syriaone.tv/SyriaONETVB.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:59.070Z"
+}

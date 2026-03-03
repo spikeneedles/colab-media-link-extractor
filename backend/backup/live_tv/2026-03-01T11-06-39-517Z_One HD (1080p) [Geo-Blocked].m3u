@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="One.de_HD" tvg-name="One HD (1080p) [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.517Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/512px-One_2022.svg.png" indexer="playlist-harvester",One HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8

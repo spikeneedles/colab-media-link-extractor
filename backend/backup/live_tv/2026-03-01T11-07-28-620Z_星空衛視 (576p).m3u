@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="______576p_" tvg-name="星空衛視 (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:07:28.620Z" indexer="playlist-harvester",星空衛視 (576p)
+http://218.202.220.2:5000/nn_live.ts?id=STARTV

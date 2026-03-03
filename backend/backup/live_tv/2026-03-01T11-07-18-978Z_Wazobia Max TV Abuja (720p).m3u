@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WazobiaMaxTVAbuja.ng_SD" tvg-name="Wazobia Max TV Abuja (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:18.978Z" tvg-logo="https://i.imgur.com/XYMKPPT.png" indexer="playlist-harvester",Wazobia Max TV Abuja (720p)
+https://wazobia.live:8333/channel/wmaxabuja.m3u8

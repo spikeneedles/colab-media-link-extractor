@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8",
+  "title": "HSE (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Shop",
+  "tvgId": "HSE.de@SD",
+  "tvgLogo": "https://i.imgur.com/IecRNCk.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:18.426Z"
+}

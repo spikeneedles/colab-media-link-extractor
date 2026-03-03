@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CannesLerinsTV.fr_SD" tvg-name="Cannes Lérins TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.542Z" tvg-logo="https://i.imgur.com/atlgnum.png" indexer="playlist-harvester",Cannes Lérins TV (1080p)
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8

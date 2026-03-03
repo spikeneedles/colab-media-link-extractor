@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://ncdn.telewebion.com/golkhane/live/playlist.m3u8",
+  "title": "Golkhane TV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "GolkhaneTv.ir@SD",
+  "tvgLogo": "https://static.telewebion.com/channelsLogo/686599d8-c1ee-4557-aa72-b1293a21906d/default",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:15.581Z"
+}

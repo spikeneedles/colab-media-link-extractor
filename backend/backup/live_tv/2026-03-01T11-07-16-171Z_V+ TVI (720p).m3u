@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VPlusTVI.pt_SD" tvg-name="V+ TVI (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:16.171Z" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" indexer="playlist-harvester",V+ TVI (720p)
+https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8

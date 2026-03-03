@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTCTelevision.co_SD" tvg-name="RTC Televisión Urabá (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:50.424Z" tvg-logo="https://i.imgur.com/qvtaUdp.jpeg" indexer="playlist-harvester",RTC Televisión Urabá (720p)
+https://cdn.amelbasoluciones.co:8081/rtcurabalive/index.m3u8

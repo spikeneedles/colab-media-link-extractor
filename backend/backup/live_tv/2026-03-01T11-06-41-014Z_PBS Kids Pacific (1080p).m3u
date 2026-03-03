@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PBSKidsPacific.us_SD" tvg-name="PBS Kids Pacific (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:41.014Z" tvg-logo="https://i.imgur.com/ambc9le.png" indexer="playlist-harvester",PBS Kids Pacific (1080p)
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8

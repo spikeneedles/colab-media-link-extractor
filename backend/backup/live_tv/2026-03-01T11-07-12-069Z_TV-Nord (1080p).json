@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8",
+  "title": "TV-Nord (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "TVNord.md@SD",
+  "tvgLogo": "https://i.imgur.com/86JYRVH.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:12.069Z"
+}

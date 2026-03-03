@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SWR3VisualRadio.de_SD" tvg-name="SWR 3 Visual Radio (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.006Z" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" indexer="playlist-harvester",SWR 3 Visual Radio (720p)
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8

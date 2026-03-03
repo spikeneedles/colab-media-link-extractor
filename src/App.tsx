@@ -13,7 +13,7 @@ import { Checkbox } from '@/components/ui/checkbox'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { Input } from '@/components/ui/input'
 import { Textarea } from '@/components/ui/textarea'
-import { UploadSimple, DownloadSimple, Trash, CheckCircle, MagnifyingGlass, Copy, FileText, Package, VideoCamera, MusicNote, FunnelSimple, CaretRight, CaretDown, File, Television, List, SquaresFour, CopySimple, SortAscending, SortDescending, PlayCircle, StopCircle, Warning, Clock, Question, Pulse, Gauge, Play, Plus, FilmSlate, Broadcast, StackSimple, CheckSquare, Square, PencilSimple, X, FileArrowUp, FileArrowDown, Database, Globe, Key, Lock, LockOpen, Sparkle, PaperPlaneTilt, ArrowDown, ArrowUp, Moon, Sun, Desktop } from '@phosphor-icons/react'
+import { UploadSimple, DownloadSimple, Trash, CheckCircle, MagnifyingGlass, Copy, FileText, Package, VideoCamera, MusicNote, FunnelSimple, CaretRight, CaretDown, File, Television, List, SquaresFour, CopySimple, SortAscending, SortDescending, PlayCircle, StopCircle, Warning, Clock, Question, Pulse, Gauge, Play, Plus, FilmSlate, Broadcast, StackSimple, CheckSquare, Square, PencilSimple, X, FileArrowUp, FileArrowDown, Database, Globe, Key, Lock, LockOpen, Sparkle, PaperPlaneTilt, ArrowDown, ArrowUp, Moon, Sun, Desktop, Archive, FolderOpen, Lightning } from '@phosphor-icons/react'
 import { extractLinks, generateTextFile, generateUniqueLinksFile, generateDuplicatesFile, generateBatchDownload, getMediaType, detectContentType, scanFiles, parseM3UWithMetadata, generateClassificationsBackup, parseClassificationsBackup, mergeClassificationsBackups, generateMergedClassificationsBackup, scanAPK, extractConfigFilesFromPackage, generateConfigFilesArchive, scanWebUrls, scanPlaylistUrls, scanXtreamCodesAPI, convertXtreamCodesToLinks, scanRepositoryUrls, scanZipFile, parseKodiFile, scanConfigFilesForLinks, type ScanResult, type ContentType, type ConfigFile, type PlaylistScanResult, type PlaylistAuthCredentials, type XtreamCodesCredentials, type XtreamCodesScanResult, type RepositoryScanResult, type ZipFileScanResult } from '@/lib/linkExtractor'
 import { generateM3UsByCategory, generateCustomM3UsByCategory, downloadM3UFile, generateM3UBatchDownload, generateAdvancedM3UContent, generateM3UWithValidationStatus, type M3UGenerationResult, type CustomM3UGenerationResult } from '@/lib/m3uGenerator'
 import { parseEPG, generateEPGChannelsFile, generateEPGProgrammesFile, generateEPGChannelURLsFile, type EPGData } from '@/lib/epgParser'
@@ -44,12 +44,19 @@ import { ConfigSimulator } from '@/components/ConfigSimulator'
 import { ApkDeepScanner } from '@/components/ApkDeepScanner'
 import { KodiSyncDashboard } from '@/components/KodiSyncDashboard'
 import { APIContentExtractor } from '@/components/APIContentExtractor'
+import { MediaProcessingPanel } from '@/components/MediaProcessingPanel'
+import { IndexersMonitor } from '@/components/IndexersMonitor'
+import { HomePage } from '@/components/HomePage'
+import { ArchivistDashboard } from '@/components/ArchivistDashboard'
+import { LibraryPanel } from '@/components/LibraryPanel'
+import { RealDebridSettings } from '@/components/RealDebridSettings'
+import { UniversalSearchPanel } from '@/components/UniversalSearchPanel'
 
 import { FeatureModal } from '@/components/FeatureModal'
 
 type MediaFilter = 'all' | 'video' | 'audio'
 type ContentTypeFilter = 'all' | 'movie' | 'tv-series' | 'live-tv' | 'vod' | 'unknown'
-type FeatureModalType = 'file-scanner' | 'crawler' | 'scraping-rules' | 'pagination' | 'archive' | 'repo-scraper' | 'provider-presets' | 'pattern-generator' | 'pattern-library' | 'pattern-repo' | 'community-patterns' | 'addon-comparison' | 'health-monitor' | 'android-server' | 'stremio' | 'config-simulator' | 'apk-scanner' | 'api-extractor' | null
+type FeatureModalType = 'file-scanner' | 'crawler' | 'scraping-rules' | 'pagination' | 'archive' | 'repo-scraper' | 'provider-presets' | 'pattern-generator' | 'pattern-library' | 'pattern-repo' | 'community-patterns' | 'addon-comparison' | 'health-monitor' | 'android-server' | 'stremio' | 'config-simulator' | 'apk-scanner' | 'api-extractor' | 'media-processor' | 'indexers' | 'archivist' | 'universal-search' | 'library' | 'realdebrid' | null
 type ChannelViewMode = 'list' | 'grid'
 type ChannelUrlFilter = 'all' | 'with-urls' | 'without-urls'
 type SortOption = 'count-desc' | 'count-asc' | 'alpha-asc' | 'alpha-desc' | 'category-asc' | 'category-desc'
@@ -160,6 +167,7 @@ function App() {
   const [customM3UGroupByCategory, setCustomM3UGroupByCategory] = useState(false)
 
   const [openFeatureModal, setOpenFeatureModal] = useState<FeatureModalType>(null)
+  const [currentView, setCurrentView] = useState<'home' | 'scanner'>('home')
 
   useEffect(() => {
     if (isDarkMode) {
@@ -2435,9 +2443,21 @@ function App() {
     handleOpenAuthDialog(urlList[0])
   }, [playlistUrls, handleOpenAuthDialog])
 
-  return (
+  return currentView === 'home' ? (
+    <HomePage />
+  ) : (
     <div className="min-h-screen bg-background p-4 md:p-8">
       <div className="max-w-4xl mx-auto">
+        <div className="mb-4 flex items-center gap-2">
+          <Button
+            onClick={() => setCurrentView('home')}
+            variant="ghost"
+            size="sm"
+            className="text-sm text-accent hover:bg-accent/10"
+          >
+            ← Back to Dashboard
+          </Button>
+        </div>
         <motion.div
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -2688,6 +2708,54 @@ function App() {
               >
                 <Globe size={24} className="text-accent" />
                 <span className="text-xs font-medium">API Extractor</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('media-processor')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <DownloadSimple size={24} className="text-accent" />
+                <span className="text-xs font-medium">Media Processor</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('indexers')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-accent/30 hover:bg-accent/10"
+              >
+                <Broadcast size={24} className="text-accent" />
+                <span className="text-xs font-medium">Indexers</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('archivist')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-amber-500/40 hover:bg-amber-500/10"
+              >
+                <Archive size={24} className="text-amber-400" />
+                <span className="text-xs font-medium">Archivist</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('library')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-emerald-500/40 hover:bg-emerald-500/10"
+              >
+                <FolderOpen size={24} className="text-emerald-400" />
+                <span className="text-xs font-medium">Library</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('realdebrid')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-yellow-500/40 hover:bg-yellow-500/10"
+              >
+                <Lightning size={24} className="text-yellow-400" weight="fill" />
+                <span className="text-xs font-medium">Real-Debrid</span>
+              </Button>
+              <Button
+                onClick={() => setOpenFeatureModal('universal-search')}
+                variant="outline"
+                className="h-auto py-4 flex flex-col items-center gap-2 border-cyan-500/40 hover:bg-cyan-500/10"
+              >
+                <MagnifyingGlass size={24} className="text-cyan-400" />
+                <span className="text-xs font-medium">Universal Search</span>
               </Button>
             </div>
           </div>
@@ -3448,6 +3516,66 @@ function App() {
           icon={<Globe size={24} />}
         >
           <APIContentExtractor />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'media-processor'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Media Processing Pipeline"
+          description="Extract, enrich, and classify media into Movies, Series, and Live TV"
+          icon={<DownloadSimple size={24} />}
+        >
+          <MediaProcessingPanel />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'indexers'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Prowlarr Indexers"
+          description="Monitor and test torrent indexers"
+          icon={<Broadcast size={24} />}
+        >
+          <IndexersMonitor />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'archivist'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="The Archivist — SILAS"
+          description="Three Pillars: Movies · Live TV · Series — Integrity First Protocol"
+          icon={<Archive size={24} />}
+        >
+          <ArchivistDashboard />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'library'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Library"
+          description="Archived playlists · Saved searches — browse and play your content"
+          icon={<FolderOpen size={24} />}
+        >
+          <LibraryPanel onPlay={(url, title) => handlePlayMedia(url, title, 'video')} />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'realdebrid'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Real-Debrid"
+          description="Unrestrict links · Resolve magnets to streams · Manage active torrents"
+          icon={<Lightning size={24} weight="fill" />}
+        >
+          <RealDebridSettings onPlay={(url, title) => handlePlayMedia(url, title, 'video')} />
+        </FeatureModal>
+
+        <FeatureModal
+          isOpen={openFeatureModal === 'universal-search'}
+          onClose={() => setOpenFeatureModal(null)}
+          title="Universal Search"
+          description="Category Browse · Keyword Hunt · Source-Direct — all sources, all modes"
+          icon={<MagnifyingGlass size={24} />}
+        >
+          <UniversalSearchPanel onPlay={({ url, title }) => handlePlayMedia(url, title, 'video')} />
         </FeatureModal>
 
         {result && !isScanning && (

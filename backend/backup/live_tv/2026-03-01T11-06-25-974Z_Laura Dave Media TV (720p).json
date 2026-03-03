@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streaming.lauradavemedia.com/ldm/index.m3u8",
+  "title": "Laura Dave Media TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "LauraDaveMediaTV.cm@SD",
+  "tvgLogo": "https://i.imgur.com/zzG1S2n.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:25.974Z"
+}

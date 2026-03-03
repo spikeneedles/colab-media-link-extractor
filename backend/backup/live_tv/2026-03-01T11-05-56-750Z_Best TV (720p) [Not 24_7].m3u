@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BestTV.gr_SD" tvg-name="Best TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:56.750Z" tvg-logo="https://i.imgur.com/AeeeDUc.png" indexer="playlist-harvester",Best TV (720p) [Not 24/7]
+http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
+  "title": "Fox Soul (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Culture",
+  "tvgId": "FoxSoul.us@SD",
+  "tvgLogo": "https://i.imgur.com/YIamDGn.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:13.623Z"
+}

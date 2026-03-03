@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UACJTV.mx_SD" tvg-name="UACJ-TV [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:15.096Z" tvg-logo="https://i.imgur.com/a1WaGTQ.jpeg" indexer="playlist-harvester",UACJ-TV [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8

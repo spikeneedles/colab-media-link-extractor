@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EGMChannel.cl_SD" tvg-name="EGM Channel (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.069Z" tvg-logo="https://i.imgur.com/RXRKPvs.png" indexer="playlist-harvester",EGM Channel (480p)
+https://paneltv.online:1936/8186/8186/playlist.m3u8

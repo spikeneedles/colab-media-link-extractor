@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CarinaTV.it_SD" tvg-name="CarinaTV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.709Z" tvg-logo="https://i.imgur.com/ANGD7gv.png" indexer="playlist-harvester",CarinaTV
+https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8

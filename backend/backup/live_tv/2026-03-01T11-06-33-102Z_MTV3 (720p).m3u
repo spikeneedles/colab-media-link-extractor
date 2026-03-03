@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MTV3.fi_SD" tvg-name="MTV3 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:33.102Z" tvg-logo="https://i.imgur.com/C5rQbBM.png" indexer="playlist-harvester",MTV3 (720p)
+https://live-fi.tvkaista.net/mtv3/live.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8",
+  "title": "Télé Péyi (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TelePeyi.gf@SD",
+  "tvgLogo": "https://i.imgur.com/LJ9sXaB.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:00.594Z"
+}

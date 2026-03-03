@@ -1,0 +1,13 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://1253668792.e.cdneverest.net/htpZgMRce9VxLk03pkQrGg/1768918457/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8",
+  "title": "Bắc Ninh TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "BacNinhTV.vn@HD",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:55.043Z"
+}

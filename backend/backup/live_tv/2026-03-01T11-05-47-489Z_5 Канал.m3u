@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel5.ru_SD" tvg-name="5 Канал" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:47.489Z" tvg-logo="https://i.imgur.com/KPXMa3U.png" indexer="playlist-harvester",5 Канал
+https://streaming.televizor-24-tochka.ru/live/8.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ORFSportPlus.at_HD" tvg-name="ORF Sport+ HD (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.814Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/512px-ORF_Sport%2B.svg.png" indexer="playlist-harvester",ORF Sport+ HD (720p)
+http://87.106.2.165:8443/orfsporthd/index.m3u8

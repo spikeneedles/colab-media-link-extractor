@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TDMSports.mo_SD" tvg-name="TDM Sports Ch. 93 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:00.085Z" tvg-logo="https://i.imgur.com/AsWLf8S.png" indexer="playlist-harvester",TDM Sports Ch. 93 (720p)
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8

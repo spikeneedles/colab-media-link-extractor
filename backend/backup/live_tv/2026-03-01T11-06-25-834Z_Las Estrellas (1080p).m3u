@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LasEstrellas.mx_SD" tvg-name="Las Estrellas (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:25.834Z" tvg-logo="https://i.imgur.com/g5ShxZ7.png" indexer="playlist-harvester",Las Estrellas (1080p)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8

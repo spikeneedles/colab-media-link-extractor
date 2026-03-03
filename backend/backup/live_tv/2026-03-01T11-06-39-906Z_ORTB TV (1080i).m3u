@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ORTBTV.bj_HD" tvg-name="ORTB TV (1080i)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.906Z" tvg-logo="https://i.imgur.com/o6zAR88.png" indexer="playlist-harvester",ORTB TV (1080i)
+https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8

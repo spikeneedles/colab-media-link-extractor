@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTANews.af_SD" tvg-name="RTA News (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:50.328Z" tvg-logo="https://rta.af/artmedia/2022/12/rta-logo-final-300x185.png" indexer="playlist-harvester",RTA News (1080p)
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8

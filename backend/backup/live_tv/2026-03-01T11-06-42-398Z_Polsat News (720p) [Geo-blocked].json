@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd",
+  "title": "Polsat News (720p) [Geo-blocked]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "PolsatNews.pl@SD",
+  "tvgLogo": "https://i.imgur.com/sx1yPuc.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:42.398Z"
+}

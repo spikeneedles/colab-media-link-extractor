@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NauticalChannel.it_SD" tvg-name="Nautical Channel (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:34.584Z" tvg-logo="https://i.imgur.com/2ByDyzL.png" indexer="playlist-harvester",Nautical Channel (720p)
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8",
+  "title": "ТНТ4 [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "TNT4.ru@SD",
+  "tvgLogo": "https://i.imgur.com/gBokU5i.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:26.045Z"
+}

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://live.greektv.ca/hls1/greektv.m3u8",
+  "title": "Montreal Greek TV (480p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Culture",
+  "tvgId": "MontrealGreekTV.ca@SD",
+  "tvgLogo": "https://i.imgur.com/Y5YnUit.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:32.270Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVTZgorzelec.pl_SD" tvg-name="TVT Zgorzelec (576p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:14.738Z" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" indexer="playlist-harvester",TVT Zgorzelec (576p) [Not 24/7]
+http://gargoyle.tomkow.pl/hls/tvt.m3u8

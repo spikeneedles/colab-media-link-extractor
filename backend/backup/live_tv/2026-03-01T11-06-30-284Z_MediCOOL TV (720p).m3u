@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MediCOOLTV.ro_SD" tvg-name="MediCOOL TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:30.284Z" tvg-logo="https://i.imgur.com/Xe7x1k2.png" indexer="playlist-harvester",MediCOOL TV (720p)
+https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8

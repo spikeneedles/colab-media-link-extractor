@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8?ads.vf=2gqxhLHfUR0",
+  "title": "Daystar TV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "DaystarTV.us@SD",
+  "tvgLogo": "https://i.imgur.com/IjzCv8f.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:07.088Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KomsanTV.kh_SD" tvg-name="Komsan TV [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.308Z" tvg-logo="https://i.imgur.com/SNTf2r3.png" indexer="playlist-harvester",Komsan TV [Not 24/7]
+http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8

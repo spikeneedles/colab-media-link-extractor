@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://livestream.jswk.online/mhonenews/live/index.m3u8",
+  "title": "Mh 1 News (360p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "Mh1News.in@SD",
+  "tvgLogo": "https://jiotvimages.cdn.jio.com/dare_images/images/Mh_One_News.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:30.920Z"
+}

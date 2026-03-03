@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FBTV.tr_SD" tvg-name="FB TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:12.613Z" tvg-logo="https://i.imgur.com/qBVqtYd.png" indexer="playlist-harvester",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SBC.sa_SD" tvg-name="SBC (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.290Z" tvg-logo="https://i.imgur.com/9JSQglj.png" indexer="playlist-harvester",SBC (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8

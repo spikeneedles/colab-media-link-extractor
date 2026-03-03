@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ReteTVItalia.it_SD" tvg-name="Rete TV Italia (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:48.603Z" tvg-logo="https://i.imgur.com/BR7QfUF.png" indexer="playlist-harvester",Rete TV Italia (1080p)
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8

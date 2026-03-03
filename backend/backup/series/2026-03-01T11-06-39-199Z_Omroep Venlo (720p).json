@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8",
+  "title": "Omroep Venlo (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "OmroepVenlo.nl@SD",
+  "tvgLogo": "https://i.imgur.com/zjDZdmM.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "series",
+  "archivedAt": "2026-03-01T11:06:39.199Z"
+}

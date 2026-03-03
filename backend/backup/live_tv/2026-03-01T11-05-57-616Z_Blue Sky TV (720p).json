@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8",
+  "title": "Blue Sky TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "BlueSkyTV.gr@SD",
+  "tvgLogo": "https://i.imgur.com/C9CormG.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:57.616Z"
+}

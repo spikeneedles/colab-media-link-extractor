@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DMusic.kh_SD" tvg-name="D Music (1280p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.701Z" tvg-logo="https://www.lyngsat.com/logo/tv/dd/d-music-kh.png" indexer="playlist-harvester",D Music (1280p) [Not 24/7]
+http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8

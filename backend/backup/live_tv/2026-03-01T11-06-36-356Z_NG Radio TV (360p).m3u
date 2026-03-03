@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NGRadioTV.pr_SD" tvg-name="NG Radio TV (360p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:36.356Z" tvg-logo="https://i.imgur.com/KsNI3vQ.jpg" indexer="playlist-harvester",NG Radio TV (360p)
+https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8",
+  "title": "WVCU-LP Concord University Radio The Cure 97.7 (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "WVCULP.us@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/en/0/0f/WVCU-LP_2015.PNG",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:21.147Z"
+}

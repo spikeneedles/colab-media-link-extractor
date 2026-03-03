@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8",
+  "title": "Record News (720p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "RecordNews.br@SD",
+  "tvgLogo": "https://i.imgur.com/HZDRG0K.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:47.805Z"
+}

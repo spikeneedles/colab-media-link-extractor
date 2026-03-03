@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="The_Jack_Hannah_Channel" tvg-name="The Jack Hannah Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:04.292Z" indexer="playlist-harvester",The Jack Hannah Channel
+https://littonjackhannah-samsungca.amagi.tv/playlist.m3u8

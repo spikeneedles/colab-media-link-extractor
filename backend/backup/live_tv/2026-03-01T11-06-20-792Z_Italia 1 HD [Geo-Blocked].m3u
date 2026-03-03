@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Italia1.it_HD" tvg-name="Italia 1 HD [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:20.792Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png" indexer="playlist-harvester",Italia 1 HD [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd

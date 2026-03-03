@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8",
+  "title": "WAGA-DT1",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "WAGADT1.us@SD",
+  "tvgLogo": "https://i.imgur.com/DcZoeGw.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:18.661Z"
+}

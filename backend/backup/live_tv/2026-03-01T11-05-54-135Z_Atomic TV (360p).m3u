@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AtomicTV.ro_SD" tvg-name="Atomic TV (360p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:54.135Z" tvg-logo="https://i.imgur.com/O4uI0Uy.png" indexer="playlist-harvester",Atomic TV (360p)
+https://atomic.streamnet.ro/atomictv.m3u8

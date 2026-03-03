@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8",
+  "title": "Popular TV Murcia (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "PopularTVMurcia.es@SD",
+  "tvgLogo": "https://i.imgur.com/jFg9dGO.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:42.591Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PSN.mx_SD" tvg-name="PSN (288p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:43.469Z" tvg-logo="https://i.imgur.com/7i7GkSL.png" indexer="playlist-harvester",PSN (288p)
+https://srspsn.live/live/livestream.m3u8

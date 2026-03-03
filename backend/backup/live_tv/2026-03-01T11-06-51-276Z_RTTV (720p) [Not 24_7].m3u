@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTTV.cr_SD" tvg-name="RTTV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:51.276Z" tvg-logo="https://i.imgur.com/eTfsCCq.png" indexer="playlist-harvester",RTTV (720p) [Not 24/7]
+https://cloudvideo.servers10.com:19360/8212/8212.m3u8

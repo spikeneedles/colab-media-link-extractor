@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SBBTV.th_SD" tvg-name="SBB TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.278Z" tvg-logo="https://i.imgur.com/B1tyK1Z.png" indexer="playlist-harvester",SBB TV
+https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8

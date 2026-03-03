@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ElshintaTV.id_SD" tvg-name="Elshinta TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.413Z" tvg-logo="https://i.imgur.com/x5uoy2H.png" indexer="playlist-harvester",Elshinta TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8

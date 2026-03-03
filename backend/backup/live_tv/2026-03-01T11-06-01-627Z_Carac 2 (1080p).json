@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8",
+  "title": "Carac 2 (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "Carac2.ch@SD",
+  "tvgLogo": "https://i.imgur.com/hCoIPen.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:01.627Z"
+}

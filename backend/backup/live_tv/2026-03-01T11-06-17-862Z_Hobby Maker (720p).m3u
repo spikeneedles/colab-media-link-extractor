@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HobbyMaker.uk_SD" tvg-name="Hobby Maker (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:17.862Z" tvg-logo="https://i.imgur.com/VWHp5Tl.png" indexer="playlist-harvester",Hobby Maker (720p)
+https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8

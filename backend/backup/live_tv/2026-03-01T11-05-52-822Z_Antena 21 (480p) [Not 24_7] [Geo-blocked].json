@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8",
+  "title": "Antena 21 (480p) [Not 24/7] [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "Antena21.do@SD",
+  "tvgLogo": "https://i.imgur.com/QE0XWLh.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:52.822Z"
+}

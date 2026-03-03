@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://live.netmaxtv.com:8080/live/live/playlist.m3u8",
+  "title": "Netmax TV (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "NetmaxTV.gr@SD",
+  "tvgLogo": "https://i.imgur.com/dLvRD4k.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:35.550Z"
+}

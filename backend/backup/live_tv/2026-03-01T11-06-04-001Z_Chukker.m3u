@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Chukker" tvg-name="Chukker" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:04.001Z" indexer="playlist-harvester",Chukker
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3bd726a3-0d30-491d-b5e7-e1afb6e02112/manifest.m3u8

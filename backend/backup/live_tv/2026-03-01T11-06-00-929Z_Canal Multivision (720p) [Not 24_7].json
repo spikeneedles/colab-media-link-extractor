@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8",
+  "title": "Canal Multivision (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "CanalMultivision.do@SD",
+  "tvgLogo": "https://i.imgur.com/puOrL7B.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:00.929Z"
+}

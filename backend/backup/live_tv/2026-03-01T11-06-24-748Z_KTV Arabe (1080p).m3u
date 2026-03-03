@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KTVArabe.kw_SD" tvg-name="KTV Arabe (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.748Z" tvg-logo="https://i.imgur.com/jg3VAxO.png" indexer="playlist-harvester",KTV Arabe (1080p)
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8

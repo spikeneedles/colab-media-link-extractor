@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
+  "title": "Fabulosa Estéreo 100.5 FM (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "FabulosaEstereo1005FM.pa@SD",
+  "tvgLogo": "https://i.imgur.com/YFmzkOp.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:12.262Z"
+}

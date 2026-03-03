@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://canli.tgrthaber.com/tgrt.m3u8",
+  "title": "TGRT Haber (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "TGRTHaber.tr@SD",
+  "tvgLogo": "https://i.imgur.com/PrxwKDw.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:03.864Z"
+}

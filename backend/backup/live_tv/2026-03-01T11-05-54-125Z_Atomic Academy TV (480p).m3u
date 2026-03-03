@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AtomicAcademyTV.ro_SD" tvg-name="Atomic Academy TV (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:54.125Z" tvg-logo="https://i.imgur.com/ZbrDIbZ.png" indexer="playlist-harvester",Atomic Academy TV (480p)
+https://atomic.streamnet.ro/academia.m3u8

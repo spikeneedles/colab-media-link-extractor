@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TelevisiondeSanVicente.es_SD" tvg-name="TV San Vicente (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:11.141Z" tvg-logo="https://i.imgur.com/oLnrf0d.png" indexer="playlist-harvester",TV San Vicente (1080p)
+https://emision.arpamedia.es:4343/hls/tvsanvicenteweb.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NTV.ci_SD" tvg-name="NTV Afrique (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.910Z" tvg-logo="https://i.imgur.com/qqLXdHz.png" indexer="playlist-harvester",NTV Afrique (1080p) [Not 24/7]
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8

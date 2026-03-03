@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SkyNewsExtra3.au_SD" tvg-name="Sky News Extra 3 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:55.188Z" tvg-logo="https://i.imgur.com/ZsPb8nL.png" indexer="playlist-harvester",Sky News Extra 3 (1080p)
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8

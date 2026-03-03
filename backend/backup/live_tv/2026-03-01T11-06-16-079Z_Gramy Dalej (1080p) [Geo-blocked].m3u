@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GramyDalej.pl_SD" tvg-name="Gramy Dalej (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:16.079Z" tvg-logo="https://ipla-e1-83.pluscdn.pl/img/p/owHqr0SI-u_e/1920x1080/p/cms_thumbnails/67/67aaiss1ib3pm7vnxheqv7eaitj1er8h.jpg" indexer="playlist-harvester",Gramy Dalej (1080p) [Geo-blocked]
+http://cdn-s-lb2.pluscdn.pl/lv/1517832/351/dash/2699af69/live.mpd

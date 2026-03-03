@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ontustik.kz_SD" tvg-name="Ontústik (360p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.663Z" tvg-logo="https://i.imgur.com/xqr1hjN.png" indexer="playlist-harvester",Ontústik (360p)
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CVRHealth.in_SD" tvg-name="CVR Health (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.607Z" tvg-logo="https://i.imgur.com/bCyW32I.png" indexer="playlist-harvester",CVR Health (576p)
+https://cdn-6.pishow.tv/live/395/master.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlphaChannel.br_SD" tvg-name="Alpha Channel (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:51.582Z" tvg-logo="https://i.imgur.com/c1QqslA.png" indexer="playlist-harvester",Alpha Channel (720p)
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8

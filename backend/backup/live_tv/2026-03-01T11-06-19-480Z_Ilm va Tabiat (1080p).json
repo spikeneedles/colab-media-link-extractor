@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live.teleradiocom.tj/15/3m.m3u8",
+  "title": "Ilm va Tabiat (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Science",
+  "tvgId": "IlmvaTabiat.tj@SD",
+  "tvgLogo": "https://i.imgur.com/MDULX7X.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:19.480Z"
+}

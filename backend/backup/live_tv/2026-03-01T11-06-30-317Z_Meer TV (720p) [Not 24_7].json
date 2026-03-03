@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8",
+  "title": "Meer TV (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "MeerTV.nl@SD",
+  "tvgLogo": "https://i.imgur.com/p4TXVkE.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:30.317Z"
+}

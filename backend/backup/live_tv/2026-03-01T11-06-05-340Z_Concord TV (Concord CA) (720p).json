@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://concordca.cablecast.tv/live/stream-2/live.m3u8",
+  "title": "Concord TV (Concord CA) (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "ConcordTV.us@SD",
+  "tvgLogo": "https://i.imgur.com/1vh2a3H.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:05.340Z"
+}

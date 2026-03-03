@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBCAmerica.us_East" tvg-name="BBC America" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:55.506Z" tvg-logo="https://i.imgur.com/pTiiPz0.png" indexer="playlist-harvester",BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8

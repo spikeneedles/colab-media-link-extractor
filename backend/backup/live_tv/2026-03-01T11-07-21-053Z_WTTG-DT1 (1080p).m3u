@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WTTGDT1.us_SD" tvg-name="WTTG-DT1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:21.053Z" tvg-logo="https://i.imgur.com/ktLKla7.png" indexer="playlist-harvester",WTTG-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8

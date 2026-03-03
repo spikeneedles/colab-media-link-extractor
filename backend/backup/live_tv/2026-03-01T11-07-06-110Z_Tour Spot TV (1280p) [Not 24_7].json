@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8",
+  "title": "Tour Spot TV (1280p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "TourSpotTV.do@HD",
+  "tvgLogo": "https://imgur.com/khj869k.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:06.110Z"
+}

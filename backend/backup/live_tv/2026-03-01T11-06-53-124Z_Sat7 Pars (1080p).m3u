@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sat7Pars.cy_SD" tvg-name="Sat7 Pars (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.124Z" tvg-logo="https://i.imgur.com/VTLQeul.png" indexer="playlist-harvester",Sat7 Pars (1080p)
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8

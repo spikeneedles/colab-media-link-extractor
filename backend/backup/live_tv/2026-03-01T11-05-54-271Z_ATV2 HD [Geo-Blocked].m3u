@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ATV2.at_HD" tvg-name="ATV2 HD [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:05:54.271Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_ATV2.svg/512px-Logo_ATV2.svg.png" indexer="playlist-harvester",ATV2 HD [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd

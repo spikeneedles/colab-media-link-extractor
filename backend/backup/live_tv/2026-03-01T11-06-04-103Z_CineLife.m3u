@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CineLife.us_SD" tvg-name="CineLife" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:04.103Z" tvg-logo="https://i.imgur.com/RIUNuMQ.png" indexer="playlist-harvester",CineLife
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8

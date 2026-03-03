@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ViasatKino.ua_SD" tvg-name="Viasat Kino (576p)" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.166Z" tvg-logo="https://i.imgur.com/io0WAkA.png" indexer="playlist-harvester",Viasat Kino (576p)
+http://89.254.128.5:22280/viasat_kino/index.m3u8

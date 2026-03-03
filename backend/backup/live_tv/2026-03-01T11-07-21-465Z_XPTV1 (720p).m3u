@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="XPTV1.es_SD" tvg-name="XPTV1 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:21.465Z" tvg-logo="https://i.imgur.com/Ty7GkoN.png" indexer="playlist-harvester",XPTV1 (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8

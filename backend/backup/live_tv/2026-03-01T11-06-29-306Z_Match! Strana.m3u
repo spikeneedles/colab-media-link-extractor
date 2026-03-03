@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MatchStrana.ru_SD" tvg-name="Match! Strana" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.306Z" tvg-logo="https://i.imgur.com/X02s2UE.png" indexer="playlist-harvester",Match! Strana
+http://31.148.48.15/Match_Strana/index.m3u8

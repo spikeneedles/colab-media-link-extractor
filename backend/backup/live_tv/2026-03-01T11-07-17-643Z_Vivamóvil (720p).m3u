@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Vivamovil.es_SD" tvg-name="Vivamóvil (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.643Z" tvg-logo="https://i.imgur.com/QQviU5m.png" indexer="playlist-harvester",Vivamóvil (720p)
+https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8

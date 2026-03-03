@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CGTNRussian.cn_SD" tvg-name="CGTN Русский (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.139Z" tvg-logo="https://i.imgur.com/nDWkCmL.png" indexer="playlist-harvester",CGTN Русский (1080p)
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8

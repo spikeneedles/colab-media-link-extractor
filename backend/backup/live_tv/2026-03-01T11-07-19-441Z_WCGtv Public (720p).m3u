@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WCGtv.ca_SD" tvg-name="WCGtv Public (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:19.441Z" tvg-logo="https://i.imgur.com/q7UPbEG.png" indexer="playlist-harvester",WCGtv Public (720p)
+https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8

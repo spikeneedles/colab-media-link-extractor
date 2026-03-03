@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Visir.is_SD" tvg-name="Vísir (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.560Z" tvg-logo="https://i.imgur.com/07Vlt6i.jpg" indexer="playlist-harvester",Vísir (1080p)
+https://live.visir.is/hls-live/visir.smil/playlist.m3u8

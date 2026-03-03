@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Kanal6.ba_SD" tvg-name="Kanal 6 (288p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:22.779Z" tvg-logo="https://i.imgur.com/GGhvR0l.png" indexer="playlist-harvester",Kanal 6 (288p)
+https://restreamer1.tnt.ba/hls/kanal6.m3u8

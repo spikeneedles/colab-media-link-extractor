@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Kanal34.tr_SD" tvg-name="Kanal 34 (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:22.900Z" tvg-logo="https://i.imgur.com/SIaI6Sj.png" indexer="playlist-harvester",Kanal 34 (720p) [Not 24/7]
+https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8

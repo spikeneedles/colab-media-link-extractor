@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LA7d.it_SD" tvg-name="LA7d (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:25.244Z" tvg-logo="https://i.imgur.com/sM0A3GD.png" indexer="playlist-harvester",LA7d (720p)
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8",
+  "title": "TV Panou (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TVPanou.ht@SD",
+  "tvgLogo": "https://i.imgur.com/zee6sWn.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:10.636Z"
+}

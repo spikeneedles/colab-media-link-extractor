@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PublicMovies.in_SD" tvg-name="Public Movies (576p)" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:43.630Z" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES/images/LOGO_HD/image.png" indexer="playlist-harvester",Public Movies (576p)
+https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8

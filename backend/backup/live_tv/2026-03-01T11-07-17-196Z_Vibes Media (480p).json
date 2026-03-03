@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streamer2.nexgen.bz/09-POSVIBES/index.m3u8",
+  "title": "Vibes Media (480p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "VibesMedia.bz@SD",
+  "tvgLogo": "https://i.imgur.com/SQr4IX4.jpeg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:17.196Z"
+}

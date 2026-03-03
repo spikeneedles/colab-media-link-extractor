@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UNAHUTV.hn_SD" tvg-name="UNAH UTV (360p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:15.358Z" tvg-logo="https://i.imgur.com/GhzaYbK.png" indexer="playlist-harvester",UNAH UTV (360p) [Not 24/7]
+https://live-utv.unah.edu.hn/web/salida.m3u8

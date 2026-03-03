@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8",
+  "title": "IBN TV (480p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "IBNTV.tz@SD",
+  "tvgLogo": "https://i.imgur.com/hkV51ij.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:18.933Z"
+}

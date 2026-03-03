@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8",
+  "title": "TVCG 3 (1080p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Legislative",
+  "tvgId": "TVCG3.me@SD",
+  "tvgLogo": "https://i.imgur.com/0ZT3Bc2.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:12.672Z"
+}

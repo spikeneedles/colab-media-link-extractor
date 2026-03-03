@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="31Kanal.kz_SD" tvg-name="31 Kanal" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.062Z" tvg-logo="https://www.ikegami.co.jp/files/co/news/20250903_kazakhstanChannel31/Channel31_Logo.jpg" indexer="playlist-harvester",31 Kanal
+https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8

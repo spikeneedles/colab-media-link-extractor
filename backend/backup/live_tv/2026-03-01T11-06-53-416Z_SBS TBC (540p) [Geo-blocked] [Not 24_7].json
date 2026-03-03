@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8",
+  "title": "SBS TBC (540p) [Geo-blocked] [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "HLDEDTV.kr@SD",
+  "tvgLogo": "https://i.imgur.com/jknoVmp.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:53.416Z"
+}

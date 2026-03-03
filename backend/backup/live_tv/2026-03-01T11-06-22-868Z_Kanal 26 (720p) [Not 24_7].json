@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8",
+  "title": "Kanal 26 (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Kanal26.tr@SD",
+  "tvgLogo": "https://i.imgur.com/Mr7XPii.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:22.868Z"
+}

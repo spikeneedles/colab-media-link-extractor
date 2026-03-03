@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8",
+  "title": "Telemantova (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Telemantova.it@SD",
+  "tvgLogo": "https://i.imgur.com/WYXiov6.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:01.867Z"
+}

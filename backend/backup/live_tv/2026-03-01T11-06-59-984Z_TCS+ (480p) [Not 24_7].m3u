@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TCSPlus.sv_SD" tvg-name="TCS+ (480p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.984Z" tvg-logo="https://i.imgur.com/iYFWG06.png" indexer="playlist-harvester",TCS+ (480p) [Not 24/7]
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8

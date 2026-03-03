@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cianjur.staratv.id/hls/0/stream.m3u8",
+  "title": "Stara TV Cianjur (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "StaraTV.id@Cianjur",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:57.244Z"
+}

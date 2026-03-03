@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IndiaDailyLive.in_SD" tvg-name="India Daily Live (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:19.776Z" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Daily_24x7.png" indexer="playlist-harvester",India Daily Live (1080p)
+https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8

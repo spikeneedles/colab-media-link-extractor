@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8",
+  "title": "Campus TV (480p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Education",
+  "tvgId": "CampusTV.hn@SD",
+  "tvgLogo": "https://i.imgur.com/E1TmADM.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:59.108Z"
+}

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU",
+  "title": "贵州卫视 (576p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "GuizhouTV.cn@SD",
+  "tvgLogo": "https://i.imgur.com/nkcKCdr.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:30.240Z"
+}

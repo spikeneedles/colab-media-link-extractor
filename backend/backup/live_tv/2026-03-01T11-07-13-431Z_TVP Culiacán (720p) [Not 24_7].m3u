@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVPCuliacan.mx_SD" tvg-name="TVP Culiacán (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:13.431Z" tvg-logo="https://i.imgur.com/uX1S3kt.png" indexer="playlist-harvester",TVP Culiacán (720p) [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8

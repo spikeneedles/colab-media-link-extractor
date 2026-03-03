@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://103.229.254.25:7001/play/a0d1/index.m3u8",
+  "title": "Star Sports 2 Tamil HD (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "StarSports2Tamil.in@HD",
+  "tvgLogo": "https://i.imgur.com/eWPoUxB.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:57.124Z"
+}

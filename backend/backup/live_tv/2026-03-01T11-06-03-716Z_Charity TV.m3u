@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CharityTV.lb_SD" tvg-name="Charity TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.716Z" tvg-logo="https://i.imgur.com/U9z8WBY.png" indexer="playlist-harvester",Charity TV
+https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8

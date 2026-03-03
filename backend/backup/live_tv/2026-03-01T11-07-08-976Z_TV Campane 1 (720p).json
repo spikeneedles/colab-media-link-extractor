@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://eu1.servers10.com:8081/8032/index.m3u8",
+  "title": "TV Campane 1 (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TVCampane1.it@SD",
+  "tvgLogo": "https://i.imgur.com/GsdVpll.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:08.976Z"
+}

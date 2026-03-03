@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canela_Kids" tvg-name="Canela Kids" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.496Z" indexer="playlist-harvester",Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654

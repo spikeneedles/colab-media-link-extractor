@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ZoomNews.us_SD" tvg-name="Zoom TV Kurdish (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:22.905Z" tvg-logo="https://t4.ftcdn.net/jpg/03/88/22/21/360_F_388222175_D6PTsMoUyegpPJ63zvkecPsZAttc95mD.jpg" indexer="playlist-harvester",Zoom TV Kurdish (720p)
+https://live.zoomnews.info/live/Zoom_playlist.m3u8

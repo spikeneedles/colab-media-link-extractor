@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Best_Thriller_TV" tvg-name="Best Thriller TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:56.740Z" indexer="playlist-harvester",Best Thriller TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8

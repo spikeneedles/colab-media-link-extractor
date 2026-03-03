@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://livetv.mylifeisgood.net.ru/channels/terra.m3u8",
+  "title": "TERRA",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Documentary",
+  "tvgId": "TERRA.ru@SD",
+  "tvgLogo": "https://i.imgur.com/ZxUjCpF.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:03.658Z"
+}

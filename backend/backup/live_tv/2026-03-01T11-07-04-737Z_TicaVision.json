@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8",
+  "title": "TicaVision",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TicaVision.cr@SD",
+  "tvgLogo": "https://i.imgur.com/mev90pC.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:04.737Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Tipik.be_SD" tvg-name="Tipik" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:04.926Z" tvg-logo="https://i.imgur.com/LKLjnrp.png" indexer="playlist-harvester",Tipik
+http://103.184.64.85:12000/stream/allchannel/rtbftipik/master.m3u8

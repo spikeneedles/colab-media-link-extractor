@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VinhLongTV1.vn_HD" tvg-name="Vĩnh Long TV1 (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.350Z" tvg-logo="https://i.imgur.com/5YFsqPx.png" indexer="playlist-harvester",Vĩnh Long TV1 (1080p) [Geo-blocked]
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8

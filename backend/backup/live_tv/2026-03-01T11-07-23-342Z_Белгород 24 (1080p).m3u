@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Belgorod24.ru_SD" tvg-name="Белгород 24 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:23.342Z" tvg-logo="https://i.imgur.com/EEirvyx.png" indexer="playlist-harvester",Белгород 24 (1080p)
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8

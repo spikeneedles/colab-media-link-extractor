@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RNF.de_SD" tvg-name="RNF (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:49.249Z" tvg-logo="https://i.imgur.com/CRk9usN.png" indexer="playlist-harvester",RNF (1080p)
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8

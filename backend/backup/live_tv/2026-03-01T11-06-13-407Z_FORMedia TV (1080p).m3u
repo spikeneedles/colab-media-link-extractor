@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FORMediaTV.gr_SD" tvg-name="FORMedia TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:13.407Z" tvg-logo="https://i.imgur.com/8FcJ2I9.png" indexer="playlist-harvester",FORMedia TV (1080p)
+https://svs.itworkscdn.net/formediatvlive/formediatv.smil/playlist.m3u8

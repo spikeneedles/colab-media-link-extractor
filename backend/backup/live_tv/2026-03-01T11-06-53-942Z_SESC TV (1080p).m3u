@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SESCTV.br_SD" tvg-name="SESC TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.942Z" tvg-logo="https://i.imgur.com/Mu8O6CV.png" indexer="playlist-harvester",SESC TV (1080p)
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8

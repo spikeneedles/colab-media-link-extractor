@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HispaniaTV.pa_SD" tvg-name="Hispania TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:17.671Z" tvg-logo="https://i.imgur.com/647WCF8.png" indexer="playlist-harvester",Hispania TV
+https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8

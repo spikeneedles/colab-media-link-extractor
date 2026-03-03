@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VIP_TV" tvg-name="VIP TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.441Z" indexer="playlist-harvester",VIP TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8

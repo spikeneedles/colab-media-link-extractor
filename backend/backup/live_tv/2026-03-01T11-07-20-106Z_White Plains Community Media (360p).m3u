@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WhitePlainsCommunityMedia.us_SD" tvg-name="White Plains Community Media (360p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:20.106Z" tvg-logo="https://i.imgur.com/XGQfBbW.png" indexer="playlist-harvester",White Plains Community Media (360p)
+https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8

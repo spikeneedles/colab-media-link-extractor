@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Family_Feud__720p_" tvg-name="Family Feud (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:12.406Z" indexer="playlist-harvester",Family Feud (720p)
+https://aegis-cloudfront-1.tubi.video/e1638fe1-8df0-470a-9fa9-b515ca7ca18e/master.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FX2.ir_SD" tvg-name="FX TV 2" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:14.242Z" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-two-fr.png" indexer="playlist-harvester",FX TV 2
+https://toonixhls.wns.live/hls/stream.m3u8

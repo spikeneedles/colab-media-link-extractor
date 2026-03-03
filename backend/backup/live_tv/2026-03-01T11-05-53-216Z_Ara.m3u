@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AraTV.ir_SD" tvg-name="Ara" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:53.216Z" tvg-logo="https://i.ibb.co/dwSHt2SG/Ara.png" indexer="playlist-harvester",Ara
+https://ncdn.telewebion.com/ara/live/playlist.m3u8

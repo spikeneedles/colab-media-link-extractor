@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Newsmax2.us_SD" tvg-name="Newsmax 2 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:36.207Z" tvg-logo="https://www.lyngsat.com/logo/tv/nn/newsmax-2-us-ug.png" indexer="playlist-harvester",Newsmax 2 (720p)
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8

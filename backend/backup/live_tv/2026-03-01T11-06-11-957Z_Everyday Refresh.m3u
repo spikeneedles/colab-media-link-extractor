@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Everyday_Refresh" tvg-name="Everyday Refresh" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:11.957Z" indexer="playlist-harvester",Everyday Refresh
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8

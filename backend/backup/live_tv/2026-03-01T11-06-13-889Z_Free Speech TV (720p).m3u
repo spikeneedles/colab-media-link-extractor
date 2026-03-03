@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FreeSpeechTV.us_SD" tvg-name="Free Speech TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:13.889Z" tvg-logo="https://i.imgur.com/Qq6heRq.png" indexer="playlist-harvester",Free Speech TV (720p)
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8

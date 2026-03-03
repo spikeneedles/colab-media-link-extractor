@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SyrosTV1.gr_SD" tvg-name="Syros TV1 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.090Z" tvg-logo="https://i.imgur.com/arQe5qS.png" indexer="playlist-harvester",Syros TV1 (720p)
+https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8

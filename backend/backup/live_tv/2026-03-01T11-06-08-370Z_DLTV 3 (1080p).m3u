@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DLTV3.th_SD" tvg-name="DLTV 3 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:08.370Z" tvg-logo="https://i.imgur.com/wmrxerm.png" indexer="playlist-harvester",DLTV 3 (1080p)
+https://cdn-live.dltv.ac.th/dltv03.m3u8

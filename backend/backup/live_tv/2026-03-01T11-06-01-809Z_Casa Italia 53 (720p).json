@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8",
+  "title": "Casa Italia 53 (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Shop",
+  "tvgId": "CasaItalia53.it@SD",
+  "tvgLogo": "https://i.imgur.com/X8BI1Md.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:01.809Z"
+}

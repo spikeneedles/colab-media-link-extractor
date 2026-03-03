@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174",
+  "title": "MovieSmart Turk (576p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "MovieSmartTurk.tr@SD",
+  "tvgLogo": "https://i.imgur.com/DWN9ulT.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:06:32.598Z"
+}

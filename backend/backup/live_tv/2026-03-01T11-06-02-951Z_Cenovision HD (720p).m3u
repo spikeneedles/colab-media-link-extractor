@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CenovisionHD.do_HD" tvg-name="Cenovision HD (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:02.951Z" tvg-logo="https://imgur.com/ShPaOvn.jpg" indexer="playlist-harvester",Cenovision HD (720p)
+https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8

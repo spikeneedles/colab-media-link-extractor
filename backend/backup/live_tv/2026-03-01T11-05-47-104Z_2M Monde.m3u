@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2MMonde.ma_SD" tvg-name="2M Monde" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:47.104Z" tvg-logo="https://i.imgur.com/MvpntzA.png" indexer="playlist-harvester",2M Monde
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8

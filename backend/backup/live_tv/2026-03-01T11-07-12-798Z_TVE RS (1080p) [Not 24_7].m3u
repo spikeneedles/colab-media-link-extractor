@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVEBahia.br_SD" tvg-name="TVE RS (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:12.798Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png" indexer="playlist-harvester",TVE RS (1080p) [Not 24/7]
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8

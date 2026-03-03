@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
+  "title": "КТК (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "KTK.kz@SD",
+  "tvgLogo": "https://i.imgur.com/BurrNTo.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:23.929Z"
+}

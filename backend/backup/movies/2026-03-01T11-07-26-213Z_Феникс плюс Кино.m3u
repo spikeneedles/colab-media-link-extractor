@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FeniksplusKino.ru_SD" tvg-name="Феникс плюс Кино" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:26.213Z" tvg-logo="https://i.imgur.com/S9OPMLE.png" indexer="playlist-harvester",Феникс плюс Кино
+http://31.148.48.15/Feniks_plus_kino/index.m3u8

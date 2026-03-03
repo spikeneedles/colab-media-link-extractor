@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChannelOne.us_SD" tvg-name="Channel One" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.563Z" tvg-logo="https://i.imgur.com/igskUo0.png" indexer="playlist-harvester",Channel One
+https://pemirateshls.persiana.live/hls/stream.m3u8

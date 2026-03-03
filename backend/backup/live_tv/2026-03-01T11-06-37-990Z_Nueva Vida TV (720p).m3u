@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NuevaVidaFM.pr_SD" tvg-name="Nueva Vida TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.990Z" tvg-logo="https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png" indexer="playlist-harvester",Nueva Vida TV (720p)
+https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8

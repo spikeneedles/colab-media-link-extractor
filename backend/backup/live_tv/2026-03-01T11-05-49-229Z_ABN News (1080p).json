@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://116.90.120.149:8000/play/a01r/index.m3u8",
+  "title": "ABN News (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "ABNNews.pk@SD",
+  "tvgLogo": "https://www.lyngsat.com/logo/tv/aa/abn-news-pk.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:49.229Z"
+}

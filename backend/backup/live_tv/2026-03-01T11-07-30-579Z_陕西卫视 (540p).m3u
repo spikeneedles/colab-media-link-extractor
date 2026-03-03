@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="______540p_" tvg-name="陕西卫视 (540p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:30.579Z" indexer="playlist-harvester",陕西卫视 (540p)
+http://112.25.48.68/live/program/live/sxws/1300000/mnf.m3u8

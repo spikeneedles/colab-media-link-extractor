@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PursuitChannel.us_SD" tvg-name="Pursuit Channel (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:43.903Z" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png" indexer="playlist-harvester",Pursuit Channel (1080p)
+https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index.m3u8

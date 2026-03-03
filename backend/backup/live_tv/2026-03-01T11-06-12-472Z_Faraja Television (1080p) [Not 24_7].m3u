@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FarajaTelevision.ug_SD" tvg-name="Faraja Television (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:12.472Z" tvg-logo="https://i.imgur.com/NmnOGHI.jpg" indexer="playlist-harvester",Faraja Television (1080p) [Not 24/7]
+https://panel.freedomflixtv.org:3868/hybrid/play.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="7TV.hu_SD" tvg-name="TV7 Bekescsaba (360p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:08.048Z" tvg-logo="https://i.imgur.com/CnUhAlK.png" indexer="playlist-harvester",TV7 Bekescsaba (360p)
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8

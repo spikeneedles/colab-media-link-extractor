@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVSNJewellery.au_SD" tvg-name="TVSN Jewellery (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:14.678Z" tvg-logo="https://i.imgur.com/lmoAFm3.png" indexer="playlist-harvester",TVSN Jewellery (1080p)
+https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8

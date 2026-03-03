@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8",
+  "title": "BPX TV Radio",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "BPXTVRadio.us@SD",
+  "tvgLogo": "https://i.imgur.com/86VXni8.jpeg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:57.973Z"
+}

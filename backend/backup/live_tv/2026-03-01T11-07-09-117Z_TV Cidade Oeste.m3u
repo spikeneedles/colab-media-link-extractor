@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVCidadeOeste.br_SD" tvg-name="TV Cidade Oeste" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:09.117Z" tvg-logo="https://i.imgur.com/EmYaxEh.png" indexer="playlist-harvester",TV Cidade Oeste
+https://radios.dataprimer.com.br:5443/LiveApp/streams/psuqNyPC1AW1BcUZ1573443847601.m3u8

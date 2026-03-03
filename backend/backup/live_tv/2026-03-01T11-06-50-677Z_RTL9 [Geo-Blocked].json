@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd",
+  "title": "RTL9 [Geo-Blocked]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "RTL9.lu@SD",
+  "tvgLogo": "https://i.imgur.com/nFqjVNW.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:50.677Z"
+}

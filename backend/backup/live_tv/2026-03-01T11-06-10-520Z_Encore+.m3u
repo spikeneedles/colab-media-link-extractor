@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Encore_" tvg-name="Encore+" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.520Z" indexer="playlist-harvester",Encore+
+https://streams2.sofast.tv/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8

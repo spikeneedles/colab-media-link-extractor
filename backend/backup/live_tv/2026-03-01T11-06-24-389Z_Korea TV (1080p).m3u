@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KTV.kr_SD" tvg-name="Korea TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.389Z" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" indexer="playlist-harvester",Korea TV (1080p)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8

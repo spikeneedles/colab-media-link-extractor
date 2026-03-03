@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://92.86.248.141:8080/ram/playlist.m3u8",
+  "title": "Rapsodia TV (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "RapsodiaTV.ro@SD",
+  "tvgLogo": "https://i.imgur.com/mwMG7BB.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:47.330Z"
+}

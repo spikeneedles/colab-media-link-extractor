@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PantallaClasicaEC.ec_SD" tvg-name="Pantalla Clásica EC (512p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.499Z" tvg-logo="https://i.imgur.com/mhbERF9.jpg" indexer="playlist-harvester",Pantalla Clásica EC (512p) [Not 24/7]
+https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://video1.lhdserver.es/teleribera/live.m3u8",
+  "title": "TeleRibera (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TeleRibera.es@SD",
+  "tvgLogo": "https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:02.614Z"
+}

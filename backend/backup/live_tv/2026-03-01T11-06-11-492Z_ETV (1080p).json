@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8",
+  "title": "ETV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "ETV.gp@SD",
+  "tvgLogo": "https://i.imgur.com/m5E2VP0.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:11.492Z"
+}

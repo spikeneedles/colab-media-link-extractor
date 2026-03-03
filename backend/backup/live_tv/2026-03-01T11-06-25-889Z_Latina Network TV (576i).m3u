@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LatinaNetworkTV.cl_SD" tvg-name="Latina Network TV (576i)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:25.889Z" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3782-294x165-FFFFFF.jpg" indexer="playlist-harvester",Latina Network TV (576i)
+https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8

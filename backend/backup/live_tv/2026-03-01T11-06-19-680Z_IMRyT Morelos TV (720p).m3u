@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IMRyT.mx_SD" tvg-name="IMRyT Morelos TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:19.680Z" tvg-logo="https://i.imgur.com/D91O6ka.png" indexer="playlist-harvester",IMRyT Morelos TV (720p)
+https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8

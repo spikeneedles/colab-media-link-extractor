@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telecinco.ar_SD" tvg-name="TeleCinco Trelew (240p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:01.499Z" tvg-logo="https://i.imgur.com/ZDenyAE.png" indexer="playlist-harvester",TeleCinco Trelew (240p)
+https://videohd.live:19360/8016/8016.m3u8

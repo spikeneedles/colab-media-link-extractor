@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://server40.servistreaming.com:3477/stream/play.m3u8",
+  "title": "La Mega Mundial",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "LaMegaMundial.us@SD",
+  "tvgLogo": "https://i.imgur.com/UdMsgkt.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:25.361Z"
+}

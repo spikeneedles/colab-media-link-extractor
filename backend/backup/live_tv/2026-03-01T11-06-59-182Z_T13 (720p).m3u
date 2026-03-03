@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="T13.cl_SD" tvg-name="T13 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.182Z" tvg-logo="https://i.imgur.com/2Vlkl2x.png" indexer="playlist-harvester",T13 (720p)
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8

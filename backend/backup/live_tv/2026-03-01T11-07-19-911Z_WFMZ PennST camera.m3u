@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WFMZ_PennST_camera" tvg-name="WFMZ PennST camera" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:19.911Z" indexer="playlist-harvester",WFMZ PennST camera
+https://cdn.jaybirdtv.com/wfmz/6/live/master.m3u8

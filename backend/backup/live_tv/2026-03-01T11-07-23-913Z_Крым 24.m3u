@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Crimea24.ru_SD" tvg-name="Крым 24" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:23.913Z" tvg-logo="https://i.imgur.com/k4C0uvp.png" indexer="playlist-harvester",Крым 24
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8

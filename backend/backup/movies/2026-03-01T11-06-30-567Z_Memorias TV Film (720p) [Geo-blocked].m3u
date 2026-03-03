@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MemoriasTVFilm.co_SD" tvg-name="Memorias TV Film (720p) [Geo-blocked]" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:30.567Z" tvg-logo="https://i.imgur.com/vNfjW6Y.png" indexer="playlist-harvester",Memorias TV Film (720p) [Geo-blocked]
+https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8

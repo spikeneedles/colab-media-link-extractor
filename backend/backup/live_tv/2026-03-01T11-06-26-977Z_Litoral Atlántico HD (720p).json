@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8",
+  "title": "Litoral Atlántico HD (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "LitoralAtlanticoHD.hn@SD",
+  "tvgLogo": "https://i.imgur.com/UXsgEPX.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:26.977Z"
+}

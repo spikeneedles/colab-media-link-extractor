@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IcrtvColima.mx_SD" tvg-name="ICRTV Colima (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:19.222Z" tvg-logo="https://i.imgur.com/iUks0ot.png" indexer="playlist-harvester",ICRTV Colima (1080p)
+https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SNT.py_SD" tvg-name="SNT (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:55.648Z" tvg-logo="https://i.imgur.com/HNlWRiF.png" indexer="playlist-harvester",SNT (480p)
+https://alba-py-snt-snt.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8

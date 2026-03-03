@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://hls.newworldtv.com/nw-info/video/live.m3u8",
+  "title": "NW Info FR (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "NWInfo.tg@SD",
+  "tvgLogo": "https://i.imgur.com/UDEY91v.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:38.159Z"
+}

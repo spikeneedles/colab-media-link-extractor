@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MyRighteousTV.cm_SD" tvg-name="My Righteous TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:33.743Z" tvg-logo="https://i.imgur.com/wKSLNHB.png" indexer="playlist-harvester",My Righteous TV
+https://live20.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8

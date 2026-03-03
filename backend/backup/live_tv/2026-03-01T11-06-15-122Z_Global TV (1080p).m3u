@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GlobalTV.mn_SD" tvg-name="Global TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:15.122Z" tvg-logo="https://i.imgur.com/Es5FX4z.png" indexer="playlist-harvester",Global TV (1080p)
+https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd

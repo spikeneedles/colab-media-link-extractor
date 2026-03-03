@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Kanal38.tr_SD" tvg-name="Kanal 38 (540p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:22.911Z" tvg-logo="https://i.imgur.com/WvtZ7Xd.png" indexer="playlist-harvester",Kanal 38 (540p) [Not 24/7]
+http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8

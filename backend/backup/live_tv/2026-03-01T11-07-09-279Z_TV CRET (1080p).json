@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://radiocret.net:8082/hls/tvcret.m3u8",
+  "title": "TV CRET (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "TVCRET.sv@SD",
+  "tvgLogo": "https://i.imgur.com/ChonoKb.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:09.279Z"
+}

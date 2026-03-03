@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StarSports2Tamil.in_HD" tvg-name="Star Sports 2 Tamil HD (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:57.124Z" tvg-logo="https://i.imgur.com/eWPoUxB.png" indexer="playlist-harvester",Star Sports 2 Tamil HD (1080p)
+http://103.229.254.25:7001/play/a0d1/index.m3u8

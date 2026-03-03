@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVGuanajuato.mx_SD" tvg-name="TV Guanajuato (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:09.747Z" tvg-logo="https://i.imgur.com/HbnCZSF.png" indexer="playlist-harvester",TV Guanajuato (720p)
+https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8

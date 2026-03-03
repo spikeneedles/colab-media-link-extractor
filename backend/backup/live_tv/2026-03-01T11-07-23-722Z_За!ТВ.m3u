@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ZaTV.ru_SD" tvg-name="За!ТВ" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:23.722Z" tvg-logo="https://i.imgur.com/pVPTl8J.png" indexer="playlist-harvester",За!ТВ
+https://streaming.televizor-24-tochka.ru/live/25.m3u8

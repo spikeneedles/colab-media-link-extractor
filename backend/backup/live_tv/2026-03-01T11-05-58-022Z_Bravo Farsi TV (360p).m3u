@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BravoFarsiTV.ir_SD" tvg-name="Bravo Farsi TV (360p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:58.022Z" tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" indexer="playlist-harvester",Bravo Farsi TV (360p)
+https://bravoohls.wns.live/hls/stream.m3u8

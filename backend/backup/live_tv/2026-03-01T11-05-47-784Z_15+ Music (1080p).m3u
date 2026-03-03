@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="15PlusMusic.ru_HD" tvg-name="15+ Music (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:47.784Z" tvg-logo="https://i.imgur.com/kj21hwd.png" indexer="playlist-harvester",15+ Music (1080p)
+https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8

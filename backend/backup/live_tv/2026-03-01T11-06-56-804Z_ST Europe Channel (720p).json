@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8",
+  "title": "ST Europe Channel (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "STEuropeChannel.it@SD",
+  "tvgLogo": "https://i.imgur.com/M5j7y2N.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:56.804Z"
+}

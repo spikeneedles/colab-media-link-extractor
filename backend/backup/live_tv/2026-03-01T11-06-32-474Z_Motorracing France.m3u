@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Motorracing_France" tvg-name="Motorracing France" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:32.474Z" indexer="playlist-harvester",Motorracing France
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7b971242-c5fe-11ec-967f-401ac48a6867/0/master.m3u8

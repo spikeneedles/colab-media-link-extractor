@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8",
+  "title": "TV BRICS Africa (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TVBRICSAfrica.za@SD",
+  "tvgLogo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:08.822Z"
+}

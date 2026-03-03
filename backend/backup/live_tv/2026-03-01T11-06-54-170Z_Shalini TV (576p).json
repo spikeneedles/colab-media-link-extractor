@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8",
+  "title": "Shalini TV (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "ShaliniTV.in@SD",
+  "tvgLogo": "https://i.imgur.com/fDdG6Y2.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:54.170Z"
+}

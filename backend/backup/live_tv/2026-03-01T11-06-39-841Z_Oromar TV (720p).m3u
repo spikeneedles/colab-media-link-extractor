@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OromarTV.ec_SD" tvg-name="Oromar TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.841Z" tvg-logo="https://i.imgur.com/j5Vvxd5.png" indexer="playlist-harvester",Oromar TV (720p)
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8

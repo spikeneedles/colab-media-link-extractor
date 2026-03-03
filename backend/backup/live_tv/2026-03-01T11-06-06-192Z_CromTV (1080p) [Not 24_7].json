@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8",
+  "title": "CromTV (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "CromTV.do@SD",
+  "tvgLogo": "https://i.imgur.com/jk1lkOV.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:06.192Z"
+}

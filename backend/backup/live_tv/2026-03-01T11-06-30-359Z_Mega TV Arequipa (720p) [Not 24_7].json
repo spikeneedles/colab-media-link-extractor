@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://mc.servidor.stream:19360/megatv/megatv.m3u8",
+  "title": "Mega TV Arequipa (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "MegaTVArequipa.pe@SD",
+  "tvgLogo": "https://i.imgur.com/q34E9V4.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:30.359Z"
+}

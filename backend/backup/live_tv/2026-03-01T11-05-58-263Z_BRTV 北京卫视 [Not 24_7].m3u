@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn_SD" tvg-name="BRTV 北京卫视 [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:58.263Z" tvg-logo="https://i.imgur.com/vsktAez.png" indexer="playlist-harvester",BRTV 北京卫视 [Not 24/7]
+http://ivi.bupt.edu.cn/hls/btv1.m3u8

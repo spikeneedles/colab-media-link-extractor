@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn-2.pishow.tv/live/465/master.m3u8",
+  "title": "Swadesh News (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "SwadeshNews.in@SD",
+  "tvgLogo": "https://jiotvimages.cdn.jio.com/dare_images/images/Swadesh_News.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:58.897Z"
+}

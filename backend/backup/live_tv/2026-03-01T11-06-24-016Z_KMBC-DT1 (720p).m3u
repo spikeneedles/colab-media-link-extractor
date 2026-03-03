@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KMBCDT1.us_SD" tvg-name="KMBC-DT1 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.016Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/KMBC_9_ABC.svg/512px-KMBC_9_ABC.svg.png" indexer="playlist-harvester",KMBC-DT1 (720p)
+https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8

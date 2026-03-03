@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KayTV.tr_SD" tvg-name="Kay TV (900p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:23.341Z" tvg-logo="https://i.imgur.com/MymuDJ1.png" indexer="playlist-harvester",Kay TV (900p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8

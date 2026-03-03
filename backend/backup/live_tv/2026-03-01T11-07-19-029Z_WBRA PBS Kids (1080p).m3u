@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WBRADT3.us_SD" tvg-name="WBRA PBS Kids (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:19.029Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" indexer="playlist-harvester",WBRA PBS Kids (1080p)
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8

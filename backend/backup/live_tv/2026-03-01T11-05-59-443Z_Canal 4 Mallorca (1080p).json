@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8",
+  "title": "Canal 4 Mallorca (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Canal4Mallorca.es@SD",
+  "tvgLogo": "https://i.imgur.com/tQh8C3s.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:59.443Z"
+}

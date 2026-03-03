@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UTV.cl_SD" tvg-name="UTV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:16.019Z" tvg-logo="https://i.imgur.com/ZJNSpfZ.png" indexer="playlist-harvester",UTV (720p)
+https://v2.tustreaming.cl/utv/index.m3u8

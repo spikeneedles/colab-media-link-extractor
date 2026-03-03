@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://193.225.32.62:8890/live.m3u8",
+  "title": "Liceum TV (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Culture;Education",
+  "tvgId": "LiceumTV.hu@SD",
+  "tvgLogo": "https://i.imgur.com/Hf122ZD.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:26.490Z"
+}

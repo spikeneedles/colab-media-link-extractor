@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://51.222.9.192:3589/stream/play.m3u8",
+  "title": "A&R Canal Adventista (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "ARCanal.pa@SD",
+  "tvgLogo": "https://i.imgur.com/ejRJqSI.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:48.494Z"
+}

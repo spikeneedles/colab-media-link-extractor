@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8",
+  "title": "ECO Television",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "ECOTelevision.pe@SD",
+  "tvgLogo": "https://i.imgur.com/ly1KU6w.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:09.863Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LIVExLIVE.us_SD" tvg-name="LiveXLive" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:27.125Z" tvg-logo="https://i.imgur.com/KFzEoed.png" indexer="playlist-harvester",LiveXLive
+https://livestream.liveone.com/lc1/p1.m3u8

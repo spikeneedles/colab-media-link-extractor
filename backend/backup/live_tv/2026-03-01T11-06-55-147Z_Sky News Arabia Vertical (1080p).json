@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8",
+  "title": "Sky News Arabia Vertical (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "SkyNewsArabiaVertical.ae@HD",
+  "tvgLogo": "https://i.imgur.com/FjtzQQs.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:55.147Z"
+}

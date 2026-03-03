@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8",
+  "title": "Atambua TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "AtambuaTV.id@HD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:54.046Z"
+}

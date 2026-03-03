@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MinimaxCEE.cz_SD" tvg-name="Minimax (576p) (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:31.350Z" tvg-logo="https://i.imgur.com/WWOlm1x.png" indexer="playlist-harvester",Minimax (576p) (576p)
+http://88.212.15.19/live/test_minimax/playlist.m3u8

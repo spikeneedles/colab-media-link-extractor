@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MNBMongoliinMedee.mn_SD" tvg-name="MNB Монголын Мэдээ (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:31.762Z" tvg-logo="https://i.imgur.com/KUvJzUD.png" indexer="playlist-harvester",MNB Монголын Мэдээ (576p)
+https://live.mnb.mn/hls/mn2.stream.m3u8

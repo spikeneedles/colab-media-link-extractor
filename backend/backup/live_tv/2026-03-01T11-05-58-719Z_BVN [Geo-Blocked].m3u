@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BVN.nl_SD" tvg-name="BVN [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:05:58.719Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png" indexer="playlist-harvester",BVN [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd

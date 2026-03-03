@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OzdiVarosiTV.hu_SD" tvg-name="Ózdi Városi TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.173Z" tvg-logo="https://i.imgur.com/t0Aq3UD.png" indexer="playlist-harvester",Ózdi Városi TV (720p) [Not 24/7]
+http://stream.nmih.hu:7980/live.m3u8

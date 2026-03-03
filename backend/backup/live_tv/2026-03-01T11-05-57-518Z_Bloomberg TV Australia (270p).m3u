@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BloombergTV.us_Australia" tvg-name="Bloomberg TV Australia (270p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:57.518Z" tvg-logo="https://i.imgur.com/OuogLHx.png" indexer="playlist-harvester",Bloomberg TV Australia (270p)
+https://bloomberg.com/media-manifest/streams/aus.m3u8

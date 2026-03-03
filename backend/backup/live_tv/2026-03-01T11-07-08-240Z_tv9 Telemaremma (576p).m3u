@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tv9Telemaremma.it_HD" tvg-name="tv9 Telemaremma (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:08.240Z" tvg-logo="https://i.imgur.com/3WAyf6H.png" indexer="playlist-harvester",tv9 Telemaremma (576p)
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8

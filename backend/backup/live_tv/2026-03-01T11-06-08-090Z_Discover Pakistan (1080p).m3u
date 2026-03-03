@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk_SD" tvg-name="Discover Pakistan (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:08.090Z" tvg-logo="https://i.imgur.com/IJH47fJ.png" indexer="playlist-harvester",Discover Pakistan (1080p)
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Drive_In_Movie_Channel" tvg-name="Drive In Movie Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:09.005Z" indexer="playlist-harvester",Drive In Movie Channel
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8

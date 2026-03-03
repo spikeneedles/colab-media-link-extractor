@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Tekyemadahi.ir_SD" tvg-name="Tekyemadahi" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:00.209Z" tvg-logo="https://static.telewebion.com/channelsLogo/d602596d-7b8d-48ef-8f51-9344b4ac0eb6/default" indexer="playlist-harvester",Tekyemadahi
+https://ncdn.telewebion.com/tekyemadahi/live/playlist.m3u8

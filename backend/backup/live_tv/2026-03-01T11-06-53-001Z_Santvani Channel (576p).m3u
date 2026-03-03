@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SantvaniChannel.in_SD" tvg-name="Santvani Channel (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.001Z" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANTVANI/images/LOGO_HD/LOGO_HD_image.png" indexer="playlist-harvester",Santvani Channel (576p)
+https://cdn-2.pishow.tv/live/475/master.m3u8

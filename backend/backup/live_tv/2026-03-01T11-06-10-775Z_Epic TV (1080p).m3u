@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EpicTV.in_SD" tvg-name="Epic TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.775Z" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png" indexer="playlist-harvester",Epic TV (1080p)
+https://epiconvh.akamaized.net/live/epic/master.m3u8

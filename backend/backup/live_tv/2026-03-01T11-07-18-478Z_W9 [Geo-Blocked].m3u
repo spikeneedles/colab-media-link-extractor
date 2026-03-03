@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="W9.fr_SD" tvg-name="W9 [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:07:18.478Z" tvg-logo="https://i.imgur.com/reYeMuE.png" indexer="playlist-harvester",W9 [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd

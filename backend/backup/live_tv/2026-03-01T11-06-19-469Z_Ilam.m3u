@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IlamTV.ir_SD" tvg-name="Ilam" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:19.469Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/240px-Ilam_TV.png" indexer="playlist-harvester",Ilam
+https://ncdn.telewebion.com/ilam/live/playlist.m3u8

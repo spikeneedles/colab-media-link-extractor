@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://tv.beatfm.nl/live.m3u8",
+  "title": "BE@TTV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment;Music",
+  "tvgId": "BEATTV.nl@SD",
+  "tvgLogo": "https://i.imgur.com/egK33Dj.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:56.388Z"
+}

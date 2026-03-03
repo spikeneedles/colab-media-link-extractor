@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TBNUK.uk_SD" tvg-name="TBN UK (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.913Z" tvg-logo="https://i.imgur.com/vFllwLd.png" indexer="playlist-harvester",TBN UK (1080p)
+https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8",
+  "title": "Jilin Rural Channel",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Education;Lifestyle;Science",
+  "tvgId": "JilinRuralChannel.cn@SD",
+  "tvgLogo": "https://www.tvchinese.net/uploads/tv/jlxcpd.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:21.778Z"
+}

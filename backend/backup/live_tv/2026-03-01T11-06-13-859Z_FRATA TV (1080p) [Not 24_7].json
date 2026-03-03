@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8",
+  "title": "FRATA TV (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "FRATATV.do@SD",
+  "tvgLogo": "https://i.imgur.com/VxeTREd.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:13.859Z"
+}

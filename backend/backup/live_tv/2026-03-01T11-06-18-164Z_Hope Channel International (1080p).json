@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://jstre.am/live/jsl:cZXINbwrFj6.m3u8",
+  "title": "Hope Channel International (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "HopeChannelInternational.us@SD",
+  "tvgLogo": "https://i.imgur.com/PNihgl2.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:18.164Z"
+}

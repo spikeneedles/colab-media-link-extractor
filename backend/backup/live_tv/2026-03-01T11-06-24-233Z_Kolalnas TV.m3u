@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KolalnasTV.ps_SD" tvg-name="Kolalnas TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.233Z" tvg-logo="https://i.imgur.com/OyMxcRG.png" indexer="playlist-harvester",Kolalnas TV
+https://htvint.mada.ps/kolalnas/index.m3u8

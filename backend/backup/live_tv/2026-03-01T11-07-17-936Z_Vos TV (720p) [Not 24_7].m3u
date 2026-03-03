@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VosTV.ni_SD" tvg-name="Vos TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.936Z" tvg-logo="https://i.imgur.com/Lbi87xv.png" indexer="playlist-harvester",Vos TV (720p) [Not 24/7]
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8

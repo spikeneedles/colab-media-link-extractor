@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlcanceTV.ve_SD" tvg-name="Alcance TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:51.101Z" tvg-logo="https://i.imgur.com/veeuqS1.png" indexer="playlist-harvester",Alcance TV (720p)
+https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8

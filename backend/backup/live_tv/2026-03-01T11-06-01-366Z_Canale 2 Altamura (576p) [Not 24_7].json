@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8",
+  "title": "Canale 2 Altamura (576p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Canale2Altamura.it@SD",
+  "tvgLogo": "https://i.imgur.com/7XXdN5T.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:01.366Z"
+}

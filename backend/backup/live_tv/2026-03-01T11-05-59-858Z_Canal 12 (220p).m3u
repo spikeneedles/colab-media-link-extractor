@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal12.sv_SD" tvg-name="Canal 12 (220p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:59.858Z" tvg-logo="https://i.imgur.com/UGDbp3O.png" indexer="playlist-harvester",Canal 12 (220p)
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8

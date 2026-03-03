@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sochi24.ru_SD" tvg-name="Сочи 24 HD" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:25.607Z" tvg-logo="https://i.imgur.com/iwWxkl6.png" indexer="playlist-harvester",Сочи 24 HD
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Aris24.ru_SD" tvg-name="Арис 24 (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:23.187Z" tvg-logo="https://i.imgur.com/CTFVEAb.png" indexer="playlist-harvester",Арис 24 (720p) [Not 24/7]
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8

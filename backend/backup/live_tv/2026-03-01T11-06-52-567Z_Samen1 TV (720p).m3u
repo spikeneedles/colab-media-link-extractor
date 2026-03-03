@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Samen1TV.nl_SD" tvg-name="Samen1 TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:52.567Z" tvg-logo="https://i.imgur.com/3ivlnLO.png" indexer="playlist-harvester",Samen1 TV (720p)
+https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8

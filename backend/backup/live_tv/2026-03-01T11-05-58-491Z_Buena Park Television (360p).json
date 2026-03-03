@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://buenapark.cablecast.tv/live/stream-1/live.m3u8",
+  "title": "Buena Park Television (360p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Legislative",
+  "tvgId": "BPTV.us@SD",
+  "tvgLogo": "https://i.imgur.com/ObNBL7L.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:58.491Z"
+}

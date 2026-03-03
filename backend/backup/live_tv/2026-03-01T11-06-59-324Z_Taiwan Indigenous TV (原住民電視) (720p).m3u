@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw_SD" tvg-name="Taiwan Indigenous TV (原住民電視) (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.324Z" tvg-logo="https://i.imgur.com/QqIdVqz.png" indexer="playlist-harvester",Taiwan Indigenous TV (原住民電視) (720p)
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MarjaeyatTVEnglish.iq_SD" tvg-name="Marjaeyat TV English (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.145Z" tvg-logo="https://i.imgur.com/Dvf61Jp.png" indexer="playlist-harvester",Marjaeyat TV English (1080p)
+https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8

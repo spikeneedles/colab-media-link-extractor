@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal4Posadas.ar_SD" tvg-name="Canal 4 Posadas (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:59.462Z" tvg-logo="https://i.imgur.com/tElJr3e.png" indexer="playlist-harvester",Canal 4 Posadas (576p)
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8

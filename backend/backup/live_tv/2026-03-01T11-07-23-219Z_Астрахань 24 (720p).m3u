@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Astrahan24.ru_SD" tvg-name="Астрахань 24 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:23.219Z" tvg-logo="https://i.imgur.com/9WcnjQN.png" indexer="playlist-harvester",Астрахань 24 (720p)
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8

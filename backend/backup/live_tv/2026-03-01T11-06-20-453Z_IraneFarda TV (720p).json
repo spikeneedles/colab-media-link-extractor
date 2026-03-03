@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://hls.iranfarda.live/hls/stream.m3u8",
+  "title": "IraneFarda TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "IraneFardaTV.uk@SD",
+  "tvgLogo": "https://i.imgur.com/ixgcgZY.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:20.453Z"
+}

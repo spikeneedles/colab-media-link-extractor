@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TelevizijaM.ba_SD" tvg-name="Televizija M (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:03.295Z" tvg-logo="https://i.imgur.com/jT95ZEI.png" indexer="playlist-harvester",Televizija M (1080p)
+https://live.tv-m.net/hls/stream.m3u8

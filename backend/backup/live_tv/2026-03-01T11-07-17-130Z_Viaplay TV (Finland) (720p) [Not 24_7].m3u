@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ViaplayTV.fi_SD" tvg-name="Viaplay TV (Finland) (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.130Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Viaplay_TV_logo.svg" indexer="playlist-harvester",Viaplay TV (Finland) (720p) [Not 24/7]
+https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true

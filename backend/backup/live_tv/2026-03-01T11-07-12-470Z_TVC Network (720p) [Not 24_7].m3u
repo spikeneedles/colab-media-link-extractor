@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVCNetwork.sv_SD" tvg-name="TVC Network (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:12.470Z" tvg-logo="https://i.imgur.com/S1xiWB3.png" indexer="playlist-harvester",TVC Network (720p) [Not 24/7]
+https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8

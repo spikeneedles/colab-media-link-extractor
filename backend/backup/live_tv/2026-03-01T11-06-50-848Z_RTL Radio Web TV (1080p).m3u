@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTLWebRadioTV.lu_SD" tvg-name="RTL Radio Web TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:50.848Z" tvg-logo="https://i.imgur.com/qyc8LsE.png" indexer="playlist-harvester",RTL Radio Web TV (1080p)
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8

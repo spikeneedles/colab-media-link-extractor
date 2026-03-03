@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PannonTV.rs_SD" tvg-name="Pannon RTV (648p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.478Z" tvg-logo="https://i.imgur.com/xQa2idL.png" indexer="playlist-harvester",Pannon RTV (648p)
+https://stream.nmih.hu:4102/live.m3u8

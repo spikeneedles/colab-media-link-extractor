@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
+  "title": "AS3 Sport TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "AS3SportTV.ve@SD",
+  "tvgLogo": "https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:53.763Z"
+}

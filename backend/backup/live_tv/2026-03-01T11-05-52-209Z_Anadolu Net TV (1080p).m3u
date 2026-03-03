@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnadoluNetTV.tr_SD" tvg-name="Anadolu Net TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:52.209Z" tvg-logo="https://www.anadolunettv.com/d/r/logo.png" indexer="playlist-harvester",Anadolu Net TV (1080p)
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8

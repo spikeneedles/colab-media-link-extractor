@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HomePlus.ir_SD" tvg-name="Home Plus" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:17.948Z" tvg-logo="https://www.lyngsat.com/logo/tv/hh/homeplus.png" indexer="playlist-harvester",Home Plus
+https://homeplushls.wns.live/hls/stream.m3u8

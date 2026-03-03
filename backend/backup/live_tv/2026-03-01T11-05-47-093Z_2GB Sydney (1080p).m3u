@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2GB.au_SD" tvg-name="2GB Sydney (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:47.093Z" tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png" indexer="playlist-harvester",2GB Sydney (1080p)
+https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8

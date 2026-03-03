@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KinoTV.ru_SD" tvg-name="КИНОТВ" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:23.879Z" tvg-logo="https://i.imgur.com/sMpamNO.png" indexer="playlist-harvester",КИНОТВ
+https://vod.tuva.ru/kinotv/index.m3u8

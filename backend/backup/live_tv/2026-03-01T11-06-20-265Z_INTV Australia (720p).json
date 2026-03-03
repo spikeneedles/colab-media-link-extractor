@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://tv1.intv.mk:1935/live/intv/index.m3u8",
+  "title": "INTV Australia (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "INTVAustralia.au@SD",
+  "tvgLogo": "https://i.imgur.com/1nJl0Pv.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:20.265Z"
+}

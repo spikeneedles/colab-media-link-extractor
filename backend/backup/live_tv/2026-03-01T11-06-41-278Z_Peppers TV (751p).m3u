@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PeppersTV.in_SD" tvg-name="Peppers TV (751p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:41.278Z" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png" indexer="playlist-harvester",Peppers TV (751p)
+https://cdn-2.pishow.tv/live/1383/master.m3u8

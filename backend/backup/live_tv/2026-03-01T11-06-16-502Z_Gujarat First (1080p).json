@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live.legitpro.co.in/gujaratfirst/index.m3u8",
+  "title": "Gujarat First (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "GujaratFirst.in@SD",
+  "tvgLogo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:16.502Z"
+}

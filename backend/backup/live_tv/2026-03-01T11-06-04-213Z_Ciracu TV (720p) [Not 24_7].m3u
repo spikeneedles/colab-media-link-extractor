@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CiracuTV.ec_SD" tvg-name="Ciracu TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:04.213Z" tvg-logo="https://i.imgur.com/mkf2TJ6.png" indexer="playlist-harvester",Ciracu TV (720p) [Not 24/7]
+https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8

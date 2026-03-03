@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk_SD" tvg-name="凤凰资讯 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:27.027Z" tvg-logo="https://i.imgur.com/mt4h3VO.png" indexer="playlist-harvester",凤凰资讯 (720p)
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8

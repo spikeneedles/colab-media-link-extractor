@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MasMusicaFM.co_SD" tvg-name="MasMusica FM (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.265Z" tvg-logo="https://i.imgur.com/tCg7owd.png" indexer="playlist-harvester",MasMusica FM (720p)
+https://movil.ejeserver.com/live/masmusica.m3u8

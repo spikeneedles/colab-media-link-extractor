@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HTV7.vn_HD" tvg-name="HTV7 HD (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.545Z" indexer="playlist-harvester",HTV7 HD (1080p)
+https://liveh12.vtvprime.vn/hls/HTV7HD/index.m3u8

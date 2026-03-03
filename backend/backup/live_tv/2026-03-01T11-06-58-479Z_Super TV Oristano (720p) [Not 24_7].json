@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://193.70.81.40:1935/supertvoristano/supertvoristano/playlist.m3u8",
+  "title": "Super TV Oristano (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "SuperTVOristano.it@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/it/2/22/Logosupertvoristano.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:58.479Z"
+}

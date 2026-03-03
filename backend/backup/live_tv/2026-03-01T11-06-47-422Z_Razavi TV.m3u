@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RazaviTV.ir_SD" tvg-name="Razavi TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:47.422Z" tvg-logo="https://static.telewebion.com/channelsLogo/85f466a7-7d17-4ce8-bee6-13da4ff5deb1/default" indexer="playlist-harvester",Razavi TV
+https://ncdn.telewebion.com/razavi/live/playlist.m3u8

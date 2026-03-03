@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GirasolTV.hn_SD" tvg-name="Girasol TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:15.011Z" tvg-logo="https://i.imgur.com/2t7A2yg.png" indexer="playlist-harvester",Girasol TV (1080p)
+https://59d39900ebfb8.streamlock.net/girasoltv/girasoltv/playlist.m3u8

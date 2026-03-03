@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NZTV.sk_SD" tvg-name="TV Nové Zámky (486p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:10.465Z" tvg-logo="https://i.imgur.com/jGZlnzT.png" indexer="playlist-harvester",TV Nové Zámky (486p) [Not 24/7]
+http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8

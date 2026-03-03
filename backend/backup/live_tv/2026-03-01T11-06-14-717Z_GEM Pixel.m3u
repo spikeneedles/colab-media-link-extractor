@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GEMPixel.tr_SD" tvg-name="GEM Pixel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:14.717Z" tvg-logo="https://i.ibb.co/Q3tkbPrn/icon-27.png" indexer="playlist-harvester",GEM Pixel
+https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8

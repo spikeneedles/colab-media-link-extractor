@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KapazTV.az_SD" tvg-name="Kapaz TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:23.188Z" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/512px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" indexer="playlist-harvester",Kapaz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8

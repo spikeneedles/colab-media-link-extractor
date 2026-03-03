@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVSzentendre.hu_SD" tvg-name="TV Szentendre (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:11.560Z" tvg-logo="https://i.imgur.com/kzzYLdj.png" indexer="playlist-harvester",TV Szentendre (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/TVSzentendre/index.m3u8

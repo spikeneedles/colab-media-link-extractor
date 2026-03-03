@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SoltvadkertiTelevizio.hu_SD" tvg-name="Soltvadkerti Televízió (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:55.809Z" tvg-logo="https://i.imgur.com/ihdk45P.png" indexer="playlist-harvester",Soltvadkerti Televízió (720p)
+http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8

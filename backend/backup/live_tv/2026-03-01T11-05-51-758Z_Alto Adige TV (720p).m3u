@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AltoAdigeTV.it_SD" tvg-name="Alto Adige TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:51.758Z" tvg-logo="https://i.imgur.com/yt7JJrn.png" indexer="playlist-harvester",Alto Adige TV (720p)
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8

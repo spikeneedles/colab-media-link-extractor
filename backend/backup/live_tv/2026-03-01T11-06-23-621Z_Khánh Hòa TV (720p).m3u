@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KhanhHoaTV.vn_SD" tvg-name="Khánh Hòa TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:23.621Z" tvg-logo="https://i.imgur.com/qLMcGPT.png" indexer="playlist-harvester",Khánh Hòa TV (720p)
+https://livektv2.baokhanhhoa.vn/hls/ktv.m3u8

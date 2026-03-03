@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NayaritComunica.mx_SD" tvg-name="Nayarit Comunica (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:34.646Z" tvg-logo="https://i.imgur.com/aZCTkjU.jpg" indexer="playlist-harvester",Nayarit Comunica (1080p)
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8

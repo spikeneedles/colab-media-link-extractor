@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Parlamentsfernsehen4.de_SD" tvg-name="Parlamentsfernsehen 4 (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.649Z" tvg-logo="https://i.imgur.com/mksEgwx.png" indexer="playlist-harvester",Parlamentsfernsehen 4 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8

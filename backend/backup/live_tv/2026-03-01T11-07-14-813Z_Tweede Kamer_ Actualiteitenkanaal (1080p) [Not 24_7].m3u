@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TweedeKamerActualiteitenkanaal.nl_SD" tvg-name="Tweede Kamer: Actualiteitenkanaal (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:14.813Z" tvg-logo="https://i.imgur.com/X9fezZ8.png" indexer="playlist-harvester",Tweede Kamer: Actualiteitenkanaal (1080p) [Not 24/7]
+https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live

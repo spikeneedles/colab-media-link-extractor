@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TennisChannel.us_SD" tvg-name="Tennis Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:03.571Z" tvg-logo="https://i.imgur.com/tsljAnY.png" indexer="playlist-harvester",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV15.kg_SD" tvg-name="TV15 (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:08.294Z" tvg-logo="https://i.ibb.co/1byxRtp/tv15.png" indexer="playlist-harvester",TV15 (1080p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8

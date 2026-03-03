@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live.presstv.ir/hls/ifilmfa.m3u8",
+  "title": "iFilm Persian",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "iFilmPersian.ir@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:06:19.423Z"
+}

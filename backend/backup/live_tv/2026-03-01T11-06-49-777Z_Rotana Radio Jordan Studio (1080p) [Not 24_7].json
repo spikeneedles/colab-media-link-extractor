@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://45.63.116.205/hls/stream1.m3u8",
+  "title": "Rotana Radio Jordan Studio (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "RotanaRadioJordanStudio.jo@SD",
+  "tvgLogo": "https://i.imgur.com/xGDjlp5.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:49.777Z"
+}

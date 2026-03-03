@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8",
+  "title": "Tele One 16",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TeleOne16.it@SD",
+  "tvgLogo": "https://www.lyngsat.com/logo/tv/tt/tele-one-16-it.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:00.522Z"
+}

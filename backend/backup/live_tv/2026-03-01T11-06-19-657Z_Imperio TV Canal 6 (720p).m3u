@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ImperioTVCanal6.ec_SD" tvg-name="Imperio TV Canal 6 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:19.657Z" tvg-logo="https://i.imgur.com/NrsNljx.png" indexer="playlist-harvester",Imperio TV Canal 6 (720p)
+https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8

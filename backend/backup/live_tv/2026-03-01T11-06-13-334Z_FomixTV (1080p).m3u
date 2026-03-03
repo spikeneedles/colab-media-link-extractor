@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FomixTV.nl_HD" tvg-name="FomixTV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:13.334Z" tvg-logo="https://i.imgur.com/7SLYEMG.png" indexer="playlist-harvester",FomixTV (1080p)
+https://stream.fomixmedia.nl/FomixTV/video.m3u8

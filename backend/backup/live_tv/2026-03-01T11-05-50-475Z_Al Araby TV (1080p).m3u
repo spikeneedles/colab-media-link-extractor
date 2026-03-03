@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlArabyTV.qa_SD" tvg-name="Al Araby TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:50.475Z" tvg-logo="https://i.imgur.com/YMqWEe4.png" indexer="playlist-harvester",Al Araby TV (1080p)
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8",
+  "title": "MBC Daejeon (대전 MBC) (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "HLCQDTV.kr@SD",
+  "tvgLogo": "https://i.imgur.com/HCbvAiM.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:29.663Z"
+}

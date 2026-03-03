@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UMCTV.co_SD" tvg-name="UMC TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:15.290Z" tvg-logo="https://i.imgur.com/YQUK4wO.png" indexer="playlist-harvester",UMC TV (720p)
+https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8

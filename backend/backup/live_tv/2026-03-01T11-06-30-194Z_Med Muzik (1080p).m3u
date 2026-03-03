@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MedMuzik.tr_SD" tvg-name="Med Muzik (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:30.194Z" tvg-logo="https://i.imgur.com/gtUFmCD.png" indexer="playlist-harvester",Med Muzik (1080p)
+http://54.36.110.140/live3/live3.m3u8

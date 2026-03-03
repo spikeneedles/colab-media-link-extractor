@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MonacoInfo.mc_SD" tvg-name="Monaco Info (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:32.141Z" tvg-logo="https://i.imgur.com/FPyPaL1.png" indexer="playlist-harvester",Monaco Info (1080p)
+https://webtv.monacoinfo.com/live/prod/index.m3u8

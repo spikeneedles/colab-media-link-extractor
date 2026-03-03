@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8",
+  "title": "Mireasa (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Series",
+  "tvgId": "Mireasa.ro@SD",
+  "tvgLogo": "https://i.imgur.com/k0VO0LH.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:31.420Z"
+}

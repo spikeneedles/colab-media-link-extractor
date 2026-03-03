@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="emsTVLingen.de_SD" tvg-name="ems TV Lingen (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.506Z" tvg-logo="https://i.imgur.com/Yo1GMku.png" indexer="playlist-harvester",ems TV Lingen (720p)
+https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8

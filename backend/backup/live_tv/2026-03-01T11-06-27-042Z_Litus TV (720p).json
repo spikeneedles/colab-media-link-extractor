@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8",
+  "title": "Litus TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "LitusTV.ar@SD",
+  "tvgLogo": "https://i.imgur.com/QIGSf4L.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:27.042Z"
+}

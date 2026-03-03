@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NTV.mv_SD" tvg-name="NTV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.877Z" tvg-logo="https://i.imgur.com/jnXpcwV.png" indexer="playlist-harvester",NTV
+https://sstv.ssplay.mv/hls/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8

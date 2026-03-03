@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.castr.com/5da89a909db964293ad13301/live_0950055006c111f18f43137dc9c9d153/index.fmp4.m3u8",
+  "title": "Moca Vision Canal 48 (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "MocaVisionCanal48.do@SD",
+  "tvgLogo": "https://i.imgur.com/vclDXV7.jpeg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:31.858Z"
+}

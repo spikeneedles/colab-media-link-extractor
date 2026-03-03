@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8",
+  "title": "Canal Alpha Neuchatel (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "CanalAlphaNeuchatel.ch@SD",
+  "tvgLogo": "https://i.imgur.com/eQ8xHK9.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:00.670Z"
+}

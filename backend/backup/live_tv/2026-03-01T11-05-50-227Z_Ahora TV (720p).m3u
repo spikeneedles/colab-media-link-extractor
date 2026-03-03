@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AhoraTV.do_SD" tvg-name="Ahora TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:50.227Z" tvg-logo="https://i.imgur.com/dyJyuXc.png" indexer="playlist-harvester",Ahora TV (720p)
+https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8

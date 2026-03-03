@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ZUTV.ro_SD" tvg-name="ZU TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:22.964Z" tvg-logo="https://i.imgur.com/1gtkGhB.png" indexer="playlist-harvester",ZU TV (1080p)
+https://hls.rundletv.eu.org/LIVE$RadioZU/6.m3u8/Level/300720051?end=END&start=LIVE

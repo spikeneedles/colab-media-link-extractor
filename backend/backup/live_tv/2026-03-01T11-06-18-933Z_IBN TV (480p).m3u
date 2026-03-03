@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IBNTV.tz_SD" tvg-name="IBN TV (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.933Z" tvg-logo="https://i.imgur.com/hkV51ij.png" indexer="playlist-harvester",IBN TV (480p)
+http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8

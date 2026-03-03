@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8",
+  "title": "Power Max Radio TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "PowerMaxRadioTV.ar@SD",
+  "tvgLogo": "https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:42.756Z"
+}

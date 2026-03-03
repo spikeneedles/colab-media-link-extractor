@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ACCDigitalNetwork.us_SD" tvg-name="ACCDN (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:49.415Z" tvg-logo="https://i.imgur.com/V6Kaqha.png" indexer="playlist-harvester",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8

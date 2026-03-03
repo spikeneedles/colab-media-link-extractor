@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AkaalChannel.uk_SD" tvg-name="Akaal Channel (396p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:50.290Z" tvg-logo="https://i.imgur.com/K81vNbk.png" indexer="playlist-harvester",Akaal Channel (396p) [Geo-blocked]
+https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8

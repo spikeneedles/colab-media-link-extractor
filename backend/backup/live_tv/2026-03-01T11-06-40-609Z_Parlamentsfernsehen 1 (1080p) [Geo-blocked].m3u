@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de_SD" tvg-name="Parlamentsfernsehen 1 (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.609Z" tvg-logo="https://i.imgur.com/mksEgwx.png" indexer="playlist-harvester",Parlamentsfernsehen 1 (1080p) [Geo-blocked]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8

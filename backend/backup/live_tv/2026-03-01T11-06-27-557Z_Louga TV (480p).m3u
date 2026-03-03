@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LougaTV.sn_SD" tvg-name="Louga TV (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:27.557Z" tvg-logo="https://i.ibb.co/xXZ5kFy/unnamed.jpg" indexer="playlist-harvester",Louga TV (480p)
+https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8

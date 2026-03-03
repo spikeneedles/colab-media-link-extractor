@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CapeTownTV.za_SD" tvg-name="Cape Town TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.576Z" tvg-logo="https://i.imgur.com/Y8FK1Kk.png" indexer="playlist-harvester",Cape Town TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8

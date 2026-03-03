@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://webprod.sipse.com.mx:8080/show/merida.m3u8",
+  "title": "SIPSE TV 8.1 (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "SIPSETV81.mx@SD",
+  "tvgLogo": "https://i.imgur.com/123P7dV.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:54.880Z"
+}

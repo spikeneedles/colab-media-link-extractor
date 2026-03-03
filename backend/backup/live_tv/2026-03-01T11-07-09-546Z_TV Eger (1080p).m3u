@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVEger.hu_SD" tvg-name="TV Eger (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:09.546Z" tvg-logo="https://i.imgur.com/GUVW073.png" indexer="playlist-harvester",TV Eger (1080p)
+http://stream.tveger.hu:8010/live.m3u8

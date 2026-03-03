@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://mumt01.tangotv.in/MNADU/index.m3u8",
+  "title": "M Nadu TV (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "MNaduTV.in@SD",
+  "tvgLogo": "https://jiotvimages.cdn.jio.com/dare_images/images/M_Nadu.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:28.185Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TTV.tw_SD" tvg-name="台视 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:27.399Z" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/512px-TTV_2nd_logo.svg.png" indexer="playlist-harvester",台视 (720p)
+http://162.19.247.76:22222/live/taishi/index.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RomaniaTV.ro_SD" tvg-name="Romania TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:49.545Z" tvg-logo="https://i.imgur.com/ZIfEp5I.png" indexer="playlist-harvester",Romania TV (576p)
+https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8

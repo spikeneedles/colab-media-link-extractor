@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Network10.in_SD" tvg-name="Network 10" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:35.579Z" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png" indexer="playlist-harvester",Network 10
+https://network10.livebox.co.in/network10hls/live.m3u8

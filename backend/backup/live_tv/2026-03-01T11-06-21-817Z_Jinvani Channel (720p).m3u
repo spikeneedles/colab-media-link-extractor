@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JinvaniChannel.in_SD" tvg-name="Jinvani Channel (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:21.817Z" tvg-logo="https://i.imgur.com/lztyGVi.png" indexer="playlist-harvester",Jinvani Channel (720p)
+https://cdn-2.pishow.tv/live/989/master.m3u8

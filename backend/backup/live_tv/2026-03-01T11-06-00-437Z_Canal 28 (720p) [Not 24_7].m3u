@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal28.mx_SD" tvg-name="Canal 28 (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:00.437Z" tvg-logo="https://i.imgur.com/lr4MZFg.png" indexer="playlist-harvester",Canal 28 (720p) [Not 24/7]
+https://stream.castr.com/653d77dcde70014f52ad1e19/live_bf24d4208d8611eeb116dbe87aa63be0/rewind-3600.m3u8

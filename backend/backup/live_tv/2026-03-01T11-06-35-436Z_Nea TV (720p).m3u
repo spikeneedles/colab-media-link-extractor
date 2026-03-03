@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NeaTV.gr_SD" tvg-name="Nea TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:35.436Z" tvg-logo="https://i.imgur.com/nvNW8G7.png" indexer="playlist-harvester",Nea TV (720p)
+https://live.neatv.gr:8888/hls/neatv.m3u8

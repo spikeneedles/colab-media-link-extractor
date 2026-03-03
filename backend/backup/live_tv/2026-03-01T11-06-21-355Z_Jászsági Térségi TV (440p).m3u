@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JaszsagiTersegiTV.hu_SD" tvg-name="Jászsági Térségi TV (440p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:21.355Z" tvg-logo="https://i.imgur.com/bsDN0lH.png" indexer="playlist-harvester",Jászsági Térségi TV (440p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8

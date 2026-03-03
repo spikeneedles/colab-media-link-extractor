@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV8.sk_SD" tvg-name="Televízia OSEM (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:03.278Z" tvg-logo="https://i.imgur.com/Z7URrp1.png" indexer="playlist-harvester",Televízia OSEM (576p)
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://88.212.15.19/live/prima_avc_25p/playlist.m3u8",
+  "title": "Prima (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "Prima.cz@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/512px-Prima_2013.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:43.071Z"
+}

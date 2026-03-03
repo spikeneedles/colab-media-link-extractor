@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChannelOne.ru_Europe" tvg-name="Первый канал Европа" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:24.838Z" tvg-logo="https://i.imgur.com/RUSX0rX.png" indexer="playlist-harvester",Первый канал Европа
+https://streaming.thestream.cyou/live/210.m3u8

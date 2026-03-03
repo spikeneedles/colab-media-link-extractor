@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8",
+  "title": "A7TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "A7TV.ro@SD",
+  "tvgLogo": "https://i.imgur.com/RmFg8BN.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:48.441Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FuerteventuraTV.es_SD" tvg-name="Fuerteventura TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:14.073Z" tvg-logo="https://i.ibb.co/MpvjCzC/Fuerteventura-tv-service-webtv-488969d1-1.png" indexer="playlist-harvester",Fuerteventura TV (1080p)
+https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8

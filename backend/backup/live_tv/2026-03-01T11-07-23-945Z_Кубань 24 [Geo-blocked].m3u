@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Kuban24.ru_SD" tvg-name="Кубань 24 [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:23.945Z" tvg-logo="https://i.imgur.com/atzrXcz.png" indexer="playlist-harvester",Кубань 24 [Geo-blocked]
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8

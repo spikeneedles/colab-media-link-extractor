@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Aflam.sa_SD" tvg-name="Aflam (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:49.871Z" tvg-logo="https://i.imgur.com/cTLj7Yt.png" indexer="playlist-harvester",Aflam (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8

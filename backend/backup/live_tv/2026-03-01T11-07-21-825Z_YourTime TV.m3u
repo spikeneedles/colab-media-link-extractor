@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="YourTimeTV.ir_SD" tvg-name="YourTime TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:21.825Z" tvg-logo="https://i.imgur.com/X38vWJ1.png" indexer="playlist-harvester",YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8

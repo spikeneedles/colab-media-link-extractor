@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ADBTV.pt_SD" tvg-name="ADB TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:49.671Z" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" indexer="playlist-harvester",ADB TV (1080p)
+https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8

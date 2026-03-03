@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sci-Fi_World" tvg-name="Sci-Fi World" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.539Z" indexer="playlist-harvester",Sci-Fi World
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8

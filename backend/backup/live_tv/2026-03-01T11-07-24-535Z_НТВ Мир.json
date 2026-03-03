@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streaming.thestream.cyou/live/213.m3u8",
+  "title": "НТВ Мир",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Culture",
+  "tvgId": "NTVMir.ru@SD",
+  "tvgLogo": "https://i.imgur.com/pUcV46F.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:24.535Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CoolTV.mk_SD" tvg-name="Cool TV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:05.648Z" tvg-logo="https://i.imgur.com/2tFrjUz.png" indexer="playlist-harvester",Cool TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8

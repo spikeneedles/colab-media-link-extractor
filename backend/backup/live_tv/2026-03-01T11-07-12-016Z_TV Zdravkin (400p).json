@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8",
+  "title": "TV Zdravkin (400p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TVZdravkin.mk@SD",
+  "tvgLogo": "https://i.imgur.com/w4rRUNQ.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:12.016Z"
+}

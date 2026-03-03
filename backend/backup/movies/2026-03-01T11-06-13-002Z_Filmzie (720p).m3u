@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Filmzie__720p_" tvg-name="Filmzie (720p)" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:13.002Z" indexer="playlist-harvester",Filmzie (720p)
+https://filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8

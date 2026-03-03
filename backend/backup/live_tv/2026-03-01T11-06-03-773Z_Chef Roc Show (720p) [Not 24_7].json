@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8",
+  "title": "Chef Roc Show (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Cooking",
+  "tvgId": "ChefRocShow.us@SD",
+  "tvgLogo": "https://i.imgur.com/vhVnAzE.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:03.773Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AsharqDocumentary.sa_SD" tvg-name="Asharq Documentary (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:53.787Z" tvg-logo="https://i.imgur.com/v6VsFEt.png" indexer="playlist-harvester",Asharq Documentary (1080p)
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8

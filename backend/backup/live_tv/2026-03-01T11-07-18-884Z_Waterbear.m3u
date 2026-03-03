@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Waterbear" tvg-name="Waterbear" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:18.884Z" indexer="playlist-harvester",Waterbear
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HitradioO3.at_SD" tvg-name="Hitradio O3" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:17.748Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/512px-Hitradio_%C3%963.svg.png" indexer="playlist-harvester",Hitradio O3
+https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd

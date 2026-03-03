@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sport_Fishing_TV" tvg-name="Sport Fishing TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:56.460Z" indexer="playlist-harvester",Sport Fishing TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8

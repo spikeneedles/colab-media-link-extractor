@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8",
+  "title": "Canal 2 (576p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Canal2.cr@SD",
+  "tvgLogo": "https://i.imgur.com/Nn8BtH5.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:59.296Z"
+}

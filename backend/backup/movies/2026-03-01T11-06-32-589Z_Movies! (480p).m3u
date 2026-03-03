@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Movies.us_SD" tvg-name="Movies! (480p)" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:32.589Z" tvg-logo="https://i.imgur.com/gAGn3mK.png" indexer="playlist-harvester",Movies! (480p)
+https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8

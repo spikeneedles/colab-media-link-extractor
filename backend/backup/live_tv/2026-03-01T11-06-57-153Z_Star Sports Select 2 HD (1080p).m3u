@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StarSportsSelect2.in_HD" tvg-name="Star Sports Select 2 HD (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:57.153Z" tvg-logo="https://i.imgur.com/FtRT73R.png" indexer="playlist-harvester",Star Sports Select 2 HD (1080p)
+http://103.113.103.202:8001/play/a02q/index.m3u8

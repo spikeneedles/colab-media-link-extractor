@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LivingAsiaChannel.ph_HD" tvg-name="Living Asia Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:27.135Z" tvg-logo="https://i.imgur.com/q3UToRM.png" indexer="playlist-harvester",Living Asia Channel
+https://streams.comclark.com/pknsd/lac/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8",
+  "title": "TV 38 (360p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TV38.tr@SD",
+  "tvgLogo": "https://i.imgur.com/KDBXLqn.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:08.369Z"
+}

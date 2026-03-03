@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVIAfrica.pt_SD" tvg-name="TVI África (480p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:12.880Z" tvg-logo="https://i.ibb.co/vBbSHB4/Tvi-africa.png" indexer="playlist-harvester",TVI África (480p) [Not 24/7]
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8

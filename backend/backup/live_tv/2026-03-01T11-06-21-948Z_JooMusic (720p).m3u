@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JooMusic.pk_SD" tvg-name="JooMusic (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:21.948Z" tvg-logo="https://i.imgur.com/KHuKQQL.png" indexer="playlist-harvester",JooMusic (720p)
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8

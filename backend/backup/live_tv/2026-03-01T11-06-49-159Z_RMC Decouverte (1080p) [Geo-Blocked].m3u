@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RMCDecouverte.fr_SD" tvg-name="RMC Decouverte (1080p) [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:49.159Z" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/langfr-350px-RMC_D%C3%A9couverte_logo_2017.svg.png" indexer="playlist-harvester",RMC Decouverte (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8

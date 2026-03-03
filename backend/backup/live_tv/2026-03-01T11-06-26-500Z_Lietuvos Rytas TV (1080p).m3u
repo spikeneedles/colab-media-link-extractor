@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LietuvosRytasTV.lt_SD" tvg-name="Lietuvos Rytas TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:26.500Z" tvg-logo="https://i.imgur.com/5wpxVI0.png" indexer="playlist-harvester",Lietuvos Rytas TV (1080p)
+https://live.lietuvosryto.tv/live/hls/eteris.m3u8

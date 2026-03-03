@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://tnt-television.com/MISHAPI-STREAM1/index.m3u8",
+  "title": "Mishapi Voice TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "MishapiVoiceTV.cd@SD",
+  "tvgLogo": "https://i.imgur.com/GfOy2ok.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:31.461Z"
+}

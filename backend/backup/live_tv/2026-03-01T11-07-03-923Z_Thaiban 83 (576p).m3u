@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Thaiban83.th_SD" tvg-name="Thaiban 83 (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:03.923Z" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thaiban-83.png" indexer="playlist-harvester",Thaiban 83 (576p)
+https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8

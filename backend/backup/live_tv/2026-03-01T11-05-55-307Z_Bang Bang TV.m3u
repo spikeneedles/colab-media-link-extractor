@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Bang_Bang_TV" tvg-name="Bang Bang TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:55.307Z" indexer="playlist-harvester",Bang Bang TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8

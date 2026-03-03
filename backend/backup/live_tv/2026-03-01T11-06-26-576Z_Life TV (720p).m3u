@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LifeTV.in_SD" tvg-name="Life TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:26.576Z" tvg-logo="https://i.ibb.co/v1C0bdR/logo-1.png" indexer="playlist-harvester",Life TV (720p)
+https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8

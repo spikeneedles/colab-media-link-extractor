@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8",
+  "title": "WZNT (Zeta 93) (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "Zeta93.pr@SD",
+  "tvgLogo": "https://i.ibb.co/KzqWLZR/images-57.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:21.272Z"
+}

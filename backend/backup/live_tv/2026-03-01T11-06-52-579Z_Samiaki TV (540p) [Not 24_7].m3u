@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SamiakiTV.gr_SD" tvg-name="Samiaki TV (540p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:52.579Z" tvg-logo="https://i.imgur.com/9Pf1we6.png" indexer="playlist-harvester",Samiaki TV (540p) [Not 24/7]
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8

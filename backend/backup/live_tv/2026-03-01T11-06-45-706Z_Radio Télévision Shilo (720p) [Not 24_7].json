@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://watch.haitilive.net/freehb/rtvs/index.m3u8",
+  "title": "Radio Télévision Shilo (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "RadioTelevisionShilo.ht@SD",
+  "tvgLogo": "https://cdn.onlineradiobox.com/img/l/0/98960.v3.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:45.706Z"
+}

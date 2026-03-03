@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HainaVision.do_SD" tvg-name="Haina Vision (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:16.732Z" tvg-logo="https://i.imgur.com/eoodUNJ.png" indexer="playlist-harvester",Haina Vision (720p)
+https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8

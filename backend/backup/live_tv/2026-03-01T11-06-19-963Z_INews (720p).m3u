@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="INews.in_SD" tvg-name="INews (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:19.963Z" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/I_News.png" indexer="playlist-harvester",INews (720p)
+https://cdn-1.pishow.tv/live/411/master.m3u8

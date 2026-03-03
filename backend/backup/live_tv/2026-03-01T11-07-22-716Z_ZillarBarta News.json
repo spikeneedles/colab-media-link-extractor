@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
+  "title": "ZillarBarta News",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Classic;News",
+  "tvgId": "ZillarBartaNews.in@HD",
+  "tvgLogo": "https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:22.716Z"
+}

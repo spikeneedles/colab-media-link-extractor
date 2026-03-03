@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MunchenTV.de_SD" tvg-name="München TV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:33.339Z" tvg-logo="https://i.imgur.com/lt7xNWW.png" indexer="playlist-harvester",München TV (1080p) [Not 24/7]
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8

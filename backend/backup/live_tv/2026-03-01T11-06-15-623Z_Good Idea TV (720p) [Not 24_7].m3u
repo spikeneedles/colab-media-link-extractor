@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GoodIdeaTV.th_SD" tvg-name="Good Idea TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:15.623Z" tvg-logo="https://i.imgur.com/ETgVyTy.png" indexer="playlist-harvester",Good Idea TV (720p) [Not 24/7]
+http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8

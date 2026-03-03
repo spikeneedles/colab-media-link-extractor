@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AbaiTV.kz_SD" tvg-name="Abai TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.727Z" tvg-logo="https://i.imgur.com/Nw2R7Dq.png" indexer="playlist-harvester",Abai TV (720p)
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8

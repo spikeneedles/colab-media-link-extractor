@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8",
+  "title": "QVC UK Extra (540p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Shop",
+  "tvgId": "QVCExtra.uk@SD",
+  "tvgLogo": "https://i.imgur.com/TIe5T9Z.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:44.501Z"
+}

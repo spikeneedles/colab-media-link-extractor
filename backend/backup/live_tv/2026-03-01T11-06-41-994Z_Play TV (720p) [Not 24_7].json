@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
+  "title": "Play TV (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "PlayTV.cm@SD",
+  "tvgLogo": "https://i.imgur.com/1dmBqpf.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:41.994Z"
+}

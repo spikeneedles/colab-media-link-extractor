@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RegioTVSchwaben.de_SD" tvg-name="Regio TV Schwaben (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:48.297Z" tvg-logo="https://i.imgur.com/3koyLef.png" indexer="playlist-harvester",Regio TV Schwaben (1080p)
+https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8

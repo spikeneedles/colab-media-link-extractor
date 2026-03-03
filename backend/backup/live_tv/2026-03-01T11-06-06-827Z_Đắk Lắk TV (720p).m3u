@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DakLakTV.vn_HD" tvg-name="Đắk Lắk TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.827Z" tvg-logo="https://i.imgur.com/gFfZvTW.png" indexer="playlist-harvester",Đắk Lắk TV (720p)
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Goa365.in_SD" tvg-name="Goa365 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:15.299Z" tvg-logo="https://www.goa365.tv/images/GOA-365-Logo.jpg" indexer="playlist-harvester",Goa365 (1080p)
+https://ktismaservers.in:3086/live/goa365live.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8",
+  "title": "TeleBrunca (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TeleBrunca.cr@SD",
+  "tvgLogo": "https://i.imgur.com/m3xu6Ms.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:01.300Z"
+}

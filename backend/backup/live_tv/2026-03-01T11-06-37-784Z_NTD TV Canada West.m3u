@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NTDTVCanada.us_West" tvg-name="NTD TV Canada West" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.784Z" tvg-logo="https://i.imgur.com/iyFXcDy.png" indexer="playlist-harvester",NTD TV Canada West
+https://live.ntdtv.com/cwlive220/playlist.m3u8

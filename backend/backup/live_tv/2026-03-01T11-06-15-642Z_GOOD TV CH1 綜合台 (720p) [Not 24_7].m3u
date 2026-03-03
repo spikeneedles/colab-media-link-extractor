@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GoodTV.tw_SD" tvg-name="GOOD TV CH1 綜合台 (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:15.642Z" tvg-logo="https://i.imgur.com/k28Kc3o.png" indexer="playlist-harvester",GOOD TV CH1 綜合台 (720p) [Not 24/7]
+https://live.streamingfast.net/osmflivech1.m3u8

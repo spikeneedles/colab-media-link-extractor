@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DCC.us_SD" tvg-name="DC Council Channel (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:07.133Z" tvg-logo="https://i.imgur.com/YBWbiWZ.png" indexer="playlist-harvester",DC Council Channel (1080p)
+https://video.oct.dc.gov/out/u/15_12.m3u8

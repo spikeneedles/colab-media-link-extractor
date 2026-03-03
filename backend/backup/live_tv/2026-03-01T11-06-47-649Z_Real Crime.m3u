@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Real_Crime" tvg-name="Real Crime" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:47.649Z" indexer="playlist-harvester",Real Crime
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8

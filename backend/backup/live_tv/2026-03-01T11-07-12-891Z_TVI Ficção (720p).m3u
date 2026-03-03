@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVIFiccao.pt_SD" tvg-name="TVI Ficção (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:12.891Z" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" indexer="playlist-harvester",TVI Ficção (720p)
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8

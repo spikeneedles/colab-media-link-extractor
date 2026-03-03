@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DAAITV.id_SD" tvg-name="DAAI TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.794Z" tvg-logo="https://i.imgur.com/YC7JCHo.png" indexer="playlist-harvester",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8

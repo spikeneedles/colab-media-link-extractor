@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ZillarBartaNews.in_HD" tvg-name="ZillarBarta News" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:22.716Z" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png" indexer="playlist-harvester",ZillarBarta News
+https://server.zillarbarta.com/zillarbarta/index.m3u8

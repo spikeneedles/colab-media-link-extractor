@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Majid.ae_HD" tvg-name="Majid (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:28.647Z" tvg-logo="https://i.imgur.com/TzOKMMy.png" indexer="playlist-harvester",Majid (1080p)
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8

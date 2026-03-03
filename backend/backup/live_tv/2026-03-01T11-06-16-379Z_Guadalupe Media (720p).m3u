@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GuadalupeMedia.bz_SD" tvg-name="Guadalupe Media (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:16.379Z" tvg-logo="https://i.imgur.com/EfaOwRE.png" indexer="playlist-harvester",Guadalupe Media (720p)
+https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8

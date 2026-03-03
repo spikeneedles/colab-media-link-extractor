@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8",
+  "title": "NS Home Shopping (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Shop",
+  "tvgId": "NSHomeShopping.kr@SD",
+  "tvgLogo": "https://i.imgur.com/Q9xsDQo.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:37.659Z"
+}

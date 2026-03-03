@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Nachrichten360.de_HD" tvg-name="Nachrichten 360 (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:33.985Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4300003MR_20251209T125847SQUARE.png" indexer="playlist-harvester",Nachrichten 360 (1080p) [Geo-blocked]
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8

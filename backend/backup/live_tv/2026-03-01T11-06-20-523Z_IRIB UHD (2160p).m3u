@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IRIBUHD.ir_4K" tvg-name="IRIB UHD (2160p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:20.523Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/320px-IRIB_FARATAR_UHD.png" indexer="playlist-harvester",IRIB UHD (2160p)
+https://ncdn.telewebion.com/faratar/live/playlist.m3u8

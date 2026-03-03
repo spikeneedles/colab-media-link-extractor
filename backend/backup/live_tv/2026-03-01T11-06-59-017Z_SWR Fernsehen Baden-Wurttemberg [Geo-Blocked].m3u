@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SWRFernsehenBadenWurttemberg.de_SD" tvg-name="SWR Fernsehen Baden-Wurttemberg [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.017Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/512px-SWR_Logo_2023.svg.png" indexer="playlist-harvester",SWR Fernsehen Baden-Wurttemberg [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8

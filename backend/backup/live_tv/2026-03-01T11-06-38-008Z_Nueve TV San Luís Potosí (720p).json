@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8",
+  "title": "Nueve TV San Luís Potosí (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "NueveTV.mx@SD",
+  "tvgLogo": "https://i.imgur.com/3fzB7zY.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:38.008Z"
+}

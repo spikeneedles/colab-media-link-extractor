@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ACLCornholeTV.us_SD" tvg-name="ACL Cornhole TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:49.577Z" tvg-logo="https://i.imgur.com/lBIq2ZD.png" indexer="playlist-harvester",ACL Cornhole TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/aclco.m3u8?ads.vf=NbEpkTCqk8a

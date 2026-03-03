@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Couleur3.ch_SD" tvg-name="Couleur 3 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:05.830Z" tvg-logo="https://i.imgur.com/VOIwYYd.png" indexer="playlist-harvester",Couleur 3 (720p)
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8

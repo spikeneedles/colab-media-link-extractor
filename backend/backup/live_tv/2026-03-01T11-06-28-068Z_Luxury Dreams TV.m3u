@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Luxury_Dreams_TV" tvg-name="Luxury Dreams TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:28.068Z" indexer="playlist-harvester",Luxury Dreams TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f8307f7-cae4-4b19-afc0-32f4ba4ab4d0/manifest.m3u8

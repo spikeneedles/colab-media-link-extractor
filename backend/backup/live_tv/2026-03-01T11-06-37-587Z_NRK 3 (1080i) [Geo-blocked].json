@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8",
+  "title": "NRK 3 (1080i) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "NRK3.no@SD",
+  "tvgLogo": "https://i.imgur.com/TNhV2I7.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:37.587Z"
+}

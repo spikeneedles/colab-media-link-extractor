@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SuperscreenTV.ng_SD" tvg-name="Superscreen TV (412p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:58.566Z" tvg-logo="https://i.imgur.com/uTNmSWE.png" indexer="playlist-harvester",Superscreen TV (412p)
+https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8

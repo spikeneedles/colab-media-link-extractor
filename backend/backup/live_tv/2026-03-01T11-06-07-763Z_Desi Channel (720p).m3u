@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DesiChannel.in_SD" tvg-name="Desi Channel (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:07.763Z" tvg-logo="https://desichannel.in/wp-content/uploads/2025/01/desi-channel.png" indexer="playlist-harvester",Desi Channel (720p)
+https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8

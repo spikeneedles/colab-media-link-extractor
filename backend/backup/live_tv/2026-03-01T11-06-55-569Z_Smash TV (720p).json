@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8",
+  "title": "Smash TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "SmashTV.mt@SD",
+  "tvgLogo": "https://i.imgur.com/Yg6ZWKu.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:55.569Z"
+}

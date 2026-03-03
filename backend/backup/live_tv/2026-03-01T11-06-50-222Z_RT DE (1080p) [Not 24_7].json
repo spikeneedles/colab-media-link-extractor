@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
+  "title": "RT DE (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "RTDE.de@SD",
+  "tvgLogo": "https://i.imgur.com/v1PIbB2.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:50.222Z"
+}

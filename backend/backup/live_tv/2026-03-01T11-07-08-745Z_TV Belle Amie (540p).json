@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://92.60.238.10:1935/live/belleamie/playlist.m3u8",
+  "title": "TV Belle Amie (540p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "BelleAmie.rs@SD",
+  "tvgLogo": "https://i.imgur.com/tOlN5Rz.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:08.745Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WaffiTV.ng_SD" tvg-name="Waffi TV (240p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:18.642Z" tvg-logo="https://i.imgur.com/3uEuzVH.jpeg" indexer="playlist-harvester",Waffi TV (240p)
+https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8

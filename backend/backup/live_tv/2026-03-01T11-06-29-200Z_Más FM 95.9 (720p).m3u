@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MasFM.ar_SD" tvg-name="Más FM 95.9 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.200Z" tvg-logo="https://i.imgur.com/TJ4gWQM.png" indexer="playlist-harvester",Más FM 95.9 (720p)
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8

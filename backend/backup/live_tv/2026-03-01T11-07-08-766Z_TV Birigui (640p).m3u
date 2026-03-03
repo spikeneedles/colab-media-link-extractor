@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVBirigui.br_SD" tvg-name="TV Birigui (640p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:08.766Z" tvg-logo="https://i.imgur.com/z7VlNLR.png" indexer="playlist-harvester",TV Birigui (640p)
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8

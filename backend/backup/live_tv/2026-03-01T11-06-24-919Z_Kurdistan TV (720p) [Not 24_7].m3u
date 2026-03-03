@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KurdistanTV.iq_SD" tvg-name="Kurdistan TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.919Z" tvg-logo="https://i.imgur.com/mjQptpc.png" indexer="playlist-harvester",Kurdistan TV (720p) [Not 24/7]
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8

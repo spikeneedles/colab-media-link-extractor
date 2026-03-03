@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8",
+  "title": "Yoshlar (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Yoshlar.uz@SD",
+  "tvgLogo": "https://i.imgur.com/s4xfUSx.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:21.786Z"
+}

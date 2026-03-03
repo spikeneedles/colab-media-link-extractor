@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FarraPlay.py_SD" tvg-name="Farra Play (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:12.522Z" tvg-logo="https://i.imgur.com/bXWzstH.png" indexer="playlist-harvester",Farra Play (720p) [Not 24/7]
+http://159.203.148.226/live/farra.m3u8

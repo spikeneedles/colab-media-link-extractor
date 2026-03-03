@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://hls.tmtv.live/hls/stream.m3u8",
+  "title": "TM TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TMTV.us@SD",
+  "tvgLogo": "https://tmlive.tv/wp-content/uploads/2018/07/immigration-consultants-network-en-.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:05.104Z"
+}

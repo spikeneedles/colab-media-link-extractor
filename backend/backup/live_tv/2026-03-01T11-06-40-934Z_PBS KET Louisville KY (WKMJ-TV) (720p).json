@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8",
+  "title": "PBS KET Louisville KY (WKMJ-TV) (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Education",
+  "tvgId": "WKMJDT1.us@SD",
+  "tvgLogo": "https://i.imgur.com/U9HFzJk.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:40.934Z"
+}

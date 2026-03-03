@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8",
+  "title": "Catve Master TV (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "CatveMasterTV.br@SD",
+  "tvgLogo": "https://i.imgur.com/4m7Iazm.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:01.897Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Curiosity_Now__1080p_" tvg-name="Curiosity Now (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.548Z" indexer="playlist-harvester",Curiosity Now (1080p)
+https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8

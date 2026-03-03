@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DR1.dk_SD" tvg-name="DR1 (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:08.872Z" tvg-logo="https://i.imgur.com/OETzsOI.png" indexer="playlist-harvester",DR1 (1080p) [Geo-blocked]
+https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GoldminesMovies.in_SD" tvg-name="Goldmines Movies (576p)" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:15.539Z" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/GoldminesMovies_Transparent_9b7db248-999e-4200-a459-6cc594650f3d.png" indexer="playlist-harvester",Goldmines Movies (576p)
+http://103.78.149.54:8000/play/a01i/index.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FMNews.in_SD" tvg-name="FM News (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:13.247Z" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FM_News.png" indexer="playlist-harvester",FM News (576p)
+http://103.78.149.54:8000/play/a03q/index.m3u8

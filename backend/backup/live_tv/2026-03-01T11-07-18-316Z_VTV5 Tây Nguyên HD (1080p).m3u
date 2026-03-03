@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VTV5TayNguyen.vn_HD" tvg-name="VTV5 Tây Nguyên HD (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:18.316Z" tvg-logo="https://i.imgur.com/Hlcnqqt.png" indexer="playlist-harvester",VTV5 Tây Nguyên HD (1080p)
+https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8

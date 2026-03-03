@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://busuioctv.iforward.eu/hls/busuioc.m3u8",
+  "title": "Busuioc TV (540p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "BusuiocTV.md@SD",
+  "tvgLogo": "https://i.imgur.com/CQtfBPu.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:58.667Z"
+}

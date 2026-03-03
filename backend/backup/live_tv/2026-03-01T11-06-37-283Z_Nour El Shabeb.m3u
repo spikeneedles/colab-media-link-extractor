@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NourElShabeb.lb_SD" tvg-name="Nour El Shabeb" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.283Z" tvg-logo="https://i.imgur.com/cNr0vl1.png" indexer="playlist-harvester",Nour El Shabeb
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8

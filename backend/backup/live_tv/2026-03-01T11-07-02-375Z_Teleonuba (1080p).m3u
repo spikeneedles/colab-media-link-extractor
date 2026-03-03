@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Teleonuba.es_SD" tvg-name="Teleonuba (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:02.375Z" tvg-logo="https://i.imgur.com/cHMfmO7.png" indexer="playlist-harvester",Teleonuba (1080p)
+https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8",
+  "title": "LN24SA (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "LN24SA.za@SD",
+  "tvgLogo": "https://i.imgur.com/Hg5YTwu.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:27.204Z"
+}

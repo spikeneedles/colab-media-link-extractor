@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVSugd.tj_SD" tvg-name="TV Sugd (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:11.457Z" tvg-logo="https://i.imgur.com/YzkwTHb.png" indexer="playlist-harvester",TV Sugd (1080p)
+https://live.teleradiocom.tj/14/3m.m3u8

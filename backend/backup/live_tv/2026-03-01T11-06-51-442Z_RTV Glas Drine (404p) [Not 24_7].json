@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8",
+  "title": "RTV Glas Drine (404p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General;Music",
+  "tvgId": "RTVGlasDrine.ba@SD",
+  "tvgLogo": "https://i.imgur.com/9NgxOdb.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:51.442Z"
+}

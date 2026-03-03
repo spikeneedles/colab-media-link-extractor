@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MTA4Africa.uk_SD" tvg-name="MTA4 Africa (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:32.914Z" tvg-logo="https://i.imgur.com/lmVeQQX.png" indexer="playlist-harvester",MTA4 Africa (1080p)
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8

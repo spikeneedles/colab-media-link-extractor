@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PGTV.bz_SD" tvg-name="PGTV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:41.654Z" tvg-logo="https://i.imgur.com/GwDoH4C.png" indexer="playlist-harvester",PGTV (720p)
+https://streamer2.nexgen.bz/16-PGTV/index.m3u8

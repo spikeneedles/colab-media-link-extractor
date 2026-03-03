@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8",
+  "title": "Aviva TV (288p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "AvivaTV.hn@SD",
+  "tvgLogo": "https://i.imgur.com/0jMM4TQ.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:54.670Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AbanteTV.ph_HD" tvg-name="Abante TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.742Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" indexer="playlist-harvester",Abante TV (1080p)
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8

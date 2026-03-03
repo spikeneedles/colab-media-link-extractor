@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MonteCarloDigitalTelevision.fr_HD" tvg-name="Monte Carlo Digital Television (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:32.218Z" tvg-logo="https://i.imgur.com/99h8F1y.jpeg" indexer="playlist-harvester",Monte Carlo Digital Television (1080p)
+https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8

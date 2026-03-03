@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8",
+  "title": "OEPM TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Travel",
+  "tvgId": "OEPMTV.do@SD",
+  "tvgLogo": "https://i.imgur.com/QghtwMB.jpeg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:38.455Z"
+}

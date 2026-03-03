@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RamaChannel.th_SD" tvg-name="Rama Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:47.226Z" tvg-logo="https://i.imgur.com/pnbzE2V.png" indexer="playlist-harvester",Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8

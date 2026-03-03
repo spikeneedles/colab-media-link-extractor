@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VPItv.ve_SD" tvg-name="VPItv (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:18.085Z" tvg-logo="https://i.imgur.com/X5hyKU8.png" indexer="playlist-harvester",VPItv (1080p)
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://tnt-television.com/COMPASSION_FM/index.m3u8",
+  "title": "Compassion TV (240p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "CompassionTV.cd@SD",
+  "tvgLogo": "https://i.imgur.com/lfoUsyR.jpeg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:05.327Z"
+}

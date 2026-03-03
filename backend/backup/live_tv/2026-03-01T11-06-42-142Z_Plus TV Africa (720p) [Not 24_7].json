@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8",
+  "title": "Plus TV Africa (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "PlusTVAfrica.ng@SD",
+  "tvgLogo": "https://i.imgur.com/6RT3yao.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:42.142Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalTerresdelEbre.es_SD" tvg-name="Canal Terres de L'Ebre (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.245Z" tvg-logo="https://i.ibb.co/3ynghbW/logox2.png" indexer="playlist-harvester",Canal Terres de L'Ebre (1080p)
+https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8

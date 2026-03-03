@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
+  "title": "HTSpor TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "HTSporTV.tr@SD",
+  "tvgLogo": "https://www.htspor.com/images/manifest/social-share-logo.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:18.503Z"
+}

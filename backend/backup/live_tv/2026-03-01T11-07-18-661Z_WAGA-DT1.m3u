@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WAGADT1.us_SD" tvg-name="WAGA-DT1" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:18.661Z" tvg-logo="https://i.imgur.com/DcZoeGw.jpg" indexer="playlist-harvester",WAGA-DT1
+https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8

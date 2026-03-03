@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UlkeTV.tr_SD" tvg-name="Ülke TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:15.239Z" tvg-logo="https://i.imgur.com/wdWR7Qk.png" indexer="playlist-harvester",Ülke TV (720p)
+https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8

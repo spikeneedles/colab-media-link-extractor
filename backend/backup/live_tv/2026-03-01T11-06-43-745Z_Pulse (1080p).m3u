@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Pulse__1080p_" tvg-name="Pulse (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:43.745Z" indexer="playlist-harvester",Pulse (1080p)
+https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg01076-lightningintern-pulse-samsungau/playlist.m3u8

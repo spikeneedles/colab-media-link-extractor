@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Digi24.ro_SD" tvg-name="Digi 24 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:07.975Z" tvg-logo="https://i.imgur.com/qmRnD0M.png" indexer="playlist-harvester",Digi 24 (720p)
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8

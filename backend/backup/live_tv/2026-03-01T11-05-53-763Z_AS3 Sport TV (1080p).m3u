@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AS3SportTV.ve_SD" tvg-name="AS3 Sport TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:53.763Z" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" indexer="playlist-harvester",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8

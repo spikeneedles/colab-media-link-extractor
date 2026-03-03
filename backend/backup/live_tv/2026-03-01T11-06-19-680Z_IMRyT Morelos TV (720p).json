@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8",
+  "title": "IMRyT Morelos TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "IMRyT.mx@SD",
+  "tvgLogo": "https://i.imgur.com/D91O6ka.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:19.680Z"
+}

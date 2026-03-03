@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
+  "title": "Teleplay Sureste (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "TeleplaySureste.mx@SD",
+  "tvgLogo": "https://i.imgur.com/MeV5N08.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:02.478Z"
+}

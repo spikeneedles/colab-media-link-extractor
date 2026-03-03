@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://cdn-s-lb2.pluscdn.pl/lv/1517832/351/dash/2699af69/live.mpd",
+  "title": "Gramy Dalej (1080p) [Geo-blocked]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "GramyDalej.pl@SD",
+  "tvgLogo": "https://ipla-e1-83.pluscdn.pl/img/p/owHqr0SI-u_e/1920x1080/p/cms_thumbnails/67/67aaiss1ib3pm7vnxheqv7eaitj1er8h.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:16.079Z"
+}

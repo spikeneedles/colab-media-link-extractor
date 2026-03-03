@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VelayatTV.ir_SD" tvg-name="Velayat TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:16.609Z" tvg-logo="https://static.telewebion.com/channelsLogo/ae05de5b-9fe4-4012-900a-4d0763d6fafc/default" indexer="playlist-harvester",Velayat TV
+https://ncdn.telewebion.com/velayat/live/playlist.m3u8

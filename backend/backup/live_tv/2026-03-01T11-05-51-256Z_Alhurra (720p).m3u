@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Alhurra.us_SD" tvg-name="Alhurra (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:51.256Z" tvg-logo="https://i.imgur.com/tiQp2sR.png" indexer="playlist-harvester",Alhurra (720p)
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8

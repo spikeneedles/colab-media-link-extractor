@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ErzurumWebTV.tr_SD" tvg-name="Erzurum Web TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.968Z" tvg-logo="https://i.imgur.com/HF7N4Li.png" indexer="playlist-harvester",Erzurum Web TV (720p)
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8

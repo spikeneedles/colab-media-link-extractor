@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NWMagazine.tg_SD" tvg-name="NW Magazine (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:38.170Z" tvg-logo="https://i.imgur.com/RZNJZYN.png" indexer="playlist-harvester",NW Magazine (576p)
+https://hls.newworldtv.com/nw-magazine/video/live.m3u8

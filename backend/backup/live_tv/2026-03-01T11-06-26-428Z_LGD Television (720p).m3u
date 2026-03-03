@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LGDTelevision.ve_SD" tvg-name="LGD Television (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:26.428Z" tvg-logo="https://i.imgur.com/a9E0DTY.jpeg" indexer="playlist-harvester",LGD Television (720p)
+https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8

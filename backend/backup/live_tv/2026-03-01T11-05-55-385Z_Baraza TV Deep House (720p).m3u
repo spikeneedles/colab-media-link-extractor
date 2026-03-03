@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BarazaTVDeepHouse.gr_SD" tvg-name="Baraza TV Deep House (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:55.385Z" tvg-logo="https://i.imgur.com/TZ1unwF.png" indexer="playlist-harvester",Baraza TV Deep House (720p)
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8",
+  "title": "Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "CJBRDT.ca@SD",
+  "tvgLogo": "https://i.imgur.com/1B3d8Jc.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:19.065Z"
+}

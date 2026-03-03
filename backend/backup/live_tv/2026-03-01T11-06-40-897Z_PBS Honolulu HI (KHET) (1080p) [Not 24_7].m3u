@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KHETDT1.us_SD" tvg-name="PBS Honolulu HI (KHET) (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.897Z" tvg-logo="https://i.imgur.com/O5uOeQh.png" indexer="playlist-harvester",PBS Honolulu HI (KHET) (1080p) [Not 24/7]
+https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8

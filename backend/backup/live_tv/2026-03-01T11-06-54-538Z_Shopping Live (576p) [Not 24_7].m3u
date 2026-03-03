@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ShoppingLive.ru_SD" tvg-name="Shopping Live (576p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:54.538Z" tvg-logo="https://i.imgur.com/EMmGnjV.png" indexer="playlist-harvester",Shopping Live (576p) [Not 24/7]
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8

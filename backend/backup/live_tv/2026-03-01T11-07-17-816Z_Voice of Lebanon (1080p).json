@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8",
+  "title": "Voice of Lebanon (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "VoiceofLebanon.lb@SD",
+  "tvgLogo": "https://i.imgur.com/f8WcqRY.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:17.816Z"
+}

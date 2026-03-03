@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV4.tr_SD" tvg-name="TV4 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:07.766Z" tvg-logo="https://i.imgur.com/UpsQsbd.png" indexer="playlist-harvester",TV4 (720p)
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8

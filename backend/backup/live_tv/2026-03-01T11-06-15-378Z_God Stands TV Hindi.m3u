@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GodStandsTV.pk_Hindi" tvg-name="God Stands TV Hindi" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:15.378Z" tvg-logo="https://i.imgur.com/EO6cYUI.png" indexer="playlist-harvester",God Stands TV Hindi
+https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8

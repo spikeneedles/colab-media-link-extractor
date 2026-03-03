@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FMTV.uk_SD" tvg-name="Frecuencia Musical TV [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:13.878Z" tvg-logo="https://i.imgur.com/vPxvbVv.png" indexer="playlist-harvester",Frecuencia Musical TV [Not 24/7]
+https://s2.tvdatta.com:3307/hybrid/play.m3u8

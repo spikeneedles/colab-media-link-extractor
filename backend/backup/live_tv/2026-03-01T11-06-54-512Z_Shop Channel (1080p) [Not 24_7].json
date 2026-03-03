@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream3.shopch.jp/HLS/master.m3u8",
+  "title": "Shop Channel (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Shop",
+  "tvgId": "ShopChannel.jp@SD",
+  "tvgLogo": "https://www.shopch.jp/com/images/common/logo_2021.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:54.512Z"
+}

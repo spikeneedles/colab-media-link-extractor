@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RedPlus.co_SD" tvg-name="Red+ (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:48.071Z" tvg-logo="https://i.imgur.com/kuqkTMC.png" indexer="playlist-harvester",Red+ (1080p)
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8

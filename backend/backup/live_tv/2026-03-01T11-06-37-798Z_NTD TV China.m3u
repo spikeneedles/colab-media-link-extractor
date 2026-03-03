@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NTDTVChina.us_SD" tvg-name="NTD TV China" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.798Z" tvg-logo="https://i.imgur.com/OpWTWdh.png" indexer="playlist-harvester",NTD TV China
+https://live.ntdtv.com/cnlive900/playlist.m3u8

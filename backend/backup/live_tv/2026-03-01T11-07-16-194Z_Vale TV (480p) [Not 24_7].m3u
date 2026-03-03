@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ValeTV.ve_SD" tvg-name="Vale TV (480p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:16.194Z" tvg-logo="https://i.imgur.com/NMI2Wed.png" indexer="playlist-harvester",Vale TV (480p) [Not 24/7]
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8

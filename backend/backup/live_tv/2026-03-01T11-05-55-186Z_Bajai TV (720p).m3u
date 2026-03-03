@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BajaiTV.hu_SD" tvg-name="Bajai TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:55.186Z" tvg-logo="https://i.imgur.com/cyReGWh.png" indexer="playlist-harvester",Bajai TV (720p)
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8

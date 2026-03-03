@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streaming.televizor-24-tochka.ru/live/20.m3u8",
+  "title": "МузТВ",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "MuzTV.ru@SD",
+  "tvgLogo": "https://i.imgur.com/BtqrHmz.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:24.263Z"
+}

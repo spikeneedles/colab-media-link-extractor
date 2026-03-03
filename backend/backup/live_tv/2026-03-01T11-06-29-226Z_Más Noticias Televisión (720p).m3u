@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MasNoticiasTelevision.hn_SD" tvg-name="Más Noticias Televisión (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.226Z" tvg-logo="https://i.imgur.com/FG4nfRX.jpg" indexer="playlist-harvester",Más Noticias Televisión (720p)
+https://www.amixtv.com:8081/mntvh/index.m3u8

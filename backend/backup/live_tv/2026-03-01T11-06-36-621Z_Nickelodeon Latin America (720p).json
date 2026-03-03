@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://179.51.136.19:8000/play/a0q4/index.m3u8",
+  "title": "Nickelodeon Latin America (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Kids",
+  "tvgId": "NickelodeonLatinAmerica.us@Panregional",
+  "tvgLogo": "https://i.imgur.com/E84jnP8.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:36.621Z"
+}

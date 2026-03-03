@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVSLO1.si_HD" tvg-name="TV SLO 1 HD (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:11.340Z" tvg-logo="https://i.imgur.com/E3YmlxF.png" indexer="playlist-harvester",TV SLO 1 HD (1080p) [Not 24/7]
+http://23.88.66.93/SLO1/index.m3u8

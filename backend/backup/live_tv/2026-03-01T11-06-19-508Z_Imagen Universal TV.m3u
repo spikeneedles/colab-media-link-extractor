@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ImagenUniversalTV.do_SD" tvg-name="Imagen Universal TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:19.508Z" tvg-logo="https://i.imgur.com/DP6HmDV.png" indexer="playlist-harvester",Imagen Universal TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8

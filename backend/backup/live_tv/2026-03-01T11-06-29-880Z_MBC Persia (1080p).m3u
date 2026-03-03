@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MBCPersia.ae_SD" tvg-name="MBC Persia (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.880Z" tvg-logo="https://i.imgur.com/4FXiyjn.png" indexer="playlist-harvester",MBC Persia (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8

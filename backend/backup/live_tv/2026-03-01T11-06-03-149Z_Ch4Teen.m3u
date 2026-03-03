@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ch4Teen.kw_SD" tvg-name="Ch4Teen" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.149Z" tvg-logo="https://i.imgur.com/pHpFGeg.png" indexer="playlist-harvester",Ch4Teen
+https://ch14.tv/live/ch4teenclip/playlist.m3u8

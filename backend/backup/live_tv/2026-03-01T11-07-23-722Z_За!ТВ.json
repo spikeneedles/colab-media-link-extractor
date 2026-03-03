@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streaming.televizor-24-tochka.ru/live/25.m3u8",
+  "title": "За!ТВ",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "ZaTV.ru@SD",
+  "tvgLogo": "https://i.imgur.com/pVPTl8J.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:23.722Z"
+}

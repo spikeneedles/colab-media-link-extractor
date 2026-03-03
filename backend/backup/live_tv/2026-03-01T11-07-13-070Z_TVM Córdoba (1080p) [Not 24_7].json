@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8",
+  "title": "TVM Córdoba (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TVMCordoba.es@SD",
+  "tvgLogo": "https://i.imgur.com/jN5k8Ob.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:13.070Z"
+}

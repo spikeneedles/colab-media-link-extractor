@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlSaudiya.sa_SD" tvg-name="Al Saudiya (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:50.811Z" tvg-logo="https://i.imgur.com/GRQTndk.png" indexer="playlist-harvester",Al Saudiya (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8

@@ -2,7 +2,7 @@ import axios, { AxiosInstance } from 'axios'
 import * as cheerio from 'cheerio'
 import { URL } from 'url'
 
-interface CrawlResult {
+export interface CrawlResult {
   url: string
   title: string
   timestamp: Date

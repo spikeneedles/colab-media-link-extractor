@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8",
+  "title": "IRINN2",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "IRINN2.ir@SD",
+  "tvgLogo": "https://i.imgur.com/8tzsC9h.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:20.561Z"
+}

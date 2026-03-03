@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VasarhelyiTelevizio.hu_SD" tvg-name="Vásárhelyi Televízió (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:16.411Z" tvg-logo="https://i.imgur.com/WOEqdmx.png" indexer="playlist-harvester",Vásárhelyi Televízió (576p)
+https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8

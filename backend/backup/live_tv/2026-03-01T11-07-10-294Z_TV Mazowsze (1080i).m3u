@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVMazowsze.pl_SD" tvg-name="TV Mazowsze (1080i)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:10.294Z" tvg-logo="https://zapodaj.net/thumbs/821c90c93eee6.jpg" indexer="playlist-harvester",TV Mazowsze (1080i)
+http://stream.tvmazowsze.pl:5920/tmp_hls/stream/index.m3u8

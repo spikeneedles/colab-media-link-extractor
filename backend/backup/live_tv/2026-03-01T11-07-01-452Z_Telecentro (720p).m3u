@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telecentro.ve_SD" tvg-name="Telecentro (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:01.452Z" tvg-logo="https://i.imgur.com/QtRNfaj.png" indexer="playlist-harvester",Telecentro (720p)
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de_SD" tvg-name="ProSieben Maxx (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:43.421Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/512px-ProSieben_MAXX_Logo.svg.png" indexer="playlist-harvester",ProSieben Maxx (576p)
+http://79.232.88.203:9981/stream/channelid/1038721938

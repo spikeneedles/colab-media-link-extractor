@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JusticiaTV.mx_SD" tvg-name="Justicia TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:22.217Z" tvg-logo="https://i.imgur.com/zyAS1hk.png" indexer="playlist-harvester",Justicia TV (720p)
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8

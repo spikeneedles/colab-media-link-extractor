@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh_SD" tvg-name="Rasmey Hang Meas HDTV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:47.381Z" tvg-logo="https://i.imgur.com/EcqEMMg.png" indexer="playlist-harvester",Rasmey Hang Meas HDTV (720p) [Not 24/7]
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8

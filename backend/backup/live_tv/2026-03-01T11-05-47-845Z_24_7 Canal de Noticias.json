@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8",
+  "title": "24/7 Canal de Noticias",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "247CanaldeNoticias.ar@SD",
+  "tvgLogo": "https://i.imgur.com/4hDCB1M.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:47.845Z"
+}

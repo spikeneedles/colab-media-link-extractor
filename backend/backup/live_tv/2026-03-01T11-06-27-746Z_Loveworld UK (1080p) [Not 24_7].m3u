@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LoveWorldUK.ng" tvg-name="Loveworld UK (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:27.746Z" tvg-logo="https://i.imgur.com/JgHbDmF.png" indexer="playlist-harvester",Loveworld UK (1080p) [Not 24/7]
+https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="QVC.jp_SD" tvg-name="QVC Japan (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:44.458Z" tvg-logo="https://i.imgur.com/6TWUVrh.png" indexer="playlist-harvester",QVC Japan (720p)
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8

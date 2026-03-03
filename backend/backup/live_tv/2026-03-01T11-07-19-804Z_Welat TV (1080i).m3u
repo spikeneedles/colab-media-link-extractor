@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WelatTV.sy_HD" tvg-name="Welat TV (1080i)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:19.804Z" tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4" indexer="playlist-harvester",Welat TV (1080i)
+https://stream.badinan.xyz/welat/tv/playlist.m3u8

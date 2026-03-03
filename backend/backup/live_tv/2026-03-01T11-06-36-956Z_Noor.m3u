@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NoorTV.ir_SD" tvg-name="Noor" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:36.956Z" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/c/ce/Qum_Noor_TV.svg/288px-Qum_Noor_TV.svg.png" indexer="playlist-harvester",Noor
+https://ncdn.telewebion.com/noor/live/playlist.m3u8

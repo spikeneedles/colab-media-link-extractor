@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KCAT.us_SD" tvg-name="KCAT Public Media TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:23.412Z" tvg-logo="https://i.imgur.com/ZAypRkk.png" indexer="playlist-harvester",KCAT Public Media TV (1080p)
+https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8

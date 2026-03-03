@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DramaChannel.th_SD" tvg-name="MV Mall DD (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:33.577Z" tvg-logo="https://i.imgur.com/ill1Ux6.png" indexer="playlist-harvester",MV Mall DD (1080p)
+https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8

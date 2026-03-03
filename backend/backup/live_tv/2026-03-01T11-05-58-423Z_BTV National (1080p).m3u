@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BTVNational.bd_SD" tvg-name="BTV National (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:58.423Z" tvg-logo="https://i.imgur.com/5OE2FDt.png" indexer="playlist-harvester",BTV National (1080p)
+https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8

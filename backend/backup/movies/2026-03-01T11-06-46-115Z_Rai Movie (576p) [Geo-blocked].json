@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
+  "title": "Rai Movie (576p) [Geo-blocked]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "RaiMovie.it@SD",
+  "tvgLogo": "https://i.imgur.com/0FjxXU9.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:06:46.115Z"
+}

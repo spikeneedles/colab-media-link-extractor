@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="12tv.es_SD" tvg-name="12tv" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:47.696Z" tvg-logo="https://i.imgur.com/VSTgXsh.png" indexer="playlist-harvester",12tv
+https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8

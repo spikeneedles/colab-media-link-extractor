@@ -653,6 +653,21 @@ export function KodiSyncDashboard() {
                       </>
                     )}
                   </Button>
+                  {filteredUrls.length > 0 && (
+                    <Button
+                      onClick={() => {
+                        const urls = filteredUrls.map(u => u.url).join('\n')
+                        navigator.clipboard.writeText(urls).then(() => {
+                          toast.success(`Copied ${filteredUrls.length} URLs to clipboard`)
+                        }).catch(() => {
+                          toast.error('Failed to copy URLs')
+                        })
+                      }}
+                      variant="outline"
+                    >
+                      Copy All ({filteredUrls.length})
+                    </Button>
+                  )}
                   <Button
                     onClick={detectApiFiles}
                     variant="outline"

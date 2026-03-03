@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TUDN.us_SD" tvg-name="TUDN (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:07.296Z" tvg-logo="https://i.imgur.com/oT5CAvd.png" indexer="playlist-harvester",TUDN (1080p) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8

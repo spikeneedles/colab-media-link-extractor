@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EgnatiaTV.gr_SD" tvg-name="Egnatia TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.082Z" tvg-logo="https://i.imgur.com/zuyYIca.png" indexer="playlist-harvester",Egnatia TV (576p)
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8

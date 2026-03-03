@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GRPVERATV.it_SD" tvg-name="GRP VERATV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:16.247Z" tvg-logo="https://i.imgur.com/jasSHXJ.png" indexer="playlist-harvester",GRP VERATV (576p)
+https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8

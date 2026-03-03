@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8",
+  "title": "Punta Cana TV (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "PuntaCanaTV.do@SD",
+  "tvgLogo": "https://i.imgur.com/KF7fLTx.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:43.836Z"
+}

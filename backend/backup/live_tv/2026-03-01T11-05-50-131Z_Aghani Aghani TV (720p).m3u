@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AghaniAghaniTV.lb_SD" tvg-name="Aghani Aghani TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:50.131Z" tvg-logo="https://i.imgur.com/o6HSfNg.png" indexer="playlist-harvester",Aghani Aghani TV (720p)
+http://77.42.253.43:9090/stream5/AGHANITV.m3u8

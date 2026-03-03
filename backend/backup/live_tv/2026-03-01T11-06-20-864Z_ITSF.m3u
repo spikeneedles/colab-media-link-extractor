@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ITSF" tvg-name="ITSF" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:20.864Z" indexer="playlist-harvester",ITSF
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20a0ac30-d157-4400-8f64-3c52b37c645c/manifest.m3u8

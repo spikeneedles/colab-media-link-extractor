@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KanshiTV.uk_SD" tvg-name="Kanshi TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:23.145Z" tvg-logo="https://i.imgur.com/w6uXMrK.png" indexer="playlist-harvester",Kanshi TV (720p) [Not 24/7]
+https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8

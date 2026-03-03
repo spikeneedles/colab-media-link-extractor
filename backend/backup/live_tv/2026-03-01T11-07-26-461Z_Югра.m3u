@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UgraTV.ru_SD" tvg-name="Югра" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:26.461Z" tvg-logo="https://i.imgur.com/561FRwI.png" indexer="playlist-harvester",Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Mir24.ru_SD" tvg-name="Мир 24 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:24.137Z" tvg-logo="https://i.imgur.com/dj9c8Yd.png" indexer="playlist-harvester",Мир 24 (1080p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8

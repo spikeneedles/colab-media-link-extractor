@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AntaresTelevision.pe_SD" tvg-name="Antares Televisión (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:52.775Z" tvg-logo="https://i.imgur.com/05gwtk2.png" indexer="playlist-harvester",Antares Televisión (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8

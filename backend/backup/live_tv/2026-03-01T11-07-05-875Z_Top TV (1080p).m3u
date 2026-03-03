@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TopTV.rs_SD" tvg-name="Top TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:05.875Z" tvg-logo="https://i.imgur.com/UJqbKEC.png" indexer="playlist-harvester",Top TV (1080p)
+http://82.165.71.58:8081/TopTV/live/playlist.m3u8

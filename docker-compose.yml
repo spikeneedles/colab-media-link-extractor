@@ -1,6 +1,20 @@
 version: '3.8'
 
 services:
+  # FlareSolverr — Cloudflare bypass proxy (used by Prowlarr + our scrapers)
+  flaresolverr:
+    image: ghcr.io/flaresolverr/flaresolverr:latest
+    container_name: flaresolverr
+    ports:
+      - "8191:8191"
+    restart: unless-stopped
+    environment:
+      - LOG_LEVEL=info
+      - LOG_HTML=false
+      - CAPTCHA_SOLVER=none
+    networks:
+      - app-network
+
   # Frontend web application
   media-link-scanner:
     build:

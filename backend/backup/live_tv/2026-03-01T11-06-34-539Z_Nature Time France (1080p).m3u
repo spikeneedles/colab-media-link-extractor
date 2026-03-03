@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Nature_Time_France__1080p_" tvg-name="Nature Time France (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:34.539Z" indexer="playlist-harvester",Nature Time France (1080p)
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8

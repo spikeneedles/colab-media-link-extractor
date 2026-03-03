@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ElektrikaTV.cz_SD" tvg-name="Elektrika TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.332Z" tvg-logo="https://i.imgur.com/OLd5od5.png" indexer="playlist-harvester",Elektrika TV (1080p)
+https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8

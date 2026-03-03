@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DunyaTV.az_SD" tvg-name="Dunya TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:09.437Z" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya-tv-az.png" indexer="playlist-harvester",Dunya TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8

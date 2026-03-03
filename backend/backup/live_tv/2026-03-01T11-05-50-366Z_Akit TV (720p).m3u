@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AkitTV.tr_SD" tvg-name="Akit TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:50.366Z" tvg-logo="https://i.imgur.com/oGto929.png" indexer="playlist-harvester",Akit TV (720p)
+https://akittv-live.ercdn.net/akittv/akittv.m3u8

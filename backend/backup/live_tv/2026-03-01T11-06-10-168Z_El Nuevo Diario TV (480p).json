@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://nuevodiario01.streamprolive.com/hls/live.m3u8",
+  "title": "El Nuevo Diario TV (480p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "ElNuevoDiarioTV.do@SD",
+  "tvgLogo": "https://i.imgur.com/yjuTl6N.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:10.168Z"
+}

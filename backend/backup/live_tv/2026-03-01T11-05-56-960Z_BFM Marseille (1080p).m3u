@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BFMMarseille.fr_SD" tvg-name="BFM Marseille (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:56.960Z" tvg-logo="https://i.imgur.com/h7t0l6q.png" indexer="playlist-harvester",BFM Marseille (1080p)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE

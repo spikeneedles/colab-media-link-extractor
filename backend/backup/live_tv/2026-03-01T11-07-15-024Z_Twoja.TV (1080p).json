@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.twoja.tv/ttv_hls/live.m3u8",
+  "title": "Twoja.TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TwojaTV.pl@SD",
+  "tvgLogo": "https://i.ibb.co/vxntQD60/twojatv-hd-online.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:15.024Z"
+}

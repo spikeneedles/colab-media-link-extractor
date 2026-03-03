@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8",
+  "title": "OCN TV",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "OCNTV.us@SD",
+  "tvgLogo": "https://i.imgur.com/iSB5Obl.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:38.425Z"
+}

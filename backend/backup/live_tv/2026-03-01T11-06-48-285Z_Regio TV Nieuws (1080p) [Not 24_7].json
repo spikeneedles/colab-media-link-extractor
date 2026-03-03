@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8",
+  "title": "Regio TV Nieuws (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "RegioTVNieuws.nl@SD",
+  "tvgLogo": "https://i.imgur.com/BG7zrsC.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:48.285Z"
+}

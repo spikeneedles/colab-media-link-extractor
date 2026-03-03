@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MBC1Egypt.eg_HD" tvg-name="MBC 1 Egypt (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.520Z" tvg-logo="https://i.imgur.com/CiA3plN.png" indexer="playlist-harvester",MBC 1 Egypt (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8

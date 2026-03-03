@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Trivision36.cr_SD" tvg-name="Trivision 36 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:06.626Z" tvg-logo="https://i.imgur.com/aadWnIx.jpg" indexer="playlist-harvester",Trivision 36 (720p)
+https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=

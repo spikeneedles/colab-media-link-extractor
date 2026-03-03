@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="On6.tr_SD" tvg-name="On 6 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.257Z" tvg-logo="https://i.imgur.com/k7rS2gC.png" indexer="playlist-harvester",On 6 (1080p)
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8

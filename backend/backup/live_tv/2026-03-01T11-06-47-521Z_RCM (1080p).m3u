@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RCM__1080p_" tvg-name="RCM (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:47.521Z" indexer="playlist-harvester",RCM (1080p)
+https://samsungau-rialtosamsungaustralia-al2rg.amagi.tv/playlist/samsungau-rialtosamsungaustralia/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://tbilbo.dyndns.org/hls/stream.m3u8",
+  "title": "TeleBilbao (384p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TeleBilbao.es@SD",
+  "tvgLogo": "https://i.imgur.com/x2HmBq1.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:01.021Z"
+}

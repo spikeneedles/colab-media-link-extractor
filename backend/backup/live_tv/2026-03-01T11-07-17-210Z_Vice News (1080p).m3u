@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ViceNews.us_SD" tvg-name="Vice News (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.210Z" tvg-logo="https://i.imgur.com/QWPJQnr.png" indexer="playlist-harvester",Vice News (1080p)
+https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VoATVChina.cn_SD" tvg-name="VOA美国之音" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.785Z" tvg-logo="https://i.imgur.com/XCTZkoq.png" indexer="playlist-harvester",VOA美国之音
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8

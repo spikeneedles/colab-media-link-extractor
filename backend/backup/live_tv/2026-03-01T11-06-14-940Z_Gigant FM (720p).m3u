@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GigantFM.nl_SD" tvg-name="Gigant FM (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:14.940Z" tvg-logo="https://i.imgur.com/LwEHfjD.png" indexer="playlist-harvester",Gigant FM (720p)
+https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8

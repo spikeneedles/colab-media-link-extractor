@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NamaTV.ir_SD" tvg-name="Nama TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:34.041Z" tvg-logo="https://i.ibb.co/WvrqnrZ5/nama.png" indexer="playlist-harvester",Nama TV
+https://ncdn.telewebion.com/nama/live/playlist.m3u8

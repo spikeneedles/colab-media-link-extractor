@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ax_Men__720p_" tvg-name="Ax Men (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:54.770Z" indexer="playlist-harvester",Ax Men (720p)
+https://live-manifest.production-public.tubi.io/live/b1fdb228-c169-48b3-b6a3-8dee2dd91839/playlist.m3u8

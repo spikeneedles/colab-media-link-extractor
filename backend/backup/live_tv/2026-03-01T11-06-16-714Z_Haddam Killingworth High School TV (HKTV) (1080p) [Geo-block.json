@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8",
+  "title": "Haddam Killingworth High School TV (HKTV) (1080p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Education",
+  "tvgId": "HKTV.us@SD",
+  "tvgLogo": "https://i.imgur.com/AYzdlMz.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:16.714Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StarMovies.in_HD" tvg-name="Star Movies HD (1080p)" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:57.023Z" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" indexer="playlist-harvester",Star Movies HD (1080p)
+http://103.113.103.202:8001/play/a02j/index.m3u8

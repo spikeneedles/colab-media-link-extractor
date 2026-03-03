@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ITV_Un_Village_Fran_ais" tvg-name="ITV Un Village Français" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:20.989Z" indexer="playlist-harvester",ITV Un Village Français
+https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8

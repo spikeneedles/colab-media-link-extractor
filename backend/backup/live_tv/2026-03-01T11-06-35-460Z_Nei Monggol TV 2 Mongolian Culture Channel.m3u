@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NeiMonggolTV2MongolianCultureChannel.cn_SD" tvg-name="Nei Monggol TV 2 Mongolian Culture Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:35.460Z" tvg-logo="https://i.imgur.com/kpsjahG.png" indexer="playlist-harvester",Nei Monggol TV 2 Mongolian Culture Channel
+http://1.24.190.98:10080/hls/40/index.m3u8

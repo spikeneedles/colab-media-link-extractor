@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Moldova1.md_SD" tvg-name="Moldova 1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:32.093Z" tvg-logo="https://i.imgur.com/ZbQY56v.png" indexer="playlist-harvester",Moldova 1 (1080p)
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8

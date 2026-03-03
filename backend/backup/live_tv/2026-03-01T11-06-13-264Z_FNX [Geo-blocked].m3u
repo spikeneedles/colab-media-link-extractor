@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KVCRDT2.us_SD" tvg-name="FNX [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:13.264Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FNX_Web_Logo.png" indexer="playlist-harvester",FNX [Geo-blocked]
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8

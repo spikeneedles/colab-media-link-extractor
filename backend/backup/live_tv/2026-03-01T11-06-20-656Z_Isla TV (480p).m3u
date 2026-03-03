@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IslaTV.ve_SD" tvg-name="Isla TV (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:20.656Z" tvg-logo="https://i.imgur.com/l11Ixhi.jpeg" indexer="playlist-harvester",Isla TV (480p)
+https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8

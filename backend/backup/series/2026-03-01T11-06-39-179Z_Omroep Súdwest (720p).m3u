@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OmroepSudwest.nl_SD" tvg-name="Omroep Súdwest (720p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.179Z" tvg-logo="https://i.imgur.com/XtKLmQS.png" indexer="playlist-harvester",Omroep Súdwest (720p)
+https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8

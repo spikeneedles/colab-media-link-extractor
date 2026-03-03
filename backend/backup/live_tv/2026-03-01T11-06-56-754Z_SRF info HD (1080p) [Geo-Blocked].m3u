@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SRFinfo.ch_HD" tvg-name="SRF info HD (1080p) [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:56.754Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/512px-Logo_SRF_info.svg.png" indexer="playlist-harvester",SRF info HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GarabitoTV.cr_SD" tvg-name="Garabito TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:14.454Z" tvg-logo="https://i.imgur.com/sAYNKJ8.png" indexer="playlist-harvester",Garabito TV (720p)
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8

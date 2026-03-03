@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8",
+  "title": "UN24 (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "UN24.ve@untv720",
+  "tvgLogo": "https://i.imgur.com/nGJlulj.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:15.333Z"
+}

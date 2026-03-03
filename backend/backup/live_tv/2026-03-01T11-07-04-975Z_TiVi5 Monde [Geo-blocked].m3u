@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TiVi5Monde.fr_SD" tvg-name="TiVi5 Monde [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:04.975Z" tvg-logo="https://i.imgur.com/fVVKpmk.png" indexer="playlist-harvester",TiVi5 Monde [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8

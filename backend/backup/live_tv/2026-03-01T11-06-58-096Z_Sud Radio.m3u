@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SudRadio.fr_SD" tvg-name="Sud Radio" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:58.096Z" tvg-logo="https://www.sudradio.fr/wp-content/themes/sud-2023/assets/img/logo-fondblanc-parlons.png" indexer="playlist-harvester",Sud Radio
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudradio.m3u8

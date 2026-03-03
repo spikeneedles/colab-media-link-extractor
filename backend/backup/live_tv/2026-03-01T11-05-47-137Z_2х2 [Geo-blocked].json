@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8",
+  "title": "2х2 [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "2x2.ru@SD",
+  "tvgLogo": "https://i.imgur.com/fhQFLEl.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:47.137Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WBTV_Watchlist__Geo-blocked_" tvg-name="WBTV Watchlist [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:19.358Z" indexer="playlist-harvester",WBTV Watchlist [Geo-blocked]
+https://live-manifest.production-public.tubi.io/live/b399c32f-0c5f-4609-a2f2-94a773397b44/playlist.m3u8

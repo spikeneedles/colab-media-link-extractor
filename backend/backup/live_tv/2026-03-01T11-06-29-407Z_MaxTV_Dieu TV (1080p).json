@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8",
+  "title": "MaxTV/Dieu TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "MaxTV.ch@SD",
+  "tvgLogo": "https://i.imgur.com/13PjEk8.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:29.407Z"
+}

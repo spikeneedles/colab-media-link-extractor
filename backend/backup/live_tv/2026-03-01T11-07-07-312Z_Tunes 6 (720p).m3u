@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Tunes6.in_SD" tvg-name="Tunes 6 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:07.312Z" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" indexer="playlist-harvester",Tunes 6 (720p)
+https://stream.d6-pro.com/tunes6music/live/video.m3u8

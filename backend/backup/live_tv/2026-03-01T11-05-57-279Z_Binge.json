@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8",
+  "title": "Binge",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Binge.us@SD",
+  "tvgLogo": "https://www.lyngsat.com/logo/tv/bb/binge-us.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:57.279Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVMarineret.dk_SD" tvg-name="TVMarineret (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:13.146Z" tvg-logo="https://i.imgur.com/r1Caske.jpg" indexer="playlist-harvester",TVMarineret (1080p)
+http://sdream.info:8080/hls/livestream/index.m3u8

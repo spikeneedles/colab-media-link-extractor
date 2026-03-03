@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVTun.gt_SD" tvg-name="TV Tun (240p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:11.688Z" tvg-logo="https://i.imgur.com/dGSfHCj.png" indexer="playlist-harvester",TV Tun (240p) [Not 24/7]
+https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8",
+  "title": "Vive TV Colombia (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "ViveTV.co@SD",
+  "tvgLogo": "https://i.imgur.com/25CFHpB.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:17.672Z"
+}

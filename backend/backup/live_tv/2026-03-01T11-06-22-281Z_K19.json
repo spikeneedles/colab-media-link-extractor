@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8",
+  "title": "K19",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "K19.at@SD",
+  "tvgLogo": "https://i.imgur.com/l4atkvs.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:22.281Z"
+}

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8",
+  "title": "TV Sim Colatina (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "TVSimColatina.br@SD",
+  "tvgLogo": "https://i.imgur.com/t5oUK3C.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:11.263Z"
+}

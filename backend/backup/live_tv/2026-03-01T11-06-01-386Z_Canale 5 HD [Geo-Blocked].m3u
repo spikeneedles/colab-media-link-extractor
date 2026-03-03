@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canale5.it_HD" tvg-name="Canale 5 HD [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:01.386Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png" indexer="playlist-harvester",Canale 5 HD [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OKFlensburg.de_SD" tvg-name="OK Flensburg (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:38.623Z" tvg-logo="https://i.imgur.com/NPbfgQC.png" indexer="playlist-harvester",OK Flensburg (576p)
+https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GlobalWorldTV.us_SD" tvg-name="GlobalWorldTV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:15.139Z" tvg-logo="https://i.imgur.com/2u33Ayy.jpeg" indexer="playlist-harvester",GlobalWorldTV (720p)
+https://media.streambrothers.com:1936/8052/8052/playlist.m3u8

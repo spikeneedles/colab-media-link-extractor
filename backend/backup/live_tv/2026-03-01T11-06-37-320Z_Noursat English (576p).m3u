@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NoursatEnglish.lb_SD" tvg-name="Noursat English (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.320Z" tvg-logo="https://i.imgur.com/RC5Kw82.png" indexer="playlist-harvester",Noursat English (576p)
+https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8

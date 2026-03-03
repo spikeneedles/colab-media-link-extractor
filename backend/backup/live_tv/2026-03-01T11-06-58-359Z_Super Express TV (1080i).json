@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8",
+  "title": "Super Express TV (1080i)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "SuperExpressTV.pl@FAST",
+  "tvgLogo": "https://i.imgur.com/HuIsALV.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:58.359Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SabalanTV.ir_SD" tvg-name="Sabalan" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:52.106Z" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f2/Ardabil_SABALAN.png" indexer="playlist-harvester",Sabalan
+https://ncdn.telewebion.com/sabalan/live/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AB3.be_HD" tvg-name="AB3 HD [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.713Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/AB3_2025.svg/512px-AB3_2025.svg.png" indexer="playlist-harvester",AB3 HD [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8

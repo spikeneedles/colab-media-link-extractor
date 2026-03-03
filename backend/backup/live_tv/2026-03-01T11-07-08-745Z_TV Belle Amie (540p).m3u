@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BelleAmie.rs_SD" tvg-name="TV Belle Amie (540p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:08.745Z" tvg-logo="https://i.imgur.com/tOlN5Rz.png" indexer="playlist-harvester",TV Belle Amie (540p)
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8

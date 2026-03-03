@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ESTV.tr_SD" tvg-name="ES TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.977Z" tvg-logo="https://i.imgur.com/epAEBrp.png" indexer="playlist-harvester",ES TV (720p)
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8

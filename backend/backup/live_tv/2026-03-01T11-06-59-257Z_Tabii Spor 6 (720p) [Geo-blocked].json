@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8",
+  "title": "Tabii Spor 6 (720p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "TabiiSpor6.tr@SD",
+  "tvgLogo": "https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:59.257Z"
+}

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8",
+  "title": "Canal Macau Ch. 92 (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "CanalMacau.mo@SD",
+  "tvgLogo": "https://i.imgur.com/oFPUZ97.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:00.881Z"
+}

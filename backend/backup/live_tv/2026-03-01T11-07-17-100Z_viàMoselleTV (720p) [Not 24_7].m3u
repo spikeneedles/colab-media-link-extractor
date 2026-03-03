@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MoselleTV.fr_SD" tvg-name="viàMoselleTV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.100Z" tvg-logo="https://i.imgur.com/hrm5QnU.png" indexer="playlist-harvester",viàMoselleTV (720p) [Not 24/7]
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8

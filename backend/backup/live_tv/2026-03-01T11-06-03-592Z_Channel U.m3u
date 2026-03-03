@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChannelU.sg_SD" tvg-name="Channel U" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.592Z" tvg-logo="https://i.imgur.com/9MzEjoY.png" indexer="playlist-harvester",Channel U
+https://app.viloud.tv/hls/channel/aaf404bee904cff424bb5d1f6fdf9333.m3u8

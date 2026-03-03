@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="________1080p___Not_24_7_" tvg-name="萍鄉公共頻道 (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:29.990Z" indexer="playlist-harvester",萍鄉公共頻道 (1080p) [Not 24/7]
+http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv3stream.m3u8

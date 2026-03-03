@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Conecta2TV.pe_SD" tvg-name="Conecta2TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:05.363Z" tvg-logo="https://i.imgur.com/cfHaLt2.png" indexer="playlist-harvester",Conecta2TV (720p) [Not 24/7]
+https://live.obslivestream.com/conecta2/index.m3u8

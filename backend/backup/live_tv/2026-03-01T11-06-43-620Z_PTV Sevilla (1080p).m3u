@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PTVSevilla.es_SD" tvg-name="PTV Sevilla (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:43.620Z" tvg-logo="https://i.imgur.com/EcinFGu.png" indexer="playlist-harvester",PTV Sevilla (1080p)
+https://streamer.zapitv.com/PTV_sevilla/index.m3u8

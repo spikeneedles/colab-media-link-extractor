@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
+  "title": "Canal 4 San Juan (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "Canal4SanJuan.ar@SD",
+  "tvgLogo": "https://i.imgur.com/MsCnwRA.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:59.481Z"
+}

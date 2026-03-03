@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://151.236.247.171:8080/nova/index.m3u8",
+  "title": "TV NOVA 12 (576p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TVNOVA12.mk@SD",
+  "tvgLogo": "https://i.imgur.com/Qo3Hj3t.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:10.453Z"
+}

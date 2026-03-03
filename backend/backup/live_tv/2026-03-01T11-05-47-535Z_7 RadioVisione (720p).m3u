@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="7RadioVisione.it_HD" tvg-name="7 RadioVisione (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:47.535Z" tvg-logo="https://radio7note.com/img/favicon/android-icon-192x192.png" indexer="playlist-harvester",7 RadioVisione (720p)
+https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8

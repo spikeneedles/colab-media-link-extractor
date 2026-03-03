@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KurdsatNews.iq_SD" tvg-name="Kurdsat News (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.976Z" tvg-logo="https://i.imgur.com/F3XRwkt.png" indexer="playlist-harvester",Kurdsat News (1080p)
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8

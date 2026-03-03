@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="QS24tv.ch_SD" tvg-name="QS24.tv (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:44.175Z" tvg-logo="https://i.ibb.co/qnBDjtC/Logo-QS24-schwarz-Pfade.png" indexer="playlist-harvester",QS24.tv (1080p)
+https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8

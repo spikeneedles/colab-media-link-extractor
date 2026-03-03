@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8",
+  "title": "èTv Marche (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "eTvMarche.it@SD",
+  "tvgLogo": "https://i.imgur.com/U6OW577.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:11.623Z"
+}

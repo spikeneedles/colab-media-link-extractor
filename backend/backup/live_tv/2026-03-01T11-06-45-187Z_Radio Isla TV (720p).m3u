@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioIslaTV.pr_SD" tvg-name="Radio Isla TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:45.187Z" tvg-logo="https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png" indexer="playlist-harvester",Radio Isla TV (720p)
+https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8

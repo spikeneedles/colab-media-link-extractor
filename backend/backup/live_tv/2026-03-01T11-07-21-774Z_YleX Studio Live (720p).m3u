@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="YleX.fi_SD" tvg-name="YleX Studio Live (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:21.774Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/YleX.svg/450px-YleX.svg.png" indexer="playlist-harvester",YleX Studio Live (720p)
+https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8

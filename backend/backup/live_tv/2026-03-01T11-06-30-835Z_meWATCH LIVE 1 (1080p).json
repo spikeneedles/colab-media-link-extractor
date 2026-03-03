@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd",
+  "title": "meWATCH LIVE 1 (1080p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "meWATCHLIVE1.sg@SD",
+  "tvgLogo": "https://i.imgur.com/ppxUDxB.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:30.835Z"
+}

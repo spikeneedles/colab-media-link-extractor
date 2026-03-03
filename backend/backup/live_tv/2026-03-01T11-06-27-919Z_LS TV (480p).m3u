@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LSTV.la_SD" tvg-name="LS TV (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:27.919Z" tvg-logo="https://i.imgur.com/fs3dQ6J.png" indexer="playlist-harvester",LS TV (480p)
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8",
+  "title": "RTV Herceg-Bosne (576p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "RTVHB.ba@SD",
+  "tvgLogo": "https://i.imgur.com/6FNL8Iv.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:51.465Z"
+}

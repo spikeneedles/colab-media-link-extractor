@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae_HD" tvg-name="Abu Dhabi Emirates (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:49.330Z" tvg-logo="https://i.imgur.com/iSbZqn4.png" indexer="playlist-harvester",Abu Dhabi Emirates (1080p)
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8

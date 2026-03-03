@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeleTusciaSabina2000.it_SD" tvg-name="TeleTusciaSabina 2000 (576p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:02.953Z" tvg-logo="https://i.imgur.com/cfexNL9.png" indexer="playlist-harvester",TeleTusciaSabina 2000 (576p) [Not 24/7]
+http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8

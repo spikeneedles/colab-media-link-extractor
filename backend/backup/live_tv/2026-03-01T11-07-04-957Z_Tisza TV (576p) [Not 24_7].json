@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8",
+  "title": "Tisza TV (576p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TiszaTV.hu@SD",
+  "tvgLogo": "https://i.imgur.com/Q2bShnh.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:04.957Z"
+}

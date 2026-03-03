@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal32STO.hn_SD" tvg-name="Canal 32 STO (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:00.469Z" tvg-logo="https://i.imgur.com/dS4Gb0Q.jpg" indexer="playlist-harvester",Canal 32 STO (720p) [Not 24/7]
+https://s.emisoras.tv:8081/stocanal32hn/playlist.m3u8

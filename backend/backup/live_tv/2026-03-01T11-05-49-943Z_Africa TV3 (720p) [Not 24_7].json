@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8",
+  "title": "Africa TV3 (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "AfricaTV3.ng@SD",
+  "tvgLogo": "https://i.imgur.com/iibE9WL.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:49.943Z"
+}

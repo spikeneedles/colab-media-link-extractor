@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://unitvaovivo.ufrgs.br:8080/live.ogg",
+  "title": "UniTV Porto Alegre (480p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Education",
+  "tvgId": "UniTVPortoAlegre.br@SD",
+  "tvgLogo": "https://i.imgur.com/GmA5uuk.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:15.607Z"
+}

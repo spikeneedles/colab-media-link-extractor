@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="______360p___Not_24_7_" tvg-name="电白视窗 (360p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:29.440Z" indexer="playlist-harvester",电白视窗 (360p) [Not 24/7]
+http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8

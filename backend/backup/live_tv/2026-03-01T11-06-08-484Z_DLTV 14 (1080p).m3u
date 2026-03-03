@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DLTV14.th_SD" tvg-name="DLTV 14 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:08.484Z" tvg-logo="https://i.imgur.com/HOjZRNS.png" indexer="playlist-harvester",DLTV 14 (1080p)
+https://cdn-live.dltv.ac.th/dltv14.m3u8

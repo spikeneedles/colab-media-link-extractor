@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8",
+  "title": "Canal 15 Usulután (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "El15TV.sv@SD",
+  "tvgLogo": "https://i.imgur.com/LsrCVy3.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:00.283Z"
+}

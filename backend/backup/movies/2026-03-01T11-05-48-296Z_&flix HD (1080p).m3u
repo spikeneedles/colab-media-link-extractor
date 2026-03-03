@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Andflix.in_HD" tvg-name="&flix HD (1080p)" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.296Z" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png" indexer="playlist-harvester",&flix HD (1080p)
+http://103.113.103.202:8001/play/a02k/index.m3u8

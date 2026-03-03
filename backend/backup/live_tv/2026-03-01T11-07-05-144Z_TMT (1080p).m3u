@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TMT.tj_SD" tvg-name="TMT (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:05.144Z" tvg-logo="https://i.imgur.com/Dg0UkNR.png" indexer="playlist-harvester",TMT (1080p)
+https://live.teleradiocom.tj/9/3m.m3u8

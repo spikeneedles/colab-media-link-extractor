@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HTV1HoustonTelevision.us_SD" tvg-name="HTV 1 Houston Television (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.519Z" tvg-logo="https://i.imgur.com/zvj1boM.jpg" indexer="playlist-harvester",HTV 1 Houston Television (720p)
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8

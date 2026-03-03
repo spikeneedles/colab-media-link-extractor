@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MegaCineTV.do_HD" tvg-name="Mega Cine TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:30.337Z" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" indexer="playlist-harvester",Mega Cine TV (720p) [Not 24/7]
+https://mlb.essastream.com:8081/megacinetv/tracks-v1a1/mono.m3u8

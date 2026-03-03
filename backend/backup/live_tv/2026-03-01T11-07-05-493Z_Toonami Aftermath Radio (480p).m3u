@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Toonami_Aftermath_Radio__480p_" tvg-name="Toonami Aftermath Radio (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:05.493Z" indexer="playlist-harvester",Toonami Aftermath Radio (480p)
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8

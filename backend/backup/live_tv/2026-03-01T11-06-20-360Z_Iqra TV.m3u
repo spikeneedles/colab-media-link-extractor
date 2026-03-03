@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IqraTV.uk_SD" tvg-name="Iqra TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:20.360Z" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" indexer="playlist-harvester",Iqra TV
+https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8

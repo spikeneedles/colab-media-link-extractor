@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Coeur_Ocean_TV" tvg-name="Coeur Ocean TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:04.979Z" indexer="playlist-harvester",Coeur Ocean TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2240abcf-afe5-4416-9631-fa9c29b7d0e6/manifest.m3u8

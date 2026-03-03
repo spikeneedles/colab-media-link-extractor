@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MaturTV.ru_SD" tvg-name="Матур ТВ (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:24.070Z" tvg-logo="https://i.imgur.com/Pg7K7eV.png" indexer="playlist-harvester",Матур ТВ (1080p)
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8

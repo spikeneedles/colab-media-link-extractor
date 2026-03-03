@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8",
+  "title": "HCH",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "HCH.hn@SD",
+  "tvgLogo": "https://i.imgur.com/2CB5ezq.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:17.204Z"
+}

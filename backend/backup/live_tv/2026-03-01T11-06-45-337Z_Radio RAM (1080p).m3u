@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioRAM.pl_HD" tvg-name="Radio RAM (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:45.337Z" tvg-logo="https://i.ibb.co/LXbchP5q/logo-1.png" indexer="playlist-harvester",Radio RAM (1080p)
+https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8

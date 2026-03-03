@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8",
+  "title": "Canal 1 (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Canal1.cr@SD",
+  "tvgLogo": "https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:59.263Z"
+}

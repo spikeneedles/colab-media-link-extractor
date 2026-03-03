@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="USMPTV.pe_SD" tvg-name="USMPTV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:15.996Z" tvg-logo="https://i.imgur.com/9cmIv3q.png" indexer="playlist-harvester",USMPTV
+https://streamusmptv.ddns.net/live/stream.m3u8

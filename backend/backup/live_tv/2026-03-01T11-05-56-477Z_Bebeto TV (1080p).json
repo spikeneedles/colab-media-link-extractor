@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://mlb.essastream.com:8081/bebetotelevision/index.m3u8",
+  "title": "Bebeto TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "BebetoTV.do@SD",
+  "tvgLogo": "https://www.lyngsat.com/logo/tv/bb/bebeto-tv-do.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:56.477Z"
+}

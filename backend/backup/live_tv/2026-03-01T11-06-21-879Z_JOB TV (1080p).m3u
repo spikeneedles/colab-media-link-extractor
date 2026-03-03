@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JOBTV.ro_SD" tvg-name="JOB TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:21.879Z" tvg-logo="https://i.imgur.com/UzcZNe3.png" indexer="playlist-harvester",JOB TV (1080p)
+https://jobtvserver.eu/hls/stream.m3u8

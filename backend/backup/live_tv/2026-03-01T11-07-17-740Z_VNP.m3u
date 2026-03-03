@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VNP.pe_SD" tvg-name="VNP" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.740Z" tvg-logo="https://i.imgur.com/TOnknEW.png" indexer="playlist-harvester",VNP
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8

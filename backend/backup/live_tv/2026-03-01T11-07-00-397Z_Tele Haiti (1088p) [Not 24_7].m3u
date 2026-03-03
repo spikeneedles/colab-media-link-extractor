@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeleHaiti.ht_SD" tvg-name="Tele Haiti (1088p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:00.397Z" tvg-logo="https://i.imgur.com/Hso9j58.png" indexer="playlist-harvester",Tele Haiti (1088p) [Not 24/7]
+http://66.175.238.147:1935/live/myStream/playlist.m3u8

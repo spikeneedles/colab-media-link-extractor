@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MnauTV.cz_SD" tvg-name="Mňau TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:31.678Z" tvg-logo="https://i.imgur.com/deVHJKS.png" indexer="playlist-harvester",Mňau TV (1080p)
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8

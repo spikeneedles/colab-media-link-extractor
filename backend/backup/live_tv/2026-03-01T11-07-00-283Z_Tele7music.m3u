@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Tele7music.ro_SD" tvg-name="Tele7music" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:00.283Z" tvg-logo="https://i.imgur.com/11b5W8u.png" indexer="playlist-harvester",Tele7music
+https://live.tele7music.ro/hls/stream/index.m3u8

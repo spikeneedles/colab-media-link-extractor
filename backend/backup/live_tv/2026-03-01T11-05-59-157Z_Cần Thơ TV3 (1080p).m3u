@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanThoTV3.vn_SD" tvg-name="Cần Thơ TV3 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:59.157Z" tvg-logo="https://i.ibb.co/d4G2PD9s/cantho3-2025.png" indexer="playlist-harvester",Cần Thơ TV3 (1080p)
+https://live.canthotv.vn/cs3/tv/chunklist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBCNews.uk_AsiaPacific" tvg-name="BBC News Asia Pacific (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:55.624Z" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" indexer="playlist-harvester",BBC News Asia Pacific (1080p)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LeominsterTVPublic.us_SD" tvg-name="Leominster TV Public (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:26.375Z" tvg-logo="https://i.imgur.com/lTzoshf.png" indexer="playlist-harvester",Leominster TV Public (720p) [Not 24/7]
+https://livestream.telvue.com/leominster1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8

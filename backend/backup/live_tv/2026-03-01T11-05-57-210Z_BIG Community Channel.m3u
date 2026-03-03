@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BIGCommunityChannel.us_SD" tvg-name="BIG Community Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:57.210Z" tvg-logo="https://i.imgur.com/6HDMVBB.png" indexer="playlist-harvester",BIG Community Channel
+https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8

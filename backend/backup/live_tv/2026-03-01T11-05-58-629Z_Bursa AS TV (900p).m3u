@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ASTV.tr_SD" tvg-name="Bursa AS TV (900p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:58.629Z" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" indexer="playlist-harvester",Bursa AS TV (900p)
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KayhanTV.af_SD" tvg-name="Kayhan TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:23.351Z" tvg-logo="https://i.imgur.com/2MDjU7x.png" indexer="playlist-harvester",Kayhan TV (720p)
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8

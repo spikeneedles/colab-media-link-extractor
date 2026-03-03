@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TelevisoradeOriente.ve_SD" tvg-name="Televisora de Oriente (406p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:03.252Z" tvg-logo="https://i.imgur.com/wFC6Xxq.png" indexer="playlist-harvester",Televisora de Oriente (406p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8

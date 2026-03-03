@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WatarTV.ps_SD" tvg-name="Watar TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:18.840Z" tvg-logo="https://i.imgur.com/jdr22Sk.jpeg" indexer="playlist-harvester",Watar TV (720p) [Not 24/7]
+http://htvint.mada.ps:8889/orient/index.m3u8

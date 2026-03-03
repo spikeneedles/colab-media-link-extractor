@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8",
+  "title": "Maverick Black Cinema (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "MaverickBlackCinema.us@SD",
+  "tvgLogo": "https://images.fubo.tv/station_logos/maverick_black_cinema_c.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:06:29.348Z"
+}

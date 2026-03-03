@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LabbaykTV.ir_SD" tvg-name="Labbayk TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:25.596Z" tvg-logo="https://static.telewebion.com/channelsLogo/ZDVlODRiYjI3NWUyOTFmOGJmYjIwOTQyMDAyMzRkMmUzYjVmOGUyMTBhNTE0MGI5ZDAyOTMzZDdmZDQyNDM5OA/default" indexer="playlist-harvester",Labbayk TV
+https://ncdn.telewebion.com/labbayk/live/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OmroepVenray.nl_SD" tvg-name="Omroep Venray (720p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.207Z" tvg-logo="https://i.imgur.com/uVqTbi2.png" indexer="playlist-harvester",Omroep Venray (720p)
+https://d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8

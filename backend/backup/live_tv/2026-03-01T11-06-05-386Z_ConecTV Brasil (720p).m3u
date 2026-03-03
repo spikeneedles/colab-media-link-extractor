@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ConecTVBrasil.br_SD" tvg-name="ConecTV Brasil (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:05.386Z" tvg-logo="https://i.imgur.com/XN6jjMR.png" indexer="playlist-harvester",ConecTV Brasil (720p)
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8

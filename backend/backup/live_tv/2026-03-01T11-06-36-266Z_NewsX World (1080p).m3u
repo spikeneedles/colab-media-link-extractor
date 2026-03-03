@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NewsXWorld.in_HD" tvg-name="NewsX World (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:36.266Z" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_X_World.png" indexer="playlist-harvester",NewsX World (1080p)
+https://newsxott.in/hls/newsxworld.m3u8

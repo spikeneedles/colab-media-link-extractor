@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RecordNews.br_SD" tvg-name="Record News (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:47.805Z" tvg-logo="https://i.imgur.com/HZDRG0K.png" indexer="playlist-harvester",Record News (720p) [Geo-blocked]
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8

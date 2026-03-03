@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ECOTelevision.pe_SD" tvg-name="ECO Television" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:09.863Z" tvg-logo="https://i.imgur.com/ly1KU6w.png" indexer="playlist-harvester",ECO Television
+https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8

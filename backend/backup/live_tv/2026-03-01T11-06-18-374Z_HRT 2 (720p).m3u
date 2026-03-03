@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HRT2.hr_SD" tvg-name="HRT 2 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.374Z" tvg-logo="https://i.imgur.com/yyePcl1.png" indexer="playlist-harvester",HRT 2 (720p)
+https://webtvstream.bhtelecom.ba/hrt2.m3u8

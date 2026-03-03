@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GRT.tr_SD" tvg-name="GRT (900p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:16.258Z" tvg-logo="https://i.imgur.com/eRR0gkC.png" indexer="playlist-harvester",GRT (900p)
+https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8

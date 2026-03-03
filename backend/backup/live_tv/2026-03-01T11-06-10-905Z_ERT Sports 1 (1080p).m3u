@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ERTSports1.gr_HD" tvg-name="ERT Sports 1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:10.905Z" tvg-logo="https://i.imgur.com/EsczO2H.png" indexer="playlist-harvester",ERT Sports 1 (1080p)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts

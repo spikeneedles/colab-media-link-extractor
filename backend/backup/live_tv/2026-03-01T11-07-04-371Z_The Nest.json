@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8",
+  "title": "The Nest",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Documentary;Entertainment",
+  "tvgId": "TheNest.us@SD",
+  "tvgLogo": "https://iili.io/JGqD21e.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:04.371Z"
+}

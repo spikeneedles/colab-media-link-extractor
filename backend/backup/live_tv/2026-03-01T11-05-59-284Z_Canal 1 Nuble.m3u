@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal1Nuble.cl_SD" tvg-name="Canal 1 Nuble" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:59.284Z" tvg-logo="https://i.imgur.com/PGSixH5.png" indexer="playlist-harvester",Canal 1 Nuble
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8

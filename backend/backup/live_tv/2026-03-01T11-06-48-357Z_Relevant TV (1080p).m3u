@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RelevantTV.il_SD" tvg-name="Relevant TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:48.357Z" tvg-logo="https://i.imgur.com/jCZ5gFO.png" indexer="playlist-harvester",Relevant TV (1080p)
+https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8

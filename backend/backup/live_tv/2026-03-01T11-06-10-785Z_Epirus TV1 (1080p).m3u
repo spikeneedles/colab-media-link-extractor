@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EpirusTV1.gr_SD" tvg-name="Epirus TV1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.785Z" tvg-logo="https://i.imgur.com/nYVqhu8.png" indexer="playlist-harvester",Epirus TV1 (1080p)
+https://til.pp.ua:3928/live/epiruslive.m3u8

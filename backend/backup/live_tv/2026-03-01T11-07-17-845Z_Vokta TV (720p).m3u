@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VoktaTV.bd_SD" tvg-name="Vokta TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.845Z" tvg-logo="https://i.imgur.com/szAGBCU.png" indexer="playlist-harvester",Vokta TV (720p)
+https://vokta.raytahost.com/live/voktatv/index.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LemanBleu.ch_SD" tvg-name="Léman Bleu (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:26.294Z" tvg-logo="https://i.imgur.com/6ijbSTr.png" indexer="playlist-harvester",Léman Bleu (1080p)
+http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8

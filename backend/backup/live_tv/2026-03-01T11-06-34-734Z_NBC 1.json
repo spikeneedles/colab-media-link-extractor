@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://hls2.nbcplus.na/hls/high_nbc1.m3u8",
+  "title": "NBC 1",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "NBC1.na@SD",
+  "tvgLogo": "https://i.imgur.com/ykQerMH.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:34.734Z"
+}

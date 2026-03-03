@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTLZwee.lu_SD" tvg-name="RTL Zwee (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:50.894Z" tvg-logo="https://i.imgur.com/7SmCtyy.png" indexer="playlist-harvester",RTL Zwee (1080p)
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8

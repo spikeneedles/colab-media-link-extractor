@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br_SD" tvg-name="Record TV SP (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:47.897Z" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png" indexer="playlist-harvester",Record TV SP (720p) [Geo-blocked]
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RacerNetwork.us_SD" tvg-name="Racer Network (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:44.709Z" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" indexer="playlist-harvester",Racer Network (1080p)
+https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeleMocoaCanal10.co_SD" tvg-name="Tele Mocoa Canal 10 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:00.489Z" tvg-logo="https://i.imgur.com/XHtpEfu.png" indexer="playlist-harvester",Tele Mocoa Canal 10 (1080p)
+https://cdn.amelbasoluciones.co:8081/telemocoalive/index.m3u8

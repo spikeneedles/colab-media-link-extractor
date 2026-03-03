@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IndonesianaTV.id_SD" tvg-name="Indonesiana.TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:19.938Z" tvg-logo="https://i.imgur.com/192wiS1.png" indexer="playlist-harvester",Indonesiana.TV (720p)
+https://tvstreamcast.com/indonesiana.m3u8

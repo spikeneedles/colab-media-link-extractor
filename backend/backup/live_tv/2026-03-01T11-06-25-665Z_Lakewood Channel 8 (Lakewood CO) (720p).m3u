@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LakewoodChannel8.us_SD" tvg-name="Lakewood Channel 8 (Lakewood CO) (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:25.665Z" tvg-logo="https://i.imgur.com/5ibsRhM.png" indexer="playlist-harvester",Lakewood Channel 8 (Lakewood CO) (720p)
+https://live8fd.lakewood.org/live-2/live/live.m3u8

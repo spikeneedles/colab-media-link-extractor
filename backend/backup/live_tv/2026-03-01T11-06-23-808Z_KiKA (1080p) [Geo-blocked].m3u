@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KiKA.de_SD" tvg-name="KiKA (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:23.808Z" tvg-logo="https://i.imgur.com/vZdNp5S.png" indexer="playlist-harvester",KiKA (1080p) [Geo-blocked]
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8

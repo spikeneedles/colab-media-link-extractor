@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://c.mjh.nz/abc-kids.m3u8",
+  "title": "ABC Kids",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Kids",
+  "tvgId": "ABCKids.au@Sydney",
+  "tvgLogo": "https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:48.924Z"
+}

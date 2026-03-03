@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8",
+  "title": "ROTV Valencia (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "ROTVValencia.es@SD",
+  "tvgLogo": "https://i.imgur.com/0TDnVQ4.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:49.926Z"
+}

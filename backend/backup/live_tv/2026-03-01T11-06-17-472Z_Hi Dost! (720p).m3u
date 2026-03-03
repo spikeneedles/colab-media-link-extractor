@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HiDost.in_SD" tvg-name="Hi Dost! (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:17.472Z" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png" indexer="playlist-harvester",Hi Dost! (720p)
+https://cdn-1.pishow.tv/live/224/master.m3u8

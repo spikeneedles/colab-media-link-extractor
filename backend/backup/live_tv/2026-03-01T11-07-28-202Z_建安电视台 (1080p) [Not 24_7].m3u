@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="_______1080p___Not_24_7_" tvg-name="建安电视台 (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:28.202Z" indexer="playlist-harvester",建安电视台 (1080p) [Not 24/7]
+http://live.dxhmt.cn:9081/tv/11003-1.m3u8

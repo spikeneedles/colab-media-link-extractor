@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://video.misistemareseller.com:19360/srctv/srctv.m3u8",
+  "title": "SRC Media TV (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "SRCMediaTV.do@HD",
+  "tvgLogo": "https://www.vivalivetv.com/public/files/shows/0/1/3433-294x165-FFFFFF.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:56.700Z"
+}

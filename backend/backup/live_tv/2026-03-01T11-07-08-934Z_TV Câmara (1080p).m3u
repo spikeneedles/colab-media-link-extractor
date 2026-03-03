@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVCamara.br_SD" tvg-name="TV Câmara (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:08.934Z" tvg-logo="https://i.imgur.com/Sdou1Ab.png" indexer="playlist-harvester",TV Câmara (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8

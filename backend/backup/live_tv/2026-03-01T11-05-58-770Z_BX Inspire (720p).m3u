@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BXInspire.us_SD" tvg-name="BX Inspire (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:58.770Z" tvg-logo="https://i.imgur.com/PF71rdZ.png" indexer="playlist-harvester",BX Inspire (720p)
+https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8

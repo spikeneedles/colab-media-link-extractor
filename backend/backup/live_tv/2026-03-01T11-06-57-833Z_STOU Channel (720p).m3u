@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="STOUChannel.th_SD" tvg-name="STOU Channel (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:57.833Z" tvg-logo="https://i.imgur.com/L3T2QZz.png" indexer="playlist-harvester",STOU Channel (720p)
+https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8

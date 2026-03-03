@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVSinamo.tj_SD" tvg-name="TV Sinamo (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:11.299Z" tvg-logo="https://i.imgur.com/W2qz5a4.png" indexer="playlist-harvester",TV Sinamo (1080p)
+https://live.teleradiocom.tj/6/3m.m3u8

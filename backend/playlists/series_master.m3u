@@ -1,0 +1,81 @@
+#EXTM3U
+#PLAYLIST:Series Master — Archivist Protocol
+
+#EXTINF:-1 tvg-name="Imagine when your hot step sister is helping you" group-title="Series",Imagine when your hot step sister is helping you
+https://www.youtube.com/shorts/fv2okLADyp8
+
+#EXTINF:-1 tvg-name="- Full Download" group-title="Series",- Full Download
+https://archive.org/download/the.-boys.-s-01-e-01.720p/The.Boys.S01E01.720p.mkv
+
+#EXTINF:-1 tvg-id="ANT1Cyprus.cy_SD" tvg-name="ANT1 Cyprus (1080p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:52.750Z" tvg-logo="https://i.imgur.com/2KAObBt.png" indexer="playlist-harvester",ANT1 Cyprus (1080p)
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="DanceTVDeepHouseDistrict.ee_SD" tvg-name="DanceTV Deep House District (1080p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.893Z" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" indexer="playlist-harvester",DanceTV Deep House District (1080p)
+https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="ESTV.hu_SD" tvg-name="ESTV (420p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:11.422Z" tvg-logo="https://i.imgur.com/OCZ8CfK.png" indexer="playlist-harvester",ESTV (420p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr_SD" tvg-name="FashionTV Paris L'Original (1080p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:12.562Z" tvg-logo="https://i.imgur.com/GFTAN5Q.png" indexer="playlist-harvester",FashionTV Paris L'Original (1080p)
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="KomaromiTelevizio.hu_SD" tvg-name="Komáromi Televízió (400p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.265Z" tvg-logo="https://i.imgur.com/DifVZkz.png" indexer="playlist-harvester",Komáromi Televízió (400p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyofBritishColumbia.ca_SD" tvg-name="Legislative Assembly of British Columbia" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:26.191Z" tvg-logo="https://i.imgur.com/5QGxHhh.png" indexer="playlist-harvester",Legislative Assembly of British Columbia
+https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepDommelland.nl_SD" tvg-name="Omroep Dommelland (720p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.087Z" tvg-logo="https://i.imgur.com/6Tkd9Pv.png" indexer="playlist-harvester",Omroep Dommelland (720p)
+https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8
+#EXTINF:-1 tvg-id="OmroepHoekscheWaard.nl_SD" tvg-name="Omroep Hoeksche Waard (480p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.127Z" tvg-logo="https://i.imgur.com/pgMwNGV.png" indexer="playlist-harvester",Omroep Hoeksche Waard (480p)
+https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepLandvanCuijk.nl_SD" tvg-name="Omroep Land van Cuijk (720p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.141Z" tvg-logo="https://i.imgur.com/Pt2gXJ1.png" indexer="playlist-harvester",Omroep Land van Cuijk (720p)
+https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8
+#EXTINF:-1 tvg-id="OmroepMeierijstad.nl_SD" tvg-name="Omroep Meierijstad (480p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.157Z" tvg-logo="https://i.imgur.com/sYzh01C.png" indexer="playlist-harvester",Omroep Meierijstad (480p)
+https://ms2.mx-cd.net/dtv-09/186-793530/Omroep_Meierij_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepOnsWestBrabant.nl_SD" tvg-name="Omroep Ons West Brabant (480p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.164Z" tvg-logo="https://i.imgur.com/XlWTK7s.png" indexer="playlist-harvester",Omroep Ons West Brabant (480p)
+https://ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepPeelrand.nl_SD" tvg-name="Omroep Peelrand (720p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.171Z" tvg-logo="https://i.imgur.com/K4AhATP.png" indexer="playlist-harvester",Omroep Peelrand (720p)
+https://ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OmroepSudwest.nl_SD" tvg-name="Omroep Súdwest (720p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.179Z" tvg-logo="https://i.imgur.com/XtKLmQS.png" indexer="playlist-harvester",Omroep Súdwest (720p)
+https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8
+#EXTINF:-1 tvg-id="OmroepVenlo.nl_SD" tvg-name="Omroep Venlo (720p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.199Z" tvg-logo="https://i.imgur.com/zjDZdmM.png" indexer="playlist-harvester",Omroep Venlo (720p)
+https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8
+#EXTINF:-1 tvg-id="OmroepVenray.nl_SD" tvg-name="Omroep Venray (720p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.207Z" tvg-logo="https://i.imgur.com/uVqTbi2.png" indexer="playlist-harvester",Omroep Venray (720p)
+https://d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8
+#EXTINF:-1 tvg-id="SaabTV.so_SD" tvg-name="Saab TV (576p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:52.030Z" tvg-logo="https://i.imgur.com/JEC1J89.png" indexer="playlist-harvester",Saab TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
+#EXTINF:-1 tvg-id="ShauntheSheepFriends.uk_US" tvg-name="Shaun the Sheep & Friends (1080p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:54.396Z" tvg-logo="https://i.imgur.com/jQgnFcQ.png" indexer="playlist-harvester",Shaun the Sheep & Friends (1080p)
+https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
+#EXTINF:-1 tvg-id="SIXOTV.hu_SD" tvg-name="SIXO TV (360p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:54.974Z" tvg-logo="https://i.ibb.co/GTPs9Xy/9068.png" indexer="playlist-harvester",SIXO TV (360p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayGreatestHolidayHits.us_SD" tvg-name="Stingray Greatest Holiday Hits" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:57.514Z" tvg-logo="https://i.imgur.com/Hz2d6og.png" indexer="playlist-harvester",Stingray Greatest Holiday Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
+#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca_SD" tvg-name="Stingray Remember the 80s" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:57.647Z" tvg-logo="https://i.imgur.com/duwc8E8.png" indexer="playlist-harvester",Stingray Remember the 80s
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8
+#EXTINF:-1 tvg-id="Super.it_SD" tvg-name="Super!" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:58.498Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/512px-Super%21_logo_2021.svg.png" indexer="playlist-harvester",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Supermarket_Sweep__1080p___Geo-blocked_" tvg-name="Supermarket Sweep (1080p) [Geo-blocked]" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:58.537Z" indexer="playlist-harvester",Supermarket Sweep (1080p) [Geo-blocked]
+https://aegis-cloudfront-1.tubi.video/4541ec70-497a-4a92-87cf-50258fbab999/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDigitalBirigui.br_SD" tvg-name="TV Digital Biriguí (640p)" group-title="Series" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:09.473Z" tvg-logo="https://i.imgur.com/B5ZTMzY.png" indexer="playlist-harvester",TV Digital Biriguí (640p)
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+#EXTINF:-1 tvg-id="Fate_Grand_Order__You_ve_Lost_Ritsuka_Fujimaru_Season_3" tvg-name="Fate/Grand Order: You've Lost Ritsuka Fujimaru Season 3" group-title="Series" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-01T11:51:05.188Z" indexer="Aniwatch (Zoro.to)",Fate/Grand Order: You've Lost Ritsuka Fujimaru Season 3
+https://hianime.to/watch/fategrand-order-youve-lost-ritsuka-fujimaru-season-3-20469
+#EXTINF:-1 tvg-id="The_Great_Ruler_2nd_Season" tvg-name="The Great Ruler 2nd Season" group-title="Series" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-01T11:51:05.247Z" indexer="Aniwatch (Zoro.to)",The Great Ruler 2nd Season
+https://hianime.to/watch/the-great-ruler-2nd-season-20457
+#EXTINF:-1 tvg-id="Chained_Soldier_Season_2__Uncensored_" tvg-name="Chained Soldier Season 2 [Uncensored]" group-title="Series" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-01T11:51:05.302Z" indexer="Aniwatch (Zoro.to)",Chained Soldier Season 2 [Uncensored]
+https://hianime.to/watch/chained-soldier-season-2-uncensored-20449
+#EXTINF:-1 tvg-id="Hell_s_Paradise_Season_2" tvg-name="Hell's Paradise Season 2" group-title="Series" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-01T11:51:14.789Z" indexer="Aniwatch (Zoro.to)",Hell's Paradise Season 2
+https://hianime.to/watch/hells-paradise-season-2-20405
+#EXTINF:-1 tvg-id="Chained_Soldier_Season_2" tvg-name="Chained Soldier Season 2" group-title="Series" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-01T11:51:15.015Z" indexer="Aniwatch (Zoro.to)",Chained Soldier Season 2
+https://hianime.to/watch/chained-soldier-season-2-20389
+#EXTINF:-1 tvg-id="MF_Ghost_Season_3" tvg-name="MF Ghost Season 3" group-title="Series" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-01T11:51:15.045Z" indexer="Aniwatch (Zoro.to)",MF Ghost Season 3
+https://hianime.to/watch/mf-ghost-season-3-20345
+#EXTINF:-1 tvg-id="Fire_Force_Season_3_Part_2" tvg-name="Fire Force Season 3 Part 2" group-title="Series" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-01T11:51:15.055Z" indexer="Aniwatch (Zoro.to)",Fire Force Season 3 Part 2
+https://hianime.to/watch/fire-force-season-3-part-2-20393
+#EXTINF:-1 tvg-id="My_Star_Season_3" tvg-name="My Star Season 3" group-title="Series" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-01T11:51:15.220Z" indexer="Aniwatch (Zoro.to)",My Star Season 3
+https://hianime.to/watch/my-star-season-3-20397
+#EXTINF:-1 tvg-id="My_Hero_Academia__Vigilantes_Season_2" tvg-name="My Hero Academia: Vigilantes Season 2" group-title="Series" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-01T11:51:15.259Z" indexer="Aniwatch (Zoro.to)",My Hero Academia: Vigilantes Season 2
+https://hianime.to/watch/my-hero-academia-vigilantes-season-2-20381
+#EXTINF:-1 tvg-id="Frieren__Beyond_Journey_s_End_Season_2" tvg-name="Frieren: Beyond Journey's End Season 2" group-title="Series" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-01T11:51:15.267Z" indexer="Aniwatch (Zoro.to)",Frieren: Beyond Journey's End Season 2
+https://hianime.to/watch/frieren-beyond-journeys-end-season-2-20409
+#EXTINF:-1 tvg-id="Immortality_5th_Season" tvg-name="Immortality 5th Season" group-title="Series" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-01T12:05:12.411Z" indexer="Aniwatch (Zoro.to)",Immortality 5th Season
+https://hianime.to/watch/immortality-5th-season-20465
+#EXTINF:-1 tvg-id="The_Joe_Budden_Podcast_Episode_907___Panel_Of_Experts__feat._B.D" tvg-name="The Joe Budden Podcast Episode 907 | Panel Of Experts (feat. B.Dot)" group-title="Series" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-01T13:28:13.629Z" indexer="YouTube",The Joe Budden Podcast Episode 907 | Panel Of Experts (feat. B.Dot)
+https://www.youtube.com/watch?v=Pe8eSCxeI50&pp=ygUBLg%3D%3D
+#EXTINF:-1 tvg-id="_Tis_Time_for__Torture___Princess_Season_2" tvg-name="'Tis Time for 'Torture,' Princess Season 2" group-title="Series" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-01T16:25:31.517Z" indexer="Aniwatch (Zoro.to)",'Tis Time for "Torture," Princess Season 2
+https://hianime.to/watch/tis-time-for-torture-princess-season-2-20337

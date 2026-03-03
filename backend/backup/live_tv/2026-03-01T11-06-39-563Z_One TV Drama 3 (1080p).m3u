@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OneTVDrama3.kh_SD" tvg-name="One TV Drama 3 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.563Z" tvg-logo="https://i.imgur.com/wHtqMqB.png" indexer="playlist-harvester",One TV Drama 3 (1080p)
+http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8

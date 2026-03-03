@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Vathanam_TV" tvg-name="Vathanam TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:16.425Z" indexer="playlist-harvester",Vathanam TV
+http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8

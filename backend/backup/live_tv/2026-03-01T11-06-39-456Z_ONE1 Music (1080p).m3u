@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OneMusicTelevision.de_SD" tvg-name="ONE1 Music (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.456Z" tvg-logo="https://i.imgur.com/dLgoKJ0.png" indexer="playlist-harvester",ONE1 Music (1080p)
+https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioTeleSuperStar.ht_SD" tvg-name="Radio Tele SuperStar" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:45.672Z" tvg-logo="https://i.imgur.com/GoaeyVV.png" indexer="playlist-harvester",Radio Tele SuperStar
+https://dvrfl03.bozztv.com/hdirect/hdirect-telecaraibes/index.m3u8

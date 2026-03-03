@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HangulatTV.hu_SD" tvg-name="Hangulat TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:17.011Z" tvg-logo="https://play-lh.googleusercontent.com/uBasB1USS1zI0tdHUbhUg356TwmworMA5P_7UGnhvg3z6LXX6n1bEk7Qj3cE3-yuToA" indexer="playlist-harvester",Hangulat TV (720p)
+https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8

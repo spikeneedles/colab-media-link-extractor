@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8",
+  "title": "Tele Pegaso Catania (404p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TelePegasoCatania.it@SD",
+  "tvgLogo": "https://i.imgur.com/2syaOJz.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:00.575Z"
+}

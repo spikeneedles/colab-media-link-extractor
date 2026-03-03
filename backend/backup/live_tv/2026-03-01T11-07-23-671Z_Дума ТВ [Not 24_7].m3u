@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DumaTV.ru_SD" tvg-name="Дума ТВ [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:23.671Z" tvg-logo="https://i.imgur.com/JvlO3PU.png" indexer="playlist-harvester",Дума ТВ [Not 24/7]
+https://dumatv.iptv2022.com/playlist.m3u8

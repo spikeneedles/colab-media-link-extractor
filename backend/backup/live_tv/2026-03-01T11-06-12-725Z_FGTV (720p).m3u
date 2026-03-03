@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FGTV.kr_SD" tvg-name="FGTV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:12.725Z" tvg-logo="https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png" indexer="playlist-harvester",FGTV (720p)
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DunyaNawTV.af_SD" tvg-name="Dunya Naw TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:09.402Z" tvg-logo="https://i.ibb.co/nQkLgyn/dunya-naw-tv.png" indexer="playlist-harvester",Dunya Naw TV (576p)
+https://dunyanhls.wns.live/hls/stream.m3u8

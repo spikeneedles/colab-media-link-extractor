@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="News1st.in_SD" tvg-name="News 1st (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:35.650Z" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_First.png" indexer="playlist-harvester",News 1st (576p)
+https://cdn-3.pishow.tv/live/268/master.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Televisa_Telenovela_Channel" tvg-name="Televisa Telenovela Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:03.108Z" indexer="playlist-harvester",Televisa Telenovela Channel
+https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8

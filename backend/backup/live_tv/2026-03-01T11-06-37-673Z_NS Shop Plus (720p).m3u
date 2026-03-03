@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NSShopPlus.kr_SD" tvg-name="NS Shop Plus (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.673Z" tvg-logo="https://i.imgur.com/7KmXNci.png" indexer="playlist-harvester",NS Shop Plus (720p)
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8

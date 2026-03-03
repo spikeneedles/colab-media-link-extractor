@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MoonTV.in_SD" tvg-name="Moon TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:32.282Z" tvg-logo="https://i.imgur.com/3l25EZI.png" indexer="playlist-harvester",Moon TV (720p)
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8

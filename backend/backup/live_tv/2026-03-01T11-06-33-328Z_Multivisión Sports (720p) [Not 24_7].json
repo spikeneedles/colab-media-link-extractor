@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
+  "title": "Multivisión Sports (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "MultivisionSports.gt@SD",
+  "tvgLogo": "https://i.imgur.com/wLjSSo2.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:33.328Z"
+}

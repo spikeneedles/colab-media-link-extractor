@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NCTV.cl_SD" tvg-name="NCTV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:35.275Z" tvg-logo="https://i.imgur.com/oo5vDBv.png" indexer="playlist-harvester",NCTV (1080p)
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8",
+  "title": "PBS KET World (480p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "WKMJDT3.us@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:40.945Z"
+}

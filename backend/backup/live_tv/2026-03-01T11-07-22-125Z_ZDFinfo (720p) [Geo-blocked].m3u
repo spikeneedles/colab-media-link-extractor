@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ZDFinfo.de_SD" tvg-name="ZDFinfo (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:22.125Z" tvg-logo="https://i.imgur.com/vtq1IWp.png" indexer="playlist-harvester",ZDFinfo (720p) [Geo-blocked]
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FranchsTV.gt_SD" tvg-name="Franchs TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:13.821Z" tvg-logo="https://i.imgur.com/Rr9pKQh.png" indexer="playlist-harvester",Franchs TV (720p)
+https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8

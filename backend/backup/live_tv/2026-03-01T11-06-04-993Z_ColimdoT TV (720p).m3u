@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ColimdoTV.do_SD" tvg-name="ColimdoT TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:04.993Z" tvg-logo="https://i.imgur.com/ZeUgLCa.png" indexer="playlist-harvester",ColimdoT TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8

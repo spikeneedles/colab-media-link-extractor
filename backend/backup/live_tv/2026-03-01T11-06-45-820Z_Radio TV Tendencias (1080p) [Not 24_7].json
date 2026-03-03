@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://s1.tvdatta.com:3950/multi_web/play.m3u8",
+  "title": "Radio TV Tendencias (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "RadioTVTendencias.pe@SD",
+  "tvgLogo": "https://i.imgur.com/tsdrrV9.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:45.820Z"
+}

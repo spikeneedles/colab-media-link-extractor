@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8",
+  "title": "Komáromi Televízió (400p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "KomaromiTelevizio.hu@SD",
+  "tvgLogo": "https://i.imgur.com/DifVZkz.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "series",
+  "archivedAt": "2026-03-01T11:06:24.265Z"
+}

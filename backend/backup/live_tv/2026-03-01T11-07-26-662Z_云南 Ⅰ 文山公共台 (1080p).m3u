@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="____________1080p_" tvg-name="云南 Ⅰ 文山公共台 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:07:26.662Z" indexer="playlist-harvester",云南 Ⅰ 文山公共台 (1080p)
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch2.flv

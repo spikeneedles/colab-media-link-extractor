@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="QVC2.us_SD" tvg-name="QVC 2" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:44.399Z" tvg-logo="https://i.imgur.com/NxbDjfI.png" indexer="playlist-harvester",QVC 2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8

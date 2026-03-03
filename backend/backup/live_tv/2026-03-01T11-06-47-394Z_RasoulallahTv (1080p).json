@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8",
+  "title": "RasoulallahTv (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "RasoulallahTv.ir@HD",
+  "tvgLogo": "https://i.imgur.com/Jh5ADee.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:47.394Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LyonCapitaleTV.fr_SD" tvg-name="Lyon Capitale TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:28.101Z" tvg-logo="https://i.imgur.com/4WfnEaj.png" indexer="playlist-harvester",Lyon Capitale TV
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lyoncapitale.m3u8

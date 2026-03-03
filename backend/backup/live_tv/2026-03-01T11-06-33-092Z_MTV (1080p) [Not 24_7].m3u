@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MTVLebanon.lb_SD" tvg-name="MTV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:33.092Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" indexer="playlist-harvester",MTV (1080p) [Not 24/7]
+https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8

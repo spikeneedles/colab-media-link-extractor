@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NBS.kr_SD" tvg-name="NBS Korea Agricultural Broadcasting (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:35.201Z" tvg-logo="https://i.imgur.com/pOSroOE.png" indexer="playlist-harvester",NBS Korea Agricultural Broadcasting (720p)
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://176.65.146.237:8401/play/a09d/index.m3u8",
+  "title": "Bom Cine (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "BomCine.es@SD",
+  "tvgLogo": "https://i.imgur.com/65OX8Gj.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:05:57.807Z"
+}

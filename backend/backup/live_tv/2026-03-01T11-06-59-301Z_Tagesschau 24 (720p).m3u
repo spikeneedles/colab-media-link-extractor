@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tagesschau24.de_SD" tvg-name="Tagesschau 24 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.301Z" tvg-logo="https://i.imgur.com/LH0Gctv.png" indexer="playlist-harvester",Tagesschau 24 (720p)
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8",
+  "title": "Hala London (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "HalaLondon.uk@SD",
+  "tvgLogo": "https://i.imgur.com/bM4VZDH.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:16.821Z"
+}

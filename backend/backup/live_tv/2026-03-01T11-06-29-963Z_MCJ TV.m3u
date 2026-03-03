@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MCJ_TV" tvg-name="MCJ TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.963Z" indexer="playlist-harvester",MCJ TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mcj-tv-shop.m3u8

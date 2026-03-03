@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RegioTVNieuws.nl_SD" tvg-name="Regio TV Nieuws (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:48.285Z" tvg-logo="https://i.imgur.com/BG7zrsC.png" indexer="playlist-harvester",Regio TV Nieuws (1080p) [Not 24/7]
+http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8

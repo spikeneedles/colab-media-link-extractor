@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WDRFernsehen.de_Wuppertal" tvg-name="WDR Fernsehen Wuppertal (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:19.656Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png" indexer="playlist-harvester",WDR Fernsehen Wuppertal (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8

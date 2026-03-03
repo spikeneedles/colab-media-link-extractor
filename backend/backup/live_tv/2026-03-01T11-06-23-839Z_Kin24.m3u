@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Kin24.cd_SD" tvg-name="Kin24" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:23.839Z" tvg-logo="https://i.imgur.com/Lak10Wo.png" indexer="playlist-harvester",Kin24
+http://51.254.199.122:8080/kin24/index.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8",
+  "title": "Canal 4 (480p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "Canal4.ni@SD",
+  "tvgLogo": "https://i.imgur.com/nhgtZdt.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:59.412Z"
+}

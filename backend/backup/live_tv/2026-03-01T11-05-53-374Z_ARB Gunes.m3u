@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ARBGunes.az_SD" tvg-name="ARB Gunes" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:53.374Z" tvg-logo="https://i.imgur.com/dSg7KUK.png" indexer="playlist-harvester",ARB Gunes
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WildEarth.za_SD" tvg-name="WildEarth (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:20.237Z" tvg-logo="https://i.imgur.com/Vhv5gjN.png" indexer="playlist-harvester",WildEarth (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8

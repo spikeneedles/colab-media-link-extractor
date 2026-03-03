@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="L1TV.nl_SD" tvg-name="L1mburg TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:25.108Z" tvg-logo="https://i.imgur.com/SDD5KS5.png" indexer="playlist-harvester",L1mburg TV (720p) [Not 24/7]
+https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8

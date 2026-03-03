@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="i24NEWSArabic.il_SD" tvg-name="I24 News Arabic (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.763Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" indexer="playlist-harvester",I24 News Arabic (720p)
+https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8

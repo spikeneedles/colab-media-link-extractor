@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://pbc.furrera.ps/musawahd/index.m3u8",
+  "title": "MusawaChannel (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "MusawaChannel.ps@SD",
+  "tvgLogo": "https://i.imgur.com/GB2Q9kl.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:33.433Z"
+}

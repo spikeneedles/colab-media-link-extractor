@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CAM10TV.cm_SD" tvg-name="CAM 10 TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:59.064Z" tvg-logo="https://i.imgur.com/xspb9uY.png" indexer="playlist-harvester",CAM 10 TV
+https://stream.it-innov.com/cam10tv/index.m3u8

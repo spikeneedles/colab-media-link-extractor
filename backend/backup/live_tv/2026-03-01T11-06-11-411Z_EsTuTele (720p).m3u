@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EsTuTele.es_SD" tvg-name="EsTuTele (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:11.411Z" tvg-logo="https://i.imgur.com/bsAbcmC.png" indexer="playlist-harvester",EsTuTele (720p)
+https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8

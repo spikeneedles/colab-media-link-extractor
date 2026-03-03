@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTV.ec_SD" tvg-name="RTV Riobamba (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:51.705Z" tvg-logo="https://i.imgur.com/DzxGHRZ.png" indexer="playlist-harvester",RTV Riobamba (720p) [Not 24/7]
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8

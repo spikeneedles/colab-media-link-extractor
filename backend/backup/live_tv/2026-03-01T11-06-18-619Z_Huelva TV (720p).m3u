@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HuelvaTV.es_SD" tvg-name="Huelva TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.619Z" tvg-logo="https://i.imgur.com/hEnpvKj.png" indexer="playlist-harvester",Huelva TV (720p)
+https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8

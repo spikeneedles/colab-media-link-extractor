@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ReporteroTV.do_HD" tvg-name="Reportero TV [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:48.440Z" tvg-logo="https://dominicanchannels.com/wp-content/uploads/Reportero-100x75-1.png" indexer="playlist-harvester",Reportero TV [Not 24/7]
+https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8

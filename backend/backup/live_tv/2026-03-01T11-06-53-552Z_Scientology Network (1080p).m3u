@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ScientologyNetwork.us_SD" tvg-name="Scientology Network (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.552Z" tvg-logo="https://i.imgur.com/HOYF8NA.png" indexer="playlist-harvester",Scientology Network (1080p)
+https://stream6.scientology.org/master.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NUBARPlusPlus.iq_SD" tvg-name="NUBAR Plus TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.946Z" tvg-logo="https://i.ibb.co/XpgWb6B/IMG-20230628-140407.jpg" indexer="playlist-harvester",NUBAR Plus TV (720p)
+http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8

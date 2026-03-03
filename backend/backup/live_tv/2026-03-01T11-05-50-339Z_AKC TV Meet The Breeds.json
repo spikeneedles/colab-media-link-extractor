@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8",
+  "title": "AKC TV Meet The Breeds",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Outdoor",
+  "tvgId": "AKCTVMeettheBreeds.us@SD",
+  "tvgLogo": "https://i.imgur.com/66avgdk.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:50.339Z"
+}

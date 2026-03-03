@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="T9.it_SD" tvg-name="T9 (288p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.172Z" tvg-logo="https://i.imgur.com/kQKzpYj.png" indexer="playlist-harvester",T9 (288p)
+https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8

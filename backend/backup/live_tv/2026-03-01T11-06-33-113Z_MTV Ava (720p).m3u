@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MTVAva.fi_SD" tvg-name="MTV Ava (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:33.113Z" tvg-logo="https://i.imgur.com/WxNCiAk.png" indexer="playlist-harvester",MTV Ava (720p)
+https://live-fi.tvkaista.net/ava/live.m3u8

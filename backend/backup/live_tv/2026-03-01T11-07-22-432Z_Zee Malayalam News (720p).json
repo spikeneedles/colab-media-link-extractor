@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8",
+  "title": "Zee Malayalam News (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "ZeeMalayalamNews.in@SD",
+  "tvgLogo": "https://i.imgur.com/MePj7ET.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:22.432Z"
+}

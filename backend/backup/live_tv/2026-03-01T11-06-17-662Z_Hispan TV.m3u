@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HispanTV.ir_SD" tvg-name="Hispan TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:17.662Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg" indexer="playlist-harvester",Hispan TV
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8

@@ -1,0 +1,13 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8",
+  "title": "Revry Queer (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Lifestyle",
+  "tvgId": "RevryQueer.us@SD",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:48.795Z"
+}

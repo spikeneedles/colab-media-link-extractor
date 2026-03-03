@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8",
+  "title": "Nice TV Kenya (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "NiceTVKenya.ke@SD",
+  "tvgLogo": "https://i.imgur.com/UawxLTW.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:36.523Z"
+}

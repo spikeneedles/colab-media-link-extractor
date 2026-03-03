@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WRUADT1.pr_SD" tvg-name="WRUA-DT1 (Tiva TV) (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:20.955Z" tvg-logo="https://i.imgur.com/YtTlZq3.png" indexer="playlist-harvester",WRUA-DT1 (Tiva TV) (720p)
+https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8

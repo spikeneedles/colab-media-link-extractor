@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RLPROTV.cd_SD" tvg-name="RL PRO TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:49.112Z" tvg-logo="https://i.imgur.com/PIBtCEN.jpeg" indexer="playlist-harvester",RL PRO TV
+https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8

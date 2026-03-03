@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8",
+  "title": "CT-N TV Conneticut (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Legislative",
+  "tvgId": "CTNTVConneticut.us@SD",
+  "tvgLogo": "https://i.imgur.com/pb0TFQt.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:06.304Z"
+}

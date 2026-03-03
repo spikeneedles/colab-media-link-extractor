@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Klara.be_SD" tvg-name="VRT Radio Klara (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:18.135Z" tvg-logo="https://i.ibb.co/YdDkSJW/VRT-Klara-2020-svg.png" indexer="playlist-harvester",VRT Radio Klara (720p)
+https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8

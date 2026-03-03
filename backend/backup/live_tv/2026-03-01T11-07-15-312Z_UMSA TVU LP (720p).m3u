@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UMSATVULP.bo_SD" tvg-name="UMSA TVU LP (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:15.312Z" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" indexer="playlist-harvester",UMSA TVU LP (720p)
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UTV.cz_SD" tvg-name="ÚTV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:16.050Z" tvg-logo="https://i.imgur.com/ulfeIwM.png" indexer="playlist-harvester",ÚTV (1080p)
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8

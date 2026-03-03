@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlAlam.ir_SD" tvg-name="Al Alam (360p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:50.392Z" tvg-logo="https://i.imgur.com/Zdi31dy.png" indexer="playlist-harvester",Al Alam (360p)
+https://live2.alalam.ir/alalam.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UCVTV.cl_SD" tvg-name="UCV TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:15.156Z" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" indexer="playlist-harvester",UCV TV (720p)
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8

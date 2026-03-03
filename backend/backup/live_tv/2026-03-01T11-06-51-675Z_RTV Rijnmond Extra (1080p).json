@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8",
+  "title": "RTV Rijnmond Extra (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "RTVRijnmondExtra.nl",
+  "tvgLogo": "https://i.imgur.com/mlrd5ia.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:51.675Z"
+}

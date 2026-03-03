@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
+  "title": "TV Cultura",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TVCultura.br@SD",
+  "tvgLogo": "https://i.ibb.co/nm0jXMM/cultura-3x.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:09.324Z"
+}

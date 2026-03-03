@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Teleimpacto.do_SD" tvg-name="Teleimpacto (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:01.729Z" tvg-logo="https://i.imgur.com/dBEysOV.png" indexer="playlist-harvester",Teleimpacto (720p) [Not 24/7]
+https://vpss2003.streamprolive.com/hls/live.m3u8

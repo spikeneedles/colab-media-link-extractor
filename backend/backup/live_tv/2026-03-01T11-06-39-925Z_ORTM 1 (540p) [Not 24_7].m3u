@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ORTM1.ml_SD" tvg-name="ORTM 1 (540p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.925Z" tvg-logo="https://i.imgur.com/eKUpcls.png" indexer="playlist-harvester",ORTM 1 (540p) [Not 24/7]
+http://69.64.57.208/ortm/playlist.m3u8

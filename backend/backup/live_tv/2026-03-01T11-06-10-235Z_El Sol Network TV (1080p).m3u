@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ElSolNetworkTV.ec_SD" tvg-name="El Sol Network TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.235Z" tvg-logo="https://i.imgur.com/TIH3zlP.png" indexer="playlist-harvester",El Sol Network TV (1080p)
+https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8

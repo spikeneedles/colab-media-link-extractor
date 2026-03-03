@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8",
+  "title": "Canal 3 Impresionante (480p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Canal3Impresionante.sv@SD",
+  "tvgLogo": "https://i.imgur.com/mdfiWG9.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:59.363Z"
+}

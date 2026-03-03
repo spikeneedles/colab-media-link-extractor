@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8",
+  "title": "Sky Open (1080p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "SkyOpen.nz@SD",
+  "tvgLogo": "https://i.imgur.com/eYyYojh.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:55.212Z"
+}

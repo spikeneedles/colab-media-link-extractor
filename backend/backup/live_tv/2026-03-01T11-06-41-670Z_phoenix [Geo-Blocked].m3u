@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="phoenix.de_HD" tvg-name="phoenix [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:41.670Z" tvg-logo="https://i.imgur.com/T1532t9.png" indexer="playlist-harvester",phoenix [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.mpd

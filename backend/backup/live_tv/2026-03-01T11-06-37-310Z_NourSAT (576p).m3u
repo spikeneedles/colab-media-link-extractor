@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Noursat.lb_SD" tvg-name="NourSAT (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.310Z" tvg-logo="https://i.imgur.com/6Zs5rx4.png" indexer="playlist-harvester",NourSAT (576p)
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ZDFneo.de_HD" tvg-name="ZDFneo HD (720p) [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:07:22.159Z" tvg-logo="https://i.imgur.com/1JIIGgL.png" indexer="playlist-harvester",ZDFneo HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd

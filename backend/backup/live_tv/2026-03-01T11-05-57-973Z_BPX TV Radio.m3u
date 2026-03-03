@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BPXTVRadio.us_SD" tvg-name="BPX TV Radio" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:57.973Z" tvg-logo="https://i.imgur.com/86VXni8.jpeg" indexer="playlist-harvester",BPX TV Radio
+https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8

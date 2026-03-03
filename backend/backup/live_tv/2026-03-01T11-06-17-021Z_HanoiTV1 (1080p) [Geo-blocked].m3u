@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HanoiTV1.vn_SD" tvg-name="HanoiTV1 (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:17.021Z" tvg-logo="https://i.imgur.com/Je3K25E.png" indexer="playlist-harvester",HanoiTV1 (1080p) [Geo-blocked]
+https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8

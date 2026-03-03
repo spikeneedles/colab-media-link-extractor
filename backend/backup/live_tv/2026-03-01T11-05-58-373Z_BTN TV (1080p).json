@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8",
+  "title": "BTN TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "BTNTV.kr@SD",
+  "tvgLogo": "https://i.imgur.com/sOoS7RQ.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:58.373Z"
+}

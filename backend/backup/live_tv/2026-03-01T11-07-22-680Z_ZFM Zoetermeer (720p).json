@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://zfmzoetermeer.nl/live/master.m3u8",
+  "title": "ZFM Zoetermeer (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "ZFMZoetermeerTV.nl@SD",
+  "tvgLogo": "https://i.imgur.com/vrjACvy.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:22.680Z"
+}

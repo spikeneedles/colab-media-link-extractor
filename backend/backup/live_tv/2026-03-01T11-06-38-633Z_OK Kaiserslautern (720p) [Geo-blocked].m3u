@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OKKaiserslautern.de_SD" tvg-name="OK Kaiserslautern (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:38.633Z" tvg-logo="https://i.imgur.com/MRrETTh.png" indexer="playlist-harvester",OK Kaiserslautern (720p) [Geo-blocked]
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8

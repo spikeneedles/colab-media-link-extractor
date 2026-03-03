@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Cowboy_Movie_Channel" tvg-name="Cowboy Movie Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:05.860Z" indexer="playlist-harvester",Cowboy Movie Channel
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8

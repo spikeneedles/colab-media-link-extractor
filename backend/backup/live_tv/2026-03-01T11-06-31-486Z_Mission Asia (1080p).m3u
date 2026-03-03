@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MissionAsia.au" tvg-name="Mission Asia (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:31.486Z" tvg-logo="https://i.imgur.com/B5mKwF6.png" indexer="playlist-harvester",Mission Asia (1080p)
+https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8

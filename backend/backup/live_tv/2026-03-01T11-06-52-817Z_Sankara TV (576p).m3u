@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SankaraTV.in_SD" tvg-name="Sankara TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:52.817Z" tvg-logo="https://i.imgur.com/2z0bDRD.png" indexer="playlist-harvester",Sankara TV (576p)
+https://cdn-3.pishow.tv/live/1135/master.m3u8

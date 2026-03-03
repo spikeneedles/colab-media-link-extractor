@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://agp-nimble.streamguys1.com/SLOC/SLOC/playlist.m3u8",
+  "title": "SLO County Channel 21 (360p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "SLOCountyChannel21.us@SD",
+  "tvgLogo": "https://i.imgur.com/CyQ472C.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:55.402Z"
+}

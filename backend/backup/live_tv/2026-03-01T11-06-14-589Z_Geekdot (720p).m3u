@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Geekdot.br_SD" tvg-name="Geekdot (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:14.589Z" tvg-logo="https://i.imgur.com/jML1u4O.png" indexer="playlist-harvester",Geekdot (720p)
+https://stream.ichibantv.com:3764/hybrid/play.m3u8

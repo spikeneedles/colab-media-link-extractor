@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dlife.jp_SD" tvg-name="Dlife (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:08.340Z" indexer="playlist-harvester",Dlife (1080p)
+https://43.100.9.67/api/streams/live/cs312/1080p/mpegts

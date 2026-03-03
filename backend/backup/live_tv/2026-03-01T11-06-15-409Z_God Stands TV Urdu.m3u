@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GodStandsTV.pk_Urdu" tvg-name="God Stands TV Urdu" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:15.409Z" tvg-logo="https://i.imgur.com/EO6cYUI.png" indexer="playlist-harvester",God Stands TV Urdu
+https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8

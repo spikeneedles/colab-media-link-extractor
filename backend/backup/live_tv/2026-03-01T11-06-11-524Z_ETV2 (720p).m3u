@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ETV2.ee_SD" tvg-name="ETV2 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:11.524Z" tvg-logo="https://i.imgur.com/fUjGHDa.png" indexer="playlist-harvester",ETV2 (720p)
+https://sb.err.ee/live/etv2.m3u8

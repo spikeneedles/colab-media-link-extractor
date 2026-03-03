@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EfarinaTV.id_SD" tvg-name="Efarina TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.038Z" tvg-logo="https://i.imgur.com/iYTimXh.png" indexer="playlist-harvester",Efarina TV (720p)
+https://live.efarinatv.com/hls/bgtaufikganteng.m3u8

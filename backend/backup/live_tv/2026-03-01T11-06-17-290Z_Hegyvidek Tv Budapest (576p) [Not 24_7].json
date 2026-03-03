@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://tv.hegyvidek.hu/stream_mpeg.flv",
+  "title": "Hegyvidek Tv Budapest (576p) [Not 24/7]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "HegyvidekTV.hu@SD",
+  "tvgLogo": "https://i.imgur.com/t5bw1J1.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:17.290Z"
+}

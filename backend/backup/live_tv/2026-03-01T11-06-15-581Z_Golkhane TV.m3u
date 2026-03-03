@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GolkhaneTv.ir_SD" tvg-name="Golkhane TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:15.581Z" tvg-logo="https://static.telewebion.com/channelsLogo/686599d8-c1ee-4557-aa72-b1293a21906d/default" indexer="playlist-harvester",Golkhane TV
+https://ncdn.telewebion.com/golkhane/live/playlist.m3u8

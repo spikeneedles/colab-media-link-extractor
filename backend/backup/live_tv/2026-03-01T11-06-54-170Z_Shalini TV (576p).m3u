@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ShaliniTV.in_SD" tvg-name="Shalini TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:54.170Z" tvg-logo="https://i.imgur.com/fDdG6Y2.png" indexer="playlist-harvester",Shalini TV (576p)
+https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8

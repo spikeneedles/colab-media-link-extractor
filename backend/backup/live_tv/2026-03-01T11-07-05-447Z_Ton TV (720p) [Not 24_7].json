@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8",
+  "title": "Ton TV (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TonTV.tr@SD",
+  "tvgLogo": "https://i.imgur.com/f0Soeob.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:05.447Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BibelTV.de_SD" tvg-name="Bibel TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:57.158Z" tvg-logo="https://i.imgur.com/RLwmrk3.png" indexer="playlist-harvester",Bibel TV (720p)
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8

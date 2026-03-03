@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Beyblade" tvg-name="Beyblade" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:56.818Z" indexer="playlist-harvester",Beyblade
+https://amg01796-amg01796c6-rakuten-fr-5334.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladefr-rakutenfr/playlist.m3u8

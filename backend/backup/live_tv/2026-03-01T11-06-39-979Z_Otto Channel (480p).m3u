@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OttoChannel.it_SD" tvg-name="Otto Channel (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.979Z" tvg-logo="https://i.imgur.com/zxdwM4f.png" indexer="playlist-harvester",Otto Channel (480p)
+https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8

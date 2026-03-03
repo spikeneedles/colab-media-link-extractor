@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telesantodomingo.do_SD" tvg-name="Telesantodomingo (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:02.693Z" tvg-logo="https://i.imgur.com/rI8c5UM.png" indexer="playlist-harvester",Telesantodomingo (720p)
+https://vdopanel.jlahozconsulting.com:3769/live/santodomingolive.m3u8

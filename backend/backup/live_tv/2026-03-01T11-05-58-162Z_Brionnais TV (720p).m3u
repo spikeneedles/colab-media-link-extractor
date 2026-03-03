@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BrionnaisTV.fr_SD" tvg-name="Brionnais TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:58.162Z" tvg-logo="https://i.imgur.com/y94bhqX.jpg" indexer="playlist-harvester",Brionnais TV (720p)
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8

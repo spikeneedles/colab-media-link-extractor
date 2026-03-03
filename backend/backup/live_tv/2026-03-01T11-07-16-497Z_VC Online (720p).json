@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8",
+  "title": "VC Online (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "VCOnline.cl@SD",
+  "tvgLogo": "https://i.imgur.com/VlKl2VB.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:16.497Z"
+}

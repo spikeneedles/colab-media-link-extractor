@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.kaztrk.kz/regional/karagandytv/index.m3u8",
+  "title": "Saryarqa (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Saryarqa.kz@SD",
+  "tvgLogo": "https://i.imgur.com/EIXwi1c.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:53.070Z"
+}

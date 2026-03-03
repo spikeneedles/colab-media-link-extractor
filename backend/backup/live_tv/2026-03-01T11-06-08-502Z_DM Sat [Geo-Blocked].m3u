@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DMSat.rs_SD" tvg-name="DM Sat [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:08.502Z" tvg-logo="https://i.imgur.com/LdeA1Cn.png" indexer="playlist-harvester",DM Sat [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd

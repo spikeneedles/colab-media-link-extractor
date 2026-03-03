@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://bloomberg.com/media-manifest/streams/us-event.m3u8",
+  "title": "Bloomberg TV US Live Event (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Business",
+  "tvgId": "BloombergTV.us@LiveEvent",
+  "tvgLogo": "https://i.imgur.com/OuogLHx.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:57.569Z"
+}

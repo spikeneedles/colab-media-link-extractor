@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8",
+  "title": "High Vision (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "HighVisionTV.us@SD",
+  "tvgLogo": "https://i.imgur.com/zhCgoru.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:17.522Z"
+}

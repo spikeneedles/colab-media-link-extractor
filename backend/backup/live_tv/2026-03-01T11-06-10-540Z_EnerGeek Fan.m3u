@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EnerGeekFAN.cl" tvg-name="EnerGeek Fan" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.540Z" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" indexer="playlist-harvester",EnerGeek Fan
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH

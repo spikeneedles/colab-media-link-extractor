@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
+  "title": "5TV Corrientes (480p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "5tv.ar@SD",
+  "tvgLogo": "https://i.imgur.com/mSn7ACs.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:47.481Z"
+}

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8",
+  "title": "Kanal 33 (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Kanal33.tr@SD",
+  "tvgLogo": "https://i.imgur.com/5WYaoFZ.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:22.889Z"
+}

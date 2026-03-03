@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTPMemoria.pt_SD" tvg-name="RTP Memória (504p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:51.081Z" tvg-logo="https://i.imgur.com/jCpfdiJ.png" indexer="playlist-harvester",RTP Memória (504p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8

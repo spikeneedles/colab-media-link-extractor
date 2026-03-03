@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVKU.id_SD" tvg-name="TVKU (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:13.013Z" tvg-logo="https://i.imgur.com/BAklJGy.png" indexer="playlist-harvester",TVKU (720p)
+https://tvku.tv/hlsstream/hls/live.m3u8

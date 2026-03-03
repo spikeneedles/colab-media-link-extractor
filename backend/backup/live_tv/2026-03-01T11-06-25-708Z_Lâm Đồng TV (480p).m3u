@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LamDongTV.vn_SD" tvg-name="Lâm Đồng TV (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:25.708Z" tvg-logo="https://i.imgur.com/lSMoGlv.png" indexer="playlist-harvester",Lâm Đồng TV (480p)
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8

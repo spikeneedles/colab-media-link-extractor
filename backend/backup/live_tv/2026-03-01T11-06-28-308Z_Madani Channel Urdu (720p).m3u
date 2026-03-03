@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MadaniChannelUrdu.pk_SD" tvg-name="Madani Channel Urdu (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:28.308Z" tvg-logo="https://i.imgur.com/MitLeCJ.png" indexer="playlist-harvester",Madani Channel Urdu (720p)
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8

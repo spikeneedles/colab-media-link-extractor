@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ConectaMaisTV.br_SD" tvg-name="Conecta+ TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:05.378Z" tvg-logo="https://i.imgur.com/qHwTWlz.png" indexer="playlist-harvester",Conecta+ TV (720p)
+http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8

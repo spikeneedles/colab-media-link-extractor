@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRTTurk.tr_SD" tvg-name="TRT Turk [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:07:06.945Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png" indexer="playlist-harvester",TRT Turk [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd

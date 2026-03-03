@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BFMTechCo.fr_SD" tvg-name="BFM Tech & Co (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:56.993Z" tvg-logo="https://i.imgur.com/FQ0FpXV.png" indexer="playlist-harvester",BFM Tech & Co (1080p)
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE

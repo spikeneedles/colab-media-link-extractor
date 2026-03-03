@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KIIOLD4.us_SD" tvg-name="AABC TV (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.542Z" tvg-logo="https://i.imgur.com/Spu4s89.png" indexer="playlist-harvester",AABC TV (480p)
+https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8

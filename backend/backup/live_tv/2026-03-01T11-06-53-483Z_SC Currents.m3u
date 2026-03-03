@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SCCurrents.us_SD" tvg-name="SC Currents" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.483Z" tvg-logo="https://i.imgur.com/8FZsNyK.png" indexer="playlist-harvester",SC Currents
+https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PadrePioTV.it_SD" tvg-name="Padre Pio TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.295Z" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg" indexer="playlist-harvester",Padre Pio TV (1080p)
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8

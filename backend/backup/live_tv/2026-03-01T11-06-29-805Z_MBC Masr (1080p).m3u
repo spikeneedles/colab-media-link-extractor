@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MBCMasr.eg_SD" tvg-name="MBC Masr (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.805Z" tvg-logo="https://i.imgur.com/o2elx0u.png" indexer="playlist-harvester",MBC Masr (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8

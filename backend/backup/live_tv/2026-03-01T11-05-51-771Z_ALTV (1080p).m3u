@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ALTV.th_SD" tvg-name="ALTV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:51.771Z" tvg-logo="https://i.imgur.com/MCbCSWv.png" indexer="playlist-harvester",ALTV (1080p)
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8

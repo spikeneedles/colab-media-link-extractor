@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UEBITVOnline.ec_SD" tvg-name="UEBI TV Online (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:15.185Z" tvg-logo="https://i.imgur.com/Tf0BF2q.jpg" indexer="playlist-harvester",UEBI TV Online (720p) [Not 24/7]
+https://ventaxtv.com:3575/live/uebilive.m3u8

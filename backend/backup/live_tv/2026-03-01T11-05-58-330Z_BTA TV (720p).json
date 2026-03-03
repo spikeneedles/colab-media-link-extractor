@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
+  "title": "BTA TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "BTATV.ve@SD",
+  "tvgLogo": "https://i.imgur.com/vygOosC.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:58.330Z"
+}

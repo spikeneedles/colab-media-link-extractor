@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://videohd.live:19360/8016/8016.m3u8",
+  "title": "TeleCinco Trelew (240p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "Telecinco.ar@SD",
+  "tvgLogo": "https://i.imgur.com/ZDenyAE.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:01.499Z"
+}

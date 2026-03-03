@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rai2.it_HD" tvg-name="Rai 2 HD [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:46.042Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png" indexer="playlist-harvester",Rai 2 HD [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd

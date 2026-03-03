@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal7Neuquen.ar_SD" tvg-name="Canal 7 Neuquén (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:59.603Z" tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" indexer="playlist-harvester",Canal 7 Neuquén (1080p)
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8

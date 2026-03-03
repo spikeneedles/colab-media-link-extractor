@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CT24.cz_SD" tvg-name="ČT24 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.263Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/512px-%C4%8CT24_logo.png" indexer="playlist-harvester",ČT24 (1080p)
+http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8

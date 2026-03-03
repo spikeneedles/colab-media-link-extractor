@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="P2MTV.fr_SD" tvg-name="P2M TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.183Z" tvg-logo="https://i.imgur.com/TrecSeG.png" indexer="playlist-harvester",P2M TV (720p)
+https://vdo2.pro-fhi.net:3207/stream/play.m3u8

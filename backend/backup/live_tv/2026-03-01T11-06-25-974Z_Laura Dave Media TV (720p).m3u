@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LauraDaveMediaTV.cm_SD" tvg-name="Laura Dave Media TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:25.974Z" tvg-logo="https://i.imgur.com/zzG1S2n.png" indexer="playlist-harvester",Laura Dave Media TV (720p)
+https://streaming.lauradavemedia.com/ldm/index.m3u8

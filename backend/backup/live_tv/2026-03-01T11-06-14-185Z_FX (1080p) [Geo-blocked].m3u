@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FX.tr_HD" tvg-name="FX (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:14.185Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/330px-FX_International_logo.svg.png" indexer="playlist-harvester",FX (1080p) [Geo-blocked]
+https://saran-live.ercdn.net/fx/index.m3u8

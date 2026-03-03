@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
+  "title": "FashionTV Paris L'Original (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Lifestyle",
+  "tvgId": "FashionTVParisLOriginal.fr@SD",
+  "tvgLogo": "https://i.imgur.com/GFTAN5Q.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "series",
+  "archivedAt": "2026-03-01T11:06:12.562Z"
+}

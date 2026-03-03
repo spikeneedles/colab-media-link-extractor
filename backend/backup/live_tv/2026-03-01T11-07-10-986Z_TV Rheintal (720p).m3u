@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVRheintal.ch_SD" tvg-name="TV Rheintal (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:10.986Z" tvg-logo="https://i.imgur.com/8PY1o81.jpg" indexer="playlist-harvester",TV Rheintal (720p)
+https://rtmp-vm.fidion.de/live/tvrt.m3u8

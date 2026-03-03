@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8",
+  "title": "TVS Family Channel (360p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Family",
+  "tvgId": "TVSFamilyChannel.us@SD",
+  "tvgLogo": "https://i.imgur.com/Y3EV3DL.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:14.397Z"
+}

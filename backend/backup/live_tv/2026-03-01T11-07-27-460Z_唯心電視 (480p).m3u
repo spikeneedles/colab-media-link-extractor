@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WXTV.tw_SD" tvg-name="唯心電視 (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:27.460Z" tvg-logo="https://i.imgur.com/s8tiTeb.png" indexer="playlist-harvester",唯心電視 (480p)
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8

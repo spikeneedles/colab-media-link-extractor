@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HSE.de_SD" tvg-name="HSE (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.426Z" tvg-logo="https://i.imgur.com/IecRNCk.png" indexer="playlist-harvester",HSE (1080p)
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8

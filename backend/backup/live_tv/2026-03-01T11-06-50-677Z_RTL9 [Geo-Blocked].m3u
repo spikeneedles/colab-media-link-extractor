@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTL9.lu_SD" tvg-name="RTL9 [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:50.677Z" tvg-logo="https://i.imgur.com/nFqjVNW.png" indexer="playlist-harvester",RTL9 [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8",
+  "title": "VRT Channel (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "VRTChannel.br@SD",
+  "tvgLogo": "https://i.imgur.com/crszh3d.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:18.097Z"
+}

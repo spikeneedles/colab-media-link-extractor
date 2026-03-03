@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Super_TV_Brescia__720p_" tvg-name="Super TV Brescia (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:58.451Z" indexer="playlist-harvester",Super TV Brescia (720p)
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8

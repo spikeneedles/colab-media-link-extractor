@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RFO.de_SD" tvg-name="RFO (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:48.842Z" tvg-logo="https://i.imgur.com/902BHGL.png" indexer="playlist-harvester",RFO (1080p)
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8

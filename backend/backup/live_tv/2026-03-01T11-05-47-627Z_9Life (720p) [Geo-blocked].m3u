@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="9Life.au_Sydney" tvg-name="9Life (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:47.627Z" tvg-logo="https://i.imgur.com/HlJOrGI.png" indexer="playlist-harvester",9Life (720p) [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8

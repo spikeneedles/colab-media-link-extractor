@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh_SD" tvg-name="One TV E-School Cambodia (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.573Z" tvg-logo="https://i.imgur.com/wLzVdeT.png" indexer="playlist-harvester",One TV E-School Cambodia (1080p)
+http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVNord.md_SD" tvg-name="TV-Nord (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:12.069Z" tvg-logo="https://i.imgur.com/86JYRVH.png" indexer="playlist-harvester",TV-Nord (1080p)
+https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8

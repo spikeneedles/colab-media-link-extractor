@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://video1.azulstream.com:8081/antenaseistv/index.m3u8",
+  "title": "Antena Seis TV (720p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "AntenaSeisTV.cr@SD",
+  "tvgLogo": "https://i.imgur.com/9Nh2mo9.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:52.839Z"
+}

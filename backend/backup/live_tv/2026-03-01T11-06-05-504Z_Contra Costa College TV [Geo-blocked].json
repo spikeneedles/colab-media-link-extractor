@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://reflect-contra-costa.cablecast.tv/live-7/live/live.m3u8",
+  "title": "Contra Costa College TV [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Legislative",
+  "tvgId": "ContraCostaTV.us@SD",
+  "tvgLogo": "https://i.imgur.com/3oYkwPc.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:05.504Z"
+}

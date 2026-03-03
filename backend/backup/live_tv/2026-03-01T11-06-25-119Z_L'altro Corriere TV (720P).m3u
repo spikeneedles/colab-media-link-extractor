@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LaltroCorriereTV.it_SD" tvg-name="L'altro Corriere TV (720P)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:25.119Z" tvg-logo="https://i.imgur.com/05YWVCq.png" indexer="playlist-harvester",L'altro Corriere TV (720P)
+https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8",
+  "title": "Ecclesia TV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "EcclesiaTV.ci@SD",
+  "tvgLogo": "https://i.imgur.com/mgabVFd.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:09.812Z"
+}

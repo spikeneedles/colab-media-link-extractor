@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MAX4.hu_SD" tvg-name="MAX4 (576p)" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.368Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Max4_logo.png/375px-Max4_logo.png" indexer="playlist-harvester",MAX4 (576p)
+http://146.59.85.40:89/max4/index.m3u8

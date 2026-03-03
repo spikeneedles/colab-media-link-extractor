@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SL1.ir_SD" tvg-name="SL 1" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:55.284Z" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" indexer="playlist-harvester",SL 1
+https://slonehls.wns.live/hls/stream.m3u8

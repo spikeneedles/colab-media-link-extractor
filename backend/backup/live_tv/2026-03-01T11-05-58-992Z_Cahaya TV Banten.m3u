@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CahayaTVBanten.id_SD" tvg-name="Cahaya TV Banten" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:05:58.992Z" tvg-logo="https://i.imgur.com/Ph9yYpb.png" indexer="playlist-harvester",Cahaya TV Banten
+http://175.158.57.130:8888/stream/channelid/1716535390

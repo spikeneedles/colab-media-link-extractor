@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://app.viloud.tv/hls/channel/711fd3f3a4728449889ee22ba72958ff.m3u8",
+  "title": "LifeStyleTV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "LifeStyleTV.se@SD",
+  "tvgLogo": "https://i.imgur.com/0mreWrM.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:26.638Z"
+}

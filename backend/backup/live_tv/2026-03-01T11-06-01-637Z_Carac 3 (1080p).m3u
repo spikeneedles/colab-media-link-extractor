@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Carac3.ch_SD" tvg-name="Carac 3 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.637Z" tvg-logo="https://i.imgur.com/C4e8cjt.png" indexer="playlist-harvester",Carac 3 (1080p)
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8

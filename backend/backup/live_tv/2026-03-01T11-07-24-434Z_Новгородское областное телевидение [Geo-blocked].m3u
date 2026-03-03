@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NovgorOblTV.ru_HD" tvg-name="Новгородское областное телевидение [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:24.434Z" tvg-logo="https://i.imgur.com/2JspHVY.png" indexer="playlist-harvester",Новгородское областное телевидение [Geo-blocked]
+https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8

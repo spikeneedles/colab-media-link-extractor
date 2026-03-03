@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://noshls.persiana.live/hls/stream.m3u8",
+  "title": "Persiana Nostalgia",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Classic;Music",
+  "tvgId": "PersianaNostalgia.fr@SD",
+  "tvgLogo": "https://i.imgur.com/SWO9CKA.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:41.451Z"
+}

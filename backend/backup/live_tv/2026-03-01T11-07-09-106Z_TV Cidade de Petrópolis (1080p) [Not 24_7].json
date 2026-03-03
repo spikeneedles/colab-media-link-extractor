@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8",
+  "title": "TV Cidade de Petrópolis (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TVCidadedePetropolis.br@SD",
+  "tvgLogo": "https://i.imgur.com/xUs8gHV.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:09.106Z"
+}

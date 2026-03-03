@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Nitro.de_HD" tvg-name="Nitro HD (1080p) [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:36.838Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/512px-Nitro_Logo.svg.png" indexer="playlist-harvester",Nitro HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8

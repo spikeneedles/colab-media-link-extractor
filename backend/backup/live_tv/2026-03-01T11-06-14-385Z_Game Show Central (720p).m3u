@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GameShowCentral.us_SD" tvg-name="Game Show Central (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:14.385Z" tvg-logo="https://i.imgur.com/Uuc5h1s.png" indexer="playlist-harvester",Game Show Central (720p)
+https://aegis-cloudfront-1.tubi.video/55c4e96c-e345-486c-8f61-8320b61d734d/playlist.m3u8

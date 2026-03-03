@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8",
+  "title": "BCI 24 News (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "BCI24News.gr@SD",
+  "tvgLogo": "https://i.imgur.com/VN8FkmS.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:56.339Z"
+}

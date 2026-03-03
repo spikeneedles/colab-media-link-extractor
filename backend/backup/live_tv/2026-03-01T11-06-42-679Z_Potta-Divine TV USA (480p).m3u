@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PottaDivineTVUSA.us_SD" tvg-name="Potta-Divine TV USA (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:42.679Z" tvg-logo="https://i.imgur.com/Yx0AnLW.png" indexer="playlist-harvester",Potta-Divine TV USA (480p)
+https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8",
+  "title": "GH Canada TV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "GHCanadaTV.ca@SD",
+  "tvgLogo": "https://www.lyngsat.com/logo/tv/gg/gh-canada-tv-ca.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:14.876Z"
+}

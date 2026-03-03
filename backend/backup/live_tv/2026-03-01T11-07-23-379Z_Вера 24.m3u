@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Vera24.ru_SD" tvg-name="Вера 24" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:23.379Z" tvg-logo="https://i.imgur.com/Qer5Lnh.png" indexer="playlist-harvester",Вера 24
+https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8",
+  "title": "WDAF-DT1 (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "WDAFDT1.us@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/WDAF_Fox_4_%282025%29.svg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:19.472Z"
+}

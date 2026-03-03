@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="True_Lives__1080p_" tvg-name="True Lives (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:07.057Z" indexer="playlist-harvester",True Lives (1080p)
+https://amg00654-itv-amg00654c7-rakuten-uk-1282.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-truelives-rakutenuk/playlist.m3u8

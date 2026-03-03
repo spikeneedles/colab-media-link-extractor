@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://190.2.212.209:8050/play/a0q3",
+  "title": "Universal Cinema (480p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "UniversalCinema.us@SD",
+  "tvgLogo": "https://i.imgur.com/XxfET68.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:07:15.658Z"
+}

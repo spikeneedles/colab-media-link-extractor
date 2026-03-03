@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVCentral.sk_SD" tvg-name="TV Central (540p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:09.033Z" tvg-logo="https://i.imgur.com/LqGT8o9.png" indexer="playlist-harvester",TV Central (540p)
+https://arenasportslovakia.ddns.net/hls/cetv2.m3u8

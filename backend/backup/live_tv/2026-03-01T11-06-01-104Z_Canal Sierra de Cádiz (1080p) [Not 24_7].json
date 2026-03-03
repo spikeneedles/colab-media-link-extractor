@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://s.emisoras.tv:8081/sierradecadiz/index.m3u8",
+  "title": "Canal Sierra de Cádiz (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "CanalSierradeCadiz.es@SD",
+  "tvgLogo": "https://i.imgur.com/94rn7pb.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:01.104Z"
+}

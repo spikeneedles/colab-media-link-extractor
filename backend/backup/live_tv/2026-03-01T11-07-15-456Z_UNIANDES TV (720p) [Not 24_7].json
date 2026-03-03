@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8",
+  "title": "UNIANDES TV (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Education",
+  "tvgId": "UNIANDESTV.ec@SD",
+  "tvgLogo": "https://i.imgur.com/1rluyB7.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:15.456Z"
+}

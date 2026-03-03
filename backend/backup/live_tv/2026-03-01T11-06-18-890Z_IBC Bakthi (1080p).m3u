@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IBCBakthi.uk_SD" tvg-name="IBC Bakthi (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.890Z" tvg-logo="https://i.imgur.com/ZNEz5Wx.png" indexer="playlist-harvester",IBC Bakthi (1080p)
+https://ibc.massstream.net/IBC2/index.m3u8

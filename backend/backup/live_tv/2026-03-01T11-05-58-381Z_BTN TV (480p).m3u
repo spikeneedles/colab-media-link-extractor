@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BTNTV.rw_SD" tvg-name="BTN TV (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:58.381Z" tvg-logo="https://i.imgur.com/WmaP8zP.png" indexer="playlist-harvester",BTN TV (480p)
+https://tv.btnrwanda.com:3086/live/btnlive.m3u8

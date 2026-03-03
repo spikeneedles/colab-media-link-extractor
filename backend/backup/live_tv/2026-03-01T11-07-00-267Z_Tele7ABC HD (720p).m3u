@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Tele7ABCHD.ro_SD" tvg-name="Tele7ABC HD (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:00.267Z" tvg-logo="https://i.imgur.com/CheqyWH.png" indexer="playlist-harvester",Tele7ABC HD (720p)
+https://live.tele7abc.ro/hls/stream/index.m3u8

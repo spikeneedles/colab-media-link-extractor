@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ClaroVisionTV.do_SD" tvg-name="Claro Visión TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:04.450Z" tvg-logo="https://i.imgur.com/MpTgJMJ.png" indexer="playlist-harvester",Claro Visión TV (720p)
+https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://190.107.232.9:8082/livestream/stream.m3u8",
+  "title": "Radio Fantástica 98.9 FM (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "RadioFantastica989FM.ec@SD",
+  "tvgLogo": "https://i.imgur.com/mpcIbrH.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:45.037Z"
+}

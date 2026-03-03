@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal55TelemoriscoTV.co_SD" tvg-name="Canal 55 Telemorisco TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:00.557Z" tvg-logo="https://i.imgur.com/9BwZyhM.jpg" indexer="playlist-harvester",Canal 55 Telemorisco TV (720p)
+http://canal.mediaserver.com.co/live/telemorisco.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
+  "title": "3ABN Kids Network",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Animation;Kids;Religious",
+  "tvgId": "3ABNKids.us@SD",
+  "tvgLogo": "https://i.imgur.com/z3npqO1.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:47.201Z"
+}

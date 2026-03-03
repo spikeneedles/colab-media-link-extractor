@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8",
+  "title": "PrimaFree",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "PrimaFree.it@SD",
+  "tvgLogo": "https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:43.108Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Joel_Osteen_Network" tvg-name="Joel Osteen Network" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:21.907Z" indexer="playlist-harvester",Joel Osteen Network
+https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8",
+  "title": "La Voz de Jesus HD (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "LaVozdeJesusHD.do@HD",
+  "tvgLogo": "https://gia.tv/streams/pstream/208429.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:25.554Z"
+}

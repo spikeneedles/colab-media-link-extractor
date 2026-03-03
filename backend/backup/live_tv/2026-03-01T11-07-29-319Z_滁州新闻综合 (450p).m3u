@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="________450p_" tvg-name="滁州新闻综合 (450p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:29.319Z" indexer="playlist-harvester",滁州新闻综合 (450p)
+http://183.167.193.45:1935/live/cztvzh/playlist.m3u8

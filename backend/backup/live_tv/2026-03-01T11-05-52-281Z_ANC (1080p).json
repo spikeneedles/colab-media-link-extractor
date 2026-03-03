@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd",
+  "title": "ANC (1080p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "ANC.ph@SD",
+  "tvgLogo": "https://i.imgur.com/odwRbRk.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:52.281Z"
+}

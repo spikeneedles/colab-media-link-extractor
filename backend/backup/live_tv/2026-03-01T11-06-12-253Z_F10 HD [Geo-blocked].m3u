@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="F10HD.bo_SD" tvg-name="F10 HD [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:12.253Z" tvg-logo="https://i.imgur.com/OEsT0KN.png" indexer="playlist-harvester",F10 HD [Geo-blocked]
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8

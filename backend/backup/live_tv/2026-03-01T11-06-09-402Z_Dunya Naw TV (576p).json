@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://dunyanhls.wns.live/hls/stream.m3u8",
+  "title": "Dunya Naw TV (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "DunyaNawTV.af@SD",
+  "tvgLogo": "https://i.ibb.co/nQkLgyn/dunya-naw-tv.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:09.402Z"
+}

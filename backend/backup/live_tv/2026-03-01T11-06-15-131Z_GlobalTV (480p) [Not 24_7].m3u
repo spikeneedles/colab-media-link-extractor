@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GlobalTV.ve_SD" tvg-name="GlobalTV (480p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:15.131Z" tvg-logo="https://imgur.com/hzM9D9L.jpg" indexer="playlist-harvester",GlobalTV (480p) [Not 24/7]
+https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8

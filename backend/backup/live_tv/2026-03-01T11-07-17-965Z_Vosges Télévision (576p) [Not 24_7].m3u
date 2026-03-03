@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VosgesTV.fr_SD" tvg-name="Vosges Télévision (576p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.965Z" tvg-logo="https://i.imgur.com/7y7ancc.png" indexer="playlist-harvester",Vosges Télévision (576p) [Not 24/7]
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8

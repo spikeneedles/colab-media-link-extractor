@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://117.156.28.119/270000001111/1110000001/index.m3u8",
+  "title": "酒泉新闻综合 (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "JiuquanTVNewsComprehensiveChannel.cn@SD",
+  "tvgLogo": "https://i.imgur.com/mPkG8Gi.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:30.367Z"
+}

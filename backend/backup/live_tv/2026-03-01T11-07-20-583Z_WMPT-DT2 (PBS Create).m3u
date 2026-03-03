@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WMPTDT2.us_SD" tvg-name="WMPT-DT2 (PBS Create)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:20.583Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png" indexer="playlist-harvester",WMPT-DT2 (PBS Create)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal_17_TV_Nosara__720p_" tvg-name="Canal 17 TV Nosara (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:00.309Z" indexer="playlist-harvester",Canal 17 TV Nosara (720p)
+https://latamvdo.com:3870/hybrid/play.m3u8

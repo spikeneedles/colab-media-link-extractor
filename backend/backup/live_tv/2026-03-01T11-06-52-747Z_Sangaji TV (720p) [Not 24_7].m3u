@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SangajiTV.id_SD" tvg-name="Sangaji TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:52.747Z" tvg-logo="https://i.imgur.com/4rTNT8F.png" indexer="playlist-harvester",Sangaji TV (720p) [Not 24/7]
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVC.ng_SD" tvg-name="TVC (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:12.222Z" tvg-logo="https://i.imgur.com/ReV8R5S.png" indexer="playlist-harvester",TVC (1080p)
+https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8

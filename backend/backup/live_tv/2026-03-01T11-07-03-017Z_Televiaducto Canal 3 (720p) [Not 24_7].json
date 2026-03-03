@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.castr.com/5da89a909db964293ad13301/live_cb1a138006bf11f1ab1d51712fa9f1b0/index.fmp4.m3u8",
+  "title": "Televiaducto Canal 3 (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TeleviaductoCanal3.do@SD",
+  "tvgLogo": "https://i.imgur.com/M9A6hqR.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:03.017Z"
+}

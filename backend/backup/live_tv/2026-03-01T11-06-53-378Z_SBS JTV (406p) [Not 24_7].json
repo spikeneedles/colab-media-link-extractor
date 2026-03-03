@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8",
+  "title": "SBS JTV (406p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "HLDQDTV.kr@SD",
+  "tvgLogo": "https://i.imgur.com/byss0Ld.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:53.378Z"
+}

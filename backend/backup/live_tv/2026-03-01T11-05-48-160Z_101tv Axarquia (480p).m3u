@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="101tvAxarquia.es_SD" tvg-name="101tv Axarquia (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.160Z" tvg-logo="https://i.imgur.com/GzI3RC4.png" indexer="playlist-harvester",101tv Axarquia (480p)
+https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8

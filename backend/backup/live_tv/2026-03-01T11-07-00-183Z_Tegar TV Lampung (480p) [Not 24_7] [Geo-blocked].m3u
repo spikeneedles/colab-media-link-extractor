@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TegarTVLampung.id_SD" tvg-name="Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:00.183Z" tvg-logo="https://i.imgur.com/0Vp3f2J.png" indexer="playlist-harvester",Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8

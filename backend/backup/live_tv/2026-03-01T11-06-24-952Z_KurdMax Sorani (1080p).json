@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8",
+  "title": "KurdMax Sorani (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "KurdMaxSorani.iq@SD",
+  "tvgLogo": "https://i.imgur.com/JkK8HG8.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:24.952Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SowetoTV.za_SD" tvg-name="Soweto TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:56.291Z" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg" indexer="playlist-harvester",Soweto TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8

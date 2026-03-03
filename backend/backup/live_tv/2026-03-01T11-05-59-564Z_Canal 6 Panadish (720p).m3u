@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal6Panadish.gt_SD" tvg-name="Canal 6 Panadish (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:59.564Z" tvg-logo="https://i.imgur.com/KJWNPiz.jpg" indexer="playlist-harvester",Canal 6 Panadish (720p)
+https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MMATVcom.ru_SD" tvg-name="MMA-TV.com" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:31.615Z" tvg-logo="https://i.imgur.com/QhdxNsB.png" indexer="playlist-harvester",MMA-TV.com
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8

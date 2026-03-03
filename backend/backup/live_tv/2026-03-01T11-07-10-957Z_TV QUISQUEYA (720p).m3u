@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVQuisqueya.us_SD" tvg-name="TV QUISQUEYA (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:10.957Z" tvg-logo="https://i.imgur.com/G7X4LQI.png" indexer="playlist-harvester",TV QUISQUEYA (720p)
+https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8

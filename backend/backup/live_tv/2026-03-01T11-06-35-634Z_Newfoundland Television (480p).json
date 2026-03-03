@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8",
+  "title": "Newfoundland Television (480p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "CJONDT.ca@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:35.634Z"
+}

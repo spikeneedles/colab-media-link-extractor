@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="______576p_" tvg-name="湘潭公共 (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:29.247Z" indexer="playlist-harvester",湘潭公共 (576p)
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8

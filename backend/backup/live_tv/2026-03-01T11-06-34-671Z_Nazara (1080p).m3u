@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Nazara.in_SD" tvg-name="Nazara (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:34.671Z" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png" indexer="playlist-harvester",Nazara (1080p)
+https://epiconvh.akamaized.net/live/nazara/master.m3u8

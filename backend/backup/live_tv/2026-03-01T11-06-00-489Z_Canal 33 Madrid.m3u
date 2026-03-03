@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal33Madrid.es_SD" tvg-name="Canal 33 Madrid" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:00.489Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_33_Madrid_2025.jpg/512px-Logo_Canal_33_Madrid_2025.jpg" indexer="playlist-harvester",Canal 33 Madrid
+https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8

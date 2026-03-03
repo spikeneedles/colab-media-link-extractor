@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8",
+  "title": "Runtime Espanol (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "RuntimeEspanol.us@SD",
+  "tvgLogo": "https://i.imgur.com/OMQq19N.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:06:51.834Z"
+}

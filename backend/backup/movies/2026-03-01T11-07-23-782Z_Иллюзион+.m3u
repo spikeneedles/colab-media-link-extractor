@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IllusionPlus.ru_SD" tvg-name="Иллюзион+" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:23.782Z" tvg-logo="https://i.imgur.com/9GvuHQ5.png" indexer="playlist-harvester",Иллюзион+
+http://31.148.48.15/Illusion_plus/index.m3u8

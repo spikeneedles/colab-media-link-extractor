@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8",
+  "title": "Canal Alpha Jura (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "CanalAlphaJura.ch@SD",
+  "tvgLogo": "https://i.imgur.com/eQ8xHK9.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:00.661Z"
+}

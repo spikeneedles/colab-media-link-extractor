@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EntunoTV.do_HD" tvg-name="Entuno TV [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.764Z" tvg-logo="https://imgur.com/U9OsybQ.jpg" indexer="playlist-harvester",Entuno TV [Not 24/7]
+https://vdopanel.jlahozconsulting.com:3460/hybrid/play.m3u8

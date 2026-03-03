@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Latvijas_Radio_3_Klasika__240p_" tvg-name="Latvijas Radio 3 Klasika (240p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:25.958Z" indexer="playlist-harvester",Latvijas Radio 3 Klasika (240p)
+https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8

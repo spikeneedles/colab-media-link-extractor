@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8",
+  "title": "Mega TV Jaen (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "MegaTVJaen.pe@SD",
+  "tvgLogo": "https://i.imgur.com/zK1YcpJ.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:30.369Z"
+}

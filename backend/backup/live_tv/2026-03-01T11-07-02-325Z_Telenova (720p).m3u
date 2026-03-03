@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telenova.it_SD" tvg-name="Telenova (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:02.325Z" tvg-logo="https://i.imgur.com/lo9OiWg.png" indexer="playlist-harvester",Telenova (720p)
+https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8

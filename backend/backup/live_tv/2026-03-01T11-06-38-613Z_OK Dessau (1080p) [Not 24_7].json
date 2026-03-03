@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8",
+  "title": "OK Dessau (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "OKDessau.de@SD",
+  "tvgLogo": "https://i.imgur.com/nx4Wc8l.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:38.613Z"
+}

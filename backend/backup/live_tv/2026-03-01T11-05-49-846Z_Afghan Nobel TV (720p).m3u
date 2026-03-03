@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AfghanNobelTV.ca_SD" tvg-name="Afghan Nobel TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:49.846Z" tvg-logo="https://i.ibb.co/0Mb1ZQC/IMG-20230628-133738.jpg" indexer="playlist-harvester",Afghan Nobel TV (720p)
+https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8

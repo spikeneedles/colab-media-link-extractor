@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BiznetAdventure.id_SD" tvg-name="Biznet Adventure (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:57.360Z" tvg-logo="https://i.imgur.com/ZREy4zM.png" indexer="playlist-harvester",Biznet Adventure (1080p)
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8

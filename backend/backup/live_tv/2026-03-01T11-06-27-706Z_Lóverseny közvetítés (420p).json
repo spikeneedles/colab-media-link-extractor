@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8",
+  "title": "Lóverseny közvetítés (420p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "Loversenykozvetites.hu@SD",
+  "tvgLogo": "https://i.imgur.com/IGajR6G.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:27.706Z"
+}

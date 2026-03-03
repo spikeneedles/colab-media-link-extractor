@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Kinopokaz.ru_SD" tvg-name="Кинопоказ" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:23.871Z" tvg-logo="https://i.imgur.com/nNjMyAq.png" indexer="playlist-harvester",Кинопоказ
+http://31.148.48.15/Kinopokaz/index.m3u8

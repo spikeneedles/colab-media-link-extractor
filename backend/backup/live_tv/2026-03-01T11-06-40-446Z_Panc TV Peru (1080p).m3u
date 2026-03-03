@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PancTVPeru.pe_SD" tvg-name="Panc TV Peru (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.446Z" tvg-logo="https://play-lh.googleusercontent.com/-FVhaeUjvONL49NYdVMchoLXU421387791mp8zZ15JFic_kPyb3vULf86ffIr-NeOg" indexer="playlist-harvester",Panc TV Peru (1080p)
+https://panel.host-live.com:19360/20000/20000.m3u8

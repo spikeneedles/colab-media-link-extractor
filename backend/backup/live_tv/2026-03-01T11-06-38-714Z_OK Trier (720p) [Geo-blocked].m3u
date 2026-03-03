@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OKTrier.de_SD" tvg-name="OK Trier (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:38.714Z" tvg-logo="https://i.imgur.com/nq32HIs.png" indexer="playlist-harvester",OK Trier (720p) [Geo-blocked]
+https://s.ok54.de/ott/webstream/playlist.m3u8

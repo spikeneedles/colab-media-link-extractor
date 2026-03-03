@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DenaTV.ir_SD" tvg-name="Dena" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:07.666Z" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/274px-Yasuj_DENA.svg.png" indexer="playlist-harvester",Dena
+https://ncdn.telewebion.com/dena/live/playlist.m3u8

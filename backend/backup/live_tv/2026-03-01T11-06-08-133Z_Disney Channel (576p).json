@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://84.54.128.52:9090/play/3006/index.m3u8",
+  "title": "Disney Channel (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Kids",
+  "tvgId": "DisneyChannel.bg@SD",
+  "tvgLogo": "https://i.imgur.com/UxrAiAe.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:08.133Z"
+}

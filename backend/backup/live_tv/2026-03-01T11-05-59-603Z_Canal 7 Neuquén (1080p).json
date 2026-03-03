@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
+  "title": "Canal 7 Neuquén (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Canal7Neuquen.ar@SD",
+  "tvgLogo": "https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:59.603Z"
+}

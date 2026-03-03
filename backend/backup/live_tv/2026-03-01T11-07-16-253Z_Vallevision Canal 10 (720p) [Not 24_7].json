@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8",
+  "title": "Vallevision Canal 10 (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Vallevision.do@SD",
+  "tvgLogo": "https://i.imgur.com/lNpgFAU.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:16.253Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PrimaFree.it_SD" tvg-name="PrimaFree" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:43.108Z" tvg-logo="https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg" indexer="playlist-harvester",PrimaFree
+https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8

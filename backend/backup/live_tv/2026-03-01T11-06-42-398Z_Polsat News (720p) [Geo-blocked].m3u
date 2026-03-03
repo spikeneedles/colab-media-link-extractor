@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PolsatNews.pl_SD" tvg-name="Polsat News (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:42.398Z" tvg-logo="https://i.imgur.com/sx1yPuc.png" indexer="playlist-harvester",Polsat News (720p) [Geo-blocked]
+http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd

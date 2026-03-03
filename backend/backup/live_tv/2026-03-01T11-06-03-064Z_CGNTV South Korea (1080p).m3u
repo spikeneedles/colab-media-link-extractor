@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CGNTVSouthKorea.kr_SD" tvg-name="CGNTV South Korea (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.064Z" tvg-logo="https://i.imgur.com/zwZASOB.png" indexer="playlist-harvester",CGNTV South Korea (1080p)
+https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8

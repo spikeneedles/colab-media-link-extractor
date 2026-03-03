@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LBTV.us_SD" tvg-name="Long Beach Television (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:27.450Z" tvg-logo="https://i.imgur.com/DjkVuFF.png" indexer="playlist-harvester",Long Beach Television (720p)
+https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="6WiseTv.us_SD" tvg-name="6 Wise Tv (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:47.525Z" tvg-logo="https://jrlist70.pages.dev/list/wise.png" indexer="playlist-harvester",6 Wise Tv (720p)
+https://live.enhdtv.com:8081/8150/index.m3u8

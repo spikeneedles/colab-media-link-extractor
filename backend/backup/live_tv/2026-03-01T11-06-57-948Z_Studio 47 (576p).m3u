@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Studio47.de_SD" tvg-name="Studio 47 (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:57.948Z" tvg-logo="https://i.imgur.com/xCiU1TB.png" indexer="playlist-harvester",Studio 47 (576p)
+https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8

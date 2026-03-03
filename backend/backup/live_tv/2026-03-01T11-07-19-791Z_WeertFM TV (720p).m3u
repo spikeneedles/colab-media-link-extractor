@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WeertFMTV.nl_SD" tvg-name="WeertFM TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:19.791Z" tvg-logo="https://i.imgur.com/8bt6xt2.png" indexer="playlist-harvester",WeertFM TV (720p)
+https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8

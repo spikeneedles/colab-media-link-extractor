@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8",
+  "title": "TVídeoNews (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "TVideoNews.br@SD",
+  "tvgLogo": "https://i.imgur.com/vstHOYx.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:12.916Z"
+}

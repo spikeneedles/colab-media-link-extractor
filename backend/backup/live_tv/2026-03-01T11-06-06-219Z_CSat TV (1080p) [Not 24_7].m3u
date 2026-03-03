@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CSatTV.us_SD" tvg-name="CSat TV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.219Z" tvg-logo="https://i.imgur.com/fp2EaLJ.png" indexer="playlist-harvester",CSat TV (1080p) [Not 24/7]
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8

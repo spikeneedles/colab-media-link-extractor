@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VTV7.vn_HD" tvg-name="VTV7 HD (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:18.330Z" tvg-logo="https://i.imgur.com/ZwoP823.png" indexer="playlist-harvester",VTV7 HD (1080p) [Geo-blocked]
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GNFTV.za_SD" tvg-name="GNF TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:15.225Z" tvg-logo="https://i.imgur.com/vCB7u0e.png" indexer="playlist-harvester",GNF TV (576p)
+https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8

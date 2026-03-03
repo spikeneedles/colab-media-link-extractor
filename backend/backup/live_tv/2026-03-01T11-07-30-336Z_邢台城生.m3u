@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="____" tvg-name="邢台城生" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:30.336Z" indexer="playlist-harvester",邢台城生
+http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8

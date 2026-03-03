@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GolClassics.es_SD" tvg-name="Gol Classics" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:15.442Z" tvg-logo="https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75" indexer="playlist-harvester",Gol Classics
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8

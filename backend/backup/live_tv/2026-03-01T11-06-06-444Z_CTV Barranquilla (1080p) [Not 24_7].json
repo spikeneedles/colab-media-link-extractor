@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8",
+  "title": "CTV Barranquilla (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "CTVBarranquilla.co",
+  "tvgLogo": "https://i.imgur.com/w35ICn7.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:06.444Z"
+}

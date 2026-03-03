@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cs2.push2stream.com/CHANNELSTV-DVR/playlist.m3u8",
+  "title": "Channels TV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "ChannelsTV.ng@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:03.639Z"
+}

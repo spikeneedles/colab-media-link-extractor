@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVCostaBrava.es_SD" tvg-name="TV Costa Brava (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:09.246Z" tvg-logo="https://i.imgur.com/i6EnVZa.png" indexer="playlist-harvester",TV Costa Brava (1080p)
+https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8

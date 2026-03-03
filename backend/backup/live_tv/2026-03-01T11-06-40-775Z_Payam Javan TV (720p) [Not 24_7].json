@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8",
+  "title": "Payam Javan TV (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Education",
+  "tvgId": "PayamJavanTV.us@SD",
+  "tvgLogo": "https://i.imgur.com/GYfsHh9.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:40.775Z"
+}

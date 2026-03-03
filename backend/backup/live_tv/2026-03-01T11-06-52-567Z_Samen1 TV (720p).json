@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8",
+  "title": "Samen1 TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "Samen1TV.nl@SD",
+  "tvgLogo": "https://i.imgur.com/3ivlnLO.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:52.567Z"
+}

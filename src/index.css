@@ -71,6 +71,16 @@ body {
   font-family: var(--font-sans);
 }
 
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
 h1, h2, h3 {
   font-family: var(--font-display);
 }
+
+/* Custom scrollbars for the Library grid */
+.silas-scrollbar::-webkit-scrollbar { width: 6px; height: 6px; }
+.silas-scrollbar::-webkit-scrollbar-track { background: transparent; }
+.silas-scrollbar::-webkit-scrollbar-thumb { background: #374151; border-radius: 9999px; }
+.silas-scrollbar:hover::-webkit-scrollbar-thumb { background: #6B7280; }

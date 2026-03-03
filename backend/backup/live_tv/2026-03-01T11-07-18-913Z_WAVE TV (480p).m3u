@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WAVETV.bz_SD" tvg-name="WAVE TV (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:18.913Z" tvg-logo="https://i.imgur.com/V8Hfgis.jpg" indexer="playlist-harvester",WAVE TV (480p)
+https://streamer2.nexgen.bz/08-WAVE/index.m3u8

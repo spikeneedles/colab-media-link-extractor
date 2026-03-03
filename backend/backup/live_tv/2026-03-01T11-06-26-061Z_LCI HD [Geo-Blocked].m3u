@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LCI.fr_HD" tvg-name="LCI HD [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:26.061Z" tvg-logo="https://i.imgur.com/DED8EXs.png" indexer="playlist-harvester",LCI HD [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd

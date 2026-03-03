@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Francophonie24.fr_SD" tvg-name="Francophonie (360p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:13.830Z" tvg-logo="https://i.imgur.com/uM1v1sd.png" indexer="playlist-harvester",Francophonie (360p)
+http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8

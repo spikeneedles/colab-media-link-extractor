@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8",
+  "title": "Armenia 2",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Armenia2.am@SD",
+  "tvgLogo": "https://i.imgur.com/AXmXw9X.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:53.613Z"
+}

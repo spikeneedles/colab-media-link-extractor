@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StreekstadCentral.nl_SD" tvg-name="Streekstad Alkmaar Centraal (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:57.861Z" tvg-logo="https://i.imgur.com/9gM6rPb.png" indexer="playlist-harvester",Streekstad Alkmaar Centraal (1080p)
+https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alkmaar.m3u8

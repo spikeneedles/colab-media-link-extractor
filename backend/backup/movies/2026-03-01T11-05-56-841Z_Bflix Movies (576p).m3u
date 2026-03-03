@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BflixMovies.in_SD" tvg-name="Bflix Movies (576p)" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:56.841Z" tvg-logo="https://i.imgur.com/5CtiQ45.png" indexer="playlist-harvester",Bflix Movies (576p)
+https://mumt03.tangotv.in/BFLIX/index.m3u8

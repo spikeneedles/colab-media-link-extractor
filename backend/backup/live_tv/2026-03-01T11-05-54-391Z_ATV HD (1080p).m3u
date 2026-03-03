@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ATV.at_HD" tvg-name="ATV HD (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:05:54.391Z" tvg-logo="https://i.imgur.com/1pA0Tid.png" indexer="playlist-harvester",ATV HD (1080p)
+http://212.186.45.34:9981/stream/channelid/692531719?profile=pass

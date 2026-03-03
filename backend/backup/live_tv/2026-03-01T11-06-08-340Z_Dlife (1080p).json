@@ -1,0 +1,13 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://43.100.9.67/api/streams/live/cs312/1080p/mpegts",
+  "title": "Dlife (1080p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Series",
+  "tvgId": "Dlife.jp@SD",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:08.340Z"
+}

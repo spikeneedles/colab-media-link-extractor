@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3ABNRussia.ru_SD" tvg-name="Три Ангела (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:26.097Z" tvg-logo="https://i.imgur.com/4fhBbam.png" indexer="playlist-harvester",Три Ангела (720p)
+https://hls.tv.3angels.ru/stream.m3u8

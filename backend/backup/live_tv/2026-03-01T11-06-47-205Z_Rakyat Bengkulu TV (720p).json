@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://flv.intechmedia.net/live/ch59.m3u8",
+  "title": "Rakyat Bengkulu TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "RakyatBengkuluTV.id@SD",
+  "tvgLogo": "https://i.imgur.com/5L2q081.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:47.205Z"
+}

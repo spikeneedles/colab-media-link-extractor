@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8",
+  "title": "Platzi TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Education",
+  "tvgId": "PlatziTV.es@SD",
+  "tvgLogo": "https://i.imgur.com/vEzeqHP.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:41.939Z"
+}

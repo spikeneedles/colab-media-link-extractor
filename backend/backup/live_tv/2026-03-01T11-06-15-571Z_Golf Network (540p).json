@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://202.60.106.14:8080/1335/playlist.m3u8",
+  "title": "Golf Network (540p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "GolfNetwork.jp@SD",
+  "tvgLogo": "https://i.imgur.com/s6lmfXF.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:15.571Z"
+}

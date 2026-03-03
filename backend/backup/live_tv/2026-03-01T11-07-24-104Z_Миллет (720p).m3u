@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Millet.ru_SD" tvg-name="Миллет (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:24.104Z" tvg-logo="https://i.imgur.com/hUjLRLy.png" indexer="playlist-harvester",Миллет (720p)
+https://live1.1tvcrimea.ru/milletlive.m3u8

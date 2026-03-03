@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A1TV.nl_SD" tvg-name="A1 TV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.392Z" tvg-logo="https://i.imgur.com/JZ1oTM2.png" indexer="playlist-harvester",A1 TV (1080p) [Not 24/7]
+https://stream.a1mediagroep.nl/hls/a1tv.m3u8

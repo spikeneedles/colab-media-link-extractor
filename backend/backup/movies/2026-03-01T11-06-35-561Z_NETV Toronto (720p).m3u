@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NETVToronto.ca_SD" tvg-name="NETV Toronto (720p)" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:35.561Z" tvg-logo="https://i.imgur.com/WXRBuOW.png" indexer="playlist-harvester",NETV Toronto (720p)
+https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8

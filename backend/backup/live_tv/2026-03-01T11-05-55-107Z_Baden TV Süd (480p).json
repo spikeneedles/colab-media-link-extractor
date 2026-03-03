@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8",
+  "title": "Baden TV Süd (480p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "BadenTVSud.de@SD",
+  "tvgLogo": "https://badentvsued.s3.welocal.cloud/sources/60631840dfa86.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:55.107Z"
+}

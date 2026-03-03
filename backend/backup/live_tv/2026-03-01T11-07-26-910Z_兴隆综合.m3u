@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="____" tvg-name="兴隆综合" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:26.910Z" indexer="playlist-harvester",兴隆综合
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8

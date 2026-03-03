@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NRTV.ch_SD" tvg-name="NRTV [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.637Z" tvg-logo="https://i.imgur.com/sXiFPfk.png" indexer="playlist-harvester",NRTV [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8

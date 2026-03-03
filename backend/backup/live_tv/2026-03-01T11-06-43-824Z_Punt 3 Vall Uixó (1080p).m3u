@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Punt3.es_SD" tvg-name="Punt 3 Vall Uixó (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:43.824Z" tvg-logo="https://i.imgur.com/i9tsnhD.png" indexer="playlist-harvester",Punt 3 Vall Uixó (1080p)
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Arkhyz24.ru_SD" tvg-name="Архыз 24 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:23.204Z" tvg-logo="https://i.imgur.com/blAtdkJ.png" indexer="playlist-harvester",Архыз 24 (1080p)
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8

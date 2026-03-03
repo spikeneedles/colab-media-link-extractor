@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="USATODAY.us_SD" tvg-name="USA Today" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:15.980Z" tvg-logo="https://i.imgur.com/37K0AZX.png" indexer="playlist-harvester",USA Today
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8

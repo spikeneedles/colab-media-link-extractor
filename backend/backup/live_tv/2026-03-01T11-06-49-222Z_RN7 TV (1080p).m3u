@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RN7.nl_SD" tvg-name="RN7 TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:49.222Z" tvg-logo="https://i.imgur.com/dYBTrLc.png" indexer="playlist-harvester",RN7 TV (1080p)
+https://streaming.rn7.nl/rn7live_abr/visualradio/playlist.m3u8

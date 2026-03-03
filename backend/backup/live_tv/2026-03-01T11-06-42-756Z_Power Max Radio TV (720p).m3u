@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PowerMaxRadioTV.ar_SD" tvg-name="Power Max Radio TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:42.756Z" tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" indexer="playlist-harvester",Power Max Radio TV (720p)
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8

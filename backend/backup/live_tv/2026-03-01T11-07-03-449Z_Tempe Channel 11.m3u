@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Tempe11.us_SD" tvg-name="Tempe Channel 11" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:03.449Z" tvg-logo="https://i.imgur.com/KMeHRV3.png" indexer="playlist-harvester",Tempe Channel 11
+https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/tempe/G0355_003/chunklist.m3u8

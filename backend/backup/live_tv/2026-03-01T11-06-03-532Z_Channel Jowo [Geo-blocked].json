@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8",
+  "title": "Channel Jowo [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "ChannelJowo.id",
+  "tvgLogo": "https://i.imgur.com/fksxiaS.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:03.532Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WFMZ_Traffic" tvg-name="WFMZ Traffic" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:19.939Z" indexer="playlist-harvester",WFMZ Traffic
+https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8

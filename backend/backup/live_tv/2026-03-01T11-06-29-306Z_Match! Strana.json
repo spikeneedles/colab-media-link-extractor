@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://31.148.48.15/Match_Strana/index.m3u8",
+  "title": "Match! Strana",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "MatchStrana.ru@SD",
+  "tvgLogo": "https://i.imgur.com/X02s2UE.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:29.306Z"
+}

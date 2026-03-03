@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live.field59.com/kbsi/kbsi1/playlist.m3u8",
+  "title": "FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "KBSIDT1.us@SD",
+  "tvgLogo": "https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:13.572Z"
+}

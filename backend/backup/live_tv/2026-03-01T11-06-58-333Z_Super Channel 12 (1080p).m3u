@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SuperChannel12.mx_SD" tvg-name="Super Channel 12 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:58.333Z" tvg-logo="https://i.imgur.com/dLHIvKz.png" indexer="playlist-harvester",Super Channel 12 (1080p)
+https://servilive.com:3263/live/channel12live.m3u8

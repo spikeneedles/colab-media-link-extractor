@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae_HD" tvg-name="Abu Dhabi Sports 1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:49.338Z" tvg-logo="https://i.imgur.com/6BVWk8z.png" indexer="playlist-harvester",Abu Dhabi Sports 1 (1080p)
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8

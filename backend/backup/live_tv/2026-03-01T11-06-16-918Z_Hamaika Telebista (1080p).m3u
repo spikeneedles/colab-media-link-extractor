@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HamaikaTelebista.es_SD" tvg-name="Hamaika Telebista (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:16.918Z" tvg-logo="https://i.imgur.com/HR3G3Ie.png" indexer="playlist-harvester",Hamaika Telebista (1080p)
+https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8

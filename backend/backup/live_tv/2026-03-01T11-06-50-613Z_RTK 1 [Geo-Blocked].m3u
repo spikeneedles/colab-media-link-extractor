@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTK1.xk_SD" tvg-name="RTK 1 [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:50.613Z" tvg-logo="https://i.imgur.com/KTcWcO6.png" indexer="playlist-harvester",RTK 1 [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd

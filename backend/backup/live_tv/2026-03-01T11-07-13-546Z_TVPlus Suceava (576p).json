@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8",
+  "title": "TVPlus Suceava (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TVPlusSuceava.ro@SD",
+  "tvgLogo": "https://i.imgur.com/f4fzoLe.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:13.546Z"
+}

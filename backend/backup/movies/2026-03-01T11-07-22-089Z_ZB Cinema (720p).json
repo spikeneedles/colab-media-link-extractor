@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
+  "title": "ZB Cinema (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Classic;Movies",
+  "tvgId": "ZBCinema.in@HD",
+  "tvgLogo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:07:22.089Z"
+}

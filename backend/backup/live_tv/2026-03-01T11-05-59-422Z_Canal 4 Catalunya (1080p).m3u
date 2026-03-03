@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal4Catalunya.es_SD" tvg-name="Canal 4 Catalunya (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:59.422Z" tvg-logo="https://i.imgur.com/tQh8C3s.png" indexer="playlist-harvester",Canal 4 Catalunya (1080p)
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8

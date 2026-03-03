@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WBSTV.kr_SD" tvg-name="WBS TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:19.056Z" tvg-logo="https://i.imgur.com/Lhz1Egi.png" indexer="playlist-harvester",WBS TV (720p)
+http://157.245.196.186/live/livestream.m3u8

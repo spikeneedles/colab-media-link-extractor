@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanaliTV.gr_SD" tvg-name="Canali TV (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.436Z" tvg-logo="https://i.imgur.com/bGIdE9N.png" indexer="playlist-harvester",Canali TV (720p) [Geo-blocked]
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8

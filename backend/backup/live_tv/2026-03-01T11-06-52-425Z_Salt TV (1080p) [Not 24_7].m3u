@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SaltTV.ug_SD" tvg-name="Salt TV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:52.425Z" tvg-logo="https://i.imgur.com/AK9nE6Y.png" indexer="playlist-harvester",Salt TV (1080p) [Not 24/7]
+https://live.salttelevision.com/app/stream/abr.m3u8

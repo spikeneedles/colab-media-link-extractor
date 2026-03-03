@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EDNTV.hn_SD" tvg-name="EDN TV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:09.978Z" tvg-logo="https://i.imgur.com/5fPsYTz.png" indexer="playlist-harvester",EDN TV (1080p) [Not 24/7]
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8

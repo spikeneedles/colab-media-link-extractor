@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MayaChannel.th_SD" tvg-name="Maya Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.418Z" tvg-logo="https://i.imgur.com/UropueN.png" indexer="playlist-harvester",Maya Channel
+http://146.88.62.69:1935/Transcoder/มายาHD.stream_576p/playlist.m3u8

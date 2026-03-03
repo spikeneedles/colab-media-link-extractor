@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ControversiaTV.pe_SD" tvg-name="Controversia TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:05.518Z" tvg-logo="https://i.imgur.com/X7cPyP2.png" indexer="playlist-harvester",Controversia TV (720p) [Not 24/7]
+https://live.obslivestream.com/controversiatv/index.m3u8

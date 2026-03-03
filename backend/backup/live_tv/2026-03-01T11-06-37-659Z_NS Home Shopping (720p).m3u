@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NSHomeShopping.kr_SD" tvg-name="NS Home Shopping (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.659Z" tvg-logo="https://i.imgur.com/Q9xsDQo.png" indexer="playlist-harvester",NS Home Shopping (720p)
+https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8

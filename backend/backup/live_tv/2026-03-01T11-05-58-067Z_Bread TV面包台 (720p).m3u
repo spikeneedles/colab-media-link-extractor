@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BreadTV.cn_SD" tvg-name="Bread TV面包台 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:58.067Z" tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" indexer="playlist-harvester",Bread TV面包台 (720p)
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8

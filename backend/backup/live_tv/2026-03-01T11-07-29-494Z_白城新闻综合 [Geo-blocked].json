@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream2.jlntv.cn/baicheng1/sd/live.m3u8",
+  "title": "白城新闻综合 [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "BaichengTV.cn@SD",
+  "tvgLogo": "https://www.tvchinese.net/uploads/tv/baicheng.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:29.494Z"
+}

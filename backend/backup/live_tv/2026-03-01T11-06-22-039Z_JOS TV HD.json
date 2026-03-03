@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8",
+  "title": "JOS TV HD",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Culture",
+  "tvgId": "JOSTVHD.cg@SD",
+  "tvgLogo": "https://i.imgur.com/Ai9kpuu.jpeg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:22.039Z"
+}

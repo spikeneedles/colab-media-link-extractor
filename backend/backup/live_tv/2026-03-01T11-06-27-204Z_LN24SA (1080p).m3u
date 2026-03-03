@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LN24SA.za_SD" tvg-name="LN24SA (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:27.204Z" tvg-logo="https://i.imgur.com/Hg5YTwu.png" indexer="playlist-harvester",LN24SA (1080p)
+https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8

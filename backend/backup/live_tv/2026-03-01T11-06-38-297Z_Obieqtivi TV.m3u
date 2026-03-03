@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ObieqtiviTV.ge_SD" tvg-name="Obieqtivi TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:38.297Z" tvg-logo="https://i.imgur.com/Kqc8H8X.png" indexer="playlist-harvester",Obieqtivi TV
+https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8

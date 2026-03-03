@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ArkoTV.ir_SD" tvg-name="Arko TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:53.586Z" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arko-tv.png" indexer="playlist-harvester",Arko TV
+https://arkhls.wns.live/hls/stream.m3u8

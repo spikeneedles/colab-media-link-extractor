@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8",
+  "title": "Noa 4 Hamburg (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "noa4Hamburg.de@SD",
+  "tvgLogo": "https://i.imgur.com/7A2LRKI.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:36.900Z"
+}

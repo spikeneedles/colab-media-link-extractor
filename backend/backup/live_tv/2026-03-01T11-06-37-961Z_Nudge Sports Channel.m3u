@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NudgeSportsChannel.ph_HD" tvg-name="Nudge Sports Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.961Z" tvg-logo="https://i.imgur.com/TW0hapZ.png" indexer="playlist-harvester",Nudge Sports Channel
+https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8

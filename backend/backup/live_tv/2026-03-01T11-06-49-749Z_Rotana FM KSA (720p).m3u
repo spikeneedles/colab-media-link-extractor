@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RotanaFMKSA.sa_SD" tvg-name="Rotana FM KSA (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:49.749Z" tvg-logo="https://rotanaradios.com/wp-content/uploads/2024/10/Asset-4.png" indexer="playlist-harvester",Rotana FM KSA (720p)
+rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284

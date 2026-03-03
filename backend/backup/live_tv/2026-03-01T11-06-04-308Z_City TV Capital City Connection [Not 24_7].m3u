@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CapitalCityConnectionMontgomery.us_SD" tvg-name="City TV Capital City Connection [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:04.308Z" tvg-logo="https://image.roku.com/developer_channels/prod/a2cb55884ff88035ebbbb32ef9c60a228314d0a2ac4c86722aff5ea1cb9abcd8.png" indexer="playlist-harvester",City TV Capital City Connection [Not 24/7]
+https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8

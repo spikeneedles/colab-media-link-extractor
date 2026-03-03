@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MTVUutiset.fi_SD" tvg-name="MTV Uutiset (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:33.182Z" tvg-logo="https://i.imgur.com/ZO8ShOK.png" indexer="playlist-harvester",MTV Uutiset (720p)
+https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8

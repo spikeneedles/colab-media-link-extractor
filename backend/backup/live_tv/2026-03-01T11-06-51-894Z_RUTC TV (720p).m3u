@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RUTCTV.kr_SD" tvg-name="RUTC TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:51.894Z" tvg-logo="https://i.ibb.co/yPDhKBp/rutc-logo.jpg" indexer="playlist-harvester",RUTC TV (720p)
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8

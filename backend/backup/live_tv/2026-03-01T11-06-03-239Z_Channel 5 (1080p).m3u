@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel_5__1080p_" tvg-name="Channel 5 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.239Z" indexer="playlist-harvester",Channel 5 (1080p)
+https://streamer2.nexgen.bz/05-CHANNEL5/index.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Minimax.pk_SD" tvg-name="Minimax (576p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:31.337Z" tvg-logo="https://i.imgur.com/TJvf8vd.png" indexer="playlist-harvester",Minimax (576p) [Not 24/7]
+http://116.90.120.149:8000/play/a01c/index.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://103.113.103.202:8001/play/a02q/index.m3u8",
+  "title": "Star Sports Select 2 HD (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "StarSportsSelect2.in@HD",
+  "tvgLogo": "https://i.imgur.com/FtRT73R.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:57.153Z"
+}

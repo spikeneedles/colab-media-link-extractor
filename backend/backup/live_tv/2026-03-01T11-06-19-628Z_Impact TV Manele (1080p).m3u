@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ImpactTVManele.ro_SD" tvg-name="Impact TV Manele (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:19.628Z" tvg-logo="https://i.imgur.com/G5mNdpE.png" indexer="playlist-harvester",Impact TV Manele (1080p)
+https://online.tvimpact.live/hls/impact_tv.m3u8

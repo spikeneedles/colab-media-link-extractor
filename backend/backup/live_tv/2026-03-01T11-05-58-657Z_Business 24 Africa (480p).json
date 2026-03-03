@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8",
+  "title": "Business 24 Africa (480p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Business",
+  "tvgId": "Business24Africa.ci@SD",
+  "tvgLogo": "https://i.imgur.com/zZFl3vy.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:58.657Z"
+}

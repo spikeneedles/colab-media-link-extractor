@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EBS1TV.kr_SD" tvg-name="EBS 1 (400p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:09.729Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" indexer="playlist-harvester",EBS 1 (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8

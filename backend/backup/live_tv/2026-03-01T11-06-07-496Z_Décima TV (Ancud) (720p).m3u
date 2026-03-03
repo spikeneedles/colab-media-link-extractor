@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DecimaTV.cl_SD" tvg-name="Décima TV (Ancud) (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:07.496Z" tvg-logo="https://i.imgur.com/eu8hDDc.png" indexer="playlist-harvester",Décima TV (Ancud) (720p)
+https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8

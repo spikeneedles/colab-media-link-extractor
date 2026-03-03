@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MusawaChannel.ps_SD" tvg-name="MusawaChannel (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:33.433Z" tvg-logo="https://i.imgur.com/GB2Q9kl.png" indexer="playlist-harvester",MusawaChannel (1080p) [Not 24/7]
+https://pbc.furrera.ps/musawahd/index.m3u8

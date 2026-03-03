@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioTelevisionMarbella.es_SD" tvg-name="RTV Marbella (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:51.529Z" tvg-logo="https://i.imgur.com/o9Ro8TR.png" indexer="playlist-harvester",RTV Marbella (720p)
+https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8

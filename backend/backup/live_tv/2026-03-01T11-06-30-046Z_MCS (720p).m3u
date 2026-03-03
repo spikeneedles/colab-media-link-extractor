@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MCS__720p_" tvg-name="MCS (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:30.046Z" indexer="playlist-harvester",MCS (720p)
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8

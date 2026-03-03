@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV1Oberosterreich.at_SD" tvg-name="TV 1 Oberösterreich (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:07.546Z" tvg-logo="https://i.imgur.com/KbMkEIn.png" indexer="playlist-harvester",TV 1 Oberösterreich (1080p)
+https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8

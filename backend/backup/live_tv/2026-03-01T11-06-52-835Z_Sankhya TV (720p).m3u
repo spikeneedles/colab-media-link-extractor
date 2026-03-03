@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SankhyaTV.tt_SD" tvg-name="Sankhya TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:52.835Z" tvg-logo="https://i.ibb.co/Dgv6PvM/STV-NEW-LOGO-WITH-WHITE-SHADOW.png" indexer="playlist-harvester",Sankhya TV (720p)
+https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8

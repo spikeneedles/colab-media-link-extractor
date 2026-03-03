@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://mlb.essastream.com:8081/enntivision/tracks-v1a1/mono.m3u8",
+  "title": "Enntivision (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Enntivision.do@SD",
+  "tvgLogo": "https://i.imgur.com/nePOFZW.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:10.618Z"
+}

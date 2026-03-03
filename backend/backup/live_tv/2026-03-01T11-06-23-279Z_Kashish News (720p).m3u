@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KashishNews.in_SD" tvg-name="Kashish News (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:23.279Z" tvg-logo="https://i.imgur.com/qfINs2r.png" indexer="playlist-harvester",Kashish News (720p)
+https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8

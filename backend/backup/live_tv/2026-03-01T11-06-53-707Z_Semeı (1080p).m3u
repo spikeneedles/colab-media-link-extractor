@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Semei.kz_SD" tvg-name="Semeı (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.707Z" tvg-logo="https://i.ibb.co/P9V0532/Captura.png" indexer="playlist-harvester",Semeı (1080p)
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8

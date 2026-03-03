@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BRTV.tr_SD" tvg-name="BRTV (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:58.235Z" tvg-logo="https://i.imgur.com/U3qlEAp.png" indexer="playlist-harvester",BRTV (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8

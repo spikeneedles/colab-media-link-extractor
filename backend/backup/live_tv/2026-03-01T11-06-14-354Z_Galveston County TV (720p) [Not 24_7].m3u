@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GalvestonCountyTV.us_SD" tvg-name="Galveston County TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:14.354Z" tvg-logo="https://i.imgur.com/uzjuxdI.png" indexer="playlist-harvester",Galveston County TV (720p) [Not 24/7]
+https://edge-f.swagit.com/live/galvestontx/smil:hd-16x9-1-a/playlist.m3u8

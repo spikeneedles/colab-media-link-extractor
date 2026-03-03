@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EWTN.us_Europe" tvg-name="EWTN Europe (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:12.052Z" tvg-logo="https://i.imgur.com/sua70RO.png" indexer="playlist-harvester",EWTN Europe (720p)
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8

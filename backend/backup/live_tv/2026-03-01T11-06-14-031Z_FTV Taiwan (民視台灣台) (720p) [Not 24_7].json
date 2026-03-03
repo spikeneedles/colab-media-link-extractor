@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://seb.sason.top/ptv/ftv.php?id=tw",
+  "title": "FTV Taiwan (民視台灣台) (720p) [Not 24/7]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "FTVTaiwan.tw@SD",
+  "tvgLogo": "https://i.imgur.com/p108I5g.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:14.031Z"
+}

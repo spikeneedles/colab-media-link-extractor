@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8",
+  "title": "TV9 Nusantara (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TV9Nusantara.id@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:08.225Z"
+}

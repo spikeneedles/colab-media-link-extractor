@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KTK.kz_SD" tvg-name="КТК (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:23.929Z" tvg-logo="https://i.imgur.com/BurrNTo.png" indexer="playlist-harvester",КТК (1080p) [Not 24/7]
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8

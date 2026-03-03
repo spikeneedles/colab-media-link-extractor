@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8",
+  "title": "Lanthung TV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "LanthungTV.th@SD",
+  "tvgLogo": "https://www.lyngsat.com/logo/tv/ll/lanthung-tv-th.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:25.758Z"
+}

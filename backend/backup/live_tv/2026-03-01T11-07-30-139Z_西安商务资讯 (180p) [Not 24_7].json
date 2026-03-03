@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://stream2.xiancity.cn/xatv3/playlist.m3u8",
+  "title": "西安商务资讯 (180p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Business",
+  "tvgId": "XianBusinessInformationChannel.cn@SD",
+  "tvgLogo": "https://i.imgur.com/dzdiY4O.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:30.139Z"
+}

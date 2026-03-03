@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TiankovOrientFolk.bg_SD" tvg-name="Tiankov Orient Folk (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:04.728Z" tvg-logo="https://i.imgur.com/33LexyP.png" indexer="playlist-harvester",Tiankov Orient Folk (576p)
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
+  "title": "Толк HD",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "Tolk.ru@HD",
+  "tvgLogo": "https://i.imgur.com/l7JZ79P.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:26.085Z"
+}

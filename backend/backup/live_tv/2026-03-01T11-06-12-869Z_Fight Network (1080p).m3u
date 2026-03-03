@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FightNetwork.ca_SD" tvg-name="Fight Network (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:12.869Z" tvg-logo="https://i.imgur.com/vlKPZHR.png" indexer="playlist-harvester",Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8

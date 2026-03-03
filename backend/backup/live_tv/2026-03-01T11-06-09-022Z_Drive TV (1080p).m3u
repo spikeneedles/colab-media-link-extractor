@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Drive_TV__1080p_" tvg-name="Drive TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:09.022Z" indexer="playlist-harvester",Drive TV (1080p)
+https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8

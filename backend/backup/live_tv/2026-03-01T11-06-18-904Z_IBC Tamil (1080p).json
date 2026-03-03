@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://ibc.massstream.net/IBC/index.m3u8",
+  "title": "IBC Tamil (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "IBCTamil.uk@SD",
+  "tvgLogo": "https://i.imgur.com/uVt9vBa.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:18.904Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Radio10.nl_SD" tvg-name="Radio 10 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:44.764Z" tvg-logo="https://i.imgur.com/2oGtj7r.png" indexer="playlist-harvester",Radio 10 (720p)
+https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8

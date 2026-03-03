@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BloombergTV.us_LiveEvent" tvg-name="Bloomberg TV US Live Event (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:57.569Z" tvg-logo="https://i.imgur.com/OuogLHx.png" indexer="playlist-harvester",Bloomberg TV US Live Event (720p)
+https://bloomberg.com/media-manifest/streams/us-event.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Echo24.pl_SD" tvg-name="Echo24 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:09.832Z" tvg-logo="https://i.imgur.com/KPogWAG.png" indexer="playlist-harvester",Echo24 (720p)
+https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8

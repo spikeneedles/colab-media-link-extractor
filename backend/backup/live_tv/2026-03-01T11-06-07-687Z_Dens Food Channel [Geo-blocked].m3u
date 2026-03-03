@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DensFoodChannel.id" tvg-name="Dens Food Channel [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:07.687Z" indexer="playlist-harvester",Dens Food Channel [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h248/index.m3u8

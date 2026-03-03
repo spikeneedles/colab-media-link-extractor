@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PlusTV.ec_SD" tvg-name="Plus TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:42.116Z" tvg-logo="https://i.imgur.com/TZqOINg.png" indexer="playlist-harvester",Plus TV (720p) [Not 24/7]
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8

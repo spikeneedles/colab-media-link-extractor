@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CNV_Montreal" tvg-name="CNV/Montreal" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:04.940Z" indexer="playlist-harvester",CNV/Montreal
+https://media1.radioservers.biz:1936/cnv/cnv/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LatinZone.us_SD" tvg-name="Latin Zone TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:25.864Z" tvg-logo="https://i.imgur.com/duEDsne.png" indexer="playlist-harvester",Latin Zone TV (720p)
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8

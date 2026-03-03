@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SolidariaTV.es_SD" tvg-name="Solidaria TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:55.765Z" tvg-logo="https://i.imgur.com/Bgm2iZY.png" indexer="playlist-harvester",Solidaria TV (720p)
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8

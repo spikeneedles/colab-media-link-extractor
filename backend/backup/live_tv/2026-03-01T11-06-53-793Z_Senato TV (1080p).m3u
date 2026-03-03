@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SenatoTV.it_SD" tvg-name="Senato TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.793Z" tvg-logo="https://i.imgur.com/h4NyN5d.png" indexer="playlist-harvester",Senato TV (1080p)
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8

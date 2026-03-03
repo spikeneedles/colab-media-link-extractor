@@ -1,0 +1,9 @@
+{
+  "sourceUrl": "http://localhost:9696",
+  "mediaUrl": "http://localhost:9696/22/download?apikey=28ccccee39b64d52ac9a71cc4e3c75b0&link=N3R5cWpLdHBQckV5MjZyV2cxOGl3VVdPM2xqUHZLZjErL0tZQWc5bWlPVGErWlJ3L0lZSzZIdmRkcS9SUXJNVThFZk81UkFKUTNOdldhT3BxVTFITUdBdkw4cnhIVTNKN1dTcGNsNlJFM0ZETkxmT0UvamNLSExWL0N5TEd2Rjc&file=The+Man+Without+a+Past+(2002)+1080p+BRRip+5.1+x264+-YTS",
+  "title": "The Man Without a Past (2002) 1080p BRRip 5.1 x264 -YTS",
+  "contentType": "application/x-bittorrent",
+  "category": "live_tv",
+  "indexer": "Prowlarr/Movies",
+  "archivedAt": "2026-02-27T06:00:43.926Z"
+}

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8",
+  "title": "NHK Kishou Saigai (360p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Weather",
+  "tvgId": "NHKKishouSaigai.jp@SD",
+  "tvgLogo": "https://i.imgur.com/oWKCBIz.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:36.437Z"
+}

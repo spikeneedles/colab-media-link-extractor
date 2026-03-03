@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8",
+  "title": "Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TegarTVLampung.id@SD",
+  "tvgLogo": "https://i.imgur.com/0Vp3f2J.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:00.183Z"
+}

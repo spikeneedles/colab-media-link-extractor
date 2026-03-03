@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8",
+  "title": "TiVi5 Monde [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TiVi5Monde.fr@SD",
+  "tvgLogo": "https://i.imgur.com/fVVKpmk.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:04.975Z"
+}

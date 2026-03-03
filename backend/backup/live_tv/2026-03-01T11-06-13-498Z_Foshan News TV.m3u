@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Foshan_News_TV" tvg-name="Foshan News TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:13.498Z" indexer="playlist-harvester",Foshan News TV
+http://dslive.grtn.cn/fszh/sd/live.m3u8

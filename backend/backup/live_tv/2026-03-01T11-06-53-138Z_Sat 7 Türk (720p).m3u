@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sat7Turk.cy_SD" tvg-name="Sat 7 Türk (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.138Z" tvg-logo="https://i.imgur.com/cKQIK4i.png" indexer="playlist-harvester",Sat 7 Türk (720p)
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8

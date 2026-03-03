@@ -11,7 +11,7 @@
     </setting>
 
     <setting id="api_url" type="string" label="32003" help="32004">
-      <default>http://localhost:3001</default>
+      <default>http://localhost:3002</default>
     </setting>
 
     <setting id="api_key" type="string" label="32005" help="32006" option="hidden">

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Farovision.do_SD" tvg-name="Farovisión (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:12.511Z" tvg-logo="https://i.imgur.com/YtdOXWb.png" indexer="playlist-harvester",Farovisión (720p)
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8

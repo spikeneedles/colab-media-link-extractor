@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DITV80.it_SD" tvg-name="DI.TV 80 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:07.895Z" tvg-logo="https://i.imgur.com/2AqKAMy.png" indexer="playlist-harvester",DI.TV 80 (720p)
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8

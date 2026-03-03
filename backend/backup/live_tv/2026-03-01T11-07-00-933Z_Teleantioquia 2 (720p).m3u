@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Teleantioquia2.co_SD" tvg-name="Teleantioquia 2 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:00.933Z" tvg-logo="https://i.imgur.com/weLuMcS.png" indexer="playlist-harvester",Teleantioquia 2 (720p)
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:live.smil/playlist.m3u8?DVR=

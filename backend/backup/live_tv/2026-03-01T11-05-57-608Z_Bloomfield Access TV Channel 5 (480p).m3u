@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BATV.us_SD" tvg-name="Bloomfield Access TV Channel 5 (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:57.608Z" tvg-logo="https://i.imgur.com/nTeE4xu.png" indexer="playlist-harvester",Bloomfield Access TV Channel 5 (480p)
+https://reflect-batv.cablecast.tv/live-5/live/live.m3u8

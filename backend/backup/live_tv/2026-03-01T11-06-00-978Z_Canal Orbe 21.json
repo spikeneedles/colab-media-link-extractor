@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8",
+  "title": "Canal Orbe 21",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "CanalOrbe21.ar@SD",
+  "tvgLogo": "https://i.imgur.com/USD6Wn8.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:00.978Z"
+}

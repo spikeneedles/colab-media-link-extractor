@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Agenda56TV.do_SD" tvg-name="Agenda 56 TV [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:50.120Z" tvg-logo="https://i.imgur.com/G7zIVB7.png" indexer="playlist-harvester",Agenda 56 TV [Not 24/7]
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlQanat9.tr" tvg-name="Alqanat9 TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:51.646Z" tvg-logo="https://i.imgur.com/HC91Mho.png" indexer="playlist-harvester",Alqanat9 TV (1080p)
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8

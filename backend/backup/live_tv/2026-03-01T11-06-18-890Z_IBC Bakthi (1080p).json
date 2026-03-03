@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://ibc.massstream.net/IBC2/index.m3u8",
+  "title": "IBC Bakthi (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "IBCBakthi.uk@SD",
+  "tvgLogo": "https://i.imgur.com/ZNEz5Wx.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:18.890Z"
+}

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://stream2.xiancity.cn/xatv5/playlist.m3u8",
+  "title": "西安丝路 (404p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "XianSilkRoadChannel.cn@SD",
+  "tvgLogo": "https://i.imgur.com/52i1Qnz.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:30.109Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ParaisoTV.pr_SD" tvg-name="Paraíso TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.532Z" tvg-logo="https://i.imgur.com/wE31GIP.jpg" indexer="playlist-harvester",Paraíso TV (720p)
+https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8

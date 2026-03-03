@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="30ATelevisionChannel.us_SD" tvg-name="30A Television Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.030Z" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s" indexer="playlist-harvester",30A Television Channel
+https://30a-tv.com/feeds/masters/30atv.m3u8

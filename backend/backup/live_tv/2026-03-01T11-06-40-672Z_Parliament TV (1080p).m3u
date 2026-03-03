@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ParliamentTV.mn_SD" tvg-name="Parliament TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:40.672Z" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" indexer="playlist-harvester",Parliament TV (1080p)
+https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MaxTV.co_HD" tvg-name="MaxTV [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.392Z" tvg-logo="https://gia.tv/streams/pstream/209851.png" indexer="playlist-harvester",MaxTV [Not 24/7]
+https://inliveserver.com:1936/8078/8078/playlist.m3u8

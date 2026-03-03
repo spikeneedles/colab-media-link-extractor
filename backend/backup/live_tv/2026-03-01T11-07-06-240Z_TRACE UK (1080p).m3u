@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRACE_UK__1080p_" tvg-name="TRACE UK (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:06.240Z" indexer="playlist-harvester",TRACE UK (1080p)
+https://amg01131-tracetv-amg01131c5-stirr-us-4389.playouts.now.amagi.tv/playlist.m3u8

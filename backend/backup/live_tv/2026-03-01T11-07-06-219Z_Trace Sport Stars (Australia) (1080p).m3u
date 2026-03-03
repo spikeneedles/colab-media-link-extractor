@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TraceSportStars.fr_HD" tvg-name="Trace Sport Stars (Australia) (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:06.219Z" tvg-logo="https://i.imgur.com/FabFP5A.png" indexer="playlist-harvester",Trace Sport Stars (Australia) (1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8

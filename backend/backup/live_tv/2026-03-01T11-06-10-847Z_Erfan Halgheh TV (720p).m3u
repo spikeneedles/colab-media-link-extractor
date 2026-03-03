@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ErfanHalghehTV.ca_SD" tvg-name="Erfan Halgheh TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.847Z" tvg-logo="https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png" indexer="playlist-harvester",Erfan Halgheh TV (720p)
+https://hls.erfanhalgheh.live/hls/stream.m3u8

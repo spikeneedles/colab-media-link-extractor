@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AsthaTV.id_HD" tvg-name="Astha TV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:53.954Z" tvg-logo="https://asthatv.com/wp-content/uploads/2026/02/Logo-Astha.png" indexer="playlist-harvester",Astha TV (1080p) [Not 24/7]
+https://hgmtv.com:19360/asthatv/asthatv.m3u8

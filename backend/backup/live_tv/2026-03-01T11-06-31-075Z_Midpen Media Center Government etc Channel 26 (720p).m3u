@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel26.us_SD" tvg-name="Midpen Media Center Government etc Channel 26 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:31.075Z" tvg-logo="https://i.imgur.com/aX1GkCD.png" indexer="playlist-harvester",Midpen Media Center Government etc Channel 26 (720p)
+https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8

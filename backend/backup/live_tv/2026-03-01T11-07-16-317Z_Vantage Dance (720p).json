@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8",
+  "title": "Vantage Dance (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "VantageDance.ee@HD",
+  "tvgLogo": "https://vantagetv.ee/vantage_dance.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:16.317Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TelewizjaLuban.pl_SD" tvg-name="Telewizja Lubań (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:03.379Z" tvg-logo="https://i.imgur.com/t2BGp0G.jpeg" indexer="playlist-harvester",Telewizja Lubań (720p) [Not 24/7]
+http://stream.herissons.cloud/hls/tvluban.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://103.229.254.25:7001/play/a0dt/index.m3u8",
+  "title": "Jalsha Movies HD (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "JalshaMovies.in@HD",
+  "tvgLogo": "https://i.imgur.com/25eWjX2.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:06:21.232Z"
+}

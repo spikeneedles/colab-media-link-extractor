@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8",
+  "title": "Cinevault 80s (540p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "Cinevault80s.us@SD",
+  "tvgLogo": "https://i.imgur.com/xaCyyDd.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:06:04.158Z"
+}

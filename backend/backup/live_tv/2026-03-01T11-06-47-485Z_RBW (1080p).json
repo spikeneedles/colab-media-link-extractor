@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8",
+  "title": "RBW (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "RBW.de@SD",
+  "tvgLogo": "https://i.imgur.com/A0UKdix.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:47.485Z"
+}

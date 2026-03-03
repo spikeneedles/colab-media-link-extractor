@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ParsTV.us_SD" tvg-name="Pars TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.727Z" tvg-logo="https://i.imgur.com/RQ5DzEE.png" indexer="playlist-harvester",Pars TV
+https://parshls.wns.live/hls/stream.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8",
+  "title": "Kanal12 Spremberg TV (404p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "Kanal12SprembergTV.de@SD",
+  "tvgLogo": "https://i.ibb.co/1LzJz7Y/Channels4-profile-7.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:22.837Z"
+}

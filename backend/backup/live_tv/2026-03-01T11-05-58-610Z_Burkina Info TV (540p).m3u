@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BurkinaInfoTV.bf_SD" tvg-name="Burkina Info TV (540p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:58.610Z" tvg-logo="https://i.imgur.com/a9v5CbU.png" indexer="playlist-harvester",Burkina Info TV (540p)
+http://69.64.57.208/burkinainfo/index.m3u8

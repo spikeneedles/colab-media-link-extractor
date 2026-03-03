@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Investigation" tvg-name="Investigation" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:20.274Z" indexer="playlist-harvester",Investigation
+https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8

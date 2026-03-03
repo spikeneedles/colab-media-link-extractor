@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Tele7.es_SD" tvg-name="Tele 7 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:00.256Z" tvg-logo="https://i.imgur.com/JcuV9ZE.png" indexer="playlist-harvester",Tele 7 (720p)
+https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8

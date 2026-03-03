@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8",
+  "title": "Atabal TV (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "AtabalTV.do@HD",
+  "tvgLogo": "https://imgur.com/QWR9SOH.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:54.017Z"
+}

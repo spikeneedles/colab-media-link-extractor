@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VibesMedia.bz_SD" tvg-name="Vibes Media (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.196Z" tvg-logo="https://i.imgur.com/SQr4IX4.jpeg" indexer="playlist-harvester",Vibes Media (480p)
+https://streamer2.nexgen.bz/09-POSVIBES/index.m3u8

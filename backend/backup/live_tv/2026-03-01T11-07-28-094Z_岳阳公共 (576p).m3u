@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="______576p_" tvg-name="岳阳公共 (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:28.094Z" indexer="playlist-harvester",岳阳公共 (576p)
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?BVUUID=C236454D-5355-2F5F-FA96-1887C72E55CE&auth=654837809071524@615@2E9A5FD0B225B012E3178551CF3754A8

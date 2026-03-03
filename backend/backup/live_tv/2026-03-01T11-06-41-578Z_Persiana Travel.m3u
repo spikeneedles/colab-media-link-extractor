@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PersianaTravel.fr_SD" tvg-name="Persiana Travel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:41.578Z" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-travel-fr.png" indexer="playlist-harvester",Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8

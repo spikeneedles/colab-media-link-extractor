@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ELTV.az_SD" tvg-name="EL TV (260p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.283Z" tvg-logo="https://i.imgur.com/tTlokZ2.png" indexer="playlist-harvester",EL TV (260p) [Not 24/7]
+http://85.132.53.162:1935/live/eltv/playlist.m3u8

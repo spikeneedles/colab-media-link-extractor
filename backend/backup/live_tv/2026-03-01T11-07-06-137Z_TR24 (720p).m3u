@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TR24Television.cm_SD" tvg-name="TR24 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:06.137Z" tvg-logo="https://i.ibb.co/fQrBY1M/tr24-telepack.jpg" indexer="playlist-harvester",TR24 (720p)
+https://stream.it-innov.com/tr24/index.m3u8

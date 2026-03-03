@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd",
+  "title": "HRT 4 HD (720p) [Geo-blocked]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "HRT4.hr@HD",
+  "tvgLogo": "https://i.imgur.com/VcNrY0m.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:18.414Z"
+}

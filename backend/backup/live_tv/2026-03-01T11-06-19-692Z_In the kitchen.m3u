@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IntheKitchen.us_SD" tvg-name="In the kitchen" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:19.692Z" tvg-logo="https://i.imgur.com/HrRUd6r.png" indexer="playlist-harvester",In the kitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8

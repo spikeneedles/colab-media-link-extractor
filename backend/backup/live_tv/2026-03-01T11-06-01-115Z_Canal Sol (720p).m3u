@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanaldelSol.do_SD" tvg-name="Canal Sol (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.115Z" tvg-logo="https://i.imgur.com/gK0M1jB.png" indexer="playlist-harvester",Canal Sol (720p)
+https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV1.lk_SD" tvg-name="TV 1 (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:07.486Z" tvg-logo="https://i.imgur.com/QShk1BV.png" indexer="playlist-harvester",TV 1 (576p)
+https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8

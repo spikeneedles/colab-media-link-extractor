@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A24.ar_SD" tvg-name="A24 (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:48.457Z" tvg-logo="https://i.imgur.com/LnXQkIU.png" indexer="playlist-harvester",A24 (720p)
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true

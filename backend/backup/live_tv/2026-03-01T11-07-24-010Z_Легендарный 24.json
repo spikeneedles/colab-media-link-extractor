@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://sevas.1tvcrimea.ru/legendarniy24.m3u8",
+  "title": "Легендарный 24",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "Legendarnyy24.ru@SD",
+  "tvgLogo": "https://i.imgur.com/z9t6x8B.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:24.010Z"
+}

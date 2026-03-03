@@ -283,7 +283,7 @@ def _post_payload(api_url: str, payload: dict) -> tuple[int, dict]:
 # 7.  Test runner
 # ---------------------------------------------------------------------------
 
-_API_URL = 'http://localhost:3001'
+_API_URL = 'http://localhost:3002'
 
 def _run_scenario(scenario: dict[str, Any], dry_run: bool) -> dict[str, Any]:
     sid = scenario['id']
@@ -360,9 +360,9 @@ def main() -> None:
     )
     parser.add_argument(
         '--url',
-        default='http://localhost:3001',
+        default='http://localhost:3002',
         metavar='URL',
-        help='Backend base URL (default: http://localhost:3001)',
+        help='Backend base URL (default: http://localhost:3002)',
     )
     parser.add_argument(
         '--dry-run',

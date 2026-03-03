@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il_SD" tvg-name="I24 News English (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.774Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" indexer="playlist-harvester",I24 News English (720p)
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8

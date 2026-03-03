@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KOKIDT1.us_SD" tvg-name="KOKI-DT1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.211Z" tvg-logo="https://i.imgur.com/pRKEMb1.jpg" indexer="playlist-harvester",KOKI-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8

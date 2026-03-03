@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8",
+  "title": "TVT (486p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TVT.sk@SD",
+  "tvgLogo": "https://i.imgur.com/QG0iZlG.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:14.705Z"
+}

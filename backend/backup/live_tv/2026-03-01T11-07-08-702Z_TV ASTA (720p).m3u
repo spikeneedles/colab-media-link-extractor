@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVASTA.pl_SD" tvg-name="TV ASTA (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:08.702Z" tvg-logo="https://i.imgur.com/5g7lq9N.png" indexer="playlist-harvester",TV ASTA (720p)
+https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SevillaFCTV.es_SD" tvg-name="Sevilla FC TV (360p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:54.002Z" tvg-logo="https://i.imgur.com/yujGVbm.png" indexer="playlist-harvester",Sevilla FC TV (360p) [Not 24/7]
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8

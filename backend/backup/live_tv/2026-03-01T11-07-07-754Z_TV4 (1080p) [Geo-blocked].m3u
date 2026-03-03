@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV4.pl_SD" tvg-name="TV4 (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:07:07.754Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" indexer="playlist-harvester",TV4 (1080p) [Geo-blocked]
+https://lb2-e2-32.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Palestinetv.ir_SD" tvg-name="Palestine" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:40.316Z" tvg-logo="https://i.ibb.co/svrZNZTX/Palestine.png" indexer="playlist-harvester",Palestine
+https://ncdn.telewebion.com/palestine/live/playlist.m3u8

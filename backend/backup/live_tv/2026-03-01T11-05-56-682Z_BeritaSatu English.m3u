@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BeritaSatuEnglish.id_SD" tvg-name="BeritaSatu English" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:56.682Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BeritaSatu_%28Flat%29.svg/2560px-BeritaSatu_%28Flat%29.svg.png" indexer="playlist-harvester",BeritaSatu English
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8

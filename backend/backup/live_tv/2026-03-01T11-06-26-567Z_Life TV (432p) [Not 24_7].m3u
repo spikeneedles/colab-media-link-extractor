@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LifeTV.ee_SD" tvg-name="Life TV (432p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:26.567Z" tvg-logo="https://i.imgur.com/JhrTB82.png" indexer="playlist-harvester",Life TV (432p) [Not 24/7]
+http://lifetv.bitflip.ee/live/stream1_1/index.m3u8

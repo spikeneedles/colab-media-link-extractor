@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Comedy_Tadka" tvg-name="Comedy Tadka" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:05.235Z" indexer="playlist-harvester",Comedy Tadka
+https://streams2.sofast.tv/WiseM3U8_27/sofast/cleanhls/master.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DismarRadioTV.py_SD" tvg-name="Dismar Radio TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:08.124Z" tvg-logo="https://i.imgur.com/KOuxdMD.png" indexer="playlist-harvester",Dismar Radio TV (720p)
+https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8

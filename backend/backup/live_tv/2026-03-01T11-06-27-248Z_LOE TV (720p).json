@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8",
+  "title": "LOE TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "LOETV.nl@SD",
+  "tvgLogo": "https://i.imgur.com/8i6OwaS.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:27.248Z"
+}

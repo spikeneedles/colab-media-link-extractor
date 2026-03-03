@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DiyarTV.tr_SD" tvg-name="Diyar TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:08.313Z" tvg-logo="https://i.imgur.com/qWkHjRA.png" indexer="playlist-harvester",Diyar TV (720p)
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8

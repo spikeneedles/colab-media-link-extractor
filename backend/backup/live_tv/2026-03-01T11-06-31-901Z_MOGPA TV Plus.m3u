@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MOGPATVPlus.gh_SD" tvg-name="MOGPA TV Plus" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:31.901Z" tvg-logo="https://i.imgur.com/0YLSM3R.png" indexer="playlist-harvester",MOGPA TV Plus
+https://bk7l2r2nyx53-hls-live.5centscdn.com/mogpatvplus/2567a5ec9705eb7ac2c984033e06189d.sdp/playlist.m3u8

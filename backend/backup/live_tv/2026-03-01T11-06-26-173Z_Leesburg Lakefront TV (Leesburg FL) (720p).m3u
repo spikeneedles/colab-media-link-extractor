@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LakeFrontTV.us_SD" tvg-name="Leesburg Lakefront TV (Leesburg FL) (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:26.173Z" tvg-logo="https://i.imgur.com/ROb1BNG.png" indexer="playlist-harvester",Leesburg Lakefront TV (Leesburg FL) (720p)
+https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8

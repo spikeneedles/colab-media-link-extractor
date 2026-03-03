@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Tennis_Channel_Germany__720p_" tvg-name="Tennis Channel Germany (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:03.591Z" indexer="playlist-harvester",Tennis Channel Germany (720p)
+https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8

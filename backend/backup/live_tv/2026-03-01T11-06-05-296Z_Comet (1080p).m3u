@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Comet.us_SD" tvg-name="Comet (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:05.296Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" indexer="playlist-harvester",Comet (1080p)
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8

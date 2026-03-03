@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Xtrem_Sports" tvg-name="Xtrem Sports" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:21.545Z" indexer="playlist-harvester",Xtrem Sports
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8

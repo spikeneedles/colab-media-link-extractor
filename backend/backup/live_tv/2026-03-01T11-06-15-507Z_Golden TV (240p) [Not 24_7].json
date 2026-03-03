@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8",
+  "title": "Golden TV (240p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "Golden.mx@Panregional",
+  "tvgLogo": "https://i.imgur.com/NNd1lYl.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:15.507Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SachsenFernsehenChemnitz.de_SD" tvg-name="Chemnitz Fernsehen (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:03.789Z" tvg-logo="https://i.imgur.com/4SEAbVf.png" indexer="playlist-harvester",Chemnitz Fernsehen (1080p)
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8

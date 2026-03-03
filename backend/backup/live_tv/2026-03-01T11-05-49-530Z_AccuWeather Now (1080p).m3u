@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us_SD" tvg-name="AccuWeather Now (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:49.530Z" tvg-logo="https://i.imgur.com/M8wbVYK.png" indexer="playlist-harvester",AccuWeather Now (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8

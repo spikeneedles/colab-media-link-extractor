@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UniTVPortoAlegre.br_SD" tvg-name="UniTV Porto Alegre (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:07:15.607Z" tvg-logo="https://i.imgur.com/GmA5uuk.png" indexer="playlist-harvester",UniTV Porto Alegre (480p)
+http://unitvaovivo.ufrgs.br:8080/live.ogg

@@ -42,7 +42,7 @@ except Exception:  # Fallback for local dev outside Kodi
 ADDON_ID = 'plugin.service.medialinkscanner'
 
 # Default values
-DEFAULT_API_URL       = 'http://localhost:3001'
+DEFAULT_API_URL       = 'http://localhost:3002'
 DEFAULT_API_KEY       = ''
 DEFAULT_ENABLED       = True
 DEFAULT_DEBUG         = False

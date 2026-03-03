@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8",
+  "title": "LA CityView 35 (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Legislative",
+  "tvgId": "LACityView35.us@SD",
+  "tvgLogo": "https://i.imgur.com/3PnD83G.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:25.312Z"
+}

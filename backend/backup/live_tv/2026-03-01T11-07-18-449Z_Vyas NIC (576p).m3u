@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VyasChannel.in_SD" tvg-name="Vyas NIC (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:18.449Z" tvg-logo="https://www.yupptv.com/seo_img/UGC_GEC_big.jpg" indexer="playlist-harvester",Vyas NIC (576p)
+https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8

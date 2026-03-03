@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KCTVDT1.us_SD" tvg-name="KCTV-DT1 [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:23.478Z" tvg-logo="https://i.imgur.com/7bfi9oA.png" indexer="playlist-harvester",KCTV-DT1 [Geo-blocked]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kctv5news-vizious/playlist.m3u8

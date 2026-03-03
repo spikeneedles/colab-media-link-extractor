@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ViaAltomayo.pe_SD" tvg-name="Vía Altomayo (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.038Z" tvg-logo="https://i.imgur.com/aJ4XExn.png" indexer="playlist-harvester",Vía Altomayo (720p) [Not 24/7]
+https://live.obslivestream.com/viaaltomayomux/index.m3u8

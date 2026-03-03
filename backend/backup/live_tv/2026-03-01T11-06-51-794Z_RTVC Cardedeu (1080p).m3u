@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTVCCardedeu.es_SD" tvg-name="RTVC Cardedeu (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:51.794Z" tvg-logo="https://i.imgur.com/rrCJyza.png" indexer="playlist-harvester",RTVC Cardedeu (1080p)
+https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8

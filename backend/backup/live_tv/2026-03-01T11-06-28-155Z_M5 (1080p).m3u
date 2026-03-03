@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="M5.hu_SD" tvg-name="M5 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:28.155Z" tvg-logo="https://i.imgur.com/y21wFd0.png" indexer="playlist-harvester",M5 (1080p)
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8

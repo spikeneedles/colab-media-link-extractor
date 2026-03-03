@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://77.42.253.43:9090/stream5/AGHANITV.m3u8",
+  "title": "Aghani Aghani TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "AghaniAghaniTV.lb@SD",
+  "tvgLogo": "https://i.imgur.com/o6HSfNg.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:50.131Z"
+}

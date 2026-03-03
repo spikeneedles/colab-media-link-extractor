@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://hdbox.chunklistv.com/live?stream=tvone",
+  "title": "TVONE Nicaragua (720p) [Not 24/7]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "TVONENicaragua.ni@SD",
+  "tvgLogo": "https://i.imgur.com/FNk6rdz.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:13.402Z"
+}

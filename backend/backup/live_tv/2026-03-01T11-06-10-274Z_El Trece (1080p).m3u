@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ElTrece.ar_SD" tvg-name="El Trece (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.274Z" tvg-logo="https://i.imgur.com/TrgBAdA.png" indexer="playlist-harvester",El Trece (1080p)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8

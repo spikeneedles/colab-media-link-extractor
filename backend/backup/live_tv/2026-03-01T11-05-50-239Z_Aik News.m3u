@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AikNews.pk_SD" tvg-name="Aik News" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:50.239Z" tvg-logo="https://i.imgur.com/svPXoAP.png" indexer="playlist-harvester",Aik News
+https://video.primexsports.com/pnn/live/playlist.m3u8

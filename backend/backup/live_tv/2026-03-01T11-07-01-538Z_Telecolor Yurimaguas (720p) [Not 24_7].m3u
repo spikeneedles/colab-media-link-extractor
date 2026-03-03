@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TelecolorYurimaguas.pe_SD" tvg-name="Telecolor Yurimaguas (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:01.538Z" tvg-logo="https://i.imgur.com/Ug6XNIU.png" indexer="playlist-harvester",Telecolor Yurimaguas (720p) [Not 24/7]
+https://live.obslivestream.com/telecolormux/index.m3u8

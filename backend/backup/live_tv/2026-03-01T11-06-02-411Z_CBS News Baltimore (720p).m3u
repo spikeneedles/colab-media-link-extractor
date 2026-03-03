@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CBSNewsBaltimore.us_SD" tvg-name="CBS News Baltimore (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:02.411Z" tvg-logo="https://i.imgur.com/jy3UfCe.png" indexer="playlist-harvester",CBS News Baltimore (720p)
+https://cbsnews.akamaized.net/hls/live/2099390/cbsnbal_11/master.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8",
+  "title": "India News Madhya Pradesh/Chhattisgarh (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "IndiaNewsMadhyaPradeshChhattisgarh.in@SD",
+  "tvgLogo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_News_MP.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:19.819Z"
+}

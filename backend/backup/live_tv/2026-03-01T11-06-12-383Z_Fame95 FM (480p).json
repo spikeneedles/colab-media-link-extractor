@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8",
+  "title": "Fame95 FM (480p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "Fame95FM.jm@SD",
+  "tvgLogo": "https://i.imgur.com/n3PUxes.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:12.383Z"
+}

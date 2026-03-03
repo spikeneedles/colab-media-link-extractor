@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GexTV.cr_HD" tvg-name="Gex TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:14.866Z" tvg-logo="https://gextv.com/LOGO-WHITE.png" indexer="playlist-harvester",Gex TV (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8

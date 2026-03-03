@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SNNTV.ir_SD" tvg-name="SNN TV [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:55.634Z" tvg-logo="https://i.imgur.com/V8DYqMJ.png" indexer="playlist-harvester",SNN TV [Not 24/7]
+https://live2.snn.ir/hls/snn2_hd720/index.m3u8

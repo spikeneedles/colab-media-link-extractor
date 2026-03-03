@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f",
+  "title": "Смотрим 100% Факты",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Documentary",
+  "tvgId": "Smotrim100Fakty.ru@SD",
+  "tvgLogo": "https://i.imgur.com/dB3cJzO.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:25.554Z"
+}

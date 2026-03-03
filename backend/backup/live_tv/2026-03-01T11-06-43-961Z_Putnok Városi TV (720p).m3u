@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PVTV.hu_SD" tvg-name="Putnok Városi TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:43.961Z" tvg-logo="https://i.imgur.com/eKXPBFb.png" indexer="playlist-harvester",Putnok Városi TV (720p)
+http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null

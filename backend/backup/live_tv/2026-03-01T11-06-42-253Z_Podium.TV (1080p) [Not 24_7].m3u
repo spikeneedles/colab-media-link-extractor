@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PodiumTV.nl_SD" tvg-name="Podium.TV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:42.253Z" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" indexer="playlist-harvester",Podium.TV (1080p) [Not 24/7]
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&output=playlist.m3u8&service=wowza&type=live

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MVSTV.mx_SD" tvg-name="MVS TV [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:33.590Z" tvg-logo="https://i.imgur.com/TcB37yV.png" indexer="playlist-harvester",MVS TV [Geo-blocked]
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8

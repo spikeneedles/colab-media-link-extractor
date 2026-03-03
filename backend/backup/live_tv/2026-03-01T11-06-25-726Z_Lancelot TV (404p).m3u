@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LancelotTV.es_SD" tvg-name="Lancelot TV (404p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:25.726Z" tvg-logo="https://i.imgur.com/RlzVIJP.png" indexer="playlist-harvester",Lancelot TV (404p)
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8

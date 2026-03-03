@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalCatorce.do_SD" tvg-name="Canal Catorce (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:00.694Z" tvg-logo="https://i.imgur.com/iKLGBbA.png" indexer="playlist-harvester",Canal Catorce (720p)
+https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8

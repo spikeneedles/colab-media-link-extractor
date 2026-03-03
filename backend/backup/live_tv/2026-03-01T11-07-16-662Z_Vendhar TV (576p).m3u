@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VendharTV.in_SD" tvg-name="Vendhar TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:16.662Z" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vendhar_TV.png" indexer="playlist-harvester",Vendhar TV (576p)
+https://cdn-3.pishow.tv/live/1271/master.m3u8

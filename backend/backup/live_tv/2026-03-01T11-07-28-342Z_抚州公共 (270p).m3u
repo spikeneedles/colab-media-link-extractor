@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="______270p_" tvg-name="抚州公共 (270p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:28.342Z" indexer="playlist-harvester",抚州公共 (270p)
+http://111.75.179.195:30767/video/live_vide2.m3u8

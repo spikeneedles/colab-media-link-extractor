@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AwakeningTV.in_SD" tvg-name="Awakening TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:54.699Z" tvg-logo="https://i.imgur.com/p26iWOi.png" indexer="playlist-harvester",Awakening TV (576p)
+https://keralive.com/yupp/tv.php?c=awakening-tv&e=.m3u8

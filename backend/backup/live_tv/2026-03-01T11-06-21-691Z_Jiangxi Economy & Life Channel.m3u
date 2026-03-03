@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JiangxiEconomyLifeChannel.cn_SD" tvg-name="Jiangxi Economy & Life Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:21.691Z" tvg-logo="https://www.tvchinese.net/uploads/tv/jxtv3.jpg" indexer="playlist-harvester",Jiangxi Economy & Life Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8

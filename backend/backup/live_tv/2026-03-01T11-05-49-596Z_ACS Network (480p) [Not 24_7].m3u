@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ACSNetwork.pr_SD" tvg-name="ACS Network (480p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:49.596Z" tvg-logo="https://i.imgur.com/7aIab2r.png" indexer="playlist-harvester",ACS Network (480p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8

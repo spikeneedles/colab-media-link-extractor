@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8",
+  "title": "IDX Channel (720p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Business",
+  "tvgId": "IDXChannel.id@SD",
+  "tvgLogo": "https://i.imgur.com/xPvrcsr.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:19.308Z"
+}

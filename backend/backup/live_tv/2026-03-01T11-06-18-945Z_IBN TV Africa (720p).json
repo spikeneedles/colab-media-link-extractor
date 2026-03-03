@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8",
+  "title": "IBN TV Africa (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "IBNTVAfrica.tz@SD",
+  "tvgLogo": "https://i.imgur.com/eKy2ocd.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:18.945Z"
+}

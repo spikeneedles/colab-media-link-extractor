@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AB1.fr_SD" tvg-name="AB1 [Geo-Blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:05:48.684Z" tvg-logo="https://i.imgur.com/9C7UsOe.png" indexer="playlist-harvester",AB1 [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd

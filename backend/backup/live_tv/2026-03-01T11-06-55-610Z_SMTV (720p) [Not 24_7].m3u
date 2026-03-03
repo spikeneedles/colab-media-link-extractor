@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SMTV.id_SD" tvg-name="SMTV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:55.610Z" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" indexer="playlist-harvester",SMTV (720p) [Not 24/7]
+http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8

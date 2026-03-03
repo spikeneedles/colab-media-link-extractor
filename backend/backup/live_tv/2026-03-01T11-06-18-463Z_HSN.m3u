@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HSN.us_East" tvg-name="HSN" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.463Z" tvg-logo="https://i.imgur.com/rnZN7rD.png" indexer="playlist-harvester",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8

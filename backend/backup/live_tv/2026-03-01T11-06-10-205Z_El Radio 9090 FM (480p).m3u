@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ElRadio9090FM.eg_SD" tvg-name="El Radio 9090 FM (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.205Z" tvg-logo="https://www.9090.fm/images/logo.png" indexer="playlist-harvester",El Radio 9090 FM (480p)
+https://9090video.mobtada.com/hls/stream.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Zarok_TV_Sorani__720p_" tvg-name="Zarok TV Sorani (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:22.055Z" indexer="playlist-harvester",Zarok TV Sorani (720p)
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8

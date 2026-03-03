@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MoozDance.ro_SD" tvg-name="Mooz Dance" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:32.317Z" tvg-logo="https://i.imgur.com/aX70RD2.png" indexer="playlist-harvester",Mooz Dance
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8

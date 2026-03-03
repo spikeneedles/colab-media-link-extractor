@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EmanChannel.uk_SD" tvg-name="Eman Channel (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.443Z" tvg-logo="https://i.imgur.com/ugn0DWe.png" indexer="playlist-harvester",Eman Channel (576p)
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://amtvusdvr.tulix.tv/am3abr/index.m3u8",
+  "title": "First Channel News (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "FirstChannelNews.am@SD",
+  "tvgLogo": "https://i.imgur.com/RlYJUH4.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:13.059Z"
+}

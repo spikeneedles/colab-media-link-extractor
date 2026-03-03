@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://atomic.streamnet.ro/atomictv.m3u8",
+  "title": "Atomic TV (360p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "AtomicTV.ro@SD",
+  "tvgLogo": "https://i.imgur.com/O4uI0Uy.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:54.135Z"
+}

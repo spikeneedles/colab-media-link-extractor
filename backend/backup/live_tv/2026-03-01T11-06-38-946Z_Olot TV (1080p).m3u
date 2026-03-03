@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OlotTV.es_SD" tvg-name="Olot TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:38.946Z" tvg-logo="https://i.imgur.com/u8wO4Lf.png" indexer="playlist-harvester",Olot TV (1080p)
+https://liveingesta118.cdnmedia.tv/olottvlive/smil:live.smil/playlist.m3u8?DVR=

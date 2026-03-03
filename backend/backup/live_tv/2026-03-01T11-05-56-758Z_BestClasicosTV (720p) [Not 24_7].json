@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
+  "title": "BestClasicosTV (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "BestClasicosTV.cr@SD",
+  "tvgLogo": "https://i.imgur.com/a/BRb8AVL.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:56.758Z"
+}

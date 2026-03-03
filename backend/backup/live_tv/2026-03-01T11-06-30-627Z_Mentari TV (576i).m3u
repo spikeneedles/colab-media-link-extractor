@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MentariTV.id_SD" tvg-name="Mentari TV (576i)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:30.627Z" tvg-logo="https://i.imgur.com/QkTgy1M.png" indexer="playlist-harvester",Mentari TV (576i)
+http://175.158.57.130:8888/stream/channelid/641828885

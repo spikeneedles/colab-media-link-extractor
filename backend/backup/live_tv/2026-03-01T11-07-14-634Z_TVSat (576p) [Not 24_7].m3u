@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVSat.ro_SD" tvg-name="TVSat (576p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:07:14.634Z" tvg-logo="https://i.imgur.com/54GHZMv.png" indexer="playlist-harvester",TVSat (576p) [Not 24/7]
+http://89.38.8.130:39443

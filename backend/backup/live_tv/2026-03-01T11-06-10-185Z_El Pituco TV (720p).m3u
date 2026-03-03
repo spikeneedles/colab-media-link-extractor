@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ElPitucoTV.do_HD" tvg-name="El Pituco TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:10.185Z" tvg-logo="https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png" indexer="playlist-harvester",El Pituco TV (720p)
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8

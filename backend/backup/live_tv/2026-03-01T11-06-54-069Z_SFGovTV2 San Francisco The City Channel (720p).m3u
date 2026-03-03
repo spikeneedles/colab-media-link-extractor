@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SFGovTV2.us_SD" tvg-name="SFGovTV2 San Francisco The City Channel (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:54.069Z" tvg-logo="https://i.imgur.com/SOk5m5B.png" indexer="playlist-harvester",SFGovTV2 San Francisco The City Channel (720p)
+https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_050/playlist.m3u8

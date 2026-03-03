@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KanalA.si_SD" tvg-name="Kanal A" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:22.947Z" tvg-logo="https://i.imgur.com/JHNpcqF.png" indexer="playlist-harvester",Kanal A
+https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true

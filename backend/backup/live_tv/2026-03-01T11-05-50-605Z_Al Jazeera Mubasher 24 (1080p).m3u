@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa_SD" tvg-name="Al Jazeera Mubasher 24 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:50.605Z" tvg-logo="https://i.imgur.com/LMCcIZ2.png" indexer="playlist-harvester",Al Jazeera Mubasher 24 (1080p)
+https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8

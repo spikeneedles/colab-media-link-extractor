@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioTVOriente.pe_SD" tvg-name="RadioTV Oriente" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:45.996Z" tvg-logo="https://i.imgur.com/iHaFLHX.png" indexer="playlist-harvester",RadioTV Oriente
+https://live.obslivestream.com/tvoriente/index.m3u8

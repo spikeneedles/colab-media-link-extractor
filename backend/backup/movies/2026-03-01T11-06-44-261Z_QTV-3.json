@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8",
+  "title": "QTV-3",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "QTV3.cn@SD",
+  "tvgLogo": "https://www.tvchinese.net/uploads/tv/qdtv3.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:06:44.261Z"
+}

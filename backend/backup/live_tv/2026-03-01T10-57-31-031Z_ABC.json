@@ -1,0 +1,11 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u",
+  "mediaUrl": "http://41.205.93.154/ABC/index.m3u8",
+  "title": "ABC",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "tvgId": "ABC.us@East",
+  "indexer": "playlist-harvester",
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T10:57:31.031Z"
+}

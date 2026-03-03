@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioTVTendencias.pe_SD" tvg-name="Radio TV Tendencias (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:45.820Z" tvg-logo="https://i.imgur.com/tsdrrV9.png" indexer="playlist-harvester",Radio TV Tendencias (1080p) [Not 24/7]
+https://s1.tvdatta.com:3950/multi_web/play.m3u8

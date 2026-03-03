@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RAN1.de_SD" tvg-name="RAN1 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:47.279Z" tvg-logo="https://i.imgur.com/zRg2BEa.png" indexer="playlist-harvester",RAN1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8

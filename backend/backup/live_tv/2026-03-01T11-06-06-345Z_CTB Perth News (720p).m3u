@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CTB_Perth_News__720p_" tvg-name="CTB Perth News (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.345Z" indexer="playlist-harvester",CTB Perth News (720p)
+https://news.ctbperth.net.au/hls/stream.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WXTVDT1.us_SD" tvg-name="WXTV-DT1" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:21.231Z" tvg-logo="https://i.imgur.com/Q7xrM2w.png" indexer="playlist-harvester",WXTV-DT1
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8

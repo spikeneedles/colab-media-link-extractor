@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanTV.tr_SD" tvg-name="Can TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:59.168Z" tvg-logo="https://i.imgur.com/oIMtuwB.png" indexer="playlist-harvester",Can TV (720p)
+http://canbroadcast.com:7000/canlican/tv.m3u8

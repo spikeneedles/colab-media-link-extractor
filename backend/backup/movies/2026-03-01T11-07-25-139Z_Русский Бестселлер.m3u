@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RusskiyBestseller.ru_SD" tvg-name="Русский Бестселлер" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:25.139Z" tvg-logo="https://i.imgur.com/w0ZE9QJ.png" indexer="playlist-harvester",Русский Бестселлер
+http://31.148.48.15/Russkiy_Bestseller/index.m3u8

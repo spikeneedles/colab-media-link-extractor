@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GMM25.th_SD" tvg-name="GMM 25" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:15.205Z" tvg-logo="https://i.imgur.com/uARba6N.png" indexer="playlist-harvester",GMM 25
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8

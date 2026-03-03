@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVFamilia.ve_SD" tvg-name="TV Familia (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:09.644Z" tvg-logo="https://i.imgur.com/A3bU5e7.png" indexer="playlist-harvester",TV Familia (720p)
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8

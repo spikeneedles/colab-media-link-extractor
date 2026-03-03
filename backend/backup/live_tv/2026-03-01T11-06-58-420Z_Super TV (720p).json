@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8",
+  "title": "Super TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General;Series",
+  "tvgId": "SuperTV.it@SD",
+  "tvgLogo": "https://i.imgur.com/hxF3yhw.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:58.420Z"
+}

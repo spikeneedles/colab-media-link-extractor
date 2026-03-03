@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KRGVDT2.us_SD" tvg-name="KRGV-DT2 [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.511Z" tvg-logo="https://i.imgur.com/kTh2jgF.png" indexer="playlist-harvester",KRGV-DT2 [Geo-blocked]
+https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8

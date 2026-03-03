@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8",
+  "title": "XPTV US (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Series",
+  "tvgId": "XPTVUS.es@SD",
+  "tvgLogo": "https://i.imgur.com/1m7kDmc.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:21.498Z"
+}

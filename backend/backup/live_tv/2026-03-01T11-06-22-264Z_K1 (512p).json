@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8",
+  "title": "K1 (512p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "K1.ua@SD",
+  "tvgLogo": "https://i.imgur.com/uuRGpEn.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:22.264Z"
+}

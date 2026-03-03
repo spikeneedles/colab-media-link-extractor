@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+  "title": "Megavisión Canal 21 (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "MegavisionCanal21.sv@SD",
+  "tvgLogo": "https://i.imgur.com/HbdYU9k.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:30.437Z"
+}

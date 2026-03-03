@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RDSSocialTV.it_SD" tvg-name="RDS Social TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:47.591Z" tvg-logo="https://i.imgur.com/bxGvE8C.png" indexer="playlist-harvester",RDS Social TV (720p)
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8

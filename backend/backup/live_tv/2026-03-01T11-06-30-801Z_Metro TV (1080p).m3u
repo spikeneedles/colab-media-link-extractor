@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MetroTV.in_SD" tvg-name="Metro TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:30.801Z" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Metro_TV.png" indexer="playlist-harvester",Metro TV (1080p)
+https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8

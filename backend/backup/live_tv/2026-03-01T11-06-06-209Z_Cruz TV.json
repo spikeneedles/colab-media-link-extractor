@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8",
+  "title": "Cruz TV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Legislative",
+  "tvgId": "CruzTV.us@SD",
+  "tvgLogo": "https://i.imgur.com/qOO2SaH.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:06.209Z"
+}

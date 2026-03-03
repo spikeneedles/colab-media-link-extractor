@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream.m3u8",
+  "title": "Lighting Lives Blessing Nations His Light (LLBN) (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "LLBNHisLight.us@SD",
+  "tvgLogo": "https://i.imgur.com/YkLZjRw.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:26.730Z"
+}

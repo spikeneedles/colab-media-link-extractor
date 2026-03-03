@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NHKBS.jp_SD" tvg-name="NHK BS" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:36.395Z" tvg-logo="https://i.imgur.com/t0uZcSR.png" indexer="playlist-harvester",NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11

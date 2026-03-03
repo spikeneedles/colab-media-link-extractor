@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Veo7.es_SD" tvg-name="Veo7 (1080p)" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:16.715Z" tvg-logo="https://i.imgur.com/kklTIMm.png" indexer="playlist-harvester",Veo7 (1080p)
+http://176.65.146.237:8401/play/a09k/index.m3u8

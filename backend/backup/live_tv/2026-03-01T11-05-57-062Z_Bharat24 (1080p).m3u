@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Bharat24.in_SD" tvg-name="Bharat24 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:57.062Z" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_24/images/LOGO_HD/image.png" indexer="playlist-harvester",Bharat24 (1080p)
+https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8

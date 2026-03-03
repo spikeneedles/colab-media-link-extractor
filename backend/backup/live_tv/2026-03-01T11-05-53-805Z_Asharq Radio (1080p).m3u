@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AsharqRadio.sa_SD" tvg-name="Asharq Radio (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:53.805Z" tvg-logo="https://i.imgur.com/M6K8cD3.jpeg" indexer="playlist-harvester",Asharq Radio (1080p)
+https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8

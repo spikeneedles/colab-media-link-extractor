@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn.amelbasoluciones.co:8081/teleopitalive/index.m3u8",
+  "title": "TV3 La Plata (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "TV3LaPlata.co@SD",
+  "tvgLogo": "https://i.imgur.com/uRMq5HC.jpeg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:07.710Z"
+}

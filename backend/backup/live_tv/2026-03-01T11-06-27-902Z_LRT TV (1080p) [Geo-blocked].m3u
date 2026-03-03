@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LRTTV.lt_SD" tvg-name="LRT TV (1080p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:27.902Z" tvg-logo="https://i.imgur.com/FL2ZuGC.png" indexer="playlist-harvester",LRT TV (1080p) [Geo-blocked]
+https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8

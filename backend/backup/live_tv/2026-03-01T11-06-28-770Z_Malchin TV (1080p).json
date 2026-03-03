@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd",
+  "title": "Malchin TV (1080p)",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "Culture",
+  "tvgId": "MalchinTV.mn@SD",
+  "tvgLogo": "https://i.imgur.com/vCdEBZo.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:28.770Z"
+}

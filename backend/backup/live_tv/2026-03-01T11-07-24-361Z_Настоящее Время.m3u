@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CurrentTimeTV.cz_SD" tvg-name="Настоящее Время" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:24.361Z" tvg-logo="https://i.imgur.com/hKo8ApU.png" indexer="playlist-harvester",Настоящее Время
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8",
+  "title": "Tele Liguria Sud (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TeleLiguriaSud.it@SD",
+  "tvgLogo": "https://i.imgur.com/OxgSGUW.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:00.424Z"
+}

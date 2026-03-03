@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GenerationsTV.fr_SD" tvg-name="Generations TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:14.820Z" tvg-logo="https://i.imgur.com/NgBrDMe.png" indexer="playlist-harvester",Generations TV (576p)
+https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8

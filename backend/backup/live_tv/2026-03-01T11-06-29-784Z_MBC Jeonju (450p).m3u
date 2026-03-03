@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HLCXDTV.kr_SD" tvg-name="MBC Jeonju (450p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:29.784Z" tvg-logo="https://i.imgur.com/3C57SwN.png" indexer="playlist-harvester",MBC Jeonju (450p)
+https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8

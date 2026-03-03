@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="______576p_" tvg-name="芜湖生活 (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:29.916Z" indexer="playlist-harvester",芜湖生活 (576p)
+http://live1.wuhubtv.com/channel2/sd/live.m3u8

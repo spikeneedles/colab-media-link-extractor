@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn-1.pishow.tv/live/235/master.m3u8",
+  "title": "Dhamaka Movies B4U (576p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "DhamakaMoviesB4U.in@SD",
+  "tvgLogo": "https://www.lyngsat.com/logo/tv/dd/dhamaka-movies-b4u-in.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:07.823Z"
+}

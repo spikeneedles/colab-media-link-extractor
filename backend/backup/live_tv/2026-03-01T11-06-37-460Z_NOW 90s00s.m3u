@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Now90s00s.uk_Poland" tvg-name="NOW 90s00s" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.460Z" indexer="playlist-harvester",NOW 90s00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PLP.gr_SD" tvg-name="PLP" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:42.103Z" tvg-logo="https://i.imgur.com/vMohImJ.png" indexer="playlist-harvester",PLP
+https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8

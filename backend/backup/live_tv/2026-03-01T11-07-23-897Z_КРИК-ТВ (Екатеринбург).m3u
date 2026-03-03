@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KrikTV.ru_SD" tvg-name="КРИК-ТВ (Екатеринбург)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:23.897Z" tvg-logo="https://i.imgur.com/rtuChZR.png" indexer="playlist-harvester",КРИК-ТВ (Екатеринбург)
+http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8

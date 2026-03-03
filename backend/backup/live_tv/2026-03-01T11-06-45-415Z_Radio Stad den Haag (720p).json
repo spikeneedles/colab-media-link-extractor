@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8",
+  "title": "Radio Stad den Haag (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "RadioStaddenHaag.nl@SD",
+  "tvgLogo": "https://i.imgur.com/ANK36EQ.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:45.415Z"
+}

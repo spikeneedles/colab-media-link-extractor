@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Pobeda.ru_SD" tvg-name="Победа 720p" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:24.912Z" tvg-logo="https://i.imgur.com/4KiYSln.png" indexer="playlist-harvester",Победа 720p
+https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ItalianFishingTV.it_SD" tvg-name="Italian Fishing TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:20.835Z" tvg-logo="https://i.imgur.com/qrn6tUO.png" indexer="playlist-harvester",Italian Fishing TV
+https://fms.premio.link/fishingtv/playlist.m3u8

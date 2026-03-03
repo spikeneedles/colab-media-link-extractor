@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://mlb.essastream.com:8081/cntmas/playlist.m3u8",
+  "title": "CNT Mas TV (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "CNTMasTV.do@HD",
+  "tvgLogo": "https://dominicanchannels.com/wp-content/uploads/ctnmas.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:04.930Z"
+}

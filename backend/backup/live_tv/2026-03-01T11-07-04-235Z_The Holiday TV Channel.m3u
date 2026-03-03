@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="The_Holiday_TV_Channel" tvg-name="The Holiday TV Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:04.235Z" indexer="playlist-harvester",The Holiday TV Channel
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/7E985A2XFE2B3MIY9A9P/hls3/now,-1m/m.m3u8?ads.vf=wDcaNOhFP3O

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ORT.gr_SD" tvg-name="ORT (480p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:39.892Z" tvg-logo="https://i.imgur.com/RotckUS.png" indexer="playlist-harvester",ORT (480p) [Not 24/7]
+https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8

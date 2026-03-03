@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="9Gem.au_Sydney" tvg-name="9Gem (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:47.604Z" tvg-logo="https://i.imgur.com/cwLzqaw.png" indexer="playlist-harvester",9Gem (720p) [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8

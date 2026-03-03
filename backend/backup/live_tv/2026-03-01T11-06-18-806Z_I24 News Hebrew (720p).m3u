@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="i24NEWSHebrew.il" tvg-name="I24 News Hebrew (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.806Z" tvg-logo="https://www.i24news.tv/images/favicon.png" indexer="playlist-harvester",I24 News Hebrew (720p)
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8

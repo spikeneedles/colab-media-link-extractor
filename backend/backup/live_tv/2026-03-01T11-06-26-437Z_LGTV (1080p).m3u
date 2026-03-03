@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LGTV.us_SD" tvg-name="LGTV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:26.437Z" tvg-logo="https://i.imgur.com/d5w2pT4.png" indexer="playlist-harvester",LGTV (1080p)
+https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8

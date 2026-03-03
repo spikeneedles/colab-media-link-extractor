@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Hunt_Fish_TV" tvg-name="Hunt Fish TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.702Z" indexer="playlist-harvester",Hunt Fish TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8

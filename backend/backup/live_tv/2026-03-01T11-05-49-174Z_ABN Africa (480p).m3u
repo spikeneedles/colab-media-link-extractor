@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABNAfrica.us_SD" tvg-name="ABN Africa (480p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:49.174Z" tvg-logo="https://i.imgur.com/SLrX8Ef.png" indexer="playlist-harvester",ABN Africa (480p)
+https://mediaserver.abnvideos.com/streams/abnafrica.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streamer2.nexgen.bz/12-CBTV/index.m3u8",
+  "title": "Color Blind TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Entertainment",
+  "tvgId": "ColorBlindTV.bz@SD",
+  "tvgLogo": "https://i.imgur.com/vlVZa7N.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:05.025Z"
+}

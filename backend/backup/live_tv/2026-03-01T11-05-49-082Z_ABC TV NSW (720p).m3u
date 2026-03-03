@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABCTV.au_NSW" tvg-name="ABC TV NSW (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:49.082Z" tvg-logo="https://i.imgur.com/DPVQSjM.png" indexer="playlist-harvester",ABC TV NSW (720p)
+https://c.mjh.nz/abc-nsw.m3u8

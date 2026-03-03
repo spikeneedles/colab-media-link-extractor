@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://seb.sason.top/ptv/ftv.php?id=ms",
+  "title": "FTV (民視) (720p) [Not 24/7]",
+  "contentType": "video/mp4",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "FTV.tw@SD",
+  "tvgLogo": "https://i.imgur.com/q8ahtbT.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:14.010Z"
+}

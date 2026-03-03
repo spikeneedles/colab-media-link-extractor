@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cloudvideo.servers10.com:8081/8032/index.m3u8",
+  "title": "Music TV Granada (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "MusicTVGranada.es@SD",
+  "tvgLogo": "https://i.ibb.co/Swd9NP7n/music-tv-granada.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:33.504Z"
+}

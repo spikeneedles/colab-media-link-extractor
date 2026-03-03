@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NanchangNewsGeneralistChannel.cn_SD" tvg-name="Nanchang News & Generalist Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:34.092Z" tvg-logo="https://www.tvchinese.net/uploads/tv/nctv1.jpg" indexer="playlist-harvester",Nanchang News & Generalist Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8

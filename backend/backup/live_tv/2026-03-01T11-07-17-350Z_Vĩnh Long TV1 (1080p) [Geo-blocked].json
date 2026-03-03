@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
+  "title": "Vĩnh Long TV1 (1080p) [Geo-blocked]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General;News",
+  "tvgId": "VinhLongTV1.vn@HD",
+  "tvgLogo": "https://i.imgur.com/5YFsqPx.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:17.350Z"
+}

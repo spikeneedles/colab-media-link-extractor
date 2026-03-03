@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telenantes.fr_SD" tvg-name="Telenantes" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:02.208Z" tvg-logo="https://i.imgur.com/G1SCqNI.png" indexer="playlist-harvester",Telenantes
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8

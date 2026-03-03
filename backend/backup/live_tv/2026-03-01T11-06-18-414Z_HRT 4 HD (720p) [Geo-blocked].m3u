@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HRT4.hr_HD" tvg-name="HRT 4 HD (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:18.414Z" tvg-logo="https://i.imgur.com/VcNrY0m.png" indexer="playlist-harvester",HRT 4 HD (720p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TKR.ru_SD" tvg-name="ТКР (Рязань) (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:26.010Z" tvg-logo="https://i.imgur.com/VqtPB7L.png" indexer="playlist-harvester",ТКР (Рязань) (1080p) [Not 24/7]
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8

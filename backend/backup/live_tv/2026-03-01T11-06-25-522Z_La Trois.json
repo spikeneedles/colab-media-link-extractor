@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://103.184.64.85:12000/stream/allchannel/rtbflatrois/master.m3u8",
+  "title": "La Trois",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "LaTrois.be@SD",
+  "tvgLogo": "https://i.imgur.com/jMs4h9F.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:25.522Z"
+}

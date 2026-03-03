@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CWBTV.br_SD" tvg-name="CWB TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.669Z" tvg-logo="https://i.imgur.com/S0ISpmU.png" indexer="playlist-harvester",CWB TV (720p)
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8

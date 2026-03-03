@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OEPMTV.do_SD" tvg-name="OEPM TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:38.455Z" tvg-logo="https://i.imgur.com/QghtwMB.jpeg" indexer="playlist-harvester",OEPM TV (720p)
+https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8

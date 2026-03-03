@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://ntv4.mov3.co/hls/ntv.m3u8",
+  "title": "Nippon TV (540p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "JOAXDTV.jp@SD",
+  "tvgLogo": "https://i.imgur.com/IxD8V5X.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:36.798Z"
+}

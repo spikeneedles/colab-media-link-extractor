@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SmileTV.gr_SD" tvg-name="Smile TV (360p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:55.597Z" tvg-logo="https://i.imgur.com/IAb4Gbf.png" indexer="playlist-harvester",Smile TV (360p) [Geo-blocked]
+https://s1.cystream.net/live/smile/playlist.m3u8

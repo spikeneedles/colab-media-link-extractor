@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IAmChannel.id_SD" tvg-name="I Am Channel (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.818Z" tvg-logo="https://i.imgur.com/Gg6OcGT.png" indexer="playlist-harvester",I Am Channel (576p)
+https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8

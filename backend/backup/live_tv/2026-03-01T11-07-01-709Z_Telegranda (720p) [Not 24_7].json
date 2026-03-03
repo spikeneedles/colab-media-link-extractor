@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8",
+  "title": "Telegranda (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "Telegranda.it@SD",
+  "tvgLogo": "https://i.imgur.com/j3r0URO.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:01.709Z"
+}

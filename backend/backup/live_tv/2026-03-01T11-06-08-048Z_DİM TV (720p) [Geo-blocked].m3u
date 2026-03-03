@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DimTV.tr_SD" tvg-name="DİM TV (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:08.048Z" tvg-logo="https://i.imgur.com/X4QFDhk.png" indexer="playlist-harvester",DİM TV (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8

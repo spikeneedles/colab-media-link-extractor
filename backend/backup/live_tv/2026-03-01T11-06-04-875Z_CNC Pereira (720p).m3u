@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CNCPereira.co_SD" tvg-name="CNC Pereira (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:04.875Z" tvg-logo="https://i.imgur.com/5vJ0aXH.png" indexer="playlist-harvester",CNC Pereira (720p)
+https://cloudpro.servidoresdestream.com:19360/latinchanel/latinchanel.m3u8

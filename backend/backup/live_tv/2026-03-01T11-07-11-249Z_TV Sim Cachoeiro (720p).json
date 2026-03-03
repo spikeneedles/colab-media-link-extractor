@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
+  "title": "TV Sim Cachoeiro (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "TVSimCachoeiro.br@SD",
+  "tvgLogo": "https://i.imgur.com/t5oUK3C.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:11.249Z"
+}

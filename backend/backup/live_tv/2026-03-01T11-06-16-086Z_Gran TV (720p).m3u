@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GranTV.hu_SD" tvg-name="Gran TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:16.086Z" tvg-logo="https://i.ibb.co/qJN7Qh2/gran-kicsi.png" indexer="playlist-harvester",Gran TV (720p)
+https://stream.medialive.hu/gran/grantvlive/playlist.m3u8

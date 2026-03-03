@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8",
+  "title": "Сочи 24 HD",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General;News",
+  "tvgId": "Sochi24.ru@SD",
+  "tvgLogo": "https://i.imgur.com/iwWxkl6.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:25.607Z"
+}

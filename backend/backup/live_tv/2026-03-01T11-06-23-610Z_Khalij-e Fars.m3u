@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KhalijeFarsTV.ir_SD" tvg-name="Khalij-e Fars" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:23.610Z" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/7/7c/Bandar_KHALI_J_e_FARS_TV.svg/290px-Bandar_KHALI_J_e_FARS_TV.svg.png" indexer="playlist-harvester",Khalij-e Fars
+https://ncdn.telewebion.com/khalijefars/live/playlist.m3u8

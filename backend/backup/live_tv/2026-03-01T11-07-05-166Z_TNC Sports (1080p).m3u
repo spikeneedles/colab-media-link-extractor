@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TNCSports.bz_SD" tvg-name="TNC Sports (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:05.166Z" tvg-logo="https://i.imgur.com/jT2VFzA.jpeg" indexer="playlist-harvester",TNC Sports (1080p)
+https://streamer1.nexgen.bz/TNC_SPORTS/index.m3u8

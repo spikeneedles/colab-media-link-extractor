@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://gcinemahls.wns.live/hls/stream.m3u8",
+  "title": "Grand Cinema",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "GrandCinema.tr@SD",
+  "tvgLogo": "https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:16.095Z"
+}

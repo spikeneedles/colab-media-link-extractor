@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8",
+  "title": "Turistik TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Travel",
+  "tvgId": "TuristikTV.mx@SD",
+  "tvgLogo": "https://i.imgur.com/g9j0ze8.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:07.403Z"
+}

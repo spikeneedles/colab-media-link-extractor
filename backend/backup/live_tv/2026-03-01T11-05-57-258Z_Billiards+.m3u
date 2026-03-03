@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Billiards_" tvg-name="Billiards+" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:57.258Z" indexer="playlist-harvester",Billiards+
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8

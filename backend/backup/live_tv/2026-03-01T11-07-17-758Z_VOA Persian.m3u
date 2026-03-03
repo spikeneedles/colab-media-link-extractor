@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VoATVPersian.us_SD" tvg-name="VOA Persian" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.758Z" tvg-logo="https://i.imgur.com/TmqComb.png" indexer="playlist-harvester",VOA Persian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8

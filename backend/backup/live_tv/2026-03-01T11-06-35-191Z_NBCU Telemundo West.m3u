@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NBCU_Telemundo_West" tvg-name="NBCU Telemundo West" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:35.191Z" indexer="playlist-harvester",NBCU Telemundo West
+https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CruzTV.us_SD" tvg-name="Cruz TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.209Z" tvg-logo="https://i.imgur.com/qOO2SaH.png" indexer="playlist-harvester",Cruz TV
+https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8

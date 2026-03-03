@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8",
+  "title": "RFH (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "RFH.de@SD",
+  "tvgLogo": "https://i.imgur.com/8DZa7in.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:48.829Z"
+}

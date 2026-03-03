@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8",
+  "title": "La Voz de Maria (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "LaVozdeMaria.do@SD",
+  "tvgLogo": "https://i.imgur.com/Zv8CxZX.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:25.566Z"
+}

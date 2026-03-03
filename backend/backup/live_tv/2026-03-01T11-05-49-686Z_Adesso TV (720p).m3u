@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AdessoTV.br_SD" tvg-name="Adesso TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:49.686Z" tvg-logo="https://i.imgur.com/KgetM8j.png" indexer="playlist-harvester",Adesso TV (720p)
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8

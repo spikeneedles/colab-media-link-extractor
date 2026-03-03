@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://162.19.247.76:22222/live/taishi/index.m3u8",
+  "title": "台视 (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "TTV.tw@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/512px-TTV_2nd_logo.svg.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:27.399Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VIPTV.aw_SD" tvg-name="VIP TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:17.455Z" tvg-logo="https://i.imgur.com/6N0qITv.png" indexer="playlist-harvester",VIP TV (720p)
+https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8

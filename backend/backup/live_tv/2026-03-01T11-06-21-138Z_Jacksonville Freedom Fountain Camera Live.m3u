@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Jacksonville_Freedom_Fountain_Camera_Live" tvg-name="Jacksonville Freedom Fountain Camera Live" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:21.138Z" indexer="playlist-harvester",Jacksonville Freedom Fountain Camera Live
+https://reflect-jacksonville.cablecast.tv/live-7/live/live.m3u8

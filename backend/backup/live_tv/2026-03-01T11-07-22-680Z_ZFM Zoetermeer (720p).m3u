@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ZFMZoetermeerTV.nl_SD" tvg-name="ZFM Zoetermeer (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:22.680Z" tvg-logo="https://i.imgur.com/vrjACvy.png" indexer="playlist-harvester",ZFM Zoetermeer (720p)
+https://zfmzoetermeer.nl/live/master.m3u8

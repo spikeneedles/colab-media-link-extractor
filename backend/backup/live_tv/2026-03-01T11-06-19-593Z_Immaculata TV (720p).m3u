@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ImmaculataTV.ch_SD" tvg-name="Immaculata TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:19.593Z" tvg-logo="https://i.imgur.com/8WsYVpt.png" indexer="playlist-harvester",Immaculata TV (720p)
+https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8

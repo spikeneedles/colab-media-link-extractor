@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanaleDieci.it_SD" tvg-name="Canale 10 (540p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:01.418Z" tvg-logo="https://i.imgur.com/8Pay0Vv.png" indexer="playlist-harvester",Canale 10 (540p) [Not 24/7]
+http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8

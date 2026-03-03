@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TravelTV.bg_SD" tvg-name="Travel TV (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:06.353Z" tvg-logo="https://i.imgur.com/5xllfed.png" indexer="playlist-harvester",Travel TV (576p)
+https://streamer103.neterra.tv/travel/live.m3u8

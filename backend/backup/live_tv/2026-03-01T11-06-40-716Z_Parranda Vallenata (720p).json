@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8",
+  "title": "Parranda Vallenata (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Music",
+  "tvgId": "ParrandaVallenata.co@SD",
+  "tvgLogo": "https://i.imgur.com/BzBX7Qx.jpeg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:40.716Z"
+}

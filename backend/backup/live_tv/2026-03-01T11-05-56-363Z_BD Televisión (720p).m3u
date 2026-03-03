@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BDTelevision.gt_SD" tvg-name="BD Televisión (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:56.363Z" tvg-logo="https://i.ibb.co/VBJhHkJ/Fda27b8e352949c39c8d88de33a284a4.png" indexer="playlist-harvester",BD Televisión (720p)
+https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8

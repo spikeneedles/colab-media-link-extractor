@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TelecaribePlus.co_SD" tvg-name="Telecaribe Plus (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:01.411Z" tvg-logo="https://i.imgur.com/su7Y5bC.png" indexer="playlist-harvester",Telecaribe Plus (720p)
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8

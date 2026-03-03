@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8",
+  "title": "Oireachtas TV Seanad Éireann (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Legislative",
+  "tvgId": "OireachtasTVSeanadEireann.ie@SD",
+  "tvgLogo": "https://i.imgur.com/c5TI2DT.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:38.577Z"
+}

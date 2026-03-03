@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp_SD" tvg-name="Korean Central Television (KCTV) (576p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="video/mp4" archived-at="2026-03-01T11:06:24.410Z" tvg-logo="https://i.imgur.com/p02AEOF.png" indexer="playlist-harvester",Korean Central Television (KCTV) (576p)
+https://streamer.nknews.org/tvdash/stream.mpd

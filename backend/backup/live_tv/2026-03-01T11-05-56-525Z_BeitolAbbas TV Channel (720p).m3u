@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BeitolAbbasTVChannel.iq_SD" tvg-name="BeitolAbbas TV Channel (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:56.525Z" tvg-logo="https://i.imgur.com/s8PfUQy.png" indexer="playlist-harvester",BeitolAbbas TV Channel (720p)
+https://live.beitolabbas.tv/live/beitolabbastv.m3u8

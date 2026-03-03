@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AltenburgTV.de_SD" tvg-name="Altenburg TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:51.707Z" tvg-logo="https://i.imgur.com/3JriZGR.png" indexer="playlist-harvester",Altenburg TV (1080p)
+https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8

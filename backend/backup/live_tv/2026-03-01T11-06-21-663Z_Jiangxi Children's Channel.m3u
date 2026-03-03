@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JiangxiChildrensChannel.cn_SD" tvg-name="Jiangxi Children's Channel" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:21.663Z" tvg-logo="https://www.tvchinese.net/uploads/tv/jxtv6.jpg" indexer="playlist-harvester",Jiangxi Children's Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8

@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://live.x2.co.th/live/13livetv-th.m3u8",
+  "title": "13 Siam Thai (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "13SiamThai.th@SD",
+  "tvgLogo": "https://i.imgur.com/FvEp1S2.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:47.769Z"
+}

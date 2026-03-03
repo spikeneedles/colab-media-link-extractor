@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8",
+  "title": "Mission TV (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "MissionTV.us@SD",
+  "tvgLogo": "https://i.imgur.com/Hb38BNo.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:31.497Z"
+}

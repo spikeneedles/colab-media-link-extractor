@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://79.120.178.90:1935/williams/williamstv/playlist.m3u8",
+  "title": "Williams TV (480p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "WilliamsTV.hu@SD",
+  "tvgLogo": "https://i.imgur.com/vysX07C.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:20.256Z"
+}

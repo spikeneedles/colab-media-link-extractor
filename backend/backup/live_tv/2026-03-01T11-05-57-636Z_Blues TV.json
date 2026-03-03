@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
+  "title": "Blues TV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Animation",
+  "tvgId": "KMBYLD5.us@SD",
+  "tvgLogo": "https://i.imgur.com/px0CSti.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:57.636Z"
+}

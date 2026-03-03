@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CBNTV.vg_SD" tvg-name="CBN TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:02.344Z" tvg-logo="https://i.imgur.com/SHBAblV.png" indexer="playlist-harvester",CBN TV (720p)
+https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8

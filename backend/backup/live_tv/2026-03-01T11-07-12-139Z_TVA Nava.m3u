@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVANava.ir_SD" tvg-name="TVA Nava" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:12.139Z" tvg-logo="https://i.imgur.com/JRxrsrw.png" indexer="playlist-harvester",TVA Nava
+https://ncdn.telewebion.com/nava/live/playlist.m3u8

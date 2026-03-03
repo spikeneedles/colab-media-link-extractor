@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8",
+  "title": "Luna TV Canal 53 (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "LunaTVCanal53.do@SD",
+  "tvgLogo": "https://i.imgur.com/EvX5aqI.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:28.058Z"
+}

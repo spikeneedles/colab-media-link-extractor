@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DespertarTV.br_HD" tvg-name="Despertar TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:07.786Z" tvg-logo="https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png" indexer="playlist-harvester",Despertar TV (720p)
+https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8

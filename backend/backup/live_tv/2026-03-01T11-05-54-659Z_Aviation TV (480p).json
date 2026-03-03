@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8",
+  "title": "Aviation TV (480p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "AviationTV.ke@SD",
+  "tvgLogo": "https://i.imgur.com/WOU9z5G.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:54.659Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PBS_Science__1080p_" tvg-name="PBS Science (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:41.094Z" indexer="playlist-harvester",PBS Science (1080p)
+https://amg02333-pbs-amg02333c13-samsung-au-6858.playouts.now.amagi.tv/playlist.m3u8

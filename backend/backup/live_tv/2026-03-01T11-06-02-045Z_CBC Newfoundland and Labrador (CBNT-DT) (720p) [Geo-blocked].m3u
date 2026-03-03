@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CBNTDT.ca_SD" tvg-name="CBC Newfoundland and Labrador (CBNT-DT) (720p) [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:02.045Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CBNT-DT_2017.svg/512px-CBNT-DT_2017.svg.png" indexer="playlist-harvester",CBC Newfoundland and Labrador (CBNT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8

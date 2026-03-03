@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8",
+  "title": "Chino Hills City TV Channel 3/41 (360p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Legislative",
+  "tvgId": "CityTVChannel341.us@SD",
+  "tvgLogo": "https://i.imgur.com/L0vaDea.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:03.858Z"
+}

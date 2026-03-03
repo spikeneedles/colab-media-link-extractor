@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AvarTV.iq_HD" tvg-name="Avar TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:54.644Z" tvg-logo="https://i.imgur.com/JazFBkW.jpeg" indexer="playlist-harvester",Avar TV (1080p)
+https://avr.host247.net/live/AvarTv/playlist.m3u8

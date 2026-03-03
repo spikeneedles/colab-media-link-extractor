@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ReutersTV.us_SD" tvg-name="Reuters" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:48.689Z" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" indexer="playlist-harvester",Reuters
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8

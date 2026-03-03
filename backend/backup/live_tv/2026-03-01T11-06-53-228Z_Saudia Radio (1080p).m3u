@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SaudiaRadio.sa_SD" tvg-name="Saudia Radio (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:53.228Z" tvg-logo="https://i.imgur.com/CvrR7wW.png" indexer="playlist-harvester",Saudia Radio (1080p)
+https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8

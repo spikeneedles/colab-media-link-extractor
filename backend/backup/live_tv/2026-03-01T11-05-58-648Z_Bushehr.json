@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://ncdn.telewebion.com/bushehr/live/playlist.m3u8",
+  "title": "Bushehr",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "BoushehrTV.ir@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/fa/thumb/9/94/Bushehr_TV.svg/200px-Bushehr_TV.svg.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:58.648Z"
+}

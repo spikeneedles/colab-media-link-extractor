@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8",
+  "title": "Parlamento de Andalucía (576p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Legislative",
+  "tvgId": "ParlamentodeAndalucia.es@SD",
+  "tvgLogo": "https://i.imgur.com/J6h5IQS.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:40.579Z"
+}

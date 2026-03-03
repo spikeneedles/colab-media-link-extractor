@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Tarab.sa_SD" tvg-name="Tarab (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.555Z" tvg-logo="https://assets.mbcmood.com/channels/1738059679TARAB_Logo.png" indexer="playlist-harvester",Tarab (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TamadonTV.af_SD" tvg-name="Tamadon TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.447Z" tvg-logo="https://i.imgur.com/edGyj5H.png" indexer="playlist-harvester",Tamadon TV (720p)
+https://hls.tamadon.live/hls/stream.m3u8

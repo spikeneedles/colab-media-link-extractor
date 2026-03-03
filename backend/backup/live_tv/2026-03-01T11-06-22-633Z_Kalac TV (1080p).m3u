@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KalacTV.gn_SD" tvg-name="Kalac TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:22.633Z" tvg-logo="https://i.imgur.com/FgKJiHZ.png" indexer="playlist-harvester",Kalac TV (1080p)
+https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8

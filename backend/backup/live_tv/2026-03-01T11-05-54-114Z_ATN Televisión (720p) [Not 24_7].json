@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8",
+  "title": "ATN Televisión (720p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "ATNTelevision.co@SD",
+  "tvgLogo": "https://i.imgur.com/79sX78u.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:54.114Z"
+}

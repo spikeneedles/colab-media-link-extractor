@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8",
+  "title": "Limón TV (1080p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "LimonTV.cr@SD",
+  "tvgLogo": "https://i.ibb.co/rdpcv7C/1689421727166.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:26.876Z"
+}

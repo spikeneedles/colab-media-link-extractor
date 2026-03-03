@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ColorsTamil.in_HD" tvg-name="Colors Tamil HD (360p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:05.112Z" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png" indexer="playlist-harvester",Colors Tamil HD (360p)
+http://198.27.83.207:2550/COLORS_TAMIL_SD/index.m3u8

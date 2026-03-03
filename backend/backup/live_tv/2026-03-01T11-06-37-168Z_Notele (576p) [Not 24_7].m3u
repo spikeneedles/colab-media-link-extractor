@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Notele.be_SD" tvg-name="Notele (576p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:37.168Z" tvg-logo="https://i.imgur.com/fGS55nR.png" indexer="playlist-harvester",Notele (576p) [Not 24/7]
+https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8

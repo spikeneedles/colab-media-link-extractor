@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HOLAPlay.es_SD" tvg-name="HOLA! Play (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:17.873Z" tvg-logo="https://m.media-amazon.com/images/I/5194tl8duqL.png" indexer="playlist-harvester",HOLA! Play (1080p)
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8

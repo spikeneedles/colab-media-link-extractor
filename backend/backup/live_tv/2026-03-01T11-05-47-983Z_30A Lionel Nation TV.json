@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://30a-tv.com/ln.m3u8",
+  "title": "30A Lionel Nation TV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "30ALionelNation.us@SD",
+  "tvgLogo": "https://m.media-amazon.com/images/I/71dgsQwVcNL.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:47.983Z"
+}

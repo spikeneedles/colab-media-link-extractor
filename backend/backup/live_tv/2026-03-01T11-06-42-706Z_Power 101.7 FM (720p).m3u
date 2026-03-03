@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Power1017FM.aw_SD" tvg-name="Power 101.7 FM (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:42.706Z" tvg-logo="https://i.imgur.com/bkQrXjB.png" indexer="playlist-harvester",Power 101.7 FM (720p)
+https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8

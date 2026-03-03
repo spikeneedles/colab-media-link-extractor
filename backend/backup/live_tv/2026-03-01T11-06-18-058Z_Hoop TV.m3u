@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Hoop_TV" tvg-name="Hoop TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:18.058Z" indexer="playlist-harvester",Hoop TV
+https://streams2.sofast.tv/WiseM3U8_28/sofast/cleanhls/master.m3u8

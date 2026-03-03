@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GoodTV.kr_SD" tvg-name="GoodTV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:15.980Z" tvg-logo="https://i.ibb.co/1v913gn/logo-goodtv.png" indexer="playlist-harvester",GoodTV (1080p)
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8

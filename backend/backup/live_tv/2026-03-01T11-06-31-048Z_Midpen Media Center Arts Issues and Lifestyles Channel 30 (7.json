@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8",
+  "title": "Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Culture",
+  "tvgId": "MidpenMediaCenterChannel30.us@SD",
+  "tvgLogo": "https://i.imgur.com/RPJiolQ.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:31.048Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Tojikiston.tj_SD" tvg-name="Tajikistan (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.357Z" tvg-logo="https://i.imgur.com/sEXCFNk.png" indexer="playlist-harvester",Tajikistan (1080p)
+https://live.teleradiocom.tj/1/3m.m3u8

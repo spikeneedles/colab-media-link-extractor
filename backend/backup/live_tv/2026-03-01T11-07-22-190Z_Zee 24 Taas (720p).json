@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8",
+  "title": "Zee 24 Taas (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "News",
+  "tvgId": "Zee24Taas.in@SD",
+  "tvgLogo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:22.190Z"
+}

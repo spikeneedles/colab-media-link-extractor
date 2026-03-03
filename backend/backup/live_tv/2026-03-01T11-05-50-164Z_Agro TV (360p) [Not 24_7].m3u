@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AgroTV.ro_SD" tvg-name="Agro TV (360p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:50.164Z" tvg-logo="https://i.imgur.com/S7X1PiC.png" indexer="playlist-harvester",Agro TV (360p) [Not 24/7]
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8

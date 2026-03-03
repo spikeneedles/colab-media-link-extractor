@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EshraghNetwork.ir_SD" tvg-name="Eshragh" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:11.041Z" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AM7W8mE877olzjDXmTN_Sxn_cmR_WAlDKPmE62G8E3cJPJwKdRnIa42quYie9z71Lwo&usqp=CAU" indexer="playlist-harvester",Eshragh
+https://ncdn.telewebion.com/eshragh/live/playlist.m3u8

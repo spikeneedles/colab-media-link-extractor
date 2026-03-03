@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Prima.cz_SD" tvg-name="Prima (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:43.071Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/512px-Prima_2013.png" indexer="playlist-harvester",Prima (1080p)
+http://88.212.15.19/live/prima_avc_25p/playlist.m3u8

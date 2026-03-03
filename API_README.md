@@ -104,7 +104,57 @@ See detailed documentation:
 - **[Integration Guide](src/api/INTEGRATION.md)** - Integration patterns and examples
 - **[Example Client](src/api/example-client.ts)** - TypeScript client implementation
 
-## 🎯 Use Cases
+## � Nexus Media Streaming API (NEW!)
+
+### Advanced Unified Streaming Endpoint
+
+The **Nexus streaming handler** provides intelligent, protocol-agnostic media streaming with automatic resolution of:
+- **Magnet links** → HTTP streams via TorrentIO
+- **Prowlarr redirects** → Full redirect chain resolution
+- **HLS manifests** → Transparent URL rewriting
+- **Local files** → file:// protocol support
+
+### GET /api/media/stream
+
+Unified endpoint for streaming any media type with automatic protocol conversion.
+
+**Query Parameters:**
+```
+url    (string, required) - Media URL: magnet:, http://, https://, file://
+title  (string, optional) - Media title for Content-Disposition header
+type   (string, optional) - Explicit MIME type override
+```
+
+**Examples:**
+```bash
+# Magnet link resolution (auto- converts to HTTP via TorrentIO)
+GET /api/media/stream?url=magnet:?xt=urn:btih:...&title=MovieName
+
+# HTTP streaming with title
+GET /api/media/stream?url=https://example.com/video.mp4&title=MyVideo
+
+# HLS manifest (auto-proxies segments through backend)
+GET /api/media/stream?url=https://example.com/playlist.m3u8
+
+# Local file streaming  
+GET /api/media/stream?url=file:///C:/Videos/movie.mp4
+
+# Prowlarr redirect handling (auto-follows redirects, resolves magnet links)
+GET /api/media/stream?url=http://prowlarr.local:9696/download/123
+```
+
+**Features:**
+- ✅ Universal resolver loop (handles 3-level redirect chains)
+- ✅ M3U8 manifest rewriting (proxies all segments)
+- ✅ Android client optimization
+- ✅ TMDb metadata enrichment (with TMDB_API_KEY)
+- ✅ Range request support for seeking
+- ✅ CORS enabled for cross-origin streaming
+- ✅ Prowlarr auth cookie forwarding
+
+**See Also:** [NEXUS_IMPLEMENTATION.md](NEXUS_IMPLEMENTATION.md) - Complete architecture and testing guide
+
+## �🎯 Use Cases
 
 ### For Developers
 - Integrate IPTV scanning into your app via REST API

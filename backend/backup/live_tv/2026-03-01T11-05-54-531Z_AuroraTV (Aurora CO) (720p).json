@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8",
+  "title": "AuroraTV (Aurora CO) (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "AuroraTV.us@SD",
+  "tvgLogo": "https://i.imgur.com/g8Q1ASR.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:54.531Z"
+}

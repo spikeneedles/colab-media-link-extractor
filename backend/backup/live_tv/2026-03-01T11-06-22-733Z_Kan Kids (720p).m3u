@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KanEducational.il_SD" tvg-name="Kan Kids (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:22.733Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/512px-KanHinuchit.svg.png" indexer="playlist-harvester",Kan Kids (720p)
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8

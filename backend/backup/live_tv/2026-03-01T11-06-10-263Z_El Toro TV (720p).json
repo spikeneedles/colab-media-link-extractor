@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8",
+  "title": "El Toro TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "ElToroTV.es@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:10.263Z"
+}

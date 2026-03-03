@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8",
+  "title": "The Pet Collective Sweden",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Family",
+  "tvgId": "ThePetCollective.us@Sweden",
+  "tvgLogo": "https://i.imgur.com/yH7n2dF.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:04.517Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MagentaMusik360.de_SD" tvg-name="Magenta Musik 360 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:28.423Z" tvg-logo="https://i.imgur.com/R74gG7U.png" indexer="playlist-harvester",Magenta Musik 360 (1080p)
+https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8

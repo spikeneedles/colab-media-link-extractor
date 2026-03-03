@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="QMusic.be_SD" tvg-name="Q-Music (Belgium) (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:44.014Z" tvg-logo="https://i.imgur.com/VX5e9Xt.png" indexer="playlist-harvester",Q-Music (Belgium) (1080p)
+https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8

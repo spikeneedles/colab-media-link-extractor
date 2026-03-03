@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="T2TV.ir_SD" tvg-name="T2 TV" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.150Z" tvg-logo="https://i.imgur.com/Wu8MBb7.png" indexer="playlist-harvester",T2 TV
+https://t2hls.wns.live/hls/stream.m3u8

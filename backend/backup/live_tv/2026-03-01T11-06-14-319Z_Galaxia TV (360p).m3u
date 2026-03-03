@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GalaxiATeVe.do_SD" tvg-name="Galaxia TV (360p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:14.319Z" tvg-logo="https://grupomediosdelnorte.com/iptv/galaxia.png" indexer="playlist-harvester",Galaxia TV (360p)
+https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8

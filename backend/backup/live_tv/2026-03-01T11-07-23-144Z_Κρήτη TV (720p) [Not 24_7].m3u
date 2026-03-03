@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KritiTV.gr_SD" tvg-name="Κρήτη TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:23.144Z" tvg-logo="https://i.imgur.com/X7jKwYl.png" indexer="playlist-harvester",Κρήτη TV (720p) [Not 24/7]
+http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8

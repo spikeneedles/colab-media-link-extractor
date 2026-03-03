@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LeominsterTVEducational.us_SD" tvg-name="Leominster TV Educational (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:26.356Z" tvg-logo="https://i.imgur.com/Cy94oLl.png" indexer="playlist-harvester",Leominster TV Educational (720p)
+https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8

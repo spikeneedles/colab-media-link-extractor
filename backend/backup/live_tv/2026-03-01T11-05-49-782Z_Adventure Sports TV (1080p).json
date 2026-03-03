@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/438.m3u8",
+  "title": "Adventure Sports TV (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "AdventureSportsTV.us@SD",
+  "tvgLogo": "https://i.imgur.com/9oyc88J.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:49.782Z"
+}

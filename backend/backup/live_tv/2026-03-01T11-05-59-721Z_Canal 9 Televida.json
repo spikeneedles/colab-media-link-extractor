@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8",
+  "title": "Canal 9 Televida",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "Canal9Televida.ar@SD",
+  "tvgLogo": "https://i.imgur.com/JUtAzg4.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:59.721Z"
+}

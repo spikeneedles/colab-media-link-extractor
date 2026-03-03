@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://s2.tvdatta.com:3825/live/redtvelive.m3u8",
+  "title": "Red TVE Ventanas (432p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "RedTVEVentanas.ec@SD",
+  "tvgLogo": "https://i.imgur.com/Pzf2ZAW.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:48.056Z"
+}

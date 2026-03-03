@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChuzhouNewsChannel.cn_SD" tvg-name="滁州市广播电视台 新闻综合频道 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:29.298Z" tvg-logo="https://i.imgur.com/9JfZJRv.png" indexer="playlist-harvester",滁州市广播电视台 新闻综合频道 (1080p)
+http://live.cztv.cc:85/live/xwpd.m3u8

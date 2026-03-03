@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeleBilbao.es_SD" tvg-name="TeleBilbao (384p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:01.021Z" tvg-logo="https://i.imgur.com/x2HmBq1.png" indexer="playlist-harvester",TeleBilbao (384p)
+https://tbilbo.dyndns.org/hls/stream.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SzecsenyTV.hu_SD" tvg-name="Szécsény TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:59.099Z" tvg-logo="https://i.imgur.com/ilRmZtF.png" indexer="playlist-harvester",Szécsény TV (720p)
+http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8

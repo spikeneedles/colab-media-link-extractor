@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WBTV_How_To__Geo-blocked_" tvg-name="WBTV How To [Geo-blocked]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:19.192Z" indexer="playlist-harvester",WBTV How To [Geo-blocked]
+https://live-manifest.production-public.tubi.io/live/8ca40844-aba2-49f8-a58c-37e5597b170e/playlist.m3u8

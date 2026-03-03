@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8",
+  "title": "God Stands TV",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "GodStandsTV.pk@Main",
+  "tvgLogo": "https://i.imgur.com/EO6cYUI.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:15.330Z"
+}

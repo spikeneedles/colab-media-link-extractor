@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://livecdn.live247stream.com/grace/tv/playlist.m3u8",
+  "title": "Grace Network (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Religious",
+  "tvgId": "GraceNetwork.pk@SD",
+  "tvgLogo": "https://i.imgur.com/QSaZPJ4.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:16.048Z"
+}

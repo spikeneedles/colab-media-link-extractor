@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RusskiyDetektiv.ru_SD" tvg-name="Русский Детектив" group-title="Movies" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:25.147Z" tvg-logo="https://i.imgur.com/H3qhN8S.png" indexer="playlist-harvester",Русский Детектив
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8

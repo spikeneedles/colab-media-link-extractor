@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8",
+  "title": "Kawanua TV (720p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "KawanuaTV.id@SD",
+  "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:23.323Z"
+}

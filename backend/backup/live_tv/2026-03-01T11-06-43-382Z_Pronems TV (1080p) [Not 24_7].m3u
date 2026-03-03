@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PronemsTV.do_SD" tvg-name="Pronems TV (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:43.382Z" tvg-logo="https://i.imgur.com/a9ORO1G.png" indexer="playlist-harvester",Pronems TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8

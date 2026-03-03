@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KiskorosTV.hu_SD" tvg-name="Kiskőrös TV (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:23.921Z" tvg-logo="https://i.imgur.com/Y74Mve1.png" indexer="playlist-harvester",Kiskőrös TV (720p)
+https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8

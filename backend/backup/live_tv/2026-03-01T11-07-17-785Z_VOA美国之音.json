@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8",
+  "title": "VOA美国之音",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Undefined",
+  "tvgId": "VoATVChina.cn@SD",
+  "tvgLogo": "https://i.imgur.com/XCTZkoq.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:07:17.785Z"
+}

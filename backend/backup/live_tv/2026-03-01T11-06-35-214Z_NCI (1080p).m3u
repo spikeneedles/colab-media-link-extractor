@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NCI.ci_SD" tvg-name="NCI (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:35.214Z" tvg-logo="https://i.imgur.com/I3pv69r.png" indexer="playlist-harvester",NCI (1080p)
+https://cdnapisec.kaltura.com/p/5571652/sp/5571652/playManifest/entryId/1_no7nfr0h/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8

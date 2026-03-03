@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8",
+  "title": "Xtrema Accion",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Movies",
+  "tvgId": "XtremaAccion.ar@SD",
+  "tvgLogo": "https://i.imgur.com/z5NwizH.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "movies",
+  "archivedAt": "2026-03-01T11:07:21.560Z"
+}

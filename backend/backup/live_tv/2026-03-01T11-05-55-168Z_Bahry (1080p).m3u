@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Bahry.kw_HD" tvg-name="Bahry (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:55.168Z" tvg-logo="https://bahry.faulio.com/storage/mediagallery/9a/c7/fullhd_6a5a505408b027c0d4a4453c72258f9db0d2cb20.png" indexer="playlist-harvester",Bahry (1080p)
+https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8

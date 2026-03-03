@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NetmaxTV.gr_SD" tvg-name="Netmax TV (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:35.550Z" tvg-logo="https://i.imgur.com/dLvRD4k.png" indexer="playlist-harvester",Netmax TV (720p) [Not 24/7]
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8

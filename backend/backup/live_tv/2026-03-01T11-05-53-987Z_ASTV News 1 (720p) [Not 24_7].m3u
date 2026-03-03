@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="News1.th_SD" tvg-name="ASTV News 1 (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:05:53.987Z" indexer="playlist-harvester",ASTV News 1 (720p) [Not 24/7]
+http://news1.live14.com/stream/news1.m3u8

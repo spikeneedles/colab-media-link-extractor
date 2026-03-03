@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CDNN23.ni_SD" tvg-name="CDNN 23 (1080p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:02.856Z" tvg-logo="https://i.imgur.com/7CNzlB6.png" indexer="playlist-harvester",CDNN 23 (1080p) [Not 24/7]
+https://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8

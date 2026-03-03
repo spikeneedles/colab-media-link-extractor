@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KlapeiTambureTV.hr_SD" tvg-name="Klape i Tambure TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:24.000Z" tvg-logo="https://i.imgur.com/sKj3dgc.png" indexer="playlist-harvester",Klape i Tambure TV (1080p)
+https://stream.cmctv.hr:49998/kit/live.m3u8

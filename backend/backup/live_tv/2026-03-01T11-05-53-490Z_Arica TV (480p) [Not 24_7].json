@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8",
+  "title": "Arica TV (480p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "AricaTV.cl@SD",
+  "tvgLogo": "https://i.imgur.com/I67WOgT.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:05:53.490Z"
+}

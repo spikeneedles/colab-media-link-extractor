@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe_SD" tvg-name="Televisión Tarapoto (720p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:03.240Z" tvg-logo="https://i.imgur.com/Dzen7sh.png" indexer="playlist-harvester",Televisión Tarapoto (720p) [Not 24/7]
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8

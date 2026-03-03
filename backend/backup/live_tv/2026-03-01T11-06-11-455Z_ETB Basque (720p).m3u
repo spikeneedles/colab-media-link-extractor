@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ETBBasque.es_SD" tvg-name="ETB Basque (720p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:11.455Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png" indexer="playlist-harvester",ETB Basque (720p)
+https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8

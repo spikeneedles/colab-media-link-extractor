@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="_____5__1080p_" tvg-name="百事通体育5 (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:07:29.554Z" indexer="playlist-harvester",百事通体育5 (1080p)
+http://112.25.48.68/live/program/live/hdnba5/4000000/mnf.m3u8

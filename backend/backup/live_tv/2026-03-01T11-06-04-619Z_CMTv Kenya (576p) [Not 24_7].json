@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8",
+  "title": "CMTv Kenya (576p) [Not 24/7]",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "General",
+  "tvgId": "CMTvKenya.ke@SD",
+  "tvgLogo": "https://i.imgur.com/ewHBokK.jpg",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:04.619Z"
+}

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CortsValencianes.es_SD" tvg-name="Corts Valencianes (480p) [Not 24/7]" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:05.747Z" tvg-logo="https://i.imgur.com/bVkRBg5.png" indexer="playlist-harvester",Corts Valencianes (480p) [Not 24/7]
+https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8

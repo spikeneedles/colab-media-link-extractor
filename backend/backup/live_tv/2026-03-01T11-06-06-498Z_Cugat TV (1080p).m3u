@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CugatTV.es_SD" tvg-name="Cugat TV (1080p)" group-title="Live TV" source-url="https://iptv-org.github.io/iptv/index.m3u" content-type="application/x-mpegurl" archived-at="2026-03-01T11:06:06.498Z" tvg-logo="https://i.imgur.com/0WQC25N.png" indexer="playlist-harvester",Cugat TV (1080p)
+https://liveingesta318.cdnmedia.tv/cugatcatlive/smil:rtmp01.smil/playlist.m3u8

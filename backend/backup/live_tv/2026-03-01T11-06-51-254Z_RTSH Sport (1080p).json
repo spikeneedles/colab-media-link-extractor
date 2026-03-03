@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://iptv-org.github.io/iptv/index.m3u",
+  "mediaUrl": "http://178.33.11.6:8696/live/rtshsport/playlist.m3u8",
+  "title": "RTSH Sport (1080p)",
+  "contentType": "application/x-mpegurl",
+  "duration": -1,
+  "groupTitle": "Sports",
+  "tvgId": "RTSHSport.al@SD",
+  "tvgLogo": "https://i.imgur.com/J6NKXyJ.png",
+  "indexer": "playlist-harvester",
+  "skipValidation": true,
+  "category": "live_tv",
+  "archivedAt": "2026-03-01T11:06:51.254Z"
+}
