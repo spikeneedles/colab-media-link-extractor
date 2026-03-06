@@ -1,0 +1,9 @@
+{
+  "sourceUrl": "file-sorter",
+  "mediaUrl": "file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/55_ESPN.HD.Channel.m3u8",
+  "title": "55 ESPN HD Channel",
+  "contentType": "application/x-mpegurl",
+  "category": "live_tv",
+  "skipValidation": true,
+  "archivedAt": "2026-03-06T05:31:09.238Z"
+}

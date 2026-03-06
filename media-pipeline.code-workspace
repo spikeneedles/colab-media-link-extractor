@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "media-link-extractor"
+    },
+    {
+      "path": "../../AndroidStudioProjects/torrent-to-m3u8-play-main",
+      "name": "torrent-to-m3u8-play"
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "${workspaceFolder:media-link-extractor}/backend/.venv/bin/python",
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "editor.formatOnSave": true,
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
+}

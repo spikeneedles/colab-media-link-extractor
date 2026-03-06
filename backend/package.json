@@ -25,6 +25,7 @@
     "@octokit/rest": "^22.0.1",
     "@types/bencode": "^2.0.4",
     "@types/multer": "^2.0.0",
+    "@types/xml2js": "^0.4.14",
     "axios": "^1.7.0",
     "bencode": "^4.0.0",
     "better-sqlite3": "^11.0.0",
@@ -35,14 +36,17 @@
     "dotenv": "^16.4.0",
     "express": "^5.0.0",
     "express-rate-limit": "^7.5.0",
+    "firebase-admin": "^13.7.0",
     "googleapis": "^171.4.0",
     "got-scraping": "^4.2.1",
     "helmet": "^7.1.0",
     "multer": "^2.0.2",
     "node-cache": "^5.1.2",
+    "playwright": "^1.58.2",
     "puppeteer": "^23.0.0",
     "puppeteer-extra": "^3.3.6",
-    "puppeteer-extra-plugin-stealth": "^2.11.2"
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.13",

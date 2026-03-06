@@ -15,6 +15,30 @@ services:
     networks:
       - app-network
 
+  # torrentiolike — multi-source metadata + torrent search sidecar (Go)
+  # Provides /meta and /search endpoints backed by Cinemeta, TMDb, OMDb, YTS, EZTV, TPB, 1337x
+  torrentiolike:
+    build:
+      context: C:\Users\josht\Antigravity_projects\torrentiolike
+      dockerfile: Dockerfile
+    container_name: torrentiolike
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
+    environment:
+      - TMDB_API_KEY=${TMDB_API_KEY:-}
+      - OMDB_API_KEY=${OMDB_API_KEY:-}
+    volumes:
+      - C:\Users\josht\Antigravity_projects\torrentiolike\config.yaml:/app/config.yaml:ro
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 15s
+    networks:
+      - app-network
+
   # Frontend web application
   media-link-scanner:
     build:
@@ -58,6 +82,7 @@ services:
       - CRAWLER_STORAGE_PATH=/app/storage/crawlers
       - SCRAPER_STORAGE_PATH=/app/storage/scrapers
       - REDIS_URL=redis://redis:6379
+      - TORRENTIOLIKE_URL=http://torrentiolike:8080
     volumes:
       - scraper-storage:/app/storage
       - ./backend/src:/app/src:ro
@@ -71,6 +96,8 @@ services:
       - app-network
     depends_on:
       redis:
+        condition: service_healthy
+      torrentiolike:
         condition: service_healthy
     deploy:
       resources:

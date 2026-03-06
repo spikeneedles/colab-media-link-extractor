@@ -16,6 +16,40 @@
 import { EventEmitter }  from 'events'
 import axios             from 'axios'
 import { flareSolverr, isCloudflareBlocked } from './FlareSolverrClient.js'
+import { omdbService, type OmdbMeta }        from './OmdbService.js'
+import { jikanService, type JikanMeta }      from './JikanService.js'
+import { fanArtTv, type FanArtMovieMeta, type FanArtTvMeta } from './FanArtTvService.js'
+import { mdbList,  type MDBListMeta }        from './MDBListService.js'
+
+// ── Quality ranking (ported from torrentiolike filter/filter.go) ──────────────
+// Lower number = higher quality tier (used for sorting: best first)
+export const QUALITY_RANK: Record<string, number> = {
+  '4K':      0,
+  '2160P':   0,
+  'UHD':     0,
+  '1080P':   1,
+  'FHD':     1,
+  '720P':    2,
+  'HD':      2,
+  '576P':    3,
+  '480P':    3,
+  'SD':      4,
+  'CAM':     5,
+  'UNKNOWN': 6,
+}
+
+/**
+ * Composite stream rank — lower is better.
+ * Matches torrentiolike's: qualityScore*10_000_000 + seederScore
+ * quality: one of the QUALITY_RANK keys (case-insensitive)
+ * seeders: number of seeders (0 if unknown / not applicable)
+ */
+export function rankStream(quality: string, seeders = 0): number {
+  const tier = QUALITY_RANK[quality.toUpperCase()] ?? QUALITY_RANK['UNKNOWN']
+  const qualityScore = tier * 10_000_000
+  const seederScore  = seeders > 0 ? Math.max(0, 9_999_999 - seeders * 100) : 9_999_999
+  return qualityScore + seederScore
+}
 
 // ── Types ─────────────────────────────────────────────────────────────────────
 
@@ -58,21 +92,110 @@ export interface TmdbMatch {
   seasons?:    number          // TV only
 }
 
+// ── Cinemeta types (Stremio public API — no key required) ────────────────────
+
+export interface CinemetaMeta {
+  imdbId:     string
+  type:       'movie' | 'series'
+  title:      string
+  year?:      number
+  genres:     string[]
+  rating:     number
+  runtimeMin: number
+  plot:       string
+  poster:     string
+  backdrop:   string
+  cast:       string[]
+  director:   string
+  writer:     string
+  language:   string
+  country:    string
+  awards:     string
+  seasons:    number
+}
+
+// ── Torrentiolike sidecar types ──────────────────────────────────────────────
+
+export interface TorrentiolikeMeta {
+  imdbId:     string
+  tmdbId?:    number
+  type:       string
+  title:      string
+  year?:      number
+  genres:     string[]
+  rating:     number
+  votes:      number
+  runtimeMin: number
+  plot:       string
+  poster:     string
+  backdrop:   string
+  cast:       string[]
+  director:   string
+  writer:     string
+  language:   string
+  country:    string
+  awards:     string
+  seasons:    number
+  metaSource: string
+}
+
+// ── Merged rich metadata — best field wins across all providers ───────────────
+
+export interface RichMeta {
+  imdbId?:    string
+  tmdbId?:    number
+  type?:      string
+  title:      string
+  year?:      number
+  genres:     string[]
+  rating:     number
+  /** All source ratings keyed by source name (imdb, tmdb, trakt, rt, metacritic…) */
+  allRatings: Record<string, number>
+  runtimeMin: number
+  plot:       string
+  poster:     string
+  backdrop:   string
+  /** HD clear logo (transparent PNG) — from FanArt.tv; ideal for channel/show overlays */
+  logo?:      string
+  /** HD clearart / character art — from FanArt.tv */
+  clearArt?:  string
+  cast:       string[]
+  director:   string
+  writer:     string
+  language:   string
+  country:    string
+  awards:     string
+  seasons:    number
+  sources:    string[]
+}
+
 export interface ScrapedMetadata {
-  inputUrl:       string
-  inputTitle:     string
-  parsed:         ParsedTorrentTitle
-  head?:          HttpHeadInfo
-  tmdb?:          TmdbMatch
-  scrapedAt:      number
-  durationMs:     number
-  source:         'cache' | 'live'
+  inputUrl:        string
+  inputTitle:      string
+  parsed:          ParsedTorrentTitle
+  head?:           HttpHeadInfo
+  tmdb?:           TmdbMatch
+  cinemeta?:       CinemetaMeta
+  torrentiolike?:  TorrentiolikeMeta
+  omdb?:           OmdbMeta
+  jikan?:          JikanMeta
+  fanartMovie?:    FanArtMovieMeta
+  fanartTv?:       FanArtTvMeta
+  mdblist?:        MDBListMeta
+  richMeta?:       RichMeta
+  scrapedAt:       number
+  durationMs:      number
+  source:          'cache' | 'live'
 }
 
 export interface BatchScrapeOptions {
   concurrency:    number        // default: 10
   includeTmdb:    boolean       // default: true if TMDB_API_KEY set
   includeHead:    boolean       // default: true
+  includeOmdb:    boolean       // default: true if OMDB_API_KEY set
+  includeJikan:   boolean       // default: true (no key needed)
+  includeFanArt:  boolean       // default: true if FANART_TV_API_KEY set
+  includeMdbList: boolean       // default: true if MDBLIST_API_KEY set
   timeoutMs:      number        // per-item timeout, default: 8000
 }
 
@@ -212,6 +335,243 @@ async function lookupTmdb(parsed: ParsedTorrentTitle, timeoutMs: number): Promis
   }
 }
 
+// ── Cinemeta lookup (Stremio public API — no key needed) ─────────────────────
+
+const CINEMETA_BASE = 'https://v3-cinemeta.strem.io'
+
+function parseCinemetaRuntime(s: string): number {
+  if (!s) return 0
+  const lower = s.toLowerCase()
+  let total = 0
+  const hIdx = lower.indexOf('h')
+  if (hIdx > 0) {
+    total += parseInt(lower.slice(0, hIdx).trim()) * 60
+    s = lower.slice(hIdx + 1)
+  }
+  const mins = parseInt(s.replace(/min/i, '').trim())
+  if (!isNaN(mins)) total += mins
+  return total
+}
+
+function parseCinemetaYear(v: unknown): number | undefined {
+  if (v == null) return undefined
+  if (typeof v === 'number') return v > 0 ? v : undefined
+  if (typeof v === 'string') {
+    const y = parseInt(v.split(/[–\-]/)[0].trim())
+    return isNaN(y) ? undefined : y
+  }
+  return undefined
+}
+
+async function lookupCinemeta(parsed: ParsedTorrentTitle, timeoutMs: number): Promise<CinemetaMeta | undefined> {
+  if (!parsed.clean) return undefined
+  try {
+    const typeGuess = parsed.season !== undefined ? 'series' : 'movie'
+    // Step 1: resolve title → imdbId via catalog search
+    const searchUrl = `${CINEMETA_BASE}/catalog/${typeGuess}/top/search=${encodeURIComponent(parsed.clean)}.json`
+    const searchRes = await axios.get(searchUrl, { timeout: timeoutMs })
+    const metas: any[] = (searchRes.data as any).metas ?? []
+
+    let imdbId: string | undefined
+    for (const m of metas) {
+      if (!String(m.id).startsWith('tt')) continue
+      const metaYear = parseCinemetaYear(m.year)
+      if (parsed.year && metaYear && Math.abs(metaYear - parsed.year) > 1) continue
+      imdbId = m.id
+      break
+    }
+    if (!imdbId) return undefined
+
+    // Step 2: fetch full metadata by imdbId
+    const metaUrl = `${CINEMETA_BASE}/meta/${typeGuess}/${imdbId}.json`
+    const metaRes = await axios.get(metaUrl, { timeout: timeoutMs })
+    const m = (metaRes.data as any).meta ?? {}
+
+    return {
+      imdbId,
+      type:       typeGuess,
+      title:      m.name ?? parsed.clean,
+      year:       parseCinemetaYear(m.year),
+      genres:     m.genres ?? [],
+      rating:     parseFloat(m.imdbRating) || 0,
+      runtimeMin: parseCinemetaRuntime(m.runtime ?? ''),
+      plot:       m.description ?? '',
+      poster:     m.poster ?? '',
+      backdrop:   m.background ?? '',
+      cast:       m.cast ?? [],
+      director:   Array.isArray(m.director) ? m.director.join(', ') : (m.director ?? ''),
+      writer:     Array.isArray(m.writer)   ? m.writer.join(', ')   : (m.writer ?? ''),
+      language:   m.language ?? '',
+      country:    m.country  ?? '',
+      awards:     m.awards   ?? '',
+      seasons:    m.totalSeasons ?? 0,
+    }
+  } catch {
+    return undefined
+  }
+}
+
+// ── Torrentiolike sidecar lookup ──────────────────────────────────────────────
+
+async function lookupTorrentiolike(
+  parsed: ParsedTorrentTitle,
+  timeoutMs: number,
+): Promise<TorrentiolikeMeta | undefined> {
+  const baseUrl = process.env.TORRENTIOLIKE_URL
+  if (!baseUrl || !parsed.clean) return undefined
+  try {
+    const typeGuess = parsed.season !== undefined ? 'series' : 'movie'
+    const params: Record<string, string | number> = { title: parsed.clean, type: typeGuess }
+    if (parsed.year) params.year = parsed.year
+    const res = await axios.get(`${baseUrl}/meta`, { params, timeout: timeoutMs })
+    const d = (res.data as any).meta
+    if (!d) return undefined
+    return {
+      imdbId:     d.imdb_id     ?? '',
+      tmdbId:     d.tmdb_id,
+      type:       d.type        ?? typeGuess,
+      title:      d.title       ?? parsed.clean,
+      year:       d.year,
+      genres:     d.genres      ?? [],
+      rating:     d.rating      ?? 0,
+      votes:      d.votes       ?? 0,
+      runtimeMin: d.runtime_mins ?? 0,
+      plot:       d.plot        ?? '',
+      poster:     d.poster      ?? '',
+      backdrop:   d.backdrop    ?? '',
+      cast:       d.cast        ?? [],
+      director:   d.director    ?? '',
+      writer:     d.writer      ?? '',
+      language:   d.language    ?? '',
+      country:    d.country     ?? '',
+      awards:     d.awards      ?? '',
+      seasons:    d.seasons     ?? 0,
+      metaSource: d.meta_source ?? 'torrentiolike',
+    }
+  } catch {
+    return undefined
+  }
+}
+
+// ── OMDB lookup ───────────────────────────────────────────────────────────────
+
+async function lookupOmdb(parsed: ParsedTorrentTitle, imdbId?: string, timeoutMs = 8000): Promise<OmdbMeta | undefined> {
+  if (!omdbService.isAvailable || !parsed.clean) return undefined
+  if (imdbId) return omdbService.getByImdbId(imdbId, timeoutMs)
+  const type = parsed.season !== undefined ? 'series' : 'movie'
+  return omdbService.getByTitle(parsed.clean, parsed.year, type, timeoutMs)
+}
+
+// ── Jikan (MAL) lookup — detects anime content ────────────────────────────────
+
+const ANIME_GENRE_HINTS = /\b(anime|manga|ova|ona|hentai|ecchi|shounen|shoujo|seinen|josei|mecha|isekai)\b/i
+
+async function lookupJikan(parsed: ParsedTorrentTitle, genres: string[], timeoutMs = 8000): Promise<JikanMeta | undefined> {
+  if (!parsed.clean) return undefined
+  // Only query Jikan for likely-anime content (saves rate limit quota)
+  const isLikelyAnime = ANIME_GENRE_HINTS.test(parsed.clean) ||
+    genres.some(g => /anime|animation/i.test(g))
+  if (!isLikelyAnime) return undefined
+  return jikanService.search(parsed.clean, timeoutMs)
+}
+
+// ── FanArt.tv lookup ──────────────────────────────────────────────────────────
+
+async function lookupFanArt(
+  tmdbId?: number,
+  tvdbId?: number,
+  type:    'movie' | 'tv' = 'movie',
+  timeoutMs = 8000,
+): Promise<{ movie?: FanArtMovieMeta; tv?: FanArtTvMeta }> {
+  if (type === 'tv' && tvdbId)  return { tv:    await fanArtTv.getTvArt(tvdbId, timeoutMs)    }
+  if (type === 'movie' && tmdbId) return { movie: await fanArtTv.getMovieArt(tmdbId, timeoutMs) }
+  // Try movie first, then TV if no movie result
+  if (tmdbId) {
+    const movie = await fanArtTv.getMovieArt(tmdbId, timeoutMs)
+    if (movie?.movieposter || movie?.hdmovielogo) return { movie }
+  }
+  return {}
+}
+
+// ── MDBList lookup ────────────────────────────────────────────────────────────
+
+async function lookupMDBList(parsed: ParsedTorrentTitle, imdbId?: string, timeoutMs = 8000): Promise<MDBListMeta | undefined> {
+  if (!mdbList.isAvailable || !parsed.clean) return undefined
+  if (imdbId) return mdbList.getByImdbId(imdbId, timeoutMs)
+  const type = parsed.season !== undefined ? 'show' : 'movie'
+  return mdbList.getByTitle(parsed.clean, parsed.year, type, timeoutMs)
+}
+
+// ── Rich metadata merger (best-field-wins across all providers) ───────────────
+// Priority: torrentiolike (multi-source merged) > cinemeta (IMDb authoritative) > TMDb
+
+function mergeRichMeta(
+  parsed:  ParsedTorrentTitle,
+  tmdb?:   TmdbMatch,
+  cm?:     CinemetaMeta,
+  tl?:     TorrentiolikeMeta,
+  omdb?:   OmdbMeta,
+  jikan?:  JikanMeta,
+  fanartMovie?: FanArtMovieMeta,
+  fanartTv?:    FanArtTvMeta,
+  mdb?:    MDBListMeta,
+): RichMeta {
+  const sources: string[] = []
+  if (tmdb)  sources.push('tmdb')
+  if (cm)    sources.push('cinemeta')
+  if (tl)    sources.push('torrentiolike')
+  if (omdb)  sources.push('omdb')
+  if (jikan) sources.push('jikan')
+  if (fanartMovie || fanartTv) sources.push('fanart')
+  if (mdb)   sources.push('mdblist')
+
+  // pick: first non-empty value wins in priority order (tl > cm > omdb > tmdb > jikan)
+  const str  = (...vs: (string  | undefined)[]) => vs.find(v => v && v.trim()) ?? ''
+  const num  = (...vs: (number  | undefined)[]) => vs.find(v => v !== undefined && v > 0) ?? 0
+  const arr  = (...vs: (string[] | undefined)[]) => vs.find(v => v && v.length > 0) ?? []
+
+  const title = str(tl?.title, cm?.title, omdb?.title, tmdb?.title, jikan?.titleEnglish, jikan?.title, parsed.clean)
+
+  // Build aggregate ratings map (MDBList is the richest source)
+  const allRatings: Record<string, number> = {}
+  if (mdb?.ratingMap) Object.assign(allRatings, mdb.ratingMap)
+  if (omdb?.imdbRating)  allRatings.imdb      = allRatings.imdb  ?? omdb.imdbRating
+  if (omdb?.metascore)   allRatings.metacritic = allRatings.metacritic ?? omdb.metascore
+  if (tmdb?.rating)      allRatings.tmdb       = allRatings.tmdb  ?? tmdb.rating
+  if (jikan?.score)      allRatings.mal        = allRatings.mal   ?? jikan.score
+
+  // Best images: FanArt > torrentiolike > cinemeta > OMDB > TMDb > Jikan
+  const poster  = str(fanartMovie?.movieposter, fanartTv?.tvposter, tl?.poster, cm?.poster, omdb?.poster, tmdb?.posterUrl, jikan?.imageUrl)
+  const backdrop = str(fanartMovie?.moviebackground, fanartTv?.showbackground, tl?.backdrop, cm?.backdrop, tmdb?.backdropUrl)
+  const logo    = str(fanartMovie?.hdmovielogo, fanartTv?.hdtvlogo, fanartTv?.clearlogo)
+  const clearArt = str(fanartMovie?.hdmovieclearart)
+
+  return {
+    imdbId:    str(tl?.imdbId, cm?.imdbId, omdb?.imdbId, mdb?.imdbId) || undefined,
+    tmdbId:    tl?.tmdbId ?? tmdb?.id ?? mdb?.tmdbId ?? undefined,
+    type:      str(tl?.type, cm?.type, omdb?.type, jikan?.type, tmdb?.type === 'tv' ? 'series' : tmdb?.type) || undefined,
+    title,
+    year:      num(tl?.year, cm?.year, omdb?.year, tmdb?.year, jikan?.airedFrom ? parseInt(jikan.airedFrom.slice(0, 4)) : undefined) || undefined,
+    genres:    arr(tl?.genres, cm?.genres, omdb?.genre, jikan?.genres, mdb?.genres),
+    rating:    num(tl?.rating, cm?.rating, omdb?.imdbRating, tmdb?.rating, jikan?.score),
+    allRatings,
+    runtimeMin:num(tl?.runtimeMin, cm?.runtimeMin, omdb?.runtime, jikan?.duration ? parseInt(jikan.duration) : undefined),
+    plot:      str(tl?.plot, cm?.plot, omdb?.plot, jikan?.synopsis, tmdb?.overview),
+    poster,
+    backdrop,
+    logo:      logo || undefined,
+    clearArt:  clearArt || undefined,
+    cast:      arr(tl?.cast, cm?.cast, omdb?.actors, mdb?.cast, jikan ? [jikan.studios.join(', ')] : undefined),
+    director:  str(tl?.director, cm?.director, omdb?.director),
+    writer:    str(tl?.writer, cm?.writer, omdb?.writer),
+    language:  str(tl?.language, cm?.language, omdb?.language, mdb?.language),
+    country:   str(tl?.country, cm?.country, omdb?.country, mdb?.country),
+    awards:    str(tl?.awards, cm?.awards, omdb?.awards),
+    seasons:   num(tl?.seasons, cm?.seasons, omdb?.totalSeasons, tmdb?.seasons),
+    sources,
+  }
+}
+
 // ── LRU cache ─────────────────────────────────────────────────────────────────
 
 class LRUCache<V> {
@@ -269,6 +629,10 @@ export class MetadataScraperService extends EventEmitter {
       concurrency: 10,
       includeTmdb: Boolean(process.env.TMDB_API_KEY),
       includeHead: true,
+      includeOmdb:    Boolean(process.env.OMDB_API_KEY),
+      includeJikan:   true,
+      includeFanArt:  Boolean(process.env.FANART_TV_API_KEY),
+      includeMdbList: Boolean(process.env.MDBLIST_API_KEY),
       timeoutMs:   8000,
       ...opts,
     }
@@ -276,10 +640,35 @@ export class MetadataScraperService extends EventEmitter {
     const t0     = Date.now()
     const parsed = parseTorrentTitle(title || url.split('/').pop() || '')
 
-    const [head, tmdb] = await Promise.all([
+    // Run all providers in parallel
+    const [head, tmdb, cinemeta, torrentiolike] = await Promise.all([
       o.includeHead ? probeHead(url, o.timeoutMs) : Promise.resolve(undefined),
       o.includeTmdb ? lookupTmdb(parsed, o.timeoutMs) : Promise.resolve(undefined),
+      lookupCinemeta(parsed, o.timeoutMs),
+      lookupTorrentiolike(parsed, o.timeoutMs),
     ])
+
+    // Resolve IMDb ID from first-pass results for dependent lookups
+    const resolvedImdbId = (cinemeta as CinemetaMeta | undefined)?.imdbId ||
+      (torrentiolike as TorrentiolikeMeta | undefined)?.imdbId
+
+    // Run enrichment sources (may use imdbId from first pass)
+    const enrichedGenres = cinemeta?.genres ?? tmdb?.genres?.map(String) ?? []
+    const fanartType: 'movie' | 'tv' = (parsed.season !== undefined || tmdb?.type === 'tv') ? 'tv' : 'movie'
+
+    const [omdb, jikan, fanartResult, mdblist] = await Promise.all([
+      o.includeOmdb    ? lookupOmdb(parsed, resolvedImdbId, o.timeoutMs)    : Promise.resolve(undefined),
+      o.includeJikan   ? lookupJikan(parsed, enrichedGenres, o.timeoutMs)   : Promise.resolve(undefined),
+      o.includeFanArt  ? lookupFanArt(tmdb?.id, undefined, fanartType, o.timeoutMs) : Promise.resolve({} as { movie?: FanArtMovieMeta; tv?: FanArtTvMeta }),
+      o.includeMdbList ? lookupMDBList(parsed, resolvedImdbId, o.timeoutMs) : Promise.resolve(undefined),
+    ])
+
+    const richMeta = mergeRichMeta(
+      parsed, tmdb, cinemeta ?? undefined, torrentiolike ?? undefined,
+      omdb ?? undefined, jikan ?? undefined,
+      fanartResult.movie, fanartResult.tv,
+      mdblist ?? undefined,
+    )
 
     const result: ScrapedMetadata = {
       inputUrl:   url,
@@ -287,6 +676,14 @@ export class MetadataScraperService extends EventEmitter {
       parsed,
       head,
       tmdb,
+      cinemeta:       cinemeta       ?? undefined,
+      torrentiolike:  torrentiolike  ?? undefined,
+      omdb:           omdb           ?? undefined,
+      jikan:          jikan          ?? undefined,
+      fanartMovie:    fanartResult.movie,
+      fanartTv:       fanartResult.tv,
+      mdblist:        mdblist        ?? undefined,
+      richMeta:       richMeta.sources.length > 0 ? richMeta : undefined,
       scrapedAt:  Date.now(),
       durationMs: Date.now() - t0,
       source:     'live',
@@ -308,6 +705,10 @@ export class MetadataScraperService extends EventEmitter {
       concurrency: 10,
       includeTmdb: Boolean(process.env.TMDB_API_KEY),
       includeHead: true,
+      includeOmdb:    Boolean(process.env.OMDB_API_KEY),
+      includeJikan:   true,
+      includeFanArt:  Boolean(process.env.FANART_TV_API_KEY),
+      includeMdbList: Boolean(process.env.MDBLIST_API_KEY),
       timeoutMs:   8000,
       ...opts,
     }

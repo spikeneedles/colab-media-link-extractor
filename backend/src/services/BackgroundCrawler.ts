@@ -16,6 +16,9 @@ export interface CrawlerConfig {
   categories: string[] // Categories to crawl (will search broadly within each)
   useAllIndexers: boolean
   queryString?: string // Optional query string (empty = search everything)
+  jackettUrl?: string
+  jackettApiKey?: string
+  newznabServers?: { url: string; apiKey: string }[]
 }
 
 export interface CrawlResult {
@@ -56,6 +59,7 @@ export class BackgroundCrawler extends EventEmitter {
   private workers: Map<number, boolean> = new Map()
   private resultsCache: CrawlResult[] = []
   private intervalTimer: NodeJS.Timeout | null = null
+  private domainBackoffs: Map<string, { backoffMs: number; consecutive429s: number; until: number }> = new Map()
 
   constructor(config: CrawlerConfig) {
     super()
@@ -125,7 +129,10 @@ export class BackgroundCrawler extends EventEmitter {
     await Promise.allSettled(
       categories.map((category, i) => this.crawlCategory(category, i))
     )
-    
+
+    // Run Jackett + Newznab in parallel with Prowlarr results already cached above
+    await this.crawlJackettAndNewznab()
+
     console.log(`✅ Crawl cycle completed. Total results cached: ${this.resultsCache.length}`)
     this.emit('cycleComplete', {
       resultsCount: this.resultsCache.length,
@@ -265,20 +272,32 @@ export class BackgroundCrawler extends EventEmitter {
     const indexerParam = indexer?.id ? `&indexerIds=${indexer.id}` : `&indexerIds=-2`
     const apiUrl = `${this.config.prowlarrUrl}/api/v1/search?query=${encodeURIComponent(queryString)}${categoryParam}${indexerParam}&type=search`
 
-    const response = await axios.get(apiUrl, {
-      headers: {
-        'X-Api-Key': this.config.prowlarrApiKey,
-        'Accept': 'application/json'
-      },
-      timeout: 60000
-    })
+    // Adaptive rate limiting per domain
+    const domain = this.config.prowlarrUrl
+    const delay = this.getDomainDelay(domain)
+    if (delay > 0) await new Promise(r => setTimeout(r, delay))
 
-    const rawResults = Array.isArray(response.data) ? response.data : []
-    const normalized = rawResults.map((result) =>
-      this.normalizeResult(result, category, indexer)
-    )
+    try {
+      const response = await axios.get(apiUrl, {
+        headers: {
+          'X-Api-Key': this.config.prowlarrApiKey,
+          'Accept': 'application/json'
+        },
+        timeout: 60000
+      })
 
-    return this.dedupeAndScore(normalized)
+      this.recordDomainSuccess(domain)
+      const rawResults = Array.isArray(response.data) ? response.data : []
+      const normalized = rawResults.map((result) =>
+        this.normalizeResult(result, category, indexer)
+      )
+
+      return this.dedupeAndScore(normalized)
+    } catch (err: any) {
+      const status = err?.response?.status
+      this.recordDomainError(domain, status)
+      throw err
+    }
   }
 
   private normalizeResult(result: any, category: string, indexer?: ProwlarrIndexer): NormalizedResult {
@@ -387,5 +406,143 @@ export class BackgroundCrawler extends EventEmitter {
       categories: this.config.categories,
       crawlInterval: this.config.crawlInterval
     }
+  }
+
+  // ── Adaptive rate limiting ────────────────────────────────────────────────
+
+  recordDomainError(domain: string, statusCode?: number): void {
+    const entry = this.domainBackoffs.get(domain) ?? { backoffMs: 0, consecutive429s: 0, until: 0 }
+    if (statusCode === 429) {
+      entry.consecutive429s++
+      const backoff = Math.min(60000 * Math.pow(2, entry.consecutive429s - 1), 3600000)
+      entry.backoffMs = backoff
+      entry.until = Date.now() + backoff
+    } else if (statusCode === 503) {
+      entry.backoffMs = 30000
+      entry.until = Date.now() + 30000
+    }
+    this.domainBackoffs.set(domain, entry)
+  }
+
+  private recordDomainSuccess(domain: string): void {
+    this.domainBackoffs.delete(domain)
+  }
+
+  getDomainDelay(domain: string): number {
+    const entry = this.domainBackoffs.get(domain)
+    if (!entry) return 0
+    const remaining = entry.until - Date.now()
+    return remaining > 0 ? remaining : 0
+  }
+
+  // ── Jackett integration ───────────────────────────────────────────────────
+
+  async searchJackett(query: string, category: string): Promise<NormalizedResult[]> {
+    if (!this.config.jackettUrl || !this.config.jackettApiKey) return []
+    const url = `${this.config.jackettUrl}/api/v2.0/indexers/all/results?apikey=${this.config.jackettApiKey}&Query=${encodeURIComponent(query)}&Category[]=${category}`
+    try {
+      const resp = await axios.get(url, { timeout: 30000 })
+      const results: any[] = resp.data?.Results ?? []
+      return this.dedupeAndScore(results.map(r => ({
+        title:       r.Title       ?? 'Unknown',
+        size:        r.Size        ?? 0,
+        seeders:     r.Seeders     ?? 0,
+        leechers:    r.Peers       ?? 0,
+        indexer:     r.Tracker     ?? 'Jackett',
+        indexerId:   0,
+        category,
+        publishDate: r.PublishDate,
+        downloadUrl: r.Link,
+        magnetUrl:   r.MagnetUri,
+        infoHash:    r.InfoHash,
+        guid:        r.Guid,
+        score:       this.computeScore(r.Seeders ?? 0, r.Peers ?? 0, r.Size ?? 0),
+      })))
+    } catch (err: any) {
+      console.error('❌ Jackett search error:', err.message)
+      return []
+    }
+  }
+
+  // ── Newznab integration ───────────────────────────────────────────────────
+
+  async searchNewznab(server: { url: string; apiKey: string }, query: string, category: string): Promise<NormalizedResult[]> {
+    const url = `${server.url}/api?apikey=${server.apiKey}&t=search&q=${encodeURIComponent(query)}&cat=${category}&extended=1`
+    try {
+      const resp = await axios.get(url, { timeout: 30000, responseType: 'text' })
+      const xml: string = resp.data
+      const results: NormalizedResult[] = []
+
+      // Parse RSS <item> elements from Newznab XML
+      const itemRe = /<item>([\s\S]*?)<\/item>/gi
+      let im: RegExpExecArray | null
+      while ((im = itemRe.exec(xml)) !== null) {
+        const block = im[1]
+        const title       = block.match(/<title[^>]*><!\[CDATA\[([^\]]*)\]\]><\/title>|<title[^>]*>([^<]*)<\/title>/)?.[1] ?? block.match(/<title>([^<]*)<\/title>/)?.[1] ?? 'Unknown'
+        const link        = block.match(/<link>([^<]*)<\/link>/)?.[1]
+        const enclosureUrl = block.match(/enclosure[^>]+url="([^"]+)"/)?.[1]
+        const pubDate     = block.match(/<pubDate>([^<]*)<\/pubDate>/)?.[1]
+        const sizeAttr    = block.match(/newznab:attr[^>]+name="size"[^>]+value="(\d+)"/)?.[1] ?? '0'
+        const seeders     = parseInt(block.match(/newznab:attr[^>]+name="seeders"[^>]+value="(\d+)"/)?.[1] ?? '0', 10)
+        const leechers    = parseInt(block.match(/newznab:attr[^>]+name="peers"[^>]+value="(\d+)"/)?.[1] ?? '0', 10)
+        const infoHash    = block.match(/newznab:attr[^>]+name="infohash"[^>]+value="([^"]+)"/)?.[1]
+        const size        = parseInt(sizeAttr, 10)
+        results.push({
+          title: title.trim(),
+          size,
+          seeders,
+          leechers,
+          indexer: server.url,
+          indexerId: 0,
+          category,
+          publishDate: pubDate,
+          downloadUrl: enclosureUrl || link,
+          magnetUrl: undefined,
+          infoHash,
+          guid: link,
+          score: this.computeScore(seeders, leechers, size),
+        })
+      }
+      return this.dedupeAndScore(results)
+    } catch (err: any) {
+      console.error(`❌ Newznab search error (${server.url}):`, err.message)
+      return []
+    }
+  }
+
+  // ── Combined Jackett + Newznab crawl ──────────────────────────────────────
+
+  async crawlJackettAndNewznab(): Promise<void> {
+    if (!this.config.jackettUrl && (!this.config.newznabServers || this.config.newznabServers.length === 0)) return
+
+    const query = (this.config.queryString || '').trim() || 'a'
+    const tasks: Promise<NormalizedResult[]>[] = []
+
+    for (const category of this.config.categories) {
+      if (this.config.jackettUrl && this.config.jackettApiKey) {
+        tasks.push(this.searchJackett(query, category))
+      }
+      for (const server of (this.config.newznabServers ?? [])) {
+        tasks.push(this.searchNewznab(server, query, category))
+      }
+    }
+
+    const allResults = await Promise.allSettled(tasks)
+    let total = 0
+    for (const res of allResults) {
+      if (res.status === 'fulfilled' && res.value.length > 0) {
+        const crawlResult: CrawlResult = {
+          category:     'jackett-newznab',
+          categoryName: 'Jackett/Newznab',
+          results:      res.value,
+          timestamp:    Date.now(),
+          duration:     0,
+          success:      true,
+        }
+        this.cacheResult(crawlResult)
+        total += res.value.length
+      }
+    }
+    if (total > 0) console.log(`📡 Jackett/Newznab: ${total} results cached`)
   }
 }

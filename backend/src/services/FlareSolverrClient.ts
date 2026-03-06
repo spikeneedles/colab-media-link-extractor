@@ -14,6 +14,7 @@
  */
 
 import axios, { AxiosInstance } from 'axios'
+import { captchaSolver }         from './CaptchaSolverService.js'
 
 // ── Types ─────────────────────────────────────────────────────────────────────
 
@@ -186,16 +187,71 @@ class FlareSolverrClient {
 
     // 2️⃣ Escalate to FlareSolverr
     const solution = await this.get(url)
-    if (!solution) {
-      throw new Error(`FlareSolverr unavailable — cannot fetch Cloudflare-protected URL: ${url}`)
+    if (solution) {
+      return {
+        html:      solution.response,
+        cookies:   solution.cookies,
+        userAgent: solution.userAgent,
+        viaSolver: true,
+        status:    solution.status,
+      }
     }
-    return {
-      html:      solution.response,
-      cookies:   solution.cookies,
-      userAgent: solution.userAgent,
-      viaSolver: true,
-      status:    solution.status,
+
+    // 3️⃣ Final escalation: CAPTCHA solver (2captcha / CapMonster)
+    if (captchaSolver.isConfigured()) {
+      console.log(`[FlareSolverr] FlareSolverr failed for ${url}, trying CAPTCHA solver…`)
+      // Extract Cloudflare Turnstile or reCAPTCHA sitekey from the page
+      try {
+        const rawRes = await axios.get<string>(url, {
+          timeout: 15_000, responseType: 'text', validateStatus: () => true,
+          headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' },
+        })
+        const html = rawRes.data ?? ''
+
+        // Try Turnstile first (Cloudflare's newer challenge)
+        const turnstileMatch = html.match(/data-sitekey=["']([0-9A-Za-z_-]{20,})["']/)
+        if (turnstileMatch) {
+          const token = await captchaSolver.solveTurnstile(turnstileMatch[1], url)
+          if (token) {
+            // Re-fetch with the solved token as cf-turnstile-response header
+            const finalRes = await axios.get<string>(url, {
+              timeout: 20_000, responseType: 'text', validateStatus: () => true,
+              headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+                'cf-turnstile-response': token,
+              },
+            })
+            if (!isCloudflareBlocked({ status: finalRes.status, body: finalRes.data })) {
+              console.log(`[FlareSolverr] ✓ Turnstile solved for ${url}`)
+              return { html: finalRes.data, cookies: [], userAgent: '', viaSolver: true, status: finalRes.status }
+            }
+          }
+        }
+
+        // Try reCAPTCHA v2/v3
+        const recaptchaMatch = html.match(/data-sitekey=["']([0-9A-Za-z_-]{40,})["']/)
+        if (recaptchaMatch) {
+          const token = await captchaSolver.solveRecaptchaV2(recaptchaMatch[1], url)
+          if (token) {
+            const finalRes = await axios.get<string>(url, {
+              timeout: 20_000, responseType: 'text', validateStatus: () => true,
+              headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+                'g-recaptcha-response': token,
+              },
+            })
+            if (!isCloudflareBlocked({ status: finalRes.status, body: finalRes.data })) {
+              console.log(`[FlareSolverr] ✓ reCAPTCHA solved for ${url}`)
+              return { html: finalRes.data, cookies: [], userAgent: '', viaSolver: true, status: finalRes.status }
+            }
+          }
+        }
+      } catch (captchaErr: any) {
+        console.warn(`[FlareSolverr] CAPTCHA escalation failed: ${captchaErr.message}`)
+      }
     }
+
+    throw new Error(`All bypass methods exhausted for ${url} (FlareSolverr + CAPTCHA solver both failed)`)
   }
 }
 

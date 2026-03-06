@@ -1,0 +1,9 @@
+{
+  "sourceUrl": "file-sorter",
+  "mediaUrl": "file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/68_CNN.Live.Stream.m3u8",
+  "title": "68 CNN Live Stream",
+  "contentType": "application/x-mpegurl",
+  "category": "live_tv",
+  "skipValidation": true,
+  "archivedAt": "2026-03-06T05:31:09.540Z"
+}

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="adultseries1" tvg-name="Adult Series 1 S01E01" tvg-logo="https://via.placeholder.com/320x180?text=Adult+Series+1" group-title="Adult Series",Adult Series 1 S01E01
+http://example.com/adult-series-1-s01e01.mkv
+#EXTINF:-1 tvg-id="adultseries2" tvg-name="Adult Series 2 S01E01" tvg-logo="https://via.placeholder.com/320x180?text=Adult+Series+2" group-title="Adult Series",Adult Series 2 S01E01
+http://example.com/adult-series-2-s01e01.mkv
+#EXTINF:-1 tvg-id="adultseries3" tvg-name="Adult Series 3 S01E01" tvg-logo="https://via.placeholder.com/320x180?text=Adult+Series+3" group-title="Adult Series",Adult Series 3 S01E01
+http://example.com/adult-series-3-s01e01.mkv

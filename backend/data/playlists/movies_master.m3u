@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="movie1" tvg-name="Action Movie 1" tvg-logo="https://via.placeholder.com/320x180?text=Action+Movie+1" group-title="Movies",Action Movie 1
+http://example.com/action-movie-1.mkv
+#EXTINF:-1 tvg-id="movie2" tvg-name="Drama Movie 1" tvg-logo="https://via.placeholder.com/320x180?text=Drama+Movie+1" group-title="Movies",Drama Movie 1
+http://example.com/drama-movie-1.mkv
+#EXTINF:-1 tvg-id="movie3" tvg-name="Comedy Movie 1" tvg-logo="https://via.placeholder.com/320x180?text=Comedy+Movie+1" group-title="Movies",Comedy Movie 1
+http://example.com/comedy-movie-1.mkv
+#EXTINF:-1 tvg-id="movie4" tvg-name="Thriller Movie 1" tvg-logo="https://via.placeholder.com/320x180?text=Thriller+Movie+1" group-title="Movies",Thriller Movie 1
+http://example.com/thriller-movie-1.mkv
+#EXTINF:-1 tvg-id="movie5" tvg-name="Horror Movie 1" tvg-logo="https://via.placeholder.com/320x180?text=Horror+Movie+1" group-title="Movies",Horror Movie 1
+http://example.com/horror-movie-1.mkv

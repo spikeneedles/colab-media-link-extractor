@@ -14,6 +14,7 @@ import fs   from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
 import { archivist } from './ArchivistService.js'
+import { QUALITY_RANK, rankStream } from './MetadataScraperService.js'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname  = path.dirname(__filename)
@@ -127,6 +128,7 @@ export class FileSorterService extends EventEmitter {
       title:       this.cleanTitle(base),
       contentType,
       category,
+      skipValidation: true,
     }).catch(() => {/* non-fatal if already archived */})
 
     return 'moved'
@@ -170,6 +172,35 @@ export class FileSorterService extends EventEmitter {
 
     // Default to movies for standalone video files
     return 'movies'
+  }
+
+  /**
+   * Extract quality tier string from a filename for use with QUALITY_RANK.
+   * Returns one of the QUALITY_RANK keys.
+   */
+  private qualityFromFilename(filename: string): string {
+    const up = filename.toUpperCase()
+    if (/\b(4K|2160P|UHD)\b/.test(up))        return '4K'
+    if (/\b(1080P|FHD)\b/.test(up))            return '1080P'
+    if (/\b(720P|HD)\b/.test(up))              return '720P'
+    if (/\b(576P|480P)\b/.test(up))            return '480P'
+    if (/\bSD\b/.test(up))                     return 'SD'
+    if (/\b(CAM|HDCAM|CAMRIP|TS|TELESYNC)\b/.test(up)) return 'CAM'
+    return 'UNKNOWN'
+  }
+
+  /**
+   * Sort an array of filenames by quality tier (best first), then alphabetically.
+   * Uses the same QualityRank formula as torrentiolike's filter.go.
+   */
+  sortByQuality(filenames: string[]): string[] {
+    return [...filenames].sort((a, b) => {
+      const qA = this.qualityFromFilename(a)
+      const qB = this.qualityFromFilename(b)
+      const rankDiff = rankStream(qA) - rankStream(qB)
+      if (rankDiff !== 0) return rankDiff
+      return a.localeCompare(b)
+    })
   }
 
   private cleanTitle(filename: string): string {

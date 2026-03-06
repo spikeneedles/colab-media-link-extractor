@@ -32,16 +32,39 @@ import realDebridRoutes from './routes/realDebridRoutes.js'
 import mediaProcessingRoutes from './routes/mediaProcessingRoutes.js'
 import playlistHarvesterRoutes from './routes/playlistHarvesterRoutes.js'
 import siteCrawlerRoutes from './routes/siteCrawlerRoutes.js'
+import playlistPushRoutes from './routes/playlistPushRoutes.js'
+import crawlerEnhancementsRoutes from './routes/crawlerEnhancementsRoutes.js'
+import crawlerRoutes from './routes/crawlerRoutes.js'
 import { archivist } from './services/ArchivistService.js'
 import { initAutomationEngine } from './services/AutomationEngine.js'
+import { playlistPushService } from './services/PlaylistPushService.js'
 import axios from 'axios'
 import { parse as parseContentRange } from 'content-range'
 import { handleNexusStream } from './routes/nexusStream.js'
+// ── New expansion routes ──────────────────────────────────────────────────────
+import ytdlpRoutes       from './routes/ytdlpRoutes.js'
+import shodanRoutes      from './routes/shodanRoutes.js'
+import dnsDiscoveryRoutes from './routes/dnsDiscoveryRoutes.js'
+import smartRecrawlRoutes from './routes/smartRecrawlRoutes.js'
+import metaEnrichRoutes  from './routes/metaEnrichRoutes.js'
+import { smartRecrawl }  from './services/SmartRecrawlService.js'
+import { proxyPool }     from './services/ProxyPoolService.js'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
 dotenv.config()
+
+// ── New Crawler Enhancement Env Vars ─────────────────────────────────────────
+// TRAKT_CLIENT_ID         — Trakt.tv API client ID (for trending seeds)
+// JACKETT_URL             — Jackett URL (default: http://localhost:9117)
+// JACKETT_API_KEY         — Jackett API key
+// NEWZNAB_URL             — Newznab/NZBHydra2 base URL
+// NEWZNAB_API_KEY         — Newznab API key  
+// PROXY_LIST              — Comma-separated proxy URLs (optional)
+// CRAWL_STATE_DB          — Path to crawl state SQLite DB (default: ./data/crawl_state.db)
+// ANTICAPTCHA_KEY         — Anti-captcha service key (optional)
+// ──────────────────────────────────────────────────────────────────────────────
 
 const app = express()
 const PORT = parseInt(process.env.PORT || '3001', 10)
@@ -108,6 +131,19 @@ backgroundCrawler.on('categoryComplete', (crawlResult: any) => {
       console.log(`🗂️  Archivist: +${stats.archived} archived from crawler (${crawlResult.categoryName})`)
     }
   }).catch(() => {/* non-fatal */})
+})
+
+// Hook BackgroundCrawler → Playlist Push Service (push to mobile app)
+backgroundCrawler.on('categoryComplete', (crawlResult: any) => {
+  playlistPushService.onCrawlComplete(crawlResult).catch((err) => {
+    console.error('Playlist push failed:', err.message)
+  })
+})
+
+backgroundCrawler.on('cycleComplete', () => {
+  playlistPushService.onCycleComplete().catch((err) => {
+    console.error('Playlist push (cycle complete) failed:', err.message)
+  })
 })
 
 // Initialize AutomationEngine (continuous parallel search automation)
@@ -290,10 +326,23 @@ app.use('/api/realdebrid', realDebridRoutes)
 app.use('/api/media', mediaProcessingRoutes)
 app.use('/api/harvest', playlistHarvesterRoutes)
 app.use('/api/site-crawler', siteCrawlerRoutes)
+app.use('/api/crawler', crawlerRoutes)
+// Crawler enhancement routes (IPTV-org, Trakt, social, archive, AI discovery, stream validation)
+app.use('/api/crawl-enhancements', crawlerEnhancementsRoutes)
+
+// Playlist push to Firebase(automatic sync to mobile apps)
+app.use('/api/playlist-push', playlistPushRoutes)
 
 // Google Drive integration
 import driveRoutes from './routes/driveRoutes.js'
 app.use('/api/drive', driveRoutes)
+
+// ── Expansion: yt-dlp, Shodan, DNS Discovery, Smart Recrawl ──────────────────
+app.use('/api/ytdlp',          ytdlpRoutes)
+app.use('/api/shodan',         shodanRoutes)
+app.use('/api/dns-discovery',  dnsDiscoveryRoutes)
+app.use('/api/smart-recrawl',  smartRecrawlRoutes)
+app.use('/api/meta',           metaEnrichRoutes)
 
 // Simple CORS-proxy for playlist files (M3U/PLS/XSPF) requested by the frontend
 app.get('/api/proxy/fetch', async (req: Request, res: Response) => {
@@ -1668,6 +1717,16 @@ const server = app.listen(PORT, '0.0.0.0', () => {
   } else {
     console.log(`⏸️  BackgroundCrawler disabled (set ENABLE_BACKGROUND_CRAWLER=true to enable)`)
   }
+
+  // Start SmartRecrawl watcher
+  smartRecrawl.startWatcher()
+  console.log(`🔁 SmartRecrawl watcher active (ETag/Last-Modified adaptive scheduling)`)
+
+  // Auto-fetch free proxies on startup (non-blocking)
+  if (process.env.DISABLE_PROXY_AUTOFETCH !== 'true') {
+    proxyPool.startAutoRefresh(30 * 60 * 1000) // refresh every 30 min
+    console.log(`🌐 ProxyPool auto-refresh active (free proxy sources)`)
+  }
 }).on('error', (err) => {
   console.error('❌ FATAL: Failed to start server:', err)
   console.error('Port', PORT, 'may be in use or inaccessible')
@@ -1683,6 +1742,9 @@ const shutdown = async () => {
   
   backgroundCrawler.stop()
   console.log('✅ BackgroundCrawler stopped')
+
+  smartRecrawl.stopWatcher()
+  console.log('✅ SmartRecrawl watcher stopped')
   
   server.close(() => {
     console.log('✅ HTTP server closed')

@@ -237,9 +237,21 @@ export class ArchivistService {
     error?: string
     detectedContentType?: string
   }> {
-    // RTSP / RTMP / UDP streams cannot be validated via HTTP
-    if (/^(rtsp|rtmp|rtmpe|rtmpt|rtp|udp):\/\//i.test(url)) {
+    // RTSP / RTMP / UDP / SRT / WHEP / Smooth Streaming / HDS streams
+    if (/^(rtsp|rtmp|rtmpe|rtmpt|rtp|udp|srt):\/\//i.test(url)) {
       return { valid: true, statusCode: 0, detectedContentType: 'video/stream' }
+    }
+    // WHEP/WHIP WebRTC stream endpoints (end with /whep or /whip)
+    if (/\/whep(?:[?#]|$)/i.test(url) || /\/whip(?:[?#]|$)/i.test(url)) {
+      return { valid: true, statusCode: 0, detectedContentType: 'video/stream' }
+    }
+    // Microsoft Smooth Streaming manifests (.ism/manifest)
+    if (/\.ism\/manifest(?:[?#]|$)/i.test(url)) {
+      return { valid: true, statusCode: 0, detectedContentType: 'video/vnd.ms-sstr+xml' }
+    }
+    // Adobe HDS manifests (.f4m)
+    if (/\.f4m(?:[?#]|$)/i.test(url)) {
+      return { valid: true, statusCode: 0, detectedContentType: 'video/f4m' }
     }
 
     const headers = { 'User-Agent': 'Mozilla/5.0 (compatible; ArchivistSILAS/1.0)' }

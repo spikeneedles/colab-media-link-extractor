@@ -14648,3 +14648,101 @@ https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/
 https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/229a25c1-7d5f-4da3-aeb0-4034bf3c7fdf/default.jobtemplate.hls.m3u8
 #EXTINF:-1 tvg-id="-_High-Definition" tvg-name="- High-Definition" group-title="Live TV" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-01T13:42:38.400Z" indexer="TorrentFunk",- High-Definition
 https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/229a25c1-7d5f-4da3-aeb0-4034bf3c7fdf/default.jobtemplate.hls.m3u8
+#EXTINF:-1 tvg-id="Carl_Sagan_-_Pale_Blue_Dot" tvg-name="Carl Sagan - Pale Blue Dot" group-title="Live TV" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-04T06:39:49.076Z" indexer="YouTube",Carl Sagan - Pale Blue Dot
+https://www.youtube.com/watch?v=wupToqz1e2g&list=RDwupToqz1e2g&start_radio=1&pp=ygUBLqAHAdIHCQmuCgGHKiGM7w%3D%3D
+#EXTINF:-1 tvg-id="Everything_new_in_the_DOT_revamp" tvg-name="Everything new in the DOT revamp" group-title="Live TV" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-04T06:39:49.175Z" indexer="YouTube",Everything new in the DOT revamp
+https://www.youtube.com/watch?v=mYf4i3kMMI0&pp=ygUBLg%3D%3D
+#EXTINF:-1 tvg-id="Quiet_Money_Dot_-_Sidewayz__Hfficial_Video_" tvg-name="Quiet Money Dot - Sidewayz (Hfficial Video)" group-title="Live TV" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-04T06:39:49.278Z" indexer="YouTube",Quiet Money Dot - Sidewayz (Hfficial Video)
+https://www.youtube.com/watch?v=-czznzB54Io&list=RD-czznzB54Io&start_radio=1&pp=ygUBLqAHAQ%3D%3D
+#EXTINF:-1 tvg-id="_Anime_Land__Holy_Night_-_Demon_Hunters__2025___AMZN_1080p_AVC_E" tvg-name="[Anime Land] Holy Night - Demon Hunters (2025) (AMZN 1080p AVC EAC3) KOREAN [5BB9AEF4].mkv" group-title="Live TV" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-04T07:01:27.546Z" indexer="Nyaa.si",[Anime Land] Holy Night - Demon Hunters (2025) (AMZN 1080p AVC EAC3) KOREAN [5BB9AEF4].mkv
+https://nyaa.si/view/2078198
+#EXTINF:-1 tvg-id="_AnimeCenter__Kaguya-sama_wa_Kokurasetai_-_Otona_e_no_Kaidan__10" tvg-name="[AnimeCenter] Kaguya-sama wa Kokurasetai - Otona e no Kaidan [1080p][HunSub]" group-title="Live TV" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-04T07:01:55.398Z" indexer="Nyaa.si",[AnimeCenter] Kaguya-sama wa Kokurasetai - Otona e no Kaidan [1080p][HunSub]
+https://nyaa.si/view/2063606
+#EXTINF:-1 tvg-id="_shincaps__Animelo_Summer_Live_2025_-ThanXX_-_powered_by_Anison_" tvg-name="[shincaps] Animelo Summer Live 2025 -ThanXX!- powered by Anison Days (BS11 1920x1080 MPEG2 AAC).ts" group-title="Live TV" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-04T07:02:05.846Z" indexer="Nyaa.si",[shincaps] Animelo Summer Live 2025 -ThanXX!- powered by Anison Days (BS11 1920x1080 MPEG2 AAC).ts
+https://nyaa.si/view/2059585
+#EXTINF:-1 tvg-id="_Anime_Time__YAIBA_Samurai_Legend__NF__1080p__HEVC_10bit_x265__A" tvg-name="[Anime Time] YAIBA Samurai Legend [NF][1080p][HEVC 10bit x265][AAC] [DualAudio][Multi Subs] [Batch]" group-title="Live TV" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-04T07:02:32.807Z" indexer="Nyaa.si",[Anime Time] YAIBA Samurai Legend [NF][1080p][HEVC 10bit x265][AAC] [DualAudio][Multi Subs] [Batch]
+https://nyaa.si/view/2045931
+#EXTINF:-1 tvg-id="_anime4life.__Dance_In_The_Vampire_Bund_Complete_Dolby_TrueHD_Du" tvg-name="[anime4life.] Dance In The Vampire Bund Complete Dolby TrueHD Dual Audio" group-title="Live TV" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-04T07:02:35.267Z" indexer="Nyaa.si",[anime4life.] Dance In The Vampire Bund Complete Dolby TrueHD Dual Audio
+https://nyaa.si/view/2042031
+#EXTINF:-1 tvg-id="_SKMD__Josee-The_Tiger_And_The_Fish-Scotland_Loves_Anime_Live_In" tvg-name="(SKMD) Josee-The Tiger And The Fish-Scotland Loves Anime Live Interview" group-title="Live TV" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-04T07:08:32.091Z" indexer="Nyaa.si",(SKMD) Josee-The Tiger And The Fish-Scotland Loves Anime Live Interview
+https://nyaa.si/view/2081964
+#EXTINF:-1 tvg-id="Animelo_Summer_2013_LIVE_-_THE_GALAXY_EXPRESS_999_MV" tvg-name="Animelo Summer 2013 LIVE - THE GALAXY EXPRESS 999 MV" group-title="Live TV" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-04T07:08:44.393Z" indexer="Nyaa.si",Animelo Summer 2013 LIVE - THE GALAXY EXPRESS 999 MV
+https://nyaa.si/view/2072068
+#EXTINF:-1 tvg-id="_AnimeCenter__Kaguya-sama_wa_Kokurasetai_-_Otona_e_no_Kaidan__72" tvg-name="[AnimeCenter] Kaguya-sama wa Kokurasetai - Otona e no Kaidan [720p][HunSub]" group-title="Live TV" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-04T07:08:48.403Z" indexer="Nyaa.si",[AnimeCenter] Kaguya-sama wa Kokurasetai - Otona e no Kaidan [720p][HunSub]
+https://nyaa.si/view/2063605
+#EXTINF:-1 tvg-id="Zeztz_Anime_-_Baku_The_Part-Time_Dreamer_-_01__1E1D69DB_.mkv" tvg-name="Zeztz Anime - Baku The Part-Time Dreamer - 01 [1E1D69DB].mkv" group-title="Live TV" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-04T07:08:48.902Z" indexer="Nyaa.si",Zeztz Anime - Baku The Part-Time Dreamer - 01 [1E1D69DB].mkv
+https://nyaa.si/view/2062787
+#EXTINF:-1 tvg-id="Animelo_Summer_2013_LIVE_-_THE_GALAXY_EXPRESS_999__DVD-ISO_" tvg-name="Animelo Summer 2013 LIVE - THE GALAXY EXPRESS 999 [DVD-ISO]" group-title="Live TV" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-04T07:15:36.732Z" indexer="Nyaa.si",Animelo Summer 2013 LIVE - THE GALAXY EXPRESS 999 [DVD-ISO]
+https://nyaa.si/view/2072064
+#EXTINF:-1 tvg-id="_Anime-HEVC__Karin__Chibi_Vampire___DVD_480p___Dual_Audio___Batc" tvg-name="[Anime-HEVC] Karin (Chibi Vampire) (DVD 480p) [Dual Audio] (Batch)" group-title="Live TV" source-url="automation-engine/web-scraper" content-type="video/stream" archived-at="2026-03-04T07:15:58.044Z" indexer="Nyaa.si",[Anime-HEVC] Karin (Chibi Vampire) (DVD 480p) [Dual Audio] (Batch)
+https://nyaa.si/view/2058555
+#EXTINF:-1 tvg-id="11_BBC_World_News" tvg-name="11 BBC World News" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:08.150Z",11 BBC World News
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/11_BBC.World.News.m3u8
+#EXTINF:-1 tvg-id="17_Sky_Sports_Live" tvg-name="17 Sky Sports Live" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:08.289Z",17 Sky Sports Live
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/17_Sky.Sports.Live.m3u8
+#EXTINF:-1 tvg-id="18_CNN_Live_Stream" tvg-name="18 CNN Live Stream" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:08.299Z",18 CNN Live Stream
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/18_CNN.Live.Stream.m3u8
+#EXTINF:-1 tvg-id="21_CNN_Live_Stream" tvg-name="21 CNN Live Stream" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:08.419Z",21 CNN Live Stream
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/21_CNN.Live.Stream.m3u8
+#EXTINF:-1 tvg-id="22_BBC_World_News" tvg-name="22 BBC World News" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:08.436Z",22 BBC World News
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/22_BBC.World.News.m3u8
+#EXTINF:-1 tvg-id="24_ESPN_HD_Channel" tvg-name="24 ESPN HD Channel" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:08.523Z",24 ESPN HD Channel
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/24_ESPN.HD.Channel.m3u8
+#EXTINF:-1 tvg-id="26_ESPN_HD_Channel" tvg-name="26 ESPN HD Channel" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:08.562Z",26 ESPN HD Channel
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/26_ESPN.HD.Channel.m3u8
+#EXTINF:-1 tvg-id="26_Sky_Sports_Live" tvg-name="26 Sky Sports Live" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:08.572Z",26 Sky Sports Live
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/26_Sky.Sports.Live.m3u8
+#EXTINF:-1 tvg-id="30_ESPN_HD_Channel" tvg-name="30 ESPN HD Channel" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:08.710Z",30 ESPN HD Channel
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/30_ESPN.HD.Channel.m3u8
+#EXTINF:-1 tvg-id="32_BBC_World_News" tvg-name="32 BBC World News" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:08.797Z",32 BBC World News
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/32_BBC.World.News.m3u8
+#EXTINF:-1 tvg-id="39_CNN_Live_Stream" tvg-name="39 CNN Live Stream" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:08.932Z",39 CNN Live Stream
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/39_CNN.Live.Stream.m3u8
+#EXTINF:-1 tvg-id="47_ESPN_HD_Channel" tvg-name="47 ESPN HD Channel" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.081Z",47 ESPN HD Channel
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/47_ESPN.HD.Channel.m3u8
+#EXTINF:-1 tvg-id="48_BBC_World_News" tvg-name="48 BBC World News" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.092Z",48 BBC World News
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/48_BBC.World.News.m3u8
+#EXTINF:-1 tvg-id="49_Sky_Sports_Live" tvg-name="49 Sky Sports Live" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.103Z",49 Sky Sports Live
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/49_Sky.Sports.Live.m3u8
+#EXTINF:-1 tvg-id="51_ESPN_HD_Channel" tvg-name="51 ESPN HD Channel" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.129Z",51 ESPN HD Channel
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/51_ESPN.HD.Channel.m3u8
+#EXTINF:-1 tvg-id="52_Sky_Sports_Live" tvg-name="52 Sky Sports Live" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.139Z",52 Sky Sports Live
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/52_Sky.Sports.Live.m3u8
+#EXTINF:-1 tvg-id="53_BBC_World_News" tvg-name="53 BBC World News" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.216Z",53 BBC World News
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/53_BBC.World.News.m3u8
+#EXTINF:-1 tvg-id="55_ESPN_HD_Channel" tvg-name="55 ESPN HD Channel" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.238Z",55 ESPN HD Channel
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/55_ESPN.HD.Channel.m3u8
+#EXTINF:-1 tvg-id="56_ESPN_HD_Channel" tvg-name="56 ESPN HD Channel" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.253Z",56 ESPN HD Channel
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/56_ESPN.HD.Channel.m3u8
+#EXTINF:-1 tvg-id="57_Sky_Sports_Live" tvg-name="57 Sky Sports Live" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.265Z",57 Sky Sports Live
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/57_Sky.Sports.Live.m3u8
+#EXTINF:-1 tvg-id="58_HBO_Live_Stream" tvg-name="58 HBO Live Stream" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.277Z",58 HBO Live Stream
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/58_HBO.Live.Stream.m3u8
+#EXTINF:-1 tvg-id="5_HBO_Live_Stream" tvg-name="5 HBO Live Stream" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.378Z",5 HBO Live Stream
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/5_HBO.Live.Stream.m3u8
+#EXTINF:-1 tvg-id="60_BBC_World_News" tvg-name="60 BBC World News" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.391Z",60 BBC World News
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/60_BBC.World.News.m3u8
+#EXTINF:-1 tvg-id="61_ESPN_HD_Channel" tvg-name="61 ESPN HD Channel" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.399Z",61 ESPN HD Channel
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/61_ESPN.HD.Channel.m3u8
+#EXTINF:-1 tvg-id="67_ESPN_HD_Channel" tvg-name="67 ESPN HD Channel" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.531Z",67 ESPN HD Channel
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/67_ESPN.HD.Channel.m3u8
+#EXTINF:-1 tvg-id="68_CNN_Live_Stream" tvg-name="68 CNN Live Stream" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.540Z",68 CNN Live Stream
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/68_CNN.Live.Stream.m3u8
+#EXTINF:-1 tvg-id="69_CNN_Live_Stream" tvg-name="69 CNN Live Stream" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.550Z",69 CNN Live Stream
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/69_CNN.Live.Stream.m3u8
+#EXTINF:-1 tvg-id="6_HBO_Live_Stream" tvg-name="6 HBO Live Stream" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.636Z",6 HBO Live Stream
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/6_HBO.Live.Stream.m3u8
+#EXTINF:-1 tvg-id="70_HBO_Live_Stream" tvg-name="70 HBO Live Stream" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.648Z",70 HBO Live Stream
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/70_HBO.Live.Stream.m3u8
+#EXTINF:-1 tvg-id="83_CNN_Live_Stream" tvg-name="83 CNN Live Stream" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.924Z",83 CNN Live Stream
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/83_CNN.Live.Stream.m3u8
+#EXTINF:-1 tvg-id="86_CNN_Live_Stream" tvg-name="86 CNN Live Stream" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:10.020Z",86 CNN Live Stream
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/86_CNN.Live.Stream.m3u8
+#EXTINF:-1 tvg-id="87_Sky_Sports_Live" tvg-name="87 Sky Sports Live" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:10.029Z",87 Sky Sports Live
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/87_Sky.Sports.Live.m3u8
+#EXTINF:-1 tvg-id="92_Sky_Sports_Live" tvg-name="92 Sky Sports Live" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:10.084Z",92 Sky Sports Live
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/92_Sky.Sports.Live.m3u8
+#EXTINF:-1 tvg-id="95_Sky_Sports_Live" tvg-name="95 Sky Sports Live" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:10.180Z",95 Sky Sports Live
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/95_Sky.Sports.Live.m3u8
+#EXTINF:-1 tvg-id="99_CNN_Live_Stream" tvg-name="99 CNN Live Stream" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:10.217Z",99 CNN Live Stream
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/99_CNN.Live.Stream.m3u8

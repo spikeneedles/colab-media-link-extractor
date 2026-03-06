@@ -39,18 +39,19 @@ export interface CrawlJob {
 }
 
 export interface CrawlPageResult {
-  url:         string
-  depth:       number
-  title:       string
-  description: string
-  links:       string[]
-  mediaUrls:   string[]          // direct video/audio/m3u8 URLs found on the page
-  metadata:    Record<string, string>
-  contentType: string
-  statusCode:  number
-  crawledAt:   number
-  durationMs:  number
-  viaSolver:   boolean           // true if CF was bypassed via FlareSolverr
+  url:              string
+  depth:            number
+  title:            string
+  description:      string
+  links:            string[]
+  mediaUrls:        string[]          // direct video/audio/m3u8 URLs found on the page
+  interceptedUrls:  string[]          // URLs captured via network request interception
+  metadata:         Record<string, string>
+  contentType:      string
+  statusCode:       number
+  crawledAt:        number
+  durationMs:       number
+  viaSolver:        boolean           // true if CF was bypassed via FlareSolverr
 }
 
 export interface CrawlerConfig {
@@ -127,6 +128,30 @@ class DomainRateLimiter {
 
 // ── Main class ────────────────────────────────────────────────────────────────
 
+// 20 realistic user agents for rotation
+const USER_AGENTS = [
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0',
+  'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 14_4_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1',
+  'Mozilla/5.0 (iPad; CPU OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1',
+  'Mozilla/5.0 (Android 14; Mobile; rv:125.0) Gecko/125.0 Firefox/125.0',
+  'Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 OPR/110.0.0.0',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+]
+
 export class ParallelWebCrawler extends EventEmitter {
   private pool:     BrowserPool
   private config:   CrawlerConfig
@@ -137,6 +162,8 @@ export class ParallelWebCrawler extends EventEmitter {
   private totalCrawled:  number
   private stopped:  boolean
   private paused:   boolean
+  private uaIndex:  number
+  private cookieJar: Map<string, any[]>
 
   constructor(pool: BrowserPool, config: Partial<CrawlerConfig> = {}) {
     super()
@@ -149,6 +176,8 @@ export class ParallelWebCrawler extends EventEmitter {
     this.totalCrawled  = 0
     this.stopped  = false
     this.paused   = false
+    this.uaIndex  = 0
+    this.cookieJar = new Map()
   }
 
   // ── Public API ─────────────────────────────────────────────────────────────
@@ -289,14 +318,47 @@ export class ParallelWebCrawler extends EventEmitter {
     const t0 = Date.now()
     let viaSolver = false
 
-    if (this.config.userAgent) await page.setUserAgent(this.config.userAgent)
+    // Rotate user agent
+    const ua = this.config.userAgent ?? USER_AGENTS[this.uaIndex++ % USER_AGENTS.length]
+    await page.setUserAgent(ua)
 
-    // Block heavy assets to speed up crawl
+    // Inject saved cookies for this domain before navigation
+    try {
+      const domain = new URL(url).hostname
+      const saved = this.cookieJar.get(domain)
+      if (saved && saved.length > 0) {
+        await page.setCookie(...saved)
+      }
+    } catch {}
+
+    // Intercept ALL requests: block heavy assets and capture media/WS URLs
+    const interceptedUrls: string[] = []
+    const mediaInterceptRe = /\.(m3u8?|ts|mpd)(\?.*)?$|\/hls\/|\/dash\/|\/stream\/|video|stream|media|playlist/i
     await page.setRequestInterception(true)
     page.removeAllListeners('request')
     page.on('request', req => {
+      const reqUrl = req.url()
       const t = req.resourceType()
-      if (['image', 'font', 'media', 'stylesheet'].includes(t)) {
+
+      // Capture WebSocket upgrades
+      if (reqUrl.startsWith('ws://') || reqUrl.startsWith('wss://')) {
+        interceptedUrls.push(reqUrl)
+        req.abort()
+        return
+      }
+
+      // Capture XHR/fetch to media-related endpoints
+      if ((t === 'xhr' || t === 'fetch') && mediaInterceptRe.test(reqUrl)) {
+        interceptedUrls.push(reqUrl)
+      }
+
+      // Capture any URL matching media patterns
+      if (this.config.mediaPatterns.some(p => p.test(reqUrl))) {
+        interceptedUrls.push(reqUrl)
+      }
+
+      // Block heavy assets to speed up crawl
+      if (['image', 'font', 'stylesheet'].includes(t)) {
         req.abort()
       } else {
         req.continue()
@@ -306,6 +368,9 @@ export class ParallelWebCrawler extends EventEmitter {
     try {
       const resp = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: this.config.timeout })
       const status = resp?.status() ?? 0
+
+      // Wait for async XHR/fetch requests to fire after initial load
+      await new Promise(r => setTimeout(r, 2000))
 
       // CF detection
       const bodyPreview = await page.evaluate(() => document.body?.innerText?.substring(0, 500) ?? '')
@@ -322,14 +387,46 @@ export class ParallelWebCrawler extends EventEmitter {
         }
       }
 
+      // Save cookies for this domain
+      try {
+        const domain = new URL(url).hostname
+        const cookies = await page.cookies()
+        if (cookies.length > 0) this.cookieJar.set(domain, cookies)
+      } catch {}
+
       // Extract all data in one evaluate call for performance
       const data = await page.evaluate((mediaPatternsStr: string[]) => {
         const mediaRe = mediaPatternsStr.map(p => new RegExp(p, 'i'))
 
-        // Links
-        const links = Array.from(document.querySelectorAll('a[href]'))
-          .map(a => (a as HTMLAnchorElement).href)
-          .filter(h => h.startsWith('http'))
+        // Recursively extract links from a root element (handles shadow DOM)
+        function extractLinks(root: Document | ShadowRoot | Element): string[] {
+          const found: string[] = []
+          root.querySelectorAll('a[href]').forEach(a => {
+            const href = (a as HTMLAnchorElement).href
+            if (href && href.startsWith('http')) found.push(href)
+          })
+          // Shadow DOM traversal
+          root.querySelectorAll('*').forEach(el => {
+            if ((el as any).shadowRoot) {
+              found.push(...extractLinks((el as any).shadowRoot))
+            }
+          })
+          return found
+        }
+
+        // Links from main document + shadow DOM
+        const links = extractLinks(document)
+
+        // iframe src extraction (same-origin content + src attribute)
+        const iframeLinks: string[] = []
+        document.querySelectorAll('iframe[src]').forEach(iframe => {
+          const src = (iframe as HTMLIFrameElement).src
+          if (src && src.startsWith('http')) iframeLinks.push(src)
+          try {
+            const iDoc = (iframe as HTMLIFrameElement).contentDocument
+            if (iDoc) iframeLinks.push(...extractLinks(iDoc))
+          } catch {}
+        })
 
         // Media URLs (video/audio sources + links that look like media)
         const mediaTags = [
@@ -338,7 +435,8 @@ export class ParallelWebCrawler extends EventEmitter {
           ...Array.from(document.querySelectorAll('source[src]')).map(s => (s as HTMLSourceElement).src),
         ].filter(Boolean)
 
-        const mediaLinks = links.filter(l => mediaRe.some(re => re.test(l)))
+        const allLinks  = [...new Set([...links, ...iframeLinks])]
+        const mediaLinks = allLinks.filter(l => mediaRe.some(re => re.test(l)))
         const allMedia   = Array.from(new Set([...mediaTags, ...mediaLinks]))
 
         // Metadata from meta tags
@@ -352,24 +450,27 @@ export class ParallelWebCrawler extends EventEmitter {
         return {
           title:       document.title || '',
           description: meta['description'] || meta['og:description'] || '',
-          links:       [...new Set(links)].slice(0, 300),
+          links:       allLinks.slice(0, 300),
           mediaUrls:   allMedia,
           meta,
         }
       }, this.config.mediaPatterns.map(r => r.source))
 
+      const dedupedIntercepted = Array.from(new Set(interceptedUrls))
+
       return {
         url,
         depth,
-        title:       data.title,
-        description: data.description,
-        links:       data.links,
-        mediaUrls:   data.mediaUrls,
-        metadata:    data.meta,
-        contentType: 'text/html',
-        statusCode:  resp?.status() ?? 200,
-        crawledAt:   Date.now(),
-        durationMs:  Date.now() - t0,
+        title:            data.title,
+        description:      data.description,
+        links:            data.links,
+        mediaUrls:        Array.from(new Set([...data.mediaUrls, ...dedupedIntercepted])),
+        interceptedUrls:  dedupedIntercepted,
+        metadata:         data.meta,
+        contentType:      'text/html',
+        statusCode:       resp?.status() ?? 200,
+        crawledAt:        Date.now(),
+        durationMs:       Date.now() - t0,
         viaSolver,
       }
     } finally {

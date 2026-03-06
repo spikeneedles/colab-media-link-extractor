@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="69_CNN_Live_Stream" tvg-name="69 CNN Live Stream" group-title="Live TV" source-url="file-sorter" content-type="application/x-mpegurl" archived-at="2026-03-06T05:31:09.550Z",69 CNN Live Stream
+file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/69_CNN.Live.Stream.m3u8

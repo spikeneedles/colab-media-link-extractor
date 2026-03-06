@@ -1,0 +1,9 @@
+{
+  "sourceUrl": "file-sorter",
+  "mediaUrl": "file://C:/Users/josht/Downloads/media-link-extractor-main/media-link-extractor-main/backend/backup/live_tv/49_Sky.Sports.Live.m3u8",
+  "title": "49 Sky Sports Live",
+  "contentType": "application/x-mpegurl",
+  "category": "live_tv",
+  "skipValidation": true,
+  "archivedAt": "2026-03-06T05:31:09.103Z"
+}
